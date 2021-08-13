@@ -24,3 +24,9 @@ codeLineNumbers = false
   iconLight = "images/GitHubMarkLight.svg"
   iconDark = "images/GitHubMarkDark.svg"
   url = "https://github.com/onweru/compose/"
+
+# optional
+# attribution. Feel free to delete this
+[author]
+  name = "ForgottenGlory"
+  url = ""
