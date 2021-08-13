@@ -16,8 +16,8 @@ codeLineNumbers = false
 
 # Site logo
 [logo]
-  lightMode = "images/compose.svg"
-  darkMode = "images/compose-light.svg"
+  lightMode = "images/SmallServerLogo.png"
+  darkMode = "images/SmallServerLogo.png"
 
 [source]
   name = "GitHub"
