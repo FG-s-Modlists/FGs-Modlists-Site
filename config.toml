@@ -11,7 +11,8 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+[taxonomies]
+series = 'series'
 
 [outputs]
   home = ["HTML", "RSS","JSON"]
