@@ -1,6 +1,6 @@
 ---
-title: "Atelier MCMs"
-weight:2
+title: "MCMs"
+weight: 2
 layout: "atelierbase"
 ---
 
