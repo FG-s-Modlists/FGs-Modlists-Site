@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "/"
 title = "Compose Docs"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
