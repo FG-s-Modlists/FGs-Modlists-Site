@@ -1,6 +1,7 @@
 ---
-title: "D&DDC MCMs"
-weight: 1
+title: "MCMs"
+weight: 3
+layout: "dnddcbase"
 ---
 
 the mcm page

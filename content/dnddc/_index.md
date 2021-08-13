@@ -1,9 +1,7 @@
 ---
-title: "D&DDC Readme"
+title: "D&DDC"
 weight: 1
 layout: "dnddcbase"
 ---
-
-# D&DDC Readme
 
 words

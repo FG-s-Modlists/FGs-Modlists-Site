@@ -1,7 +1,8 @@
 ---
-title: "Atelier Modlist"
-weight: 1
+title: "Modlist"
+weight: 3
+layout: "atelierbase"
 ---
 
 
-the mcm page
+the modlist

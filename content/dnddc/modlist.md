@@ -1,6 +1,7 @@
 ---
-title: "D&DDC Modlist"
-weight: 1
+title: "Modlist"
+weight: 2
+layout: "dnddcbase"
 ---
 
 the mcm page

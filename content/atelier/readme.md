@@ -1,6 +1,6 @@
 ---
-title: "Atelier"
-weight: 1
+title: "Readme"
+weight:1
 layout: "atelierbase"
 ---
 

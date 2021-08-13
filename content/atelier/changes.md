@@ -1,6 +1,7 @@
 ---
-title: "Atelier Changelog"
-weight: 1
+title: "Changelog"
+weight: 4
+layout: "atelierbase"
 ---
 
-the mcm page
+the changelog

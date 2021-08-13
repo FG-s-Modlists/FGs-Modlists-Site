@@ -1,6 +1,7 @@
 ---
-title: "D&DDC Changelog"
-weight: 1
+title: "Changelog"
+weight: 4
+layout: "dnddcbase"
 ---
 
 the mcm page
