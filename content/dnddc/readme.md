@@ -1,6 +1,6 @@
 ---
 title: "Readme"
-weight:1
+weight: 1
 layout: "dnddcbase"
 ---
 
