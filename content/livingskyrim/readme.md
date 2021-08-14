@@ -16,7 +16,7 @@ Sections labeled important like this one will tell you when you need to pay extr
 {{< tip "warning" >}}
 **WARNING!**
 
-*Warning blocks like this one will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.*
+**Warning blocks like this one will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.**
 {{< /tip >}} 
 
 - You are not required to have Nexus Premium to install Living Skyrim, however, it is highly recommended. Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
