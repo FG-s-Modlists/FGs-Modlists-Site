@@ -5,15 +5,16 @@ layout: "lsbase"
 ---
 
 ## Before You Get Started
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus congue dolor, nec laoreet eros hendrerit et. Pellentesque sed justo aliquet, volutpat diam ut, vehicula elit. Sed fermentum nunc sit amet leo elementum, at cursus turpis tincidunt. Fusce id nisi hendrerit, dictum augue sed, blandit turpis. Nulla pellentesque, arcu ut rutrum pellentesque, lectus massa molestie dui, vel pulvinar turpis neque sed quam. Fusce finibus placerat nisl eu tincidunt. In lorem mauris, aliquam vel magna sed, tincidunt lacinia mauris. Donec erat nulla, sagittis in gravida iaculis, ullamcorper consequat dui.
-
-{{< tip "warning" >}}
-An example warning - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus, quam sit amet efficitur venenatis, augue nibh bibendum tortor, at convallis odio lacus ut elit. Aenean vehicula ligula nec nibh faucibus vestibulum. Suspendisse nec nisl vulputate dolor convallis elementum. Vestibulum varius sapien quis malesuada egestas. 
-{{< /tip >}} 
+Before you get started installing or playing Living Skyrim, it's important to note a few things:
 
 {{< tip >}}
-An example Important
+**Important!** Sections labeled important like this one will tell you when you need to pay extra attention to something.
 {{< /tip >}}
+
+{{< tip "warning" >}}
+**WARNING: Warning blocks like this will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.**
+{{< /tip >}} 
+
 
 Nulla sit amet pharetra massa. Proin non faucibus nunc. Fusce ac dictum ex, nec finibus neque. Proin lacinia est sem, sed pharetra dui rutrum vitae. Quisque id dapibus lorem. Nam tristique ligula eget lacinia ullamcorper. Nunc aliquet vehicula urna eu consequat. Aenean vel dictum erat. Maecenas vitae dui in nibh consectetur tincidunt eget eu velit. In sagittis, augue nec suscipit faucibus, nunc neque blandit metus, eget imperdiet tortor diam vitae velit. Duis convallis sem sed elit tincidunt consequat. Integer leo lorem, iaculis eget risus at, rhoncus pulvinar quam.
 
