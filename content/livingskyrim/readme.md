@@ -34,22 +34,63 @@ Sections labeled important like this one will tell you when you need to pay extr
 - By default, Living Skyrim has the game running in exclusive fullscreen mode to assist with game performance.
 
 ### System Specifications
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus congue dolor, nec laoreet eros hendrerit et. Pellentesque sed justo aliquet, volutpat diam ut, vehicula elit. Sed fermentum nunc sit amet leo elementum, at cursus turpis tincidunt. Fusce id nisi hendrerit, dictum augue sed, blandit turpis. Nulla pellentesque, arcu ut rutrum pellentesque, lectus massa molestie dui, vel pulvinar turpis neque sed quam. Fusce finibus placerat nisl eu tincidunt. In lorem mauris, aliquam vel magna sed, tincidunt lacinia mauris. Donec erat nulla, sagittis in gravida iaculis, ullamcorper consequat dui.
+Living Skyrim v3.0.0 has been cut back severely from the performance hog it was in v2.0.0 and on. Textures range from 512x512 to 4K and everything in between. The following system is ForgottenGlory's personal computer and is able to run the list at a constant 60FPS including ENB at 1440p monitor resolution.
+
+- CPU: AMD Ryzen 9 3900X @ 4.2GHz
+- RAM: G.Skill TridentZ Neo 32GB DDR4 3600MHz CL16
+- GPU: nVidia RTX 2080 Super 8GB (8192MB actual)
+- Monitor: Dell S2716DGR 2560x1440 @ 144hz
+- Storage: Sabrent Rocket 2TB M.2 NVMe 2280; Samsung EVO 860 250GB; SeaGate Barracuda 2TB 7200RPM
+
+In general, it is recommended that you have a processor with a clock speed of at least 3GHz and a graphics card with at least 6GB of VRAM. 4GB graphics cards may be able to run the list if you do not use ENB, but it is not guaranteed.
+
+As for RAM, 16GB is the minimum recommended specification for running the list. 32GB is the ideal amount, and anything more than that is honestly overkill for this list.
+
+If your PC is struggling to run Living Skyrim, see the Performance Optimizations section of this document for tips and tricks to receive better performance.
 
 ### Important Links
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus congue dolor, nec laoreet eros hendrerit et. Pellentesque sed justo aliquet, volutpat diam ut, vehicula elit. Sed fermentum nunc sit amet leo elementum, at cursus turpis tincidunt. Fusce id nisi hendrerit, dictum augue sed, blandit turpis. Nulla pellentesque, arcu ut rutrum pellentesque, lectus massa molestie dui, vel pulvinar turpis neque sed quam. Fusce finibus placerat nisl eu tincidunt. In lorem mauris, aliquam vel magna sed, tincidunt lacinia mauris. Donec erat nulla, sagittis in gravida iaculis, ullamcorper consequat dui.
+- The Modlist Spreadsheet
+- LS3 Default Keymap
+- Living Skyrim Bug Tracker
+- User Testimonials
+- Living Skyrim Discord
+- Living Skyrim Patreon
 
 ### Screenshots
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus congue dolor, nec laoreet eros hendrerit et. Pellentesque sed justo aliquet, volutpat diam ut, vehicula elit. Sed fermentum nunc sit amet leo elementum, at cursus turpis tincidunt. Fusce id nisi hendrerit, dictum augue sed, blandit turpis. Nulla pellentesque, arcu ut rutrum pellentesque, lectus massa molestie dui, vel pulvinar turpis neque sed quam. Fusce finibus placerat nisl eu tincidunt. In lorem mauris, aliquam vel magna sed, tincidunt lacinia mauris. Donec erat nulla, sagittis in gravida iaculis, ullamcorper consequat dui.
+Living Skyrim Screenshot Gallery
 
 ### Videos
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus congue dolor, nec laoreet eros hendrerit et. Pellentesque sed justo aliquet, volutpat diam ut, vehicula elit. Sed fermentum nunc sit amet leo elementum, at cursus turpis tincidunt. Fusce id nisi hendrerit, dictum augue sed, blandit turpis. Nulla pellentesque, arcu ut rutrum pellentesque, lectus massa molestie dui, vel pulvinar turpis neque sed quam. Fusce finibus placerat nisl eu tincidunt. In lorem mauris, aliquam vel magna sed, tincidunt lacinia mauris. Donec erat nulla, sagittis in gravida iaculis, ullamcorper consequat dui.
+- LS3 Overview Video by TheMurlocKing
+- LS3 Showcase by DroppedIceCream
+- LS3 Beta Preview
 
 ## Pre-Installation
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus congue dolor, nec laoreet eros hendrerit et. Pellentesque sed justo aliquet, volutpat diam ut, vehicula elit. Sed fermentum nunc sit amet leo elementum, at cursus turpis tincidunt. Fusce id nisi hendrerit, dictum augue sed, blandit turpis. Nulla pellentesque, arcu ut rutrum pellentesque, lectus massa molestie dui, vel pulvinar turpis neque sed quam. Fusce finibus placerat nisl eu tincidunt. In lorem mauris, aliquam vel magna sed, tincidunt lacinia mauris. Donec erat nulla, sagittis in gravida iaculis, ullamcorper consequat dui.
 
 ### Steam & SSE Setup
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus congue dolor, nec laoreet eros hendrerit et. Pellentesque sed justo aliquet, volutpat diam ut, vehicula elit. Sed fermentum nunc sit amet leo elementum, at cursus turpis tincidunt. Fusce id nisi hendrerit, dictum augue sed, blandit turpis. Nulla pellentesque, arcu ut rutrum pellentesque, lectus massa molestie dui, vel pulvinar turpis neque sed quam. Fusce finibus placerat nisl eu tincidunt. In lorem mauris, aliquam vel magna sed, tincidunt lacinia mauris. Donec erat nulla, sagittis in gravida iaculis, ullamcorper consequat dui.
+Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
+
+First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files or Program Files (x86) folders. Having the Steam library or your copy of Skyrim Special Edition in either of these folders is known to cause issues. Instructions on how to move your Steam library can be found elsewhere on the internet.
+
+Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to this state, follow these steps:
+
+1. In Steam, uninstall Skyrim: Special Edition (Right-click > Manage > Uninstall).
+2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Manage > Browse Local Files), delete them.
+3. Install Skyrim: Special Edition.
+
+{{< tip >}}
+**Protip:** 
+
+If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.
+{{< /tip >}}
+
+Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist.
+
+1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
+2. In Steam, disable the Steam Overlay. (Right-click > Properties… > General > Enable the Steam Overlay while in-game checkbox)
+
+Once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.
+
+Last, but certainly not least, make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
 
 ### Wabbajack Preparations
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus congue dolor, nec laoreet eros hendrerit et. Pellentesque sed justo aliquet, volutpat diam ut, vehicula elit. Sed fermentum nunc sit amet leo elementum, at cursus turpis tincidunt. Fusce id nisi hendrerit, dictum augue sed, blandit turpis. Nulla pellentesque, arcu ut rutrum pellentesque, lectus massa molestie dui, vel pulvinar turpis neque sed quam. Fusce finibus placerat nisl eu tincidunt. In lorem mauris, aliquam vel magna sed, tincidunt lacinia mauris. Donec erat nulla, sagittis in gravida iaculis, ullamcorper consequat dui.
