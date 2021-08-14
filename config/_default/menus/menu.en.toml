@@ -1,13 +1,18 @@
 #  menu items
 [[main]]
-  name = "Docs"
+  name = "Discord"
   weight = 2
-  url = "docs/"
+  url = "https://discord.gg/NdmGpGzqg8"
 
 [[main]]
-  name = "Example"
+  name = "Patreon"
   weight = 3
-  url = "https://docs.neuralvibes.com"
+  url = "https://www.patreon.com/LivingSkyrim"
+  
+[[main]]
+  name = "Wabbajack"
+  weight = 4
+  url = "https://www.wabbajack.org/"
 
 # [[main]]
 #   name = "Blog"
