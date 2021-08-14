@@ -9,11 +9,13 @@ Before you get started installing or playing Living Skyrim, it's important to no
 
 {{< tip >}}
 **Important!** 
+
 Sections labeled important like this one will tell you when you need to pay extra attention to something.
 {{< /tip >}}
 
 {{< tip "warning" >}}
 **WARNING!**
+
 *Warning blocks like this one will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.*
 {{< /tip >}} 
 
