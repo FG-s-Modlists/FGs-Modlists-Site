@@ -24,7 +24,7 @@
 		</li>
 		{{- $p := . }}
 		{{- range $s.Menus.main }}
-		<!--<li class="nav-item">
+		<li class="nav-item">
 			{{- $active := or ($p.IsMenuCurrent "main" .) ($p.HasMenuCurrent "main" .) }}
 			{{- with .Page }}
 			{{- $active = or $active ( $.IsDescendant .)  }}
@@ -34,7 +34,7 @@
 				{{- $url = .URL }}
 			{{- end }}
 			<a class="nav-link{{if $active }} active{{end}}" href="{{ $url }}"><span{{if $active }} class="active"{{end}}>{{ .Name }}</span></a>
-		</li>-->
+		</li>
 		{{- end }}
 		<!--{{ $repo := $sp.source }}
 		<li class="nav-item nav_repo">
