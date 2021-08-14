@@ -1,6 +1,6 @@
 ---
 title: "Changelog"
-weight: 2
+weight: 4
 layout: "lsbase"
 ---
 
