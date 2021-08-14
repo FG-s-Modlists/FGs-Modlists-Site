@@ -1,6 +1,6 @@
 ---
 title: "Screenshot Gallery"
-weight: 1
+weight: 4
 layout: "moisebase"
 ---
 
