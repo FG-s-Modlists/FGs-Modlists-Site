@@ -1,7 +1,7 @@
 ---
-title: "Changelog"
+title: "Readme"
 weight: 1
 layout: "moisebase"
 ---
 
-the changelog
+the readme

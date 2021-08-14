@@ -1,5 +1,5 @@
 ---
-title: "MOISE Readme"
+title: "MOISE"
 weight: 1
 layout: "moisebase"
 ---

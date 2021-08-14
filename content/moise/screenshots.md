@@ -1,6 +1,7 @@
 ---
-title: "MOISE Screenshot Gallery"
+title: "Screenshot Gallery"
 weight: 1
+layout: "moisebase"
 ---
 
-the mcm page
+the screenshot page

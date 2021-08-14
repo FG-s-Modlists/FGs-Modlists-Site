@@ -1,6 +1,7 @@
 ---
-title: "MOISE Modlist"
+title: "Modlist"
 weight: 1
+layout: "moisebase"
 ---
 
-the mcm page
+the modlist
