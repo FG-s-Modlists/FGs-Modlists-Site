@@ -8,7 +8,7 @@ layout: "lsbase"
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In rhoncus congue dolor, nec laoreet eros hendrerit et. Pellentesque sed justo aliquet, volutpat diam ut, vehicula elit. Sed fermentum nunc sit amet leo elementum, at cursus turpis tincidunt. Fusce id nisi hendrerit, dictum augue sed, blandit turpis. Nulla pellentesque, arcu ut rutrum pellentesque, lectus massa molestie dui, vel pulvinar turpis neque sed quam. Fusce finibus placerat nisl eu tincidunt. In lorem mauris, aliquam vel magna sed, tincidunt lacinia mauris. Donec erat nulla, sagittis in gravida iaculis, ullamcorper consequat dui.
 
 {{< tip "warning" >}}
-![:left](/images/MerlynScience.png) An example warning - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus, quam sit amet efficitur venenatis, augue nibh bibendum tortor, at convallis odio lacus ut elit. Aenean vehicula ligula nec nibh faucibus vestibulum. Suspendisse nec nisl vulputate dolor convallis elementum. Vestibulum varius sapien quis malesuada egestas. 
+An example warning - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent finibus, quam sit amet efficitur venenatis, augue nibh bibendum tortor, at convallis odio lacus ut elit. Aenean vehicula ligula nec nibh faucibus vestibulum. Suspendisse nec nisl vulputate dolor convallis elementum. Vestibulum varius sapien quis malesuada egestas. 
 {{< /tip >}} 
 
 {{< tip >}}
