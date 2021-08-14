@@ -14,7 +14,7 @@ Sections labeled important like this one will tell you when you need to pay extr
 {{< /tip >}}
 
 {{< tip "warning" >}}
-`**WARNING!**`
+**WARNING!**
 
 **Warning blocks like this one will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.**
 {{< /tip >}} 
