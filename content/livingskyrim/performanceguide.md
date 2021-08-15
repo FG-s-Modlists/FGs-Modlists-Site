@@ -4,4 +4,4 @@ weight: 6
 layout: "lsbase"
 ---
 
-the performance guide
+the performance
