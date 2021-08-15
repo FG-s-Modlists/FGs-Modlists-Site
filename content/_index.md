@@ -6,14 +6,14 @@ author = "ForgottenGlory"
 {{< column >}}
 ![LS Logo](/images/LS3LogoSmall.png)
 # [Living Skyrim](livingskyrim)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pretium sed erat sit amet ultricies. Fusce sagittis neque ac mi eleifend, a rutrum eros sagittis. Donec sodales varius semper. Etiam sed consequat nunc, vel ornare nisi. Etiam urna erat, consequat sit amet ex in, malesuada auctor elit. Aliquam lacinia, ex vitae malesuada volutpat, dolor quam laoreet mauris, in vulputate justo nunc quis quam. Phasellus vulputate felis ut semper lacinia. In eget justo sollicitudin, suscipit ligula eu, scelerisque lorem.
+Living Skyrim is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of this modlist. All of this on top of a beautiful graphics package.
 
 {{< /column >}}
 
 {{< column >}}
 ![MOISE Logo](/images/MOISELogoVerySmall.png)
 # [MOISE](moise)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pretium sed erat sit amet ultricies. Fusce sagittis neque ac mi eleifend, a rutrum eros sagittis. Donec sodales varius semper. Etiam sed consequat nunc, vel ornare nisi. Etiam urna erat, consequat sit amet ex in, malesuada auctor elit. Aliquam lacinia, ex vitae malesuada volutpat, dolor quam laoreet mauris, in vulputate justo nunc quis quam. Phasellus vulputate felis ut semper lacinia. In eget justo sollicitudin, suscipit ligula eu, scelerisque lorem.
+Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.
 {{< /column >}}
 {{< /block >}}
 
@@ -21,7 +21,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pretium sed erat 
 {{< column >}}
 ![DNDDC Logo](/images/DNDDCSmallLogo.png)
 # [D&DDC](dnddc)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pretium sed erat sit amet ultricies. Fusce sagittis neque ac mi eleifend, a rutrum eros sagittis. Donec sodales varius semper. Etiam sed consequat nunc, vel ornare nisi. Etiam urna erat, consequat sit amet ex in, malesuada auctor elit. Aliquam lacinia, ex vitae malesuada volutpat, dolor quam laoreet mauris, in vulputate justo nunc quis quam. Phasellus vulputate felis ut semper lacinia. In eget justo sollicitudin, suscipit ligula eu, scelerisque lorem.
+Dungeons & Deviousness is a NSFW Skyrim SE modlist intended to be fully playable with a semi-hardcore survival experience included. Rather than a screenshot simulator or lightweight add-on to vanilla Skyrim, Dungeons & Deviousness seeks to be as intrusive as possible in the systems present in Skyrim and overhaul them to fit the theme. The Director's Cut is a refined and rebuilt version of the list.
 
 # Compose your Docs with **Ease**.
 
@@ -42,7 +42,9 @@ Or, [generate graphs, charts](docs/compose/graphs-charts-tables/#show-a-pie-doug
 {{< column >}}
 ![Atelier Logo](/images/AtelierVerySmall.png)
 # [Atelier](atelier)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pretium sed erat sit amet ultricies. Fusce sagittis neque ac mi eleifend, a rutrum eros sagittis. Donec sodales varius semper. Etiam sed consequat nunc, vel ornare nisi. Etiam urna erat, consequat sit amet ex in, malesuada auctor elit. Aliquam lacinia, ex vitae malesuada volutpat, dolor quam laoreet mauris, in vulputate justo nunc quis quam. Phasellus vulputate felis ut semper lacinia. In eget justo sollicitudin, suscipit ligula eu, scelerisque lorem.
+Atelier has been archived until further notice.
+
+Atelier (noun, /ˌadlˈyā/): a workshop or studio, especially one used by an artist or designer. And in this context, a Skyrim SE modlist focused on one thing and one thing only: taking screenshots. Atelier is setup to make taking screenshots as easy as possible out of the box. Just install, load up the game, pick some outfits, and you’re ready to go.
 
 
 {{< /column >}}
