@@ -4,4 +4,4 @@ weight: 6
 layout: "lsbase"
 ---
 
-the mcm page
+the performance guide
