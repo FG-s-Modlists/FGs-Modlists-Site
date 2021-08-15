@@ -16,8 +16,8 @@ codeLineNumbers = false
 
 # Site logo
 [logo]
-  lightMode = "images/SmallServerLogo.png"
-  darkMode = "images/SmallServerLogo.png"
+  lightMode = "images/WebsiteLogoSmall.png"
+  darkMode = "images/WebsiteLogoSmall.png"
 
 [source]
   name = "GitHub"
