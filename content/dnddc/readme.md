@@ -6,30 +6,37 @@ layout: "dnddcbase"
 
 Current version: 7/25/2021 2.0.1
 
-Before You Get Started
+### Before You Get Started
 
-Important!
+{{< tip >}}
+**Important!** 
 
 Sections labeled important like this one will tell you when you need to pay extra attention to something.
+{{< /tip >}}
 
-WARNING
+{{< tip "warning" >}}
+**WARNING!**
 
-Warning blocks like this will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.
-
+**Warning blocks like this one will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.**
+{{< /tip >}} 
 
 Before you get started installing or playing Dungeons & Deviousness: Director's Cut, it's important to note a few things:
 
-WARNING
+{{< tip "warning" >}}
+**WARNING!**
 
-This modlist contains explicit sexual content and a wide variety of kinks/fetishes. Proceed at your own discretion. 
+**This modlist contains explicit sexual content and a wide variety of kinks/fetishes. Proceed at your own discretion.**
+{{< /tip >}} 
 
-Important!
+{{< tip >}}
+**Important!** 
 
 This modlist only functions correctly with female player characters.
+{{< /tip >}}
 
 You are not required to have Nexus Premium to install D&DDC, however, it is highly recommended. Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
 
-As of Beta 1, D&DDC requires 264GB (71GB downloads/185GB mods/7GB Bodyslides) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
+As of 2.0.0 D&DDC requires 264GB (71GB downloads/185GB mods/7GB Bodyslides) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
 
 To maximize performance, both Skyrim: Special Edition and D&DDC should be installed on the same hard drive, ideally an SSD/NVMe. This is not required, just recommended if you want the smoothest gameplay experience.
 
