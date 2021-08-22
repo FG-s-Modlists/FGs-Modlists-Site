@@ -36,7 +36,7 @@
 			<a class="nav-link{{if $active }} active{{end}}" href="{{ $url }}"><span{{if $active }} class="active"{{end}}>{{ .Name }}</span></a>
 		</li>
 		{{- end }}
-		{{ $repo := $sp.source }}
+		<!--{{ $repo := $sp.source }}
 		<li class="nav-item nav_repo">
 			<a class="nav-link" href="{{ $repo.url }}" target="_blank">
 				{{ if $repo.iconLight }}
@@ -52,7 +52,7 @@
 					{{ $repo.name }}
 				{{ end }}
 			</a>
-		</li>
+		</li>-->
 		<li class="nav-item">{{ partial "mode" . }}</li>
 	</ul>
 </nav>
