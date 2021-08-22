@@ -542,4 +542,4 @@ Click here to visit the [Performance Optimizations](/livingskyrim/performancegui
 
 ## One Last Thing
 
-If you read through the entire readme, congratulations! You get a cookie. If you need any further help, feel free to reach out on the Wabbajack or Living Skyrim Discord Servers. **Do not direct message ForgottenGlory, any of the Living Skyrim dev team, or any Wabbajack staff members for support. I (ForgottenGlory) speak for myself, but I do reserve the right to ignore any requests for support direct messaged to me and block you.**
+If you read through the entire readme, congratulations! You get a cookie. If you need any further help, feel free to reach out on the Wabbajack or Living Skyrim Discord Servers. **Do not direct message ForgottenGlory, any of the Living Skyrim dev team, or any Wabbajack staff members for support. I (ForgottenGlory) speak for myself, but I do reserve the right to ignore any requests for support direct messaged to me and block you..**
