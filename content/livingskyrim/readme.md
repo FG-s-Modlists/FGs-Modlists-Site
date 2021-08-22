@@ -500,6 +500,7 @@ Click here to visit the [Performance Optimizations](/livingskyrim/performancegui
   - TwistedModding
   - celadoneiron
 - Living Skyrim Discord Staff:
+  - Chanka
   - Aronax
   - goolito
   - Logan
