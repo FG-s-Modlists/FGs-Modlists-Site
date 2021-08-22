@@ -251,43 +251,42 @@ Legacy of the Dragonborn of course requires no introduction, but if you’re som
 
 | Quest Changes | New Quests | New Lands |
 | :--- | :--- | :--- |
-| Timing Is Everything | The Falkreath Hauntings | Falskaar |
-| Timing Is Everything | Vigilant | Hammet's Dungeons |
-| At Your Own Pace | Become a Bard | Vominheim |
-| Opulent Thieves Guild | Helgen Reborn | Wyrmstooth |
-| The Companions - Don't be a Milk Drinker | Carved Brink | The Gray Cown of Nocturnal |
-| Finding Helgi and Laelette | The Forgotten City | Moonpath to Elsweyr |
-| Finsing Susanna Alive | Moon and Star |  |
-| Namira for Good Guys | Clockwork |  |
-| House of Horrors Divine Intervention | Project AHO |  |
-| Even Better Quest Objectives | Konahrik's Accoutrements |  |
-| Thieves Guild Requirements | Artifacts - The Tournament of the Ten Bloods |  |
-| All Thieves Guild Jobs Concurrently | The Wheels of Lull |  |
-| Paarthurnax Quest Expansion | The Tools of Kagrenac |  |
-| The Choice is Yours | Faction - Pit Fighter |  |
-| Boethiah for Good Guys | The Tale of Tsatampra Xiros |  |
-| Better College Application | Legacy of the Dragonborn |  |
-| Headhunter - Bounties Redone |  |  |
-| Save the Icerunner |  |  |
-| Open Civil War |  |  |
+| [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) | [The Falkreath Hauntings](https://www.nexusmods.com/skyrimspecialedition/mods/20733) | [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057) |
+| [Open Civil War](https://www.nexusmods.com/skyrimspecialedition/mods/11076) | [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) | [Hammet's Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/12186) |
+| [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) | [Become a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/2303) | [Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/31472) |
+| [Opulent Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/931) | [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) | [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/19492) |
+| [The Companions - Don't be a Milk Drinker](https://www.nexusmods.com/skyrimspecialedition/mods/19490) | [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351) | [The Gray Cowl of Nocturnal](https://www.nexusmods.com/skyrimspecialedition/mods/4509) |
+| [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973) | [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179) | [Moonpath to Elsweyr](https://www.nexusmods.com/skyrimspecialedition/mods/4341) |
+| [Finding Susanna Alive](https://www.nexusmods.com/skyrimspecialedition/mods/32512) | [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301) |  |
+| [Namira for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/336) | [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) |  |
+| [House of Horrors Divine Intervention](https://www.nexusmods.com/skyrimspecialedition/mods/23047) | [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) |  |
+| [Even Better Quest Objectives](https://www.nexusmods.com/skyrimspecialedition/mods/159) | [Konahrik's Accoutrements](https://www.nexusmods.com/skyrimspecialedition/mods/22206) |  |
+| [Thieves Guild Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) | [Artifacts - The Tournament of the Ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264) |  |
+| [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883) | [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748) |  |
+| [Paarthurnax Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) | [The Tools of Kagrenac](https://www.nexusmods.com/skyrimspecialedition/mods/14168) |  |
+| [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850) | [Faction - Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513) |  |
+| [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329) | [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) |  |
+| [Better College Application](https://www.nexusmods.com/skyrimspecialedition/mods/5272) | [Legacy of the Dragonborn](https://www.nexusmods.com/skyrimspecialedition/mods/11802) |  |
+| [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847) |  |  |
+| [Save the Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681) |  |  |
 
 ### The Magic Mods
 
-Smart Cast has supplanted Sustained Magic in Living Skyrim 3 for a multitude of reasons, the primary being that it works with every other magic mod out of the box. With Smart Cast you can set up specific rules and conditions under which spells will be cast for you - assuming you have the magicka to cast them. It also lets you combine spells into a single cast, again, assuming you have the magicka to cast them both at the same time. This mod has quite a few features available, reading its mod page is highly recommended.
+[Smart Cast](https://www.nexusmods.com/skyrimspecialedition/mods/32847) has supplanted Sustained Magic in Living Skyrim 3 for a multitude of reasons, the primary being that it works with every other magic mod out of the box. With Smart Cast you can set up specific rules and conditions under which spells will be cast for you - assuming you have the magicka to cast them. It also lets you combine spells into a single cast, again, assuming you have the magicka to cast them both at the same time. This mod has quite a few features available, reading its mod page is highly recommended.
 
-Spell Tutor completely changes how your character learns new spells. Instead of “eating” the book and learning the spell, you now have to spend time studying the spell to learn it. The amount of time it takes to learn new spells is completely configurable through this mod’s MCM menu, so feel free to tweak it to your liking. It also places a restriction on how high your skill needs to be before you can even attempt to learn more powerful spells. This mod’s inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic significantly stronger.
+[Spell Tutor](https://www.nexusmods.com/skyrimspecialedition/mods/45275) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now have to spend time studying the spell to learn it. The amount of time it takes to learn new spells is completely configurable through this mod's MCM menu, so feel free to tweak it to your liking. It also places a restriction on how high your skill needs to be before you can even attempt to learn more powerful spells. This mod's inclusion is intended to help balance magic as the combination of magic mods included in Living Skyrim make magic significantly stronger.
 
-Odin, Forgotten Magic,  Triumvirate, and Elemental Destruction Magic make up the mods adding new spells to Living Skyrim. Between all of these and the additional options found below, it is possible to have multiple mage playthroughs and never do the same build twice.
+[Odin](https://www.nexusmods.com/skyrimspecialedition/mods/46000), [Forgotten Magic](https://www.nexusmods.com/skyrimspecialedition/mods/12711), [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), and [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440) make up the mods adding new spells to Living Skyrim. Between all of these and the additional options found below, it is possible to have multiple mage playthroughs and never do the same build twice.
 
-Thunderchild, Summermyst, and Wintersun, and Mundustar are all included to make magic as diverse as possible with a huge breadth of options. Wintersun covers the religious aspect of the game, Summermyst covers enchantments, Thunderchild covers shouts, and Mundustar covers the various standing stones of the world.
+[Thunderchild](https://www.nexusmods.com/skyrimspecialedition/mods/1460), [Summermyst](https://www.nexusmods.com/skyrimspecialedition/mods/6285), and [Wintersun](https://www.nexusmods.com/skyrimspecialedition/mods/22506), and [Mundustar](https://www.nexusmods.com/skyrimspecialedition/mods/41674) are all included to make magic as diverse as possible with a huge breadth of options. Wintersun covers the religious aspect of the game, Summermyst covers enchantments, Thunderchild covers shouts, and Mundustar covers the various standing stones of the world.
 
 ### The Combat Mods
 
-The core combat package of Living Skyrim is Blade & Blunt, The Ultimate Dodge Mod (more details below), and VioLens. Assuming a fair fight this generally means that combat will be fast-paced and somewhat deadly. You won’t get one-shot unless you’re fighting an enemy that is significantly higher level than you (10+ levels above your own).
+The core combat package of Living Skyrim is [Blade & Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), The Ultimate Dodge Mod (more details below), and [VioLens](http://violens). Assuming a fair fight this generally means that combat will be fast-paced and somewhat deadly. You won't get one-shot unless you're fighting an enemy that is significantly higher level than you (10+ levels above your own).
 
-Archery Gameplay Overhaul completely revamps the archery system in Skyrim. You’ll find it now has much more realistic gameplay including arm fatigue, the ability to spread poisons across multiple arrows, stamina drain while the bowstring is pulled, and so on. This mod is highly configurable via its MCM menu, so feel free to tweak it to suit your playstyle.
+[Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296) completely revamps the archery system in Skyrim. You'll find it now has much more realistic gameplay including arm fatigue, the ability to spread poisons across multiple arrows, stamina drain while the bowstring is pulled, and so on. This mod is highly configurable via its MCM menu, so feel free to tweak it to suit your playstyle.
 
-Also for your consideration: SkyTEST, Deadly Dragons, and Arena - An Encounter Zone Overhaul. Enemies in general will be smarter and stronger across the board, and will dynamically update their levels to match or surpass you as appropriate.
+Also for your consideration: [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723), and [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487). Enemies in general will be smarter and stronger across the board, and will dynamically update their levels to match or surpass you as appropriate.
 
 ### The Ultimate Dodge Mod
 
@@ -308,25 +307,25 @@ A couple of minor notes about TUDM:
 
 ### The Perks & Leveling Mods
 
-Vokrii is the perk overhaul of choice for Living Skyrim. It is a lightweight but still complete overhaul of the perk trees allowing for an incredibly diverse amount of character customization and specialization. Experience is included to control the rate at which your skills and levels progress. By default, only clearing dungeons and completing quests will provide XP. The optional skills XP and kills XP modules should not be turned on - Living Skyrim isn't set up to use these by default and can therefore cause issues. Achieve That is an achievement mod which gives you XP and achievement points. The XP given is almost equivalent to that of main quests, and is a great way to level up your character as the game progresses. The achievement points can be spent on rewards that permanently benefit your character which normally come as a stat boost or perk.
+[Vokrii](https://www.nexusmods.com/skyrimspecialedition/mods/26176) is the perk overhaul of choice for Living Skyrim. It is a lightweight but still complete overhaul of the perk trees allowing for an incredibly diverse amount of character customization and specialization. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) is included to control the rate at which your skills and levels progress. By default, only clearing dungeons and completing quests will provide XP. The optional skills XP and kills XP modules should not be turned on - Living Skyrim isn't set up to use these by default and can therefore cause issues. [Achieve That](https://www.nexusmods.com/skyrim/mods/30212) is an achievement mod which gives you XP and achievement points. The XP given is almost equivalent to that of main quests, and is a great way to level up your character as the game progresses. The achievement points can be spent on rewards that permanently benefit your character which normally come as a stat boost or perk.
 
 ### The Economy & Loot Mods
 
 There are two sides to the Skyrim economy: Loot, and trade. Loot is your primary source of income, and trade your primary source of expenditure. To address this, Living Skyrim seeks to overhaul both sides of this coin.
 
-On the loot side, you’ll find that chests and enemies are fairly abundant loot thanks to GOLD, Dynamic Dungeon Loot, and Lock Related Loot. In general, chests have been overhauled such that no two chests are ever the same and contain a fantastic assortment of things you can find. You may also find powerful items significantly earlier than normal due to Dynamic Dungeon Loot. Normally this would be cause for concern, but you will also find that the amount of just randomly placed objects in the world has been significantly decreased by Iris. The removal of most of the items placed in the world shifts the focus of loot from picking up everything in a dungeon to seeking out and opening every chest you can find.
+On the loot side, you'll find that chests and enemies are fairly abundant loot thanks to [GOLD](https://www.nexusmods.com/skyrimspecialedition/mods/1796), [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308), and [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308). In general, chests have been overhauled such that no two chests are ever the same and contain a fantastic assortment of things you can find. You may also find powerful items significantly earlier than normal due to Dynamic Dungeon Loot. Normally this would be cause for concern, but you will also find that the amount of just randomly placed objects in the world has been significantly decreased by [Iris](https://www.nexusmods.com/skyrimspecialedition/mods/41920). The removal of most of the items placed in the world shifts the focus of loot from picking up everything in a dungeon to seeking out and opening every chest you can find.
 
-Opposite the loot side, we have the economy side of things. Naturally, because of the increased amount of loot you’ll find, the price of many items has been increased drastically. No longer will a set of steel armor cost just a couple hundred gold - instead, you’ll find it costs well over 1000 gold, and higher level armors only get even more expensive. The same is true of just about everything you can purchase from a vendor. This is due to the combination of Trade & Barter and Eve. Items will sell for less and cost more to buy across the board. This is necessary to make looting feel significant while also keeping some semblance of balance. In general it will be more difficult to obtain obscene amounts of gold, but it is still possible - that’s just how Skyrim works without going completely overboard modifying the loot/economy. Also, for the more kleptomania-inclined among you, you’ll find some helping hands in Khajiits Steal Too.
+Opposite the loot side, we have the economy side of things. Naturally, because of the increased amount of loot you'll find, the price of many items has been increased drastically. No longer will a set of steel armor cost just a couple hundred gold - instead, you'll find it costs well over 1000 gold, and higher level armors only get even more expensive. The same is true of just about everything you can purchase from a vendor. This is due to the combination of [Trade & Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) and [Eve](https://www.nexusmods.com/skyrimspecialedition/mods/26325). Items will sell for less and cost more to buy across the board. This is necessary to make looting feel significant while also keeping some semblance of balance. In general it will be more difficult to obtain obscene amounts of gold, but it is still possible - that's just how Skyrim works without going completely overboard modifying the loot/economy. Also, for the more kleptomania-inclined among you, you'll find some helping hands in [Khajiits Steal Too](https://www.nexusmods.com/skyrimspecialedition/mods/18231).
 
 ### The HUD Mods
 
-Living Skyrim includes a completely different UI and HUD experience than what you’re used to, probably even if you’ve played modded Skyrim before. Less Intrusive HUD II is 100% customizable through an in-game menu, allowing you to change the position, size, opacity, and anything else for any HUD element. EZ2C Dialogue Menu changes the dialogue menu to be easier to read and use and is also 100% configurable. See the mod description pages for EZ2C and Less Intrusive HUD II to see how to configure these to your liking. Immersive HUD keeps pesky HUD elements out of the way when you don’t need to see them. Lastly, Favorite Things greatly expands the SkyUI Favorites menu to make it larger, easier to use, and more customizable. 
+Living Skyrim includes a completely different UI and HUD experience than what you're used to, probably even if you've played modded Skyrim before. [Less Intrusive HUD II](https://www.nexusmods.com/skyrimspecialedition/mods/17974) is 100% customizable through an in-game menu, allowing you to change the position, size, opacity, and anything else for any HUD element. [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246) changes the dialogue menu to be easier to read and use and is also 100% configurable. See the mod description pages for EZ2C and Less Intrusive HUD II to see how to configure these to your liking. [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440) keeps pesky HUD elements out of the way when you don't need to see them. Lastly, [Favorite Things](https://www.nexusmods.com/skyrimspecialedition/mods/27177) greatly expands the SkyUI Favorites menu to make it larger, easier to use, and more customizable.
 
 ### Character Customization Mods
 
-When creating your character, you’ll find there are a lot of options that are available to you. From hairs to tattoos to eyes and more, Living Skyrim has included a comprehensive suite of mods that allow you to tweak your character’s appearance to exactly what you want. And, if you’re struggling to figure out where to begin with character creation, a number of presets made by the Living Skyrim community have been included for you to pick from. In general, you’ll have more options for everything.
+When creating your character, you'll find there are a lot of options that are available to you. From hairs to tattoos to eyes and more, Living Skyrim has included a comprehensive suite of mods that allow you to tweak your character's appearance to exactly what you want. And, if you're struggling to figure out where to begin with character creation, a number of presets made by the Living Skyrim community have been included for you to pick from. In general, you'll have more options for everything.
 
-There is one particular mod you need to be aware of during character creation: High Poly Head. To have your character use High Poly Head, you’ll need to change the head part using the RaceMenu slider of the same name to option 3. Note that if you do use High Poly Head, you may need to do some manual sculpting using the RaceMenu sculpt feature to remove any clipping issues with eyebrows or beards.
+There is one particular mod you need to be aware of during character creation: [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/). To have your character use High Poly Head, you'll need to change the head part using the RaceMenu slider of the same name to option 3. Note that if you do use High Poly Head, you may need to do some manual sculpting using the RaceMenu sculpt feature to remove any clipping issues with eyebrows or beards.
 
 ### Player Homes
 
@@ -336,17 +335,17 @@ Additionally, several of the quest mods included with Living Skyrim have player 
 
 | Player Homes |  |
 | :--- | :--- |
-| Blackthorn | Morskom Estate |
-| The Scarlett | The Raven's Breezehome |
-| Riverside Shack | Morskom Mornfallow Manor |
-| Redspire Manor | JK's Riverfall Cottage |
-| Gleamblossom Hollow | Zulfardin |
-| Winking Skeever Loft | Niflholm |
-| Mona Alta | Pinewood Manor |
+| [Blackthorn](https://www.nexusmods.com/skyrimspecialedition/mods/2242) | [Morskom Estate](https://www.nexusmods.com/skyrimspecialedition/mods/33408) |
+| [The Scarlett](https://www.nexusmods.com/skyrimspecialedition/mods/2434) | [The Raven's Breezehome](https://www.nexusmods.com/skyrimspecialedition/mods/20486) |
+| [Riverside Shack](https://www.nexusmods.com/skyrimspecialedition/mods/20982) | [Mornfallow Manor](https://www.nexusmods.com/skyrimspecialedition/mods/411) |
+| [Redspire Manor](https://www.nexusmods.com/skyrimspecialedition/mods/2460) | [JK's Riverfall Cottage](https://www.nexusmods.com/skyrimspecialedition/mods/34542) |
+| [Gleamblossom Hollow](https://www.nexusmods.com/skyrimspecialedition/mods/26277) | [Zulfardin](https://www.nexusmods.com/skyrimspecialedition/mods/33889) |
+| [Winking Skeever Loft](https://www.nexusmods.com/skyrimspecialedition/mods/41895) | [Niflholm](https://www.nexusmods.com/skyrimspecialedition/mods/8681) |
+| [Mona Alta](https://www.nexusmods.com/skyrimspecialedition/mods/9883) | [Pinewood Manor](https://www.nexusmods.com/skyrimspecialedition/mods/6635) |
 
 ### Nether's Follower Framework
 
-Nether’s Follower Framework has too many features to list, but what you need to know is this: You can have multiple followers, you can configure just about anything about them, and you’ll have a lot more flexibility with controlling your followers. You can also import followers added by mods to be able to use NFF’s features on them. 
+[Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) has too many features to list, but what you need to know is this: You can have multiple followers, you can configure just about anything about them, and you'll have a lot more flexibility with controlling your followers. You can also import followers added by mods to be able to use NFF's features on them.
 
 {{< tip >}}
 **Important!** 
@@ -356,17 +355,17 @@ Do NOT import standalone followers (Inigo, Lucien, etc.) into Nether's Follower 
 
 ## Bug Reporting, Github, and You
 
-While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it’s duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it’s important that you report bugs you find on the Living Skyrim 3 Github so that it can be fixed for everyone.
+While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it's duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it's important that you report bugs you find on the Living Skyrim 3 Github so that it can be fixed for everyone.
 
 To report a bug, follow these steps:
 
-1. Login to Github or create an account as necessary.
-2. Open this link: Click Here!
-3. Click the green button that says “Get Started” in the line next to “Bug Report”.
-4. Input a title and fill out the form in the large text box. If you need to attach a screenshot, it can be dragged from your computer to the Github post to insert it.
-5. When you have filled out the form completely, click the green “Submit new issue” button.
+1.  Login to [Github](https://github.com/) or create an account as necessary.
+2.  Open this link: [Click Here!](https://github.com/ForgottenGlory/Living-Skyrim-3/issues/new/choose)
+3.  Click the green button that says "Get Started" in the line next to "Bug Report".
+4.  Input a title and fill out the form in the large text box. If you need to attach a screenshot, it can be dragged from your computer to the Github post to insert it.
+5.  When you have filled out the form completely, click the green "Submit new issue" button.
 
-After that, you’ve filed your bug report and the LS dev team will take a look at it as soon as possible.
+After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible.
 
 {{< tip >}}
 **Important!** 
