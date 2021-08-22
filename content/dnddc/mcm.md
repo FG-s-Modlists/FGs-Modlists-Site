@@ -7,7 +7,7 @@ layout: "dnddcbase"
 Current MCM Document Version: 7/25/2021 2.0.1
 
 {{< tip "warning" >}}
-**WARNING!**
+`**WARNING!**`
 
 **Before doing anything with the MCM, wait for all the messages in the top left to finish appearing. Then, save your game and load the save you just created. Once that save has loaded, you must once again wait for all messages in the top left to disappear. When you do this, you will receive a popup about SLSF and its Papyrus storage. This is normal and will be fixed by following the below steps.**
 {{< /tip >}} 
