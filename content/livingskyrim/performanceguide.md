@@ -4,4 +4,6 @@ weight: 6
 layout: "lsbase"
 ---
 
-the performance
+## Under Construction
+
+The performance guide for LS is undergoing a rewrite and is unavailable until further notice.
