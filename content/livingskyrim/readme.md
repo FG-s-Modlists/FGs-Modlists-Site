@@ -392,23 +392,23 @@ Yes, but remember that if you need to update the list you will have to download 
 
 #### “The LS3 DynDOLOD Output fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: LS3 DynDOLOD 3.3.1
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 DynDOLOD 3.3.1](https://drive.google.com/file/d/1zf6350C1XhhnFTfzmbg1MkNuykrVkcYw/view?usp=sharing)
 
 #### “The LS3 SSELODGen Output fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: LS3 SSELODGen 3.0.0
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 SSELODGen 3.0.0](https://drive.google.com/file/d/1C8shpKCM4CO2fcoxasiw501rgBQiGmAQ/view?usp=sharing)
 
 #### “The LS3 Grass Cache fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: LS3 Grass Cache 3.3.1
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 Grass Cache 3.3.1](https://drive.google.com/file/d/1cy_E4138tZ3llpYc5EwbEpR99A4EUmkR/view?usp=sharing)
 
 #### "Inconsequential NPCs Visual Overhaul fails to download."
 
-You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: INPCs Visual Overhaul
+You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [INPCs Visual Overhaul](https://drive.google.com/file/d/1YM0lFTQdDh6P3JvEgWleOMb3adF_pQ_i/view?usp=sharing)
 
 #### "ENB Series fails to download."
 
-You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: ENB Series
+You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [ENB Series](http://enbdev.com/download_mod_tesskyrimse.htm)
 
 ### Gameplay Issues
 
