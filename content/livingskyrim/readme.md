@@ -414,11 +414,11 @@ You'll need to download this manually and put it in your downloads folder. The m
 
 #### “The Main Quest doesn’t proceed after retrieving the Dragonstone.”
 
-Read this modpage: Not So Fast - Main Quest
+Read this modpage: [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
 
 #### “Tolfdir doesn’t invite me to Saarthal right away.”
 
-Read this modpage: Not So Fast - Mage Guild
+Read this modpage: [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
 
 #### My character gets stuck when dodging!
 
