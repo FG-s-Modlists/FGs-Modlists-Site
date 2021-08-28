@@ -185,7 +185,7 @@ One more thing: if you get an error about BodySlide not being able to find the o
 5. Make sure that the “Build Morphs” checkbox is checked at the bottom of the BodySlide window.
 6. Hold the CTRL key on your keyboard and click “Batch Build…”
 7. Click Build on the window that appears.
-8. Select your [Install Drive]\Dungeons & Deviousness\mods\BodyslideOutfitStudio - Overwrite folder in the window that appears.
+8. Select your `[Install Drive]\Dungeons & Deviousness\mods\BodyslideOutfitStudio - Overwrite` folder in the window that appears.
 9. The Bodyslides are broken up into groups: "0. DNDDC Bodies,” “1. DNDDC Clothes”, “2. DNDDC Armors”, and "3. DNDDC Bikinis". Repeat the above steps 3 through 8 for all of the groups. It's easier for your computer to process smaller groups rather than trying to do them all at once. It also means that you can choose a different preset for each category, if you want the shape of the body to change based on the kind of outfit being worn. (For example: MelaRockingArmor/MelaRockingOutfit for the Armors and Clothes, MelaRockingPhysique for the bodies). Note that if you build the groups using different presets, you may experience some misalignment of equipped items if mixing and matching. (For example: Devious Devices piercings positioned based on your body preset may appear to be floating in the wrong place when wearing armour built to a different preset.) This is purely visual and does not interfere with functionality.
 
 ### A Note About Presets
