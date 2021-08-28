@@ -163,7 +163,7 @@ The Bodyslides, whether you build your own or use the prebuilt ones, will take a
 If you don’t really care what preset you use and/or are fine with the Slim2Thicc Body, follow these steps.
 
 1. Close MO2 if you have it open.
-2. Download this zip file: D&DDC Prebuilt Bodyslides
+2. Download this zip file: [D&DDC Prebuilt Bodyslides](https://drive.google.com/file/d/1RFxINLIjvPaG6d8o68QCXwlCPTxqWzx3/view?usp=sharing)
 3. Open the ZIP file.
 4. Copy everything inside the zip file (the meshes folder in its entirety, including the folder itself) into `[Install Drive]\D&DDC\mods\BodyslideOutfitStudio - Overwrite`
 5. Reopen MO2.
