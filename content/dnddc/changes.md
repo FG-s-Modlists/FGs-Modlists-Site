@@ -4,7 +4,12 @@ weight: 4
 layout: "dnddcbase"
 ---
 
-### 8/26/2021 2.1.0
+### 8/28/21 2.1.1
+#### Incremental
+- Fixes
+  - Fixed bikini armors
+
+### 8/28/2021 2.1.0
 #### Minor
 - Mod Updates
   - Lux 3.0
