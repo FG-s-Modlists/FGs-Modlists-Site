@@ -9,7 +9,9 @@ Current MCM Document Version: 7/25/2021 2.0.1
 {{< tip "warning" >}}
 **WARNING!**
 
-**Before doing anything with the MCM, wait for all the messages in the top left to finish appearing. Then, save your game and load the save you just created. Once that save has loaded, you must once again wait for all messages in the top left to disappear. When you do this, you will receive a popup about SLSF and its Papyrus storage. This is normal and will be fixed by following the below steps.**
+**Before doing anything with the MCM, wait for all the messages in the top left to finish appearing. Then, save your game and load the save you just created. Once that save has loaded, you must once again wait for all messages in the top left to disappear (usually indicated by the "SexLab Ready!" message). When you do this, you will receive a popup about SLSF and its Papyrus storage. This is normal and will be fixed by following the below steps.**
+
+**Additionally, you should do the steps here in the order they are presented.**
 {{< /tip >}} 
 
 For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings should be set as follows.
@@ -47,6 +49,9 @@ The choices you make in the CC&BR menu are permanent and cannot be changed witho
 ### A Matter of Time
 - Presets
   - Click "Load user settings", then wait for the confirmation message to appear.
+
+### Campfire
+  - Campfire Building: Realistic
 ### Creature Framework
 - You don’t need to change anything here, just open the MCM menu to initialize the framework.
 ### Cursed Loot
@@ -101,13 +106,13 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
   - Milk leaking effect: Disabled
 ### Notification Log
 - You don't need to do anything here, but you need to know this exists. If you miss a message in the top left corner of your HUD, you can check this to see what you missed.
-### OBIS
+### OBIS - Bandits
 - Enabled?: Enabled
 ### OBIS Patrols
 - Enabled?: Enabled
 ### Powers Keyring
 - This is another one that you need to know exists. Powers Keyring lets you hide spells/powers from your magic menu and access all of the hidden ones by equipping the "Keyring" power and then using the Shout key (default Z). If your spell/power menu gets too cluttered, you should use this to clean it up a bit.
-### SexLab - Sexual Fame
+### Sex Lab - Sexual Fame
 - Base Settings
   - Click "[Debug] Reset All Papyrus Storages"
   - Config Key: Set this to something you'll never press, like Insert.
@@ -119,6 +124,8 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
 ### SexLab Survival
 - Settings
   - Click Import Settings.  When it says Actioning Settings, exit the MCM, then wait for a popup to appear saying "SLS: Import settings complete".
+- Settings
+  - Map & Compass Mechanics: Disabled
 ### Simply Balanced
 - Save & Load
   - Click Load Custom Settings, confirm, then wait for it to say "Settings loaded."
@@ -129,12 +136,25 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
   - Click Enable All
 - Animations by Leito Furniture
   - Click Disable All
-- Billy_HumanFurniture
+- Billyy_CreatureFurniture
   - Click Disable All
-- Billy_HumanFurnitureInvis
+- Billyy_HumanFurniture
   - Click Disable All
+- Billyy_HumanFurnitureInvis
+  - Click Disable All
+- Ayasato Animations
+  - Ayasato Table: disabled
+  - Ayasato Chair: Disabled
+  - Ayasato Counter: Disabled 
 - General Options (Again)
   - Click Register Animations This can take up to 5 minutes to complete, wait in the MCM until it is finished.
+### Battle Fuck!
+- System
+  - Click "Click to Check" next to Animations and wait for it to say "OK" in green.
+  - Mod Enabled: Enabled
+  - Now exit the MCM and then re-enter it.
+  - Select Profile: D&DDC
+  - Exit the MCM and re-enter it again.
 ### SexLab Tools
 - Settings
   - Tool Key: O
@@ -143,7 +163,7 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
 - Click Update Furniture Types
 - Filter Furniture Anims: Enabled
 - Override Chance: 0.20
-### Take Notes
+### Take Notes!
 - Controls
   - Open Journal: B
 ### TK Dodge
@@ -152,6 +172,15 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
 ### True Armor
 - Save & Load
   - Click Load Balanced Settings, confirm, then wait for it to say "Settings loaded."
+### True Directional Movement
+- General
+  - Headtracking: Disabled
+- Target Lock
+  - Toggle Target Lock Key: Mouse 3
+- Target Lock Widget
+  - Show Target Bar: Disabled
+- Boss Bar Widget
+  - Show Boss Bar: Disabled
 
 {{< tip "warning" >}}
 **WARNING!**
@@ -165,7 +194,8 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
   - Check Needs hotkey: Esc/Unbind
   - Drink from Stream hotkey: K
 ### Frostfall
-- Frostfall is: Enabled, then exit the MCM and wait for the “Frostfall setup complete” message to appear.
+- Overview
+  - Frostfall is: Enabled, then exit the MCM and wait for the “Frostfall setup complete” message to appear.
 ### iWant RND Widgets
 - Enabled: Disabled
 ### iWant Status Bars
@@ -176,11 +206,6 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
   - Click Start Hunterborn, then exit the MCM and wait for the "Hunterborn SE started. Good hunting!" notification to appear.
 - Profile
   - Click Load Settings.
-### Yamete
-- General
-  - Click "Enable!"
-- Debug
-  - Click "Load MCM", confirm, then wait for it to say "Done!"
 
 {{< tip "warning" >}}
 **WARNING!**

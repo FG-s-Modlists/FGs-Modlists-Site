@@ -4,6 +4,29 @@ weight: 4
 layout: "dnddcbase"
 ---
 
+### 8/26/2021 2.1.0
+#### Minor
+- Mod Updates
+  - Lux 3.0
+  - Billyy's Animations 4.7
+  - Babo Human/Creature 2021-6-9
+  - Furniture Sex Framework 13
+  - USSEP 4.2.5b
+- Fixes
+  - See [closed Github issues for 2.1.0](https://github.com/ForgottenGlory/Dungeons-Deviousness/milestone/8?closed=1)
+- Additions
+  - Vanilla Script microOptimizations
+  - Disable Fast Travel SKSE
+  - Drunk Sinking Head Idle Fix SE
+  - Reduced Inn Stalking
+- Replacements
+  - Yamete -> Battle Fuck
+  - Sexlab Aroused Modular -> Sexlab Aroused eXtended
+- Other
+  - Various readme changes
+  - Regenerated Prebuilt bodyslides
+  - Regenerated DynDOLOD and friends
+
 ### 7/25/2021 2.0.1
 #### Incremental
 - Mod Updates
