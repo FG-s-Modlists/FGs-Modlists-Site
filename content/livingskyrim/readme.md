@@ -179,7 +179,13 @@ Note that ENB can put a very heavy strain on weaker computers. If you would like
 Support is not provided for adding additional ENB options to the modlist. If you want to add more options, you need to know how to use ENB Organizer and be familiar with the Stock Game feature that Living Skyrim uses.
 
 ## Updating Living Skyrim
-If you are updating Living Skyrim, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Updating may delete any saves that are present. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
+If you are updating Living Skyrim, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
+
+{{< tip "warning" >}}
+**WARNING!**
+
+**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#ls-announcements` channel on the Living Skyrim Discord server before updating.**
+{{< /tip >}} 
 
 1. Run Wabbajack.exe.
 2. At the bottom of the window, click Browse Modlists.
