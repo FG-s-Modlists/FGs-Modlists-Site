@@ -6,8 +6,7 @@ author = "ForgottenGlory"
 {{< column >}}
 [![LS Logo](/images/LS3LogoSmall.png)](livingskyrim)
 # [Living Skyrim](livingskyrim)
-Living Skyrim is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of this modlist. All of this on top of a beautiful graphics package.
-
+ForgottenGlory's flagship modlist, Living Skyrim, is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of this modlist. All of this on top of a beautiful graphics package.
 
 [![DNDDC Logo](/images/DNDDCSmallLogo.png)](dnddc)
 # [D&DDC](dnddc)
