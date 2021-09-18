@@ -35,13 +35,22 @@ You will start the game with a book in your inventory called "Classic Classes". 
 
 The choices you make in the CC&BR menu are permanent and cannot be changed without starting a new character!
 
-## Mandatory MCMs
+## Mandatory control and MCM settings
 
 {{< tip "warning" >}}
 **WARNING!**
 
-**The following options must be set manually in the MCM for Living Skyrim 3 to work properly.**
+**The following options must be set manually in the game's settings and MCM menus for Living Skyrim 3 to work properly.**
 {{< /tip >}} 
+
+#### Esc key menu
+- Controls
+  - Sneak: LCtrl (this is your "dodge" key in-game)
+
+#### A Matter of Time
+-	Presets
+  - User Settings
+    - Click Load user settings, and wait for the confirmation before proceeding.
 
 #### AGO
 - Settings
@@ -70,14 +79,15 @@ The choices you make in the CC&BR menu are permanent and cannot be changed witho
 - Dammit
   - Food
     - Use Label: Disabled
-    - Eating Method: With Fork
+    - Eating Method: With fork equipped
 
 #### LOTD Settings
 - Craftloot
   - Craftloot Status: Disabled
 
 #### Less Intrusive HUD
-- Click Load personal preset, then exit the MCM and wait for it to finish before proceeding.
+- General Settings
+  - Click Load personal preset, then exit the MCM and wait for it to finish before proceeding.
 
 #### Sky UI
 - Advanced
@@ -94,6 +104,11 @@ For the SmoothCam preset, make sure you are selecting the option to Load the pre
 - Presets
   - Click Load next to whichever preset you wish to use. You can and should test them all out to see which one works best for you
 
+#### Take Notes!
+- Controls
+  - Journal
+    - Open Journal: B
+
 #### Thieves Guild Req.
 - Main Quest
   - Requirements to Begin Recruitment Quest
@@ -104,5 +119,5 @@ For the SmoothCam preset, make sure you are selecting the option to Load the pre
     - Radiant Jobs Completed: 15
 
 #### True Directional Movement
-- Lock-On
-  - Lock On Keybind: Mouse 3 (middle mouse button)
+- Target Lock
+  - Toggle Target Lock Key: Mouse 3 (middle mouse button)
