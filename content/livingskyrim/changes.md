@@ -4,6 +4,121 @@ weight: 4
 layout: "lsbase"
 ---
 
+### 9/15/2021 3.5.0
+#### Minor
+- Mod Updates
+  - Lux 3.1
+  - Hide Quest Items in Container Menu 0.6
+  - Organic Factions Extension 1.07
+  - JK's Interiors Patch Collection 3.14
+  - zEdit 0.6.6.1
+  - NetScriptFramework v17
+  - Papyrus Extender 4.5.1
+  - Spell Perk Item Distributor 5.0.2
+  - Immersive Sounds Compendium 3.0.0
+  - Wyrmstooth 1.19
+  - Song of the Green 1.3
+  - JK's Palace of the Kings 1.1.2
+  - True Directional Movement 1.4.2
+  - Fossil Mining 3.2
+  - AVA 5.4.8b
+  - GABI 7.0.0
+  - Depths of Skyrim 1.1.7
+- Fixes
+  - See [closed Github issues for 3.5.0](https://github.com/ForgottenGlory/Living-Skyrim-3/milestone/13?closed=1)
+- Additions
+  - Gameplay Changes
+    - Sensible Bribes
+  - Location Expansions
+    - JK's Silver-Blood Inn
+    - JK's Arnleif and Sons
+    - JK's The Hag's Cure
+    - JK's Understone Keep
+    - Legacy of the Dragonborn Private Armory
+    - Aretino Residence Redone
+  - Audio 
+    - Meridia Revoiced
+    - Bard Instrumentals Mostly - Sing Rare
+    - Guard Dialogue Overhaul SE
+  - Animations
+    - Smooth Staff Animations
+    - Dynamic Swimming
+  - Graphics
+    - CleverCharff's Bruma
+    - Ruins Clutter Improved
+    - Lanterns Of Falskaar
+    - Ancient Dwemer Metal
+  - Lighting & Effects
+    - Legacy of The Dragonborn - Lighting Mod
+  - Bodies, Faces, Hair
+    - Realistic Natural Skin Tones
+  - New Lands
+    - Beyond Skyrim - Bruma
+  - Gameplay Additions
+    - Sweeping Organizes Stuff 
+    - Skyrim's Paraglider
+    - Shovels Bury Bodies
+    - I Used to Be a Dungeon Boss like You 
+  - Quests
+    - Collecting the Edda
+    - Blackreach Railroad
+    - Identity Crisis
+    - Aethernautics
+    - The Lost Wonders of Mzark
+    - Teldryn Serious
+    - Sidequests of Skyrim
+    - Nilheim - Misc Quest Expansion
+    - Leaps of Faith - A Misc Quest
+    - Jiub's Opus
+  - Quality of Life
+    - LazyItemHider
+    - No More Radial Blur
+    - Simple Outfit System
+    - Quick Mass Follower Commands Hotkey
+  - Player Homes
+    - The Tiniest Shack
+  - NPC Additions
+    - Dwemer Spectres Special Edition
+  - Items
+    - Aetherium Armor and Weapons Compilation
+    - Additional Hearthfire Dolls
+    - Oblivion Artifact Pack SE
+  - Followers
+    - Brhuce Hammar Legacy - Special Edition
+  - Fixes & Patches
+    - Desecrated Amulet of Auriel patch
+    - Obscure's College of Winterhold NPC Stuck in Staircase Fix
+    - Ice skating fixed for real
+    - High Hrothgar Fixed
+    - Organic Factions Extension Patch Collection
+    - Vanilla Script MicroOptimizations
+    - Scrambled Bugs
+    - Amulets of Skyrim - Tweaks and Fixes
+    - Aetherium Ore Respawns
+    - NPC AI Process Position Fix - SSE
+    - College of Winterhold Quest Start Fixes
+    - High Gate Ruins Puzzle Reset Fix
+    - Wyrmtamer - Lawbringer for Wyrmstooth
+    - SPID NPC Trap Safety
+    - Sharpen Other Swords
+    - Legacy of the Dragonborn - Shirley Follower Display Patch
+    - Labyrinthian Shalidor's Maze Fixes
+  - Essentials
+    - Jaxonz MCM Kicker SE
+  - Other
+    - 11 new community RaceMenu Presets
+- Removals
+  - SSE Parallax Shader Fix
+  - Forgotten Magic Redone
+- Replacements
+  - Most interface elements -> Nordic UI
+  - Individual Dungeons Revisited mods -> Dungeons - Revisited
+- Other
+  - Regenerated Occlusion
+  - Regenerated Grass Cache
+  - Regenerated DynDOLOD Output
+  - Regenerated Synthesis
+
 ### 8/11/2021 3.4.0
 #### Minor
 - Mod Updates
