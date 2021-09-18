@@ -47,7 +47,7 @@ In general, it is recommended that you have a processor with a clock speed of at
 As for RAM, 16GB is the minimum recommended specification for running the list. 32GB is the ideal amount, and anything more than that is honestly overkill for this list.
 
 ### Important Links
-- [The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1PxBMg2rIApANPaS0jW5d597dnDjNy8kcHKNoprf6NDs/edit?usp=sharing)
+- [The Modlist Spreadsheet]()
 - [POTD Default Keymap]()
 - [Path of the Dovahkiin Bug Tracker]()
 - [Path of the Dovahkiin Discord](https://discord.com/invite/NdmGpGzqg8)
