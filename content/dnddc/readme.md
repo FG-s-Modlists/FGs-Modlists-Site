@@ -65,6 +65,12 @@ Skyrim is very heavy on processors. Generally, anything above 3GHz should be fin
 - [D&DDC Keymap](http://www.keyboard-layout-editor.com/#/gists/c83b53f8131ae9dc1df8c0fb15149743)
 
 ## Pre-Installation
+### Microsoft Visual C++
+The Visual C++ Redistributable is a DLL (Dynamic Link Library) file required by programs or games built using Microsoft’s Visual Studio software development environment. As Skyrim Special Edition is a 64-bit program, elements of it - along with other aspects of the modlist - require the 64-bit version of Visual C++ in order to run.
+
+Click the link to download the latest Visual C++ x64 Redistributable, then double-click the downloaded file and follow the instructions:
+- [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+
 ### Skyrim Setup
 As with any modlist, it is strongly recommended that you start with a clean, unmodified installation of Skyrim: Special Edition. To get your Skyrim SE to this state, follow these steps:
 
