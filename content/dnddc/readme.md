@@ -65,7 +65,11 @@ Skyrim is very heavy on processors. Generally, anything above 3GHz should be fin
 - [D&DDC Keymap](http://www.keyboard-layout-editor.com/#/gists/c83b53f8131ae9dc1df8c0fb15149743)
 
 ## Pre-Installation
-### Skyrim Setup
+### Steam & SSE Setup
+Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
+
+First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files, Program Files (x86), or Desktop folders. Having the Steam library or your copy of Skyrim Special Edition in either of these folders is known to cause issues. Instructions on how to move your Steam library can be found elsewhere on the internet.
+
 As with any modlist, it is strongly recommended that you start with a clean, unmodified installation of Skyrim: Special Edition. To get your Skyrim SE to this state, follow these steps:
 
 1. In Steam, uninstall Skyrim: Special Edition (Right-click > Manage > Uninstall).
