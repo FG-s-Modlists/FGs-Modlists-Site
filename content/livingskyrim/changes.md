@@ -4,6 +4,14 @@ weight: 4
 layout: "lsbase"
 ---
 
+### 9/26/2021 3.5.1
+#### Incremental
+- Mod Updates
+  - Lux 3.2
+  - JK's Interiors Patch Collection 3.17.2
+- Removals
+  - Amon ENB Reborn
+
 ### 9/15/2021 3.5.0
 #### Minor
 - Mod Updates
@@ -48,8 +56,6 @@ layout: "lsbase"
     - Ruins Clutter Improved
     - Lanterns Of Falskaar
     - Ancient Dwemer Metal
-  - Lighting & Effects
-    - Legacy of The Dragonborn - Lighting Mod
   - Bodies, Faces, Hair
     - Realistic Natural Skin Tones
   - New Lands
