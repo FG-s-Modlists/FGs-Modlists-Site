@@ -47,9 +47,8 @@ In general, it is recommended that you have a processor with a clock speed of at
 As for RAM, 16GB is the minimum recommended specification for running the list. 32GB is the ideal amount, and anything more than that is honestly overkill for this list.
 
 ### Important Links
-- [The Modlist Spreadsheet]()
-- [POTD Default Keymap]()
-- [Path of the Dovahkiin Bug Tracker]()
+- [The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1EielytXpSpG5tPQJU-tIbLjQKxh0XRWKc_yP2zgRQK8/edit?usp=sharing)
+- [Path of the Dovahkiin Bug Tracker](https://github.com/ForgottenGlory/POTD/issues)
 - [Path of the Dovahkiin Discord](https://discord.com/invite/NdmGpGzqg8)
 - [Path of the Dovahkiin Patreon](https://www.patreon.com/LivingSkyrim)
 
@@ -140,13 +139,13 @@ Among other things, Wabbajack has installed a copy of Mod Organizer 2 for you. T
 3. A dialogue may appear and ask if you want to associate Mod Organizer with .nxm links. Click Yes. If this dialogue does not appear, it is not an issue and means you’ve likely already done this.
 4. Another dialogue may appear asking you to update the game's registry path. Click Yes on this popup if it appears. If it does not appear, it is not an issue and likely means you've already done this.
 
-### Configuration Specific (WIP)
+### Configuration Specific
 
+If you're using an ultrawide monitor, you can enable either of the Nordic UI Ultrawide options under the "Configuration Specific" section of the left pane of MO2. Just make sure you only enable the one that matches your monitor's resolution ratio.
 
+### ENB
 
-### ENB (WIP)
-
-
+The default ENB included with Path of the Dovahkiin is [Culminated ENB](https://www.nexusmods.com/skyrimspecialedition/mods/53167). Support is not provided for changing it. You may, however, disable ENB during play by loading into the game and pressing `Shift + F12`. Disabling ENB will drastically improve performance but will make the game look worse overall.
 
 ## Updating Path of the Dovahkiin
 If you are updating Path of the Dovahkiin, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Updating may delete any saves that are present. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
@@ -182,11 +181,50 @@ To actually launch and then play Path of the Dovahkiin, follow these steps:
 ## The MCM Settings
 Some MCM settings have been pre-set for you. See this document to set the remaining MCMs that are required for POTD to function correctly: [Click Here](/potd/mcm)
 
-## Getting Started in Path of the Dovahkiin (WIP)
+## Getting Started in Path of the Dovahkiin
 
+- You get special, unique perks for completing the major questlines. Questing is highly recommended.
+- Master your classes! You can master up to two classes and when you do, you keep the bonuses of the mastered class even when you switch to another one.
+- Bandits are your best bet for early levels. They usually come in small enough groups to be manageable and are almost always around your level or slightly higher.
+- The Whiterun/Riverwood area is best for starting out - northern areas will be significantly more difficult.
+- Grind! This is supposed to be an ARPG experience, so grinding the same few dungeons a few times will help you get stronger to take on higher level dungeons. It also gives you access to more loot which can make you significantly stronger.
+- If you feel like you don't have enough perk points, try seeking out and killing bosses! They give you perk points when they die. It will be challenging but the extra points are well worth it.
+- If you don't like your character's perk point selections, you can sometimes find a potion that will allow you to respec your perk points available for purchase from alchemists. It's expensive though, so be certain you want to do this! 
+- Overworld enemies are going to be easier and in smaller groups than dungeons, but avoid the larger overworld locations when starting out: Silent Moons Camp, Fort Greymoor, etc. Delving into caves and dungeons is a good way to get surrounded by a group of 6-10 enemies.
 
-## Important Mods You Need To Know About(WIP)
+## Important Mods You Need To Know About
 
+### Character Creation And Builds
+
+Character Creation is fairly straightforward, but you should be aware that you can pick a class using [Sets of Skills](https://www.nexusmods.com/skyrimspecialedition/mods/55535) and its related MCM. By default you can master up to two classes and the classes you master are *permanent*, so plan carefully! More character builds are facilitated by [Vokriinator Black](https://www.nexusmods.com/skyrimspecialedition/mods/26702), which you'll notice in the form of the absolutely enormous perk trees. [Perks From Questing](https://www.nexusmods.com/skyrimspecialedition/mods/29402) gives you special, unique perks when you complete certain quest lines. Choose which quests to do that synergize with your character build for maximum effectiveness. 
+
+### Leveling Up
+
+This one's important. You don't level up like normal anymore in Path of the Dovahkiin. Instead, [Gold is XP](https://www.nexusmods.com/skyrimspecialedition/mods/20084) is used to... well, make gold into XP. When you sleep and have acquired enough gold, you'll get the option to increase whichever skills you choose. This allows you to pick exactly which direction you want to build your character into. You'll level up quickly until about level 20 or so, and then level ups will start taking longer and longer to receive. Gold is XP also counts gold you receive from selling loot, so keep that in mind. Note that because this mod is included, it's near impossible to max every skill to 100. You'll have to choose carefully and specialize to build your character.
+
+### The Enemy Mods
+
+In general you'll find that enemy variety and quantity is significantly increased thanks to [Increased Enemy Spawns](https://www.nexusmods.com/skyrimspecialedition/mods/2470) and [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017). They've also been beefed up by [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/2470). Dragons are handled by [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/32211). That said, enemies aren't particularly more difficult, especially once your character build starts to come together. There's also a handful of mods included that increase animal/monster variety. 
+
+Last but not least, enemies respawn every 24 in-game hours thanks to [1 Day Respawn Time](https://www.nexusmods.com/skyrimspecialedition/mods/5394). Feel free to grind and master dungeons to your heart's content!
+
+### The Magic Mods
+
+[Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839) and [Elemental Destruction Magic](https://www.nexusmods.com/skyrimspecialedition/mods/440) make up the magic package for Path of the Dovahkiin. Most spells have been overhauled and Triumvirate/EDM allow for most variety in spells and new builds based on those spells.
+
+### The Dungeons
+
+For your enjoyment you'll find [Hammet's Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/12186), [Forgotten Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/449), [More Bandit Camps](https://www.nexusmods.com/skyrimspecialedition/mods/1994), [Dungeons - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/51798), and [Immersive Dungeons](https://www.nexusmods.com/skyrimspecialedition/mods/16706) available to explore and conquer.
+
+### Loot, Loot, and More Loot
+
+No ARPG would be complete without an absolutely insane amount of loot. POTD accomplishes this by using [Halgari's RPG Loot](https://www.nexusmods.com/skyrimspecialedition/mods/37736), which provides over *one million* unique pieces of armor and weapons you can collect and use. [GOLD](https://www.nexusmods.com/skyrimspecialedition/mods/1796), [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342), and [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308) round out the loot package by increasing the amount you'll find while dungeon delving.
+
+To counterbalance the increased amount of loot, [Trade & Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081) is used to increase the price of items in shops and decrease the amount of gold your loot sells for.
+
+Last but not least, if you're feeling particularly brave, a tweaked version of [MILK](https://www.nexusmods.com/skyrimspecialedition/mods/15876) is included that pulls from the Halgari's RPG Loot pool to give you random sets if items, gold, and more.
+
+Last but not least, there are a couple of mods that add hidden treasures throughout the world that you can find.
 
 ## Bug Reporting, Github, and You
 
@@ -195,7 +233,7 @@ While we have tried out best to eliminate as many bugs and inconsistencies as po
 To report a bug, follow these steps:
 
 1.  Login to [Github](https://github.com/) or create an account as necessary.
-2.  Open this link: [Click Here!](https://github.com/ForgottenGlory/Living-Skyrim-3/issues/new/choose)
+2.  Open this link: [Click Here!](https://github.com/ForgottenGlory/POTD/issues/new/choose)
 3.  Click the green button that says "Get Started" in the line next to "Bug Report".
 4.  Input a title and fill out the form in the large text box. If you need to attach a screenshot, it can be dragged from your computer to the Github post to insert it.
 5.  When you have filled out the form completely, click the green "Submit new issue" button.
