@@ -8,10 +8,10 @@ If you're here, it means you've been recognized as friendly, active, and helpful
 You as a member of staff are a representative of the entire community. If you are here, then you've already displayed the three pillars of staff etiquette:
 
 1.  Helpful: You provide assistance to users when they need it and are willing to help troubleshoot issues.
-
+    
 2.  Friendly: You are courteous, respectful, and genuine.
 
-Active: You are active within the Discord server, meaning you send messages frequently and freely without prompting and respond when queried.
+3. Active: You are active within the Discord server, meaning you send messages frequently and freely without prompting and respond when queried.
 
 ## Staff Channels
 Being staff gives you some sweet perks, including access to the entire range of staff channels on the Discord server. Here's what they are and their purpose:
