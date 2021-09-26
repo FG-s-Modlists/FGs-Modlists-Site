@@ -522,7 +522,7 @@ Click here to visit the [Performance Optimizations](/livingskyrim/performancegui
   - DwarfDude
   - Qwerrecd
   - Timboman
-  - Vyktory
+  - Pyrasaurus
   - Total
   - Dispo
   - Dracosaber
