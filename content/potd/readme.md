@@ -272,10 +272,6 @@ You'll need to download this manually and put it in your downloads folder. The m
 
 ### Gameplay Issues
 
-#### My character gets stuck when dodging!
-
-This is a known issue with TUDM. Press the Dodge Style Toggle key (Your \ | key, by default) and your character should resume moving.
-
 #### “Can I access RaceMenu after character creation?”
 
 Only if you are not changing your character’s gender or race. Changing gender/race will cause issues with powers and passive buffs your character has.
