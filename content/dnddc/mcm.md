@@ -116,6 +116,9 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
 - Base Settings
   - Click "[Debug] Reset All Papyrus Storages"
   - Config Key: Set this to something you'll never press, like Insert.
+- Customization Npc
+  - Equipment for Naked Submissive
+    - Allow Re-Equip: Disabled
 ### SexLab
 - Sex Diary
   - Sexuality: Pick your character’s preference.
