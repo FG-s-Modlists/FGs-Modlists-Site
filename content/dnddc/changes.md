@@ -4,7 +4,7 @@ weight: 4
 layout: "dnddcbase"
 ---
 
-### 9/30/2021 2.2.0
+### 10/7/2021 2.2.0
 #### Minor
 - Mod Updates
   - Lux 3.2
@@ -16,6 +16,7 @@ layout: "dnddcbase"
   - SLSF Comments 3.0
   - SLSO 1.73b9
   - Estrus Chaurus 4.39
+  - Battle Fuck 10-5-2021
 - Fixes
   - See [closed Github issues for 2.2.0](https://github.com/ForgottenGlory/Dungeons-Deviousness/milestone/9?closed=1)
 - Additions

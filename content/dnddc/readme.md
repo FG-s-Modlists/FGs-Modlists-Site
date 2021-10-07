@@ -4,7 +4,7 @@ weight: 1
 layout: "dnddcbase"
 ---
 
-Current version: 9/30/2021 2.2.0
+Current version: 10/7/2021 2.2.0
 
 ## Before You Get Started
 
