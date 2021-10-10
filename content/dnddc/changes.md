@@ -4,6 +4,13 @@ weight: 4
 layout: "dnddcbase"
 ---
 
+### 10/10/2021 2.2.1
+#### Incremental
+- Mod Updates
+  - ENBSeries v463
+- Fixes
+  - Fixed Helgen inn gold cost text
+
 ### 10/7/2021 2.2.0
 #### Minor
 - Mod Updates
