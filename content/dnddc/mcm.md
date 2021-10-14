@@ -4,7 +4,7 @@ weight: 3
 layout: "dnddcbase"
 ---
 
-Current MCM Document Version: 7/25/2021 2.0.1
+Current MCM Document Version: 10/7/2021 2.2.0
 
 {{< tip "warning" >}}
 **WARNING!**
@@ -116,16 +116,21 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
 - Base Settings
   - Click "[Debug] Reset All Papyrus Storages"
   - Config Key: Set this to something you'll never press, like Insert.
+- Customization Npc
+  - Equipment for Naked Submissive
+    - Allow Re-Equip: Disabled
 ### SexLab
 - Sex Diary
   - Sexuality: Pick your character’s preference.
 - Rebuild & Clean
   - Click Import Settings, then exit the MCM and wait until you see a message stating "Creature Animations Installed" before continuing.
+  - For slower computers: Wait an additional 30-60 seconds ("Creature Animations Installed" may show a second time), then continue.
 ### SexLab Survival
 - Settings
   - Click Import Settings.  When it says Actioning Settings, exit the MCM, then wait for a popup to appear saying "SLS: Import settings complete".
 - Settings
   - Map & Compass Mechanics: Disabled
+- Exit the MCM and wait for "SLS: Pickpocketing Lists Updated" message to appear before continuing.
 ### Simply Balanced
 - Save & Load
   - Click Load Custom Settings, confirm, then wait for it to say "Settings loaded."

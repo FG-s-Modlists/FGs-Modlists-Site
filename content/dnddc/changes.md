@@ -4,6 +4,40 @@ weight: 4
 layout: "dnddcbase"
 ---
 
+### 10/10/2021 2.2.1
+#### Incremental
+- Mod Updates
+  - ENBSeries v463
+- Fixes
+  - Fixed Helgen inn gold cost text
+
+### 10/7/2021 2.2.0
+#### Minor
+- Mod Updates
+  - Lux 3.2
+  - Billyy's SLAL Animations 4.8
+  - ABC 2.30
+  - CO More Creatures 1.8
+  - SexLab Beta 9
+  - SL Parasites 2021-7-31
+  - SLSF Comments 3.0
+  - SLSO 1.73b9
+  - Estrus Chaurus 4.39
+  - Battle Fuck 10-5-2021
+- Fixes
+  - See [closed Github issues for 2.2.0](https://github.com/ForgottenGlory/Dungeons-Deviousness/milestone/9?closed=1)
+- Additions
+  - Anuketh Greek Goddesses MegaPack - Standalone Followers SE 1.0
+  - Easter Egg 4
+  - SL Widgets
+- Removals
+  - Toccata
+- Replacements
+  - Alternate Start -> Alternate Perspective
+- Other
+  - Regenerated DynDOLOD and Occlusion.
+  - Updated MCM document
+
 ### 8/28/21 2.1.1
 #### Incremental
 - Fixes
