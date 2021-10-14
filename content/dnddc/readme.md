@@ -220,7 +220,7 @@ The hard part is now over. Carry on, the end is in sight!
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 ### The MCM Settings
-1. Consult the D&DDC MCM Configuration document and follow all listed steps. This step is required if you want the list to work properly.
+1. Consult the [D&DDC MCM Configuration document](/dnddc/mcm) and follow all listed steps. This step is required if you want the list to work properly.
 2. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
 {{< tip "warning" >}}
