@@ -418,11 +418,11 @@ Yes, but remember that if you need to update the list you will have to download 
 
 #### “The D&DDC DynDOLOD Output fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: D&DDC DynDOLOD 2.0.0
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [D&DDC DynDOLOD 2.2.0](https://drive.google.com/file/d/1wV1aOVPg_6LuCsG0OUhosEP9V38594yf/view?usp=sharing)
 
 #### “The D&DDC SSELODGen Output fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: D&DDC SSELODGen 2.0.0
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [D&DDC SSELODGen 2.0.0](https://drive.google.com/file/d/1ojSXTRem8AGD9IvTqIdvuo-Q-GbM8GUo/view?usp=sharing)
 
 ### Gameplay Issues
 #### "I get stuck in certain animations!"

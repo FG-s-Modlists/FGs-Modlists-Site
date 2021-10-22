@@ -4,6 +4,31 @@ weight: 4
 layout: "dnddcbase"
 ---
 
+### 10/21/2021 2.3.0
+#### Minor
+- Mod Updates
+  - Fill Her Up Baka Edition 1.6
+  - AVA 5.4.9
+- Fixes
+  - See [closed Github issues for 2.3.0](https://github.com/ForgottenGlory/Dungeons-Deviousness/milestone/10?closed=1)
+- Additions
+  - Vanargand Animations - Sneak Idle Walk and Run
+  - Vanargand Animations - Sneak Archery
+  - Better Stealing
+  - Suspicious City Guards
+  - Harder Lock Picking
+  - Easter Egg 5 (optional enable)
+  - JK's Skyrim
+  - JK's Skyrim + MME Patch
+  - Transformative Elixirs
+  - Thiccum Up Bodyslide Preset
+  - A number of community-made RaceMenu presets
+- Removals
+  - Sneak Tools SE
+  - S'hani
+- Other
+  - Updated Prebuilt Bodyslides
+
 ### 10/10/2021 2.2.1
 #### Incremental
 - Mod Updates
