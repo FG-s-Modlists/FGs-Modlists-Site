@@ -153,7 +153,7 @@ If you are updating Path of the Dovahkiin, the process is very similar to instal
 {{< tip "warning" >}}
 **WARNING!**
 
-**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#ls-announcements` channel on the Living Skyrim Discord server before updating.**
+**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#potd-announcements` channel on the Discord server before updating.**
 {{< /tip >}} 
 
 1. Run Wabbajack.exe.
