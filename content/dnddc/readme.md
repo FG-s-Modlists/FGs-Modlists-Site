@@ -4,7 +4,7 @@ weight: 1
 layout: "dnddcbase"
 ---
 
-Current version: 7/25/2021 2.0.1
+Current version: 10/10/2021 2.2.1
 
 ## Before You Get Started
 
@@ -220,7 +220,7 @@ The hard part is now over. Carry on, the end is in sight!
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 ### The MCM Settings
-1. Consult the D&DDC MCM Configuration document and follow all listed steps. This step is required if you want the list to work properly.
+1. Consult the [D&DDC MCM Configuration document](/dnddc/mcm) and follow all listed steps. This step is required if you want the list to work properly.
 2. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
 {{< tip "warning" >}}
@@ -313,7 +313,7 @@ But, as with many things in this list, the Milk Economy comes at a cost. [Milk A
 ### Character Creation
 True to its name, character creation in D&DDC feels a lot like filling out a character sheet for a traditional, tabletop roleplaying game. You'll assign attribute points using [AVA](https://www.nexusmods.com/skyrimspecialedition/mods/23329), choose a backstory with [ELSA](https://www.nexusmods.com/skyrimspecialedition/mods/23126), have a bonus based on your gender and race from [GABI](https://www.nexusmods.com/skyrimspecialedition/mods/23145) and [Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686), and even pick a class for your character with [Classic Classes & Birthsigns Reimagined](https://www.nexusmods.com/skyrimspecialedition/mods/41298).
 
-To fit the theme of D&DDC, you'll also find that [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrimspecialedition/mods/272) has been heavily modified and augmented with [New Beginnings](https://www.nexusmods.com/skyrimspecialedition/mods/4939) and [Content Consumer's Alternate Starts](https://www.loverslab.com/files/file/2836-content-consumers-alternate-starts), both of which have also been heavily modified to restrict the available options. No matter which start you pick, you'll start with next to nothing or, if you start with anything, it'll be in a dangerous or highly compromised position.
+To fit the theme of D&DDC, you'll also find that [Alternate Perspective](https://www.nexusmods.com/skyrimspecialedition/mods/50307) has been heavily modified to fit the theme of the list. Many items have been removed and you'll no longer be able to select a starting point. You will always start in Helgen, ready to begin your adventure. Reading the Alternate Perspective mod page for more details about how it modifies the start of the game and the main quest is highly recommended.
 
 Additionally, quite a few RaceMenu presets are available to choose from should you find inspiration for a character lacking. Some of them won't come out right unless you load the head separately using the Sculpt menu of RaceMenu, so if something looks weird, it's probably that.
 
@@ -418,11 +418,11 @@ Yes, but remember that if you need to update the list you will have to download 
 
 #### “The D&DDC DynDOLOD Output fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: D&DDC DynDOLOD 2.0.0
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [D&DDC DynDOLOD 2.2.0](https://drive.google.com/file/d/1wV1aOVPg_6LuCsG0OUhosEP9V38594yf/view?usp=sharing)
 
 #### “The D&DDC SSELODGen Output fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: D&DDC SSELODGen 2.0.0
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [D&DDC SSELODGen 2.0.0](https://drive.google.com/file/d/1ojSXTRem8AGD9IvTqIdvuo-Q-GbM8GUo/view?usp=sharing)
 
 ### Gameplay Issues
 #### "I get stuck in certain animations!"

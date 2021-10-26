@@ -166,6 +166,7 @@ Create a backup in MO2 of the following mods:
 - TexGen Output
 - DynDOLOD Output
 - Occlusion Output
+- Paper Maps SE V1.1
 
 #### Step 2: Backup The List
 
@@ -371,7 +372,8 @@ Make sure Occlusion is the only thing checked.
 
 #### Step 9: Restore Modlist Backups
 
-Restore the backups you made of the mod list and plugin list you made at the beginning of this process.
+Restore the backups you made of the mod *list* and plugin *list* you made at the beginning of this process.
+Restore the backup you made of the Paper Maps SE V1.1 mod.
 
 #### Step 10: Sanity Check
 After completion, you should have an *empty* and *disabled* Grass Cache mod. The rest of the folders you emptied earlier should have the new files you generated within them.
