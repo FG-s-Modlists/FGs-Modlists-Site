@@ -13,7 +13,7 @@ ForgottenGlory's flagship modlist, Living Skyrim, is a full-featured overhaul of
 Dungeons & Deviousness is a NSFW Skyrim SE modlist intended to be fully playable with a semi-hardcore survival experience included. Rather than a screenshot simulator or lightweight add-on to vanilla Skyrim, Dungeons & Deviousness seeks to be as intrusive as possible in the systems present in Skyrim and overhaul them to fit the theme. The Director's Cut is a refined and rebuilt version of the list.
 
 [![POTD Logo](/images/POTDSmallLogo.png)](potd)
-# [Path of the Dovahkiin (BETA)](potd)
+# [Path of the Dovahkiin](potd)
 
 Path of the Dovahkiin is the ultimate ARPG-in-Skyrim experience. Fast combat, Vokriinator Black, hordes of enemies, infinite loot variety, replayable dungeons, performant and pretty graphics, and of course, endless character build theorycrafting. What path will you choose, Dovahkiin?
 {{< /column >}}
