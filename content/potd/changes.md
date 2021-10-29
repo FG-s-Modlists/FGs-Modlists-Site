@@ -4,6 +4,11 @@ weight: 4
 layout: "potdbase"
 ---
 
+### Release 1.0.0 10/28/2021
+#### Incremental
+- Lots of back-end changes based on tester feedback.
+- Added Voidgate.
+
 ### Beta 3 10/15/2021
 #### Incremental
 - Mod Updates
