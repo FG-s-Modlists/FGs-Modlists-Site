@@ -51,6 +51,7 @@ As for RAM, 16GB is the minimum recommended specification for running the list. 
 - [Path of the Dovahkiin Bug Tracker](https://github.com/ForgottenGlory/POTD/issues)
 - [Path of the Dovahkiin Discord](https://discord.com/invite/NdmGpGzqg8)
 - [Path of the Dovahkiin Patreon](https://www.patreon.com/LivingSkyrim)
+- [Path of the Dovahkiin Build Planner](https://thehajo.github.io/PotD/)
 
 ### Screenshots
 [Path of the Dovahkiin Screenshot Gallery](/potd/screenshots)
