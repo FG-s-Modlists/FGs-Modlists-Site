@@ -190,7 +190,7 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
 {{< tip "warning" >}}
 **WARNING!**
 
-**The following should only be configured after you have selected your Alternate Start and loaded into the game world or have escaped the Abandoned Prison.**
+**The following should only be configured after you have exited the starting room and entered into Helgen proper.**
 {{< /tip >}} 
 
 ### Realistic Needs
