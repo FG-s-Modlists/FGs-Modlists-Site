@@ -4,6 +4,11 @@ weight: 4
 layout: "dnddcbase"
 ---
 
+### 10/31/2021 2.3.1
+#### Incremental
+- Mod Updates
+  - SLSO 1.7.4
+
 ### 10/21/2021 2.3.0
 #### Minor
 - Mod Updates
