@@ -151,6 +151,12 @@ The default ENB included with Path of the Dovahkiin is [Culminated ENB](https://
 ## Updating Path of the Dovahkiin
 If you are updating Path of the Dovahkiin, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Updating may delete any saves that are present. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
 
+{{< tip "warning" >}}
+**WARNING!**
+
+**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#potd-announcements` channel on the Discord server before updating.**
+{{< /tip >}} 
+
 1. Run Wabbajack.exe.
 2. At the bottom of the window, click Browse Modlists.
 3. Locate the Path of the Dovahkiin card and click the download button to download the installer file.
