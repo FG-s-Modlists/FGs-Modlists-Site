@@ -129,7 +129,7 @@ By default, D&DDC includes Rudy's ENB for Obsidian Weathers. It is a good balanc
 
 That said, ENB can put a very heavy strain on weaker computers. If you would like to turn off ENB, all you have to do is press Shift + F12 while in-game. It will disable ENB for the duration of your play session. 
 
-If you would like to change the ENB used in the list, place any files your chosen preset needs into the  [D&DDC Install Location]\Stock Game\ folder. If you change to an ENB preset other than Rudy's, you should disable both of the Rudy's-related fixes in the left pane of Mod Organizer 2.
+If you would like to change the ENB used in the list, place any files your chosen preset needs into the `[Your D&DDC Install Folder]\Stock Game\` folder. If you change to an ENB preset other than Rudy's, you should disable both of the Rudy's-related fixes in the left pane of Mod Organizer 2.
 
 Further support for changing ENB is not provided, you should be certain you know what you're doing before changing ENB.
 
@@ -139,7 +139,7 @@ If you are updating D&DDC, the process is very simple. Before you update, you sh
 {{< tip "warning" >}}
 **WARNING!**
 
-**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#dnddc-announcements` channel on the D&DDC Discord server before updating.**
+**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#dnddc-announcements` channel on the [ForgottenGlory's Modlists Discord server](https://discord.gg/NdmGpGzqg8) before updating.**
 {{< /tip >}} 
 
 1. Run Wabbajack.exe.
@@ -176,7 +176,7 @@ If you don’t really care what preset you use and/or are fine with the Slim2Thi
 1. Close MO2 if you have it open.
 2. Download this zip file: [D&DDC Prebuilt Bodyslides](https://drive.google.com/file/d/1RFxINLIjvPaG6d8o68QCXwlCPTxqWzx3/view?usp=sharing)
 3. Open the ZIP file.
-4. Copy everything inside the zip file (the meshes folder in its entirety, including the folder itself) into `[Install Drive]\D&DDC\mods\BodyslideOutfitStudio - Overwrite`
+4. Copy everything inside the zip file (the meshes folder in its entirety, including the folder itself) into `[Your D&DDC Install Folder]\mods\BodyslideOutfitStudio - Overwrite`
 5. Reopen MO2.
 6. That’s it, you’re done!
 
