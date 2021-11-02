@@ -24,6 +24,11 @@ layout: "potdbase"
 #### Random Normal Attack
 - NPC Activate: Enabled
 
+#### Sets of Skills
+- Settings
+  - Enable Hardcore Mode: Enabled
+  - Number of Classes you can master: 2
+
 {{< tip >}}
 **Important!** 
 

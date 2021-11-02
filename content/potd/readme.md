@@ -20,14 +20,14 @@ Sections labeled important like this one will tell you when you need to pay extr
 {{< /tip >}} 
 
 - You are not required to have Nexus Premium to install Path of the Dovahkiin , however, it is highly recommended. Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
-- As of version 1.0.0, Path of the Dovahkiin requires [an amount]GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
+- As of version 1.0.0, Path of the Dovahkiin requires 158GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
 - To maximize performance, both Skyrim: Special Edition and Path of the Dovahkiin should be installed on the same hard drive, ideally an SSD/NVMe. This is not required, just recommended if you want the smoothest gameplay experience.
 - If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the POTD Modlist Spreadsheet.
 - If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the Important Mods You Need to Know About of this document.
 - Autosaves for Path of the Dovahkiin are disabled. You should make your quicksave button your best friend (usually, the F5 key).
 - Continuing the last point, it is always better to save **before** entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so.
 - Wabbajack does support updating an existing installation of a modlist. However, as part of this process, it does delete files that don't match with what it is installing. This includes RaceMenu presets, mods you've added/changed, and possibly even save files. It is a good practice to keep backups of your save files so that you can update safely. Saves are stored within the folder you install Path of the Dovahkiin to.
-- Path of the Dovahkiin has been updated such that NPCs and player characters are never nude. Underwear is worn by all NPCs and the player character and cannot be unequipped.
+- In Path of the Dovahkiin, NPCs and player characters are never nude. Underwear is worn by all NPCs and the player character and cannot be unequipped.
 - Adding to, changing, or removing from Path of the Dovahkiin is not supported. See the Adding to Path of the Dovahkiin section of this document for more details.
 - As many common issues as I could find have been documented in the Common Issues section of this document. Refer to this before asking for support.
 - If you want some tips related to getting started playing the list, refer to the Getting Started in Path of the Dovahkiin section of this document.
@@ -51,6 +51,7 @@ As for RAM, 16GB is the minimum recommended specification for running the list. 
 - [Path of the Dovahkiin Bug Tracker](https://github.com/ForgottenGlory/POTD/issues)
 - [Path of the Dovahkiin Discord](https://discord.com/invite/NdmGpGzqg8)
 - [Path of the Dovahkiin Patreon](https://www.patreon.com/LivingSkyrim)
+- [Path of the Dovahkiin Build Planner](https://thehajo.github.io/PotD/)
 
 ### Screenshots
 [Path of the Dovahkiin Screenshot Gallery](/potd/screenshots)
@@ -60,7 +61,7 @@ As for RAM, 16GB is the minimum recommended specification for running the list. 
 ### Steam & SSE Setup
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
 
-First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files, Program Files (x86), or Desktop folders. Having the Steam library or your copy of Skyrim Special Edition in either of these folders is known to cause issues. Instructions on how to move your Steam library can be found elsewhere on the internet.
+First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files, Program Files (x86), Desktop, or Documents folders. Having the Steam library or your copy of Skyrim Special Edition in either of these folders is known to cause issues. For more information about how this can be problematic and how Windows protects folders, consult this link: [Click Me!](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/controlled-folders?view=o365-worldwide) Instructions on how to move your Steam library can be found elsewhere on the internet.
 
 Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to this state, follow these steps:
 
@@ -90,7 +91,7 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 2. Ensure that these two folders are not within any of the following folders: your Skyrim Special Edition install folder, your Program Files folder, your Program Files (x86) folder, or the Desktop.
 3. Additionally, ensure that these two folders are not contained within each other.
 4. Ensure that both the Wabbajack and Path of the Dovahkiin folders are completely empty. If they are not empty, make them empty.
-5. Download the latest version of Wabbajack from the Wabbajack website: Wabbajack.
+5. Download the latest version of Wabbajack from the Wabbajack website: [Wabbajack](https://www.wabbajack.org/#/).
 6. Place the Wabbajack.exe file you just downloaded into the folder you created earlier called Wabbajack.
 
 {{< tip "warning" >}}
@@ -149,6 +150,12 @@ The default ENB included with Path of the Dovahkiin is [Culminated ENB](https://
 
 ## Updating Path of the Dovahkiin
 If you are updating Path of the Dovahkiin, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Updating may delete any saves that are present. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
+
+{{< tip "warning" >}}
+**WARNING!**
+
+**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#potd-announcements` channel on the Discord server before updating.**
+{{< /tip >}} 
 
 1. Run Wabbajack.exe.
 2. At the bottom of the window, click Browse Modlists.
@@ -252,7 +259,9 @@ Don't forget to check back on your report periodically just in case we request m
 
 #### “A mod failed to download.”
 
-The short answer: wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Path of the Dovahkiin is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
+First, you can also try enabling the Network Workaround option in the settings for Wabbajack to see if it will download the file after enabling that setting.
+
+Otherwise, wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Path of the Dovahkiin is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
 
 #### “Wabbajack says I’m out of requests.”
 
@@ -275,10 +284,6 @@ You'll need to download this manually and put it in your downloads folder. The m
 #### “Can I access RaceMenu after character creation?”
 
 Only if you are not changing your character’s gender or race. Changing gender/race will cause issues with powers and passive buffs your character has.
-
-#### “Can I change my attributes after starting?”
-
-No. The choices you make are permanent. You can increase your attributes through various methods, refer to this modpage for more details: AVA
 
 #### “My screen is zoomed in or weirdly off-center.”
 
