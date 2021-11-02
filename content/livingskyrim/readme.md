@@ -190,7 +190,7 @@ If you are updating Living Skyrim, the process is very similar to installing the
 {{< tip "warning" >}}
 **WARNING!**
 
-**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#ls-announcements` channel on the Living Skyrim Discord server before updating.**
+**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#ls-announcements` channel on [ForgottenGlory's Modlists Discord server](https://discord.gg/NdmGpGzqg8) before updating.**
 {{< /tip >}} 
 
 1. Run Wabbajack.exe.
