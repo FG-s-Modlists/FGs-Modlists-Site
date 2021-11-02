@@ -133,7 +133,13 @@ If you would like to change the ENB used in the list, place any files your chose
 Further support for changing ENB is not provided, you should be certain you know what you're doing before changing ENB.
 
 ## Updating D&DDC
-If you are updating D&DDC, the process is very simple. Before you update, you should at a minimum backup your saves. Updating will delete any saves that are present. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
+If you are updating D&DDC, the process is very simple. Before you update, you should at a minimum backup your saves. Updating may delete any saves that are present. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
+
+{{< tip "warning" >}}
+**WARNING!**
+
+**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#dnddc-announcements` channel on the D&DDC Discord server before updating.**
+{{< /tip >}} 
 
 1. Run Wabbajack.exe.
 2. At the bottom of the window, click Browse Modlists.
@@ -176,21 +182,23 @@ If you don’t really care what preset you use and/or are fine with the Slim2Thi
 ### Build Your Own
 If you want to build them yourself, this is a fairly straightforward process, but it can be a bit time consuming.
 
-Before you get started, if you have your own personal BodySlide preset that you like, drop the XML file into `[Install Drive]\D&DDC\mods\Custom Presets\Caliente Tools\BodySlide\SliderPresets alongside “Summer.xml”.`
+Before you get started, if you have your own personal BodySlide preset that you like, drop the XML file into `[Your D&DDC Install Folder]\mods\Custom Presets\Caliente Tools\BodySlide\SliderPresets alongside “Summer.xml”.`
 
-If you receive an error from Bodyslide stating "No read/write permission for game data path!" this can be rectified by running MO2 (and therefore Bodyslide) as an Administrator. 
+When you open BodySlide for the first time, you may see an error message from Bodyslide stating "No read/write permission for game data path!". The steps below include a fix for this.
 
-One more thing: if you get an error about BodySlide not being able to find the output path, click on the Settings button in BodySlide, click on the “Advanced” button, and set the Output Path to `[Install Drive]\Dungeons & Deviousness\mods\BodyslideOutfitStudio - Overwrite.`
+One more thing: if you get an error about BodySlide not being able to find the output path, click on the Settings button in BodySlide, click on the “Advanced” button, and set the Output Path to `[Your D&DDC Install Folder]\mods\BodyslideOutfitStudio - Overwrite.`
 
 1. Launch BodySlide from MO2.
-2. Click on the magnifying glass icon near the top of the BodySlide Window and select “Choose Groups…”
-3. Put a checkmark into ONLY “0. DNDDC Bodies”.
-4. From the Preset dropdown, select your preferred preset. I’ve included a couple of extras on top of the default CBBE ones, or you can make your own.
-5. Make sure that the “Build Morphs” checkbox is checked at the bottom of the BodySlide window.
-6. Hold the CTRL key on your keyboard and click “Batch Build…”
-7. Click Build on the window that appears.
-8. Select your `[Install Drive]\Dungeons & Deviousness\mods\BodyslideOutfitStudio - Overwrite` folder in the window that appears.
-9. The Bodyslides are broken up into groups: "0. DNDDC Bodies,” “1. DNDDC Clothes”, “2. DNDDC Armors”, and "3. DNDDC Bikinis". Repeat the above steps 3 through 8 for all of the groups. It's easier for your computer to process smaller groups rather than trying to do them all at once. It also means that you can choose a different preset for each category, if you want the shape of the body to change based on the kind of outfit being worn. (For example: MelaRockingArmor/MelaRockingOutfit for the Armors and Clothes, MelaRockingPhysique for the bodies). Note that if you build the groups using different presets, you may experience some misalignment of equipped items if mixing and matching. (For example: Devious Devices piercings positioned based on your body preset may appear to be floating in the wrong place when wearing armour built to a different preset.) This is purely visual and does not interfere with functionality.
+2. Click on the Settings button in BodySlide, and change the Game Data Path to point to `[Your D&DDC Install Folder]\Stock Game\Data\`. If you still get the same "No read/write permission for game data path!" error after changing the path, close BodySlide and MO2 and try launching MO2 as administrator.
+3. Still in the Settings menu in BodySlide, click to expand the “Advanced” dropdown, and set the Output Path to `[Your D&DDC Install Folder]\mods\BodyslideOutfitStudio - Overwrite.`
+4. Click on the magnifying glass icon near the top of the BodySlide Window and select “Choose Groups…”
+5. Put a checkmark into ONLY “0. DNDDC Bodies”.
+6. From the Preset dropdown, select your preferred preset. I’ve included a couple of extras on top of the default CBBE ones, or you can make your own.
+7. Make sure that the “Build Morphs” checkbox is checked at the bottom of the BodySlide window.
+8. Hold the CTRL key on your keyboard and click “Batch Build…”
+9. Click Build on the window that appears.
+10. Select your `[Your D&DDC Install Folder]\mods\BodyslideOutfitStudio - Overwrite.` folder in the window that appears.
+11. The Bodyslides are broken up into groups: "0. DNDDC Bodies,” “1. DNDDC Clothes”, “2. DNDDC Armors”, and "3. DNDDC Bikinis". Repeat the above steps 4 through 10 for all of the groups, **one at a time and in order**. It's easier for your computer to process smaller groups rather than trying to do them all at once. It also means that you can choose a different preset for each category, if you want the shape of the body to change based on the kind of outfit being worn. (For example: MelaRockingArmor/MelaRockingOutfit for the Armors and Clothes, MelaRockingPhysique for the bodies). Note that if you build the groups using different presets, you may experience some misalignment of equipped items if mixing and matching. (For example: Devious Devices piercings positioned based on your body preset may appear to be floating in the wrong place when wearing armour built to a different preset.) This is purely visual and does not interfere with functionality.
 
 ### A Note About Presets
 If you have your own favorite character face/head preset, drop the JSLOT file into `C:\Dungeons & Deviousness\mods\Custom Presets\SKSE\Plugins\CharGen\Presets` alongside Anna.jslot and Summer.jslot. It will be available in RaceMenu the next time you go to make a character. Make sure to back this up before updating the list as updating will erase any added files like this. Adding presets (whether they be BodySlide or RaceMenu) does not void support for Dungeons & Deviousness.
