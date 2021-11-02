@@ -139,7 +139,7 @@ If you are updating D&DDC, the process is very simple. Before you update, you sh
 {{< tip "warning" >}}
 **WARNING!**
 
-**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#dnddc-announcements` channel on the [ForgottenGlory's Modlists Discord server](https://discord.gg/NdmGpGzqg8) before updating.**
+**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#dnddc-announcements` channel on [ForgottenGlory's Modlists Discord server](https://discord.gg/NdmGpGzqg8) before updating.**
 {{< /tip >}} 
 
 1. Run Wabbajack.exe.
