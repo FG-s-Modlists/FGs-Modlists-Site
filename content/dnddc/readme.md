@@ -63,6 +63,7 @@ Skyrim is very heavy on processors. Generally, anything above 3GHz should be fin
 - [Dungeons & Deviousness Discord](https://discord.com/invite/NdmGpGzqg8)
 - [Dungeons & Deviousness Patreon](https://www.patreon.com/LivingSkyrim)
 - [D&DDC Keymap](http://www.keyboard-layout-editor.com/#/gists/c83b53f8131ae9dc1df8c0fb15149743)
+- [D&DDC Widget Explanation](https://i.imgur.com/lQScKQa.jpg)
 
 ## Pre-Installation
 ### Steam & SSE Setup
