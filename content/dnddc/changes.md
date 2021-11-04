@@ -4,6 +4,13 @@ weight: 4
 layout: "dnddcbase"
 ---
 
+### 11/4/2021 2.3.2
+#### Incremental
+- Mod Updates
+  - BakaFactory ABC 2.32
+  - MME Scripts 2021-11-02
+  - Billyy's Animations 5.0
+
 ### 10/31/2021 2.3.1
 #### Incremental
 - Mod Updates
