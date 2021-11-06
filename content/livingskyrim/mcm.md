@@ -72,7 +72,6 @@ The choices you make in the CC&BR menu are permanent and cannot be changed witho
 - Activity
   - Ignore Special Furniture: Enabled
 - System
-  - Command Followers Hotkey: H
   - Followers Attack Hotkey: G
 
 #### I'm a Customer

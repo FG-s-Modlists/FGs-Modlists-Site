@@ -4,6 +4,35 @@ weight: 4
 layout: "lsbase"
 ---
 
+### 11/6/2021 3.6.0
+#### Minor
+- Mod Updates
+  - Alternate Perspective 2.4
+  - AVA 5.4.9
+  - ELSA 5.0.3
+  - IRIS  1.0.2
+  - EVE 2.3.0
+  - GABI 7.1.0
+  - Lux 3.5
+  - SPID 5.0.4
+  - JK's Mistveil Keep 1.0.2
+  - JK's Understone Keep 1.1.0
+  - Experience 2.0.0
+  - enbseries 465
+- Fixes
+  - See [closed Github issues for 3.6.0](https://github.com/ForgottenGlory/Living-Skyrim-3/milestone/14?closed=1)
+- Additions
+  - Fus Ro Don't
+  - JK's Temple of the Divines
+  - JK's Temple of Dibella
+  - JK's Temple of Kynareth
+  - eFPS - Exterior FPS Boost + Patches
+- Removals
+  - Jaxonz MCM Kicker
+  - Faster Mining Plus SE
+- Other
+  - Updated MCM document.
+
 ### 9/26/2021 3.5.1
 #### Incremental
 - Mod Updates
