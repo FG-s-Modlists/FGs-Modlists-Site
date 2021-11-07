@@ -425,6 +425,21 @@ You’ll need to download this manually and put it in your downloads folder. The
 
 You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [D&DDC SSELODGen 2.0.0](https://drive.google.com/file/d/1ojSXTRem8AGD9IvTqIdvuo-Q-GbM8GUo/view?usp=sharing)
 
+#### "MEGA hosted files fail to download."
+
+You'll need to download them mnaully and put them in your downloads folder. A list of all the MEGA hosted files are here:
+- [1420278612_SexLabParasitesSE2021-07-31](https://mega.nz/file/obZj0QKK#CcTaWCv4YqxFKKWF_bRs-uzih4_iFpU-AWIqvMhAhWM)
+- [AmorousAdventures 3.4 SE](https://mega.nz/#!bQoxnKZa!hb2QAHpKafYvw5NPY_eqDVi2AVAZ7-89NQkS6mR8Q6Y)
+- [Devious Devices SE & VR 5.1](https://mega.nz/file/3RkWmApB#U-0icSo9aEw4lV3kL2uxeSaScJmYPntFuKMg6B6ecmU)
+- [Deviously Cursed Loot SE 9.0](https://mega.nz/file/7ZMAXbQD#cPR5m0k8q5ZTcL8WtYSgpeZS5tOhlRzhY4hMiUOcCyY)
+- [SexLab Parasites CBBE SE and 3BBB Bodyslides V7](https://mega.nz/file/IWYFiKiD#ci8OcvnY_7fwSBtD_Ehm4_mAcShfFnwNgAzXLk0IL_g)
+- [Smooth DAR Combat Dodge](https://mega.nz/file/hbQ0yZoS#OhAKlalcXcW3GwzMI8k2vld3KSoOemX6nl4_nc-QxMY)
+- [Smooth Random Blocking Animation](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
+- [Smooth Random Magic idle Animation](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
+- [Smooth Random Sprint Animation](https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY)
+- [xLODGen.83](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
+- [ZaZ Animation Pack+ CBBE HDT V.8.0+SEREV3](https://mega.nz/file/WEgGDaCa#wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
+
 ### Gameplay Issues
 #### "I get stuck in certain animations!"
 
