@@ -421,6 +421,14 @@ You'll need to download this manually and put it in your downloads folder. The m
 
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [ENB Series](http://enbdev.com/download_mod_tesskyrimse.htm)
 
+#### "MEGA hosted files are failing to download."
+
+Download the files manually and put them in your downloads folder. A list of all the MEGA hosted files for the list are here:
+- [Smooth Random Blocking Animation](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
+- [Smooth Random Magic Idle Animation](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
+- [Smooth Random Sprint Animation](https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY)
+- [xLODGen.83](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
+
 ### Gameplay Issues
 
 #### “The Main Quest doesn’t proceed after retrieving the Dragonstone.”
