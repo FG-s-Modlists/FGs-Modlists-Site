@@ -97,6 +97,12 @@ Once the above steps are completed, launch Skyrim SE through Steam to create any
 
 Last, but certainly not least, make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
 
+{{< tip "warning" >}}
+**WARNING!**
+
+Currently, fresh installations of Skyrim Special Edition will be updated to an incompatable version for the lists to install. After you have a clean install of Skyrim Special Edition you will need to use the downgrade patcher featured **[HERE](https://www.nexusmods.com/skyrimspecialedition/mods/57618)** to ensure your Skyrim Special Edition install is the correct version before continuing with the steps in the Readme 
+{{< /tip >}}
+
 ### Wabbajack Preparations
 We’ll now setup the folders needed for the installation to proceed smoothly.
 

@@ -75,6 +75,7 @@ Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to 
 If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.
 {{< /tip >}}
 
+
 Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist.
 
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
@@ -83,6 +84,12 @@ Afterwards, you need to disable automatic updates for Skyrim to avoid a game upd
 Once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.
 
 Last, but certainly not least, make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
+
+{{< tip "warning" >}}
+**WARNING!**
+
+Currently, fresh installations of Skyrim Special Edition will be updated to an incompatable version for the lists to install. After you have a clean install of Skyrim Special Edition you will need to use the downgrade patcher featured **[HERE](https://www.nexusmods.com/skyrimspecialedition/mods/57618)** to ensure your Skyrim Special Edition install is the correct version before continuing with the steps in the Readme 
+{{< /tip >}}
 
 ### Wabbajack Preparations
 We’ll now setup the folders needed for the installation to proceed smoothly.
@@ -262,6 +269,14 @@ Don't forget to check back on your report periodically just in case we request m
 First, you can also try enabling the Network Workaround option in the settings for Wabbajack to see if it will download the file after enabling that setting.
 
 Otherwise, wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Path of the Dovahkiin is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
+
+#### "MEGA hosted files are failing to download."
+
+If MEGA downloads are either not downloading correctly or are frozen on the completed download page download the manually from the following links and place them in your POTD download folder:
+
+- [Smooth Random Blocking Animation](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
+- [Smooth Random Magic Idle Animation](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
+- [xLODGEN.84](https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg)
 
 #### “Wabbajack says I’m out of requests.”
 
