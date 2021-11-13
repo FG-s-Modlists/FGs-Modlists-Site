@@ -47,7 +47,7 @@ To ban someone, use this bot command, replacing things in brackets as appropriat
 
 To exile someone to Hotel Rule 11, use this bot command, replacing things in brackets as appropriate. Do not include the brackets.
 
-`!rolepersist [@Username] Rule 11 Breaker`
+`!rolepersist [@Username] Rule 11`
 
 ## User Notes
 
@@ -135,6 +135,16 @@ Here is a complete list of bot commands available to you:
 -   !hotelrule11 - Hotel Rule 11 meme
 
 -   !assign - Refers user to #role-assignment
+
+-   !dndkeymap - link to D&DDC keymap
+
+-   !dndbug - directs user to report D&DDC bug on github
+
+-   !scaling - information on adjusting windows display scaling for the modlists
+
+-   !skyrimae - information on Skyrim Anniversary Edition including a link to the downgrade patcher on nexus
+
+-   !maintenance - information on what the 'under maintenance' message means in Wabbajack
 
 If you want to recommend a command to be added to the list, just let me know and I'll get it done.
 
