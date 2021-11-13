@@ -86,6 +86,12 @@ Also make sure you have deleted or disabled any and all Creation Club content th
 ### Launching Skyrim
 Launch Skyrim SE to create any INI or registry entries the game needs. Immediately exit after the launcher has successfully selected a graphics preset for your hardware. The INIs will be overwritten by the ones included in the Wabbajack installer.
 
+{{< tip "warning" >}}
+**WARNING!**
+
+Currently, fresh installations of Skyrim Special Edition will be updated to an incompatable version for the lists to install. After you have a clean install of Skyrim Special Edition you will need to use the downgrade patcher featured **[HERE](https://www.nexusmods.com/skyrimspecialedition/mods/57618)** to ensure your Skyrim Special Edition install is the correct version before continuing with the steps in the Readme 
+{{< /tip >}}
+
 ### Wabbajack Preparations
 1. Download the latest version of Wabbajack. Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”.
