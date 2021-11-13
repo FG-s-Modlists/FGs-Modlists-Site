@@ -69,13 +69,7 @@ Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to 
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Manage > Browse Local Files), delete them.
 3. Install Skyrim: Special Edition.
 
-{{< tip "warning" >}}
-**WARNING!**
 
-Currently, fresh installations of Skyrim Special Edition will be updated to an incompatable version for the lists to install. After you have a clean install of Skyrim Special Edition you will need to use the downgrade patcher featured **[HERE](https://www.nexusmods.com/skyrimspecialedition/mods/57618)** to ensure your Skyrim Special Edition install is the correct version before continuing with the steps in the Readme 
-{{< /tip >}}
-
-{{< tip >}}
 **Protip:** 
 
 If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.
@@ -90,6 +84,12 @@ Afterwards, you need to disable automatic updates for Skyrim to avoid a game upd
 Once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.
 
 Last, but certainly not least, make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
+
+{{< tip "warning" >}}
+**WARNING!**
+
+Currently, fresh installations of Skyrim Special Edition will be updated to an incompatable version for the lists to install. After you have a clean install of Skyrim Special Edition you will need to use the downgrade patcher featured **[HERE](https://www.nexusmods.com/skyrimspecialedition/mods/57618)** to ensure your Skyrim Special Edition install is the correct version before continuing with the steps in the Readme 
+{{< /tip >}}
 
 ### Wabbajack Preparations
 We’ll now setup the folders needed for the installation to proceed smoothly.
