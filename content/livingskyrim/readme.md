@@ -56,7 +56,7 @@ If your PC is struggling to run Living Skyrim, see the Performance Optimizations
 - [Living Skyrim Patreon](https://www.patreon.com/LivingSkyrim)
 
 ### Screenshots
-[Living Skyrim Screenshot Gallery](/livingskyrim/screenshots)
+- [Living Skyrim Screenshot Gallery](/livingskyrim/screenshots)
 
 ### Videos
 - [LS3 Overview Video by TheMurlocKing](https://www.youtube.com/watch?v=af8UI_w6E20)

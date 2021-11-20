@@ -4,6 +4,12 @@ weight: 4
 layout: "dnddcbase"
 ---
 
+### 11/20/2021 2.3.3
+#### Incremental
+- Mod Updates
+  - Furniture Sex Framework 14.1
+  - BakaFactory ABC 11/14/21
+
 ### 11/4/2021 2.3.2
 #### Incremental
 - Mod Updates
