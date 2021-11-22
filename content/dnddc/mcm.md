@@ -112,6 +112,11 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
 - Enabled?: Enabled
 ### Powers Keyring
 - This is another one that you need to know exists. Powers Keyring lets you hide spells/powers from your magic menu and access all of the hidden ones by equipping the "Keyring" power and then using the Shout key (default Z). If your spell/power menu gets too cluttered, you should use this to clean it up a bit.
+### Schlongs of Skyrim
+- Smurf Average
+  - Werewolf: Disabled
+- VectorPlexus Regular
+  - Werewolf: Disabled
 ### Sex Lab - Sexual Fame
 - Base Settings
   - Click "[Debug] Reset All Papyrus Storages"

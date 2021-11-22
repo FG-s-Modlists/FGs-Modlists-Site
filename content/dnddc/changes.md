@@ -4,6 +4,18 @@ weight: 4
 layout: "dnddcbase"
 ---
 
+### 11/21/2021 2.3.4
+#### Incremental
+- Mod Updates
+  - Transformative Elixirs 1.1.0
+- Additions
+  - Administer Potions/Poisons to Friendly NPCs
+  - Inventory Functions SE
+  - (Optional Enable) Sovngarde - A Nordic Font
+- Other
+  - New characters now start nude. Some simple clothes can be acquired from the wardrobe in the starting room. The collar can be freely unequipped.
+  - Updated MCM document.
+
 ### 11/20/2021 2.3.3
 #### Incremental
 - Mod Updates
