@@ -169,7 +169,7 @@ The second is QuickLoot, which adds a Fallout 4 style loot menu to bodies, conta
 Lastly, [Gamepad++](https://www.nexusmods.com/skyrimspecialedition/mods/27007?tab=files) is included if you plan on playing the list with a controller. Reading the mod page for this mod is not optional if you're going to use it.
 
 ### ENB
-By default, Living Skyrim comes bundled with six ENB presets that you can choose between: Amon Reborn, Ominous, Pi-CHO, Re-Engaged, Silent Horizons, and TNT. ENB is turned on by default and the Silent Horizons preset is already enabled for you.
+By default, Living Skyrim comes bundled with six ENB presets that you can choose between: Culminated, Ominous, Pi-CHO, Re-Engaged, Silent Horizons, and TNT. ENB is turned on by default and the Culminated preset is already enabled for you.
 
 To switch between presets, launch ENB Organizer from within Mod Organizer 2. If you receive a message about ENB Organizer being unable to update, this is normal and can be safely ignored. Now, follow these instructions:
 
