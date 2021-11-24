@@ -89,7 +89,7 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 {{< tip "warning" >}}
 **WARNING!**
 
-Currently, fresh installations of Skyrim Special Edition will be updated to an incompatable version for the lists to install. After you have a clean install of Skyrim Special Edition you will need to use the downgrade patcher featured **[HERE](https://www.nexusmods.com/skyrimspecialedition/mods/57618)** to ensure your Skyrim Special Edition install is the correct version before continuing with the steps in the Readme 
+Currently, fresh installations of Skyrim Special Edition will be updated to an incompatable version for the lists to install. After you have a clean install of Skyrim Special Edition you will need to use the downgrade patcher featured **[HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=243513&game_id=1704)** to ensure your Skyrim Special Edition install is the correct version before continuing with the steps in the Readme 
 {{< /tip >}}
 
 ### Wabbajack Preparations
