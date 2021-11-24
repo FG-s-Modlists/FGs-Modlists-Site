@@ -1,6 +1,6 @@
 ---
 title: "Anniversary Edition Issues"
-weight: 4
+weight: 5
 layout: "faqbase"
 ---
 
