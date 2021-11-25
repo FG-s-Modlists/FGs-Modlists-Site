@@ -28,6 +28,7 @@ Sections labeled important like this one will tell you when you need to pay extr
 - Continuing the last point, it is always better to save **before** entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so.
 - Wabbajack does support updating an existing installation of a modlist. However, as part of this process, it does delete files that don't match with what it is installing. This includes RaceMenu presets, mods you've added/changed, and possibly even save files. It is a good practice to keep backups of your save files so that you can update safely. Saves are stored within the folder you install Path of the Dovahkiin to.
 - In Path of the Dovahkiin, NPCs and player characters are never nude. Underwear is worn by all NPCs and the player character and cannot be unequipped.
+- Path of the Dovahkiin only supports the English language. Changing the language is not supported.
 - Adding to, changing, or removing from Path of the Dovahkiin is not supported. See the Adding to Path of the Dovahkiin section of this document for more details.
 - As many common issues as I could find have been documented in the Common Issues section of this document. Refer to this before asking for support.
 - If you want some tips related to getting started playing the list, refer to the Getting Started in Path of the Dovahkiin section of this document.
@@ -68,6 +69,7 @@ Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to 
 1. In Steam, uninstall Skyrim: Special Edition (Right-click > Manage > Uninstall).
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Manage > Browse Local Files), delete them.
 3. Install Skyrim: Special Edition.
+4. Once installed, make sure it is set to English in Steam (Right Click > Properties > Language).
 
 {{< tip >}}
 **Protip:** 
