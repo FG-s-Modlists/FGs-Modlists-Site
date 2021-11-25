@@ -43,6 +43,7 @@ This modlist only functions correctly with female player characters.
 - Continuing the last point, it is always better to save before entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so.
 - Wabbajack does support updating an existing installation of a modlist. However, as part of this process, it does delete files that don't match with what it is installing. This includes RaceMenu presets, mods you've added/changed, and possibly even save files. It is a good practice to keep backups of your save files so that you can update safely. Saves are stored within the folder you install D&DDC to.
 - All characters in D&DDC are fully nude, with everything that implies. There are sets of underwear you can craft or find, but don't expect it to stick around for very long.
+- D&DDC only supports the English language. Changing language is not supported.
 - Adding to, changing, or removing from D&DDC is not supported. See the Adding to D&DDC section of this document for more details.
 - As many common issues as I could find have been documented in the Common Issues section of this document. Refer to this before asking for support.
 - If you want some tips related to getting started playing the list, refer to the Getting Started in D&DDC section of this document.
@@ -76,6 +77,7 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 1. In Steam, uninstall Skyrim: Special Edition (Right-click > Manage > Uninstall).
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Properties… > Local Files > Browse Local Files…), delete them.
 3. Install Skyrim: Special Edition.
+4. Once the game is installed, make sure it is set to English in Steam (Right-click > Properties > Language)
 
 Also make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
 
