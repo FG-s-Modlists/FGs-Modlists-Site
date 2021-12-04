@@ -8,8 +8,6 @@ layout: "atelierbase"
 Atelier has been archived until further notice. It is no longer available to install through Wabbajack.
 {{< /tip >}}
 
-Current version: 1.0.1 2/8/2021
-
 ## Before You Get Started
 
 {{< tip >}}
