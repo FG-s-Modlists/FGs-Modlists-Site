@@ -4,6 +4,13 @@ weight: 4
 layout: "dnddcbase"
 ---
 
+### 12/5/2021 2.3.5
+#### Incremental
+- Mod Updates
+  - Billyy's Animations 5.1
+  - SLSO 1.63
+  - SLSF Fame Comments 3.1
+
 ### 11/21/2021 2.3.4
 #### Incremental
 - Mod Updates
