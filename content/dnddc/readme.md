@@ -67,6 +67,18 @@ Skyrim is very heavy on processors. Generally, anything above 3GHz should be fin
 
 ## Pre-Installation
 ### Steam & SSE Setup
+{{< tip "warning" >}}
+**WARNING!**
+
+D&DDC is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update.
+
+**If your Skyrim Special Edition received an update through Steam or you installed Skyrim Special Edition anytime after November 11, 2021, you have the Anniversary Update.**
+
+You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=243513&game_id=1704)
+
+To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.\
+{{< /tip >}}
+
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
 
 First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files, Program Files (x86), or Desktop folders. Having the Steam library or your copy of Skyrim Special Edition in either of these folders is known to cause issues. Instructions on how to move your Steam library can be found elsewhere on the internet.
@@ -85,12 +97,6 @@ Also make sure you have deleted or disabled any and all Creation Club content th
 
 ### Launching Skyrim
 Launch Skyrim SE to create any INI or registry entries the game needs. Immediately exit after the launcher has successfully selected a graphics preset for your hardware. The INIs will be overwritten by the ones included in the Wabbajack installer.
-
-{{< tip "warning" >}}
-**WARNING!**
-
-Currently, fresh installations of Skyrim Special Edition will be updated to an incompatable version for the lists to install. After you have a clean install of Skyrim Special Edition you will need to use the downgrade patcher featured **[HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=243513&game_id=1704)** to ensure your Skyrim Special Edition install is the correct version before continuing with the steps in the Readme 
-{{< /tip >}}
 
 ### Wabbajack Preparations
 1. Download the latest version of Wabbajack. Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.

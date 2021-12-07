@@ -72,6 +72,18 @@ Click the link to download the latest Visual C++ x64 Redistributable, then doubl
 - [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 ### Steam & SSE Setup
+{{< tip "warning" >}}
+**WARNING!**
+
+Living Skyrim is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update.
+
+**If your Skyrim Special Edition received an update through Steam or you installed Skyrim Special Edition anytime after November 11, 2021, you have the Anniversary Update.**
+
+You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=243513&game_id=1704)
+
+To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.\
+{{< /tip >}}
+
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
 
 First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files, Program Files (x86), or Desktop folders. Having the Steam library or your copy of Skyrim Special Edition in either of these folders is known to cause issues. Instructions on how to move your Steam library can be found elsewhere on the internet.
@@ -97,11 +109,7 @@ Once the above steps are completed, launch Skyrim SE through Steam to create any
 
 Last, but certainly not least, make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
 
-{{< tip "warning" >}}
-**WARNING!**
 
-Currently, fresh installations of Skyrim Special Edition will be updated to an incompatable version for the lists to install. After you have a clean install of Skyrim Special Edition you will need to use the downgrade patcher featured **[HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=243513&game_id=1704)** to ensure your Skyrim Special Edition install is the correct version before continuing with the steps in the Readme 
-{{< /tip >}}
 
 ### Wabbajack Preparations
 We’ll now setup the folders needed for the installation to proceed smoothly.
