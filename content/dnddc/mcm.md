@@ -125,6 +125,9 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
   - Equipment for Naked Submissive
     - Allow Re-Equip: Disabled
 ### SexLab
+- Install
+  -  Install/Update Sexlab 163 SE: CLICK HERE
+  -  Close the MCM and wait until the message appears stating that Sexlab is installed and ready before continuing.
 - Sex Diary
   - Sexuality: Pick your character’s preference.
 - Rebuild & Clean
