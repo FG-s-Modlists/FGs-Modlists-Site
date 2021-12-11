@@ -4,6 +4,13 @@ weight: 4
 layout: "dnddcbase"
 ---
 
+### 12/11/2021 2.3.6
+#### Incremental
+- Mod Updates
+  - SexLab Framework v163
+- Replacements
+  - Firm HDT-SMP Settings -> D&DDC HDT-SMP Settings
+
 ### 12/5/2021 2.3.5
 #### Incremental
 - Mod Updates
