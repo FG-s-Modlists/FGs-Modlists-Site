@@ -101,7 +101,7 @@ Last, but certainly not least, make sure you have deleted or disabled any and al
 We’ll now setup the folders needed for the installation to proceed smoothly.
 
 1. Create two empty folders: one named Wabbajack and the other named Path of the Dovahkiin.
-2. Ensure that these two folders are not within any of the following folders: your Skyrim Special Edition install folder, your Program Files folder, your Program Files (x86) folder, or the Desktop.
+2. Ensure that these two folders are not within any of the following folders: your Skyrim Special Edition install folder, your Program Files folder, your Program Files (x86) folder, your Documents folder, your Downloads folder, or the Desktop.
 3. Additionally, ensure that these two folders are not contained within each other.
 4. Ensure that both the Wabbajack and Path of the Dovahkiin folders are completely empty. If they are not empty, make them empty.
 5. Download the latest version of Wabbajack from the Wabbajack website: [Wabbajack](https://www.wabbajack.org/#/).
