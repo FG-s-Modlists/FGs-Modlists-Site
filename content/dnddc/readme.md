@@ -81,7 +81,7 @@ To prevent your game updating, change Skyrim SE's update settings in Steam to on
 
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
 
-First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files, Program Files (x86), or Desktop folders. Having the Steam library or your copy of Skyrim Special Edition in either of these folders is known to cause issues. Instructions on how to move your Steam library can be found elsewhere on the internet.
+First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files, Program Files (x86), Documents or Desktop folders. Having the Steam library or your copy of Skyrim Special Edition in any of these folders is known to cause issues. Instructions on how to move your Steam library can be found elsewhere on the internet.
 
 As with any modlist, it is strongly recommended that you start with a clean, unmodified installation of Skyrim: Special Edition. To get your Skyrim SE to this state, follow these steps:
 
@@ -102,7 +102,7 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 1. Download the latest version of Wabbajack. Do not run anything until instructed to do so. Make sure you are using the latest version of Wabbajack or else Wabbajack will report a corrupted modlist.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”.
 3. Create a second folder called C:\Dungeons & Deviousness. This folder is where the modlist will be installed.
-4. Double check that you have not placed any of these folders in your Skyrim: Special Edition installation directory.
+4. Double check that you have not placed any of these folders in your Skyrim: Special Edition installation directory, your Documents folder, your Downloads folder, your Program Files folder, your Program Files (x86) folder, or on your Desktop.
 5. Ensure that C:\Dungeons & Deviousness is completely empty.
 6. Ensure that Wabbajack.exe is in C:\Wabbajack.
 
