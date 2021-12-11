@@ -86,7 +86,7 @@ To prevent your game updating, change Skyrim SE's update settings in Steam to on
 
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
 
-First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files, Program Files (x86), or Desktop folders. Having the Steam library or your copy of Skyrim Special Edition in either of these folders is known to cause issues. Instructions on how to move your Steam library can be found elsewhere on the internet.
+First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files, Program Files (x86), Desktop, Documents or Download folders. Having the Steam library or your copy of Skyrim Special Edition in either of these folders is known to cause issues. Instructions on how to move your Steam library can be found elsewhere on the internet.
 
 Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to this state, follow these steps:
 
@@ -115,7 +115,7 @@ Last, but certainly not least, make sure you have deleted or disabled any and al
 We’ll now setup the folders needed for the installation to proceed smoothly.
 
 1. Create two empty folders: one named Wabbajack and the other named Living Skyrim.
-2. Ensure that these two folders are not within any of the following folders: your Skyrim Special Edition install folder, your Program Files folder, your Program Files (x86) folder, or the Desktop.
+2. Ensure that these two folders are not within any of the following folders: your Skyrim Special Edition install folder, your Program Files folder, your Program Files (x86) folder, your Documents folder, your Downloads folder, or the Desktop.
 3. Additionally, ensure that these two folders are not contained within each other.
 4. Ensure that both the Wabbajack and Living Skyrim folders are completely empty. If they are not empty, make them empty.
 5. Download the latest version of Wabbajack from the Wabbajack website: Wabbajack.
