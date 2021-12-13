@@ -9,7 +9,7 @@ Current MCM Document Version: 10/7/2021 2.2.0
 {{< tip "warning" >}}
 **WARNING!**
 
-**Before doing anything with the MCM, wait for all the messages in the top left to finish appearing. Then, save your game and load the save you just created. Once that save has loaded, you must once again wait for all messages in the top left to disappear (usually indicated by the "SexLab Ready!" message). When you do this, you will receive a popup about SLSF and its Papyrus storage. This is normal and will be fixed by following the below steps.**
+**Before doing anything with the MCM, wait for all the messages in the top left to finish appearing. Then, save your game and load the save you just created. Once that save has loaded, you must once again wait for all messages in the top left to disappear. When you do this, you will receive a popup about SLSF and its Papyrus storage. This is normal and will be fixed by following the below steps.**
 
 **Additionally, you should do the steps here in the order they are presented.**
 {{< /tip >}} 
@@ -46,6 +46,10 @@ The choices you make in the CC&BR menu are permanent and cannot be changed witho
 
 ### Settings
 - Depth of Field: Minimum/Off
+### SexLab
+- Install
+  -  Install/Update Sexlab 163 SE: CLICK HERE
+  -  Close the MCM and wait until the message appears stating that Sexlab is installed and ready before continuing. (The remaining Sexlab configuration will occur later.)
 ### A Matter of Time
 - Presets
   - Click "Load user settings", then wait for the confirmation message to appear.
@@ -125,9 +129,6 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
   - Equipment for Naked Submissive
     - Allow Re-Equip: Disabled
 ### SexLab
-- Install
-  -  Install/Update Sexlab 163 SE: CLICK HERE
-  -  Close the MCM and wait until the message appears stating that Sexlab is installed and ready before continuing.
 - Sex Diary
   - Sexuality: Pick your character’s preference.
 - Rebuild & Clean
