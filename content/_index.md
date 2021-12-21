@@ -10,6 +10,7 @@ ForgottenGlory's flagship modlist, Living Skyrim, is a full-featured overhaul of
 
 [![DNDDC Logo](/images/DNDDCSmallLogo.png)](dnddc)
 # [D&DDC](dnddc)
+D&DDC has been archived until further notice.
 Dungeons & Deviousness is a NSFW Skyrim SE modlist intended to be fully playable with a semi-hardcore survival experience included. Rather than a screenshot simulator or lightweight add-on to vanilla Skyrim, Dungeons & Deviousness seeks to be as intrusive as possible in the systems present in Skyrim and overhaul them to fit the theme. The Director's Cut is a refined and rebuilt version of the list.
 
 [![POTD Logo](/images/POTDSmallLogo.png)](potd)
