@@ -141,6 +141,6 @@ When you're done making your character, save the game and then load that save. T
   - Switch Targets with Mouse Movement: Disabled
 
 ### Yamete
-- Click "Enable Mod"
+- Click "Enable Mod", then exit the MCM and go back into it.
 - Debug
   - Click "Import Settings"
