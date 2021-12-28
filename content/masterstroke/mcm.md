@@ -26,6 +26,8 @@ When you're done making your character, save the game and then load that save. T
 ### Engarde
 - Settings
   - Souls-like Stamina: Disabled
+- KeyButton
+  - Defensive Action Key: Z
 
 ### Gender Bender (Optional)
 - Mod Active: Enabled
@@ -51,6 +53,10 @@ When you're done making your character, save the game and then load that save. T
   - Activate Smash Locks: Enabled
 - Unlock with Magic
   - Enable Unlock Spell: Enabled
+
+### Milk Addict
+- Settings
+  - Click "Import Settings", then exit the MCM and re-enter it.
 
 ### Milk Mod
 - Settings
@@ -117,6 +123,9 @@ When you're done making your character, save the game and then load that save. T
 
 ### Sunhelm
 - Mod Enabled: Enabled; then exit the MCM and wait for installation to complete.
+- Profiles
+  - Browse: Masterstroke
+  - Click Load
 
 ### Take Notes!
 - Controls
@@ -125,6 +134,7 @@ When you're done making your character, save the game and then load that save. T
 ### Toyful Temptations
 - General
   - Location Based Chances: Enabled
+  - Trap Method: Toys
 
 ### Trade & Barter
 - Barter Rates
@@ -143,4 +153,4 @@ When you're done making your character, save the game and then load that save. T
 ### Yamete
 - Click "Enable Mod", then exit the MCM and go back into it.
 - Debug
-  - Click "Import Settings"
+  - Click "Load MCM"
