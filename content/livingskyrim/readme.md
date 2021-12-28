@@ -444,6 +444,14 @@ Download the files manually and put them in your downloads folder. A list of all
 - [Smooth Random Sprint Animation](https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY)
 - [xLODGen.85](https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc)
 
+#### "Nemesis Unlimited Behaviour Engine Fails to download"
+
+Download this manually and put it in your downloads folder. The nexus link is available here: [Project New Reign - Nemesis Unlimited Behaviour Engine](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248867&game_id=1704)
+
+#### "Skyrim files are failing to download"
+
+If your base game Skyrim files are failing to download, such as "SkyrimSE.exe", "Data_Skyrim.esm", etc. This is most commonly caused by the Anniversary Update to Skyrim Special Edition. A patcher can be located [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248919&game_id=1704) to bring the game to the correct version needed for the list to install.
+
 ### Gameplay Issues
 
 #### “The Main Quest doesn’t proceed after retrieving the Dragonstone.”

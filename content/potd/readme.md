@@ -66,7 +66,7 @@ Path of the Dovahkiin is not compatible with either the Skyrim Anniversary Editi
 
 **If your Skyrim Special Edition received an update through Steam or you installed Skyrim Special Edition anytime after November 11, 2021, you have the Anniversary Update.**
 
-You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=243513&game_id=1704)
+You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248919&game_id=1704)
 
 To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
 {{< /tip >}}
@@ -299,6 +299,14 @@ Yes, but remember that if you need to update the list you will have to download 
 #### "ENB Series fails to download."
 
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [ENB Series](http://enbdev.com/download_mod_tesskyrimse.htm)
+
+#### "Nemesis Unlimited Behaviour Engine fails to download."
+
+You will need to download this manually and put it in your downloads folder. The mirror is located here: [Nemesis Unlimited Behaviour Engine](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248867&game_id=1704)
+
+#### "Skyrim Game files are failing to download."
+
+If your Skyrim game files (SkyrimSE.exe, Data_Skyrim.esm, Data_Skyrim - Textures0.bsa, etc.) are failing to download this is most commonly caused by the Anniversary update to Skyrim Special Edition, you will need the downgrade patcher located [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248919&game_id=1704)
 
 ### Gameplay Issues
 
