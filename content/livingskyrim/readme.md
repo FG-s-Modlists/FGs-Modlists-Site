@@ -165,7 +165,6 @@ Among other things, Wabbajack has installed a copy of Mod Organizer 2 for you. T
 1. Inside your Living Skyrim folder, locate and launch ModOrganizer.exe. If this is not inside the folder, your installation has failed and you need to consult the Common Issues section of this document.
 2. Mod Organizer 2 will have a dark theme already selected for you. If it does not, something has gone wrong and you will need to start over at the Installing the List section of this document.
 3. A dialogue may appear and ask if you want to associate Mod Organizer with .nxm links. Click Yes. If this dialogue does not appear, it is not an issue and means you’ve likely already done this.
-4. Another dialogue may appear asking you to update the game's registry path. Click Yes on this popup if it appears. If it does not appear, it is not an issue and likely means you've already done this.
 
 ### Configuration Specific
 There are three mods that can be optionally enabled, depending on your preferences and computer configuration. 
@@ -223,11 +222,12 @@ To actually launch and then play Living Skyrim, follow these steps:
 1. Launch the copy of Mod Organizer 2 found inside your Living Skyrim folder.
 2. In the top-right corner of Mod Organizer, you’ll see a large dropdown menu. Select Living Skyrim [SKSE] from this dropdown menu.
 3. Click the large Run button.
-4. This is how Living Skyrim should always be launched. You can create a shortcut to this selection on your desktop, if you wish, using the Shortcut button directly below the large Run button.
-5. Once Skyrim starts, create a new game.
-6. Create your character and name them whatever you’d like.
-7. As soon as you gain control of your character, do nothing. The mods are initializing and this can take several minutes. You’ll see a list of mods appearing in the top left corner of your screen.
-8. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
+4. A dialogue may appear asking you to update the game's registry path. Click Yes on this popup if it appears. If it does not appear, it is not an issue and likely means you've already done this.
+5. This is how Living Skyrim should always be launched. You can create a shortcut to this selection on your desktop, if you wish, using the Shortcut button directly below the large Run button.
+6. Once Skyrim starts, create a new game.
+7. Create your character and name them whatever you’d like.
+8. As soon as you gain control of your character, do nothing. The mods are initializing and this can take several minutes. You’ll see a list of mods appearing in the top left corner of your screen.
+9. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 {{< tip "warning" >}}
 **WARNING!**
