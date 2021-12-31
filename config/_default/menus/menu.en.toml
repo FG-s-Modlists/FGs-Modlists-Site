@@ -21,7 +21,7 @@
 
 [[main]]
   name = "Credits"
-  weight = 5
+  weight = 6
   url = "about/"
 
 
