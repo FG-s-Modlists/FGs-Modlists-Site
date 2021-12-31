@@ -4,13 +4,13 @@ author = "ForgottenGlory"
 
 {{< block "grid-2" >}}
 {{< column >}}
-[![LS Logo](/images/LS3LogoSmall.png)](livingskyrim)
+[![LS Logo](/images/LS3ResizedSmallLogo.webp)](livingskyrim)
 # [Living Skyrim](livingskyrim)
 ForgottenGlory's flagship modlist, Living Skyrim, is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of this modlist. All of this on top of a beautiful graphics package.
 {{< /column >}}
 
 {{< column >}}
-[![MOISE Logo](/images/MOISELogoVerySmall.png)](moise)
+[![MOISE Logo](/images/MOISEResizedSmallLogo.webp)](moise)
 # [MOISE](moise)
 Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.
 {{< /column >}}
