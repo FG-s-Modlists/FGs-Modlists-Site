@@ -1,25 +1,68 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "Credits & Thanks"
+date = "2021-12-30"
+aliases = ["about-us", "contact"]
+author = "ForgottenGlory"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Credits & Thanks
+- FG's Modlists created by ForgottenGlory
+- FG's Modlists Administrators
+  - celadoneiron
+  - Dace617
+  - Volk
+- FG's Modlists Dev Team:
+  - Astrid
+  - Hajo
+  - JaxomofRuatha
+  - Rite of Spring
+  - TwistedModding
+  - LunaPapilio
+  - Day7
+  - sweinen
+  - Torcha09
+  - zarantha
+- FG's Modlists Discord Staff:
+  - Aronax
+  - ChunkeeMunkee
+  - Deadbeat-Senpai
+  - Dr.Frosty
+  - Eikonoklaste
+  - Flora
+  - Gooala
+  - goolito
+  - GravenImages
+  - Jazz24
+  - Logan
+  - Rhone
+  - rme0722
+  - Sae the Intern
+  - scraunch
+  - Sean Misses Scotch
+  - Shiv
+  - Tamara
+  - The Arcane Archer
+  - Vyra
+- Contributors & Beta Testers:
+  - Patchier
+  - DwarfDude
+  - Qwerrecd
+  - Timboman
+  - Vyktory
+  - Total
+  - Dispo
+  - Dracosaber
+  - Sentrus
+  - Nechrion
+  - Xanza
+  - tjbassoon
+- Halgari & The Wabbajack Team
+   - Thank you for creating Wabbajack, you’re amazing!
+   - Halgari’s Patreon
+- Special Thanks
+   - The TUCO Modding Team - Their modlist is a great way to get a Vanilla+ experience with a tutorial that is extremely helpful for learning the basics of creating a modlist.
+   - DarkLadyLexy - Her LotD list is an invaluable resource not only for an awesome modlist, but also for learning many fundamentals of modding and compiling a modlist.
+   - EzioTheDeadPoet - For their SME(FT) modlist. The ability to start from scratch on a whim while building this list has been invaluable.
+  - My Patreon patrons.
+- Mod Authors
+  - None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works.

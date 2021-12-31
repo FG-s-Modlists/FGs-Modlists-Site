@@ -1,6 +1,6 @@
 ---
 title: "Using A Controller"
-weight: 7
+weight: 8
 layout: "lsbase"
 ---
 
