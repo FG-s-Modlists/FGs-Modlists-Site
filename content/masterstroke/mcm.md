@@ -24,7 +24,7 @@ When you're done making your character, save the game and then load that save. T
   - Arm Fatigue: Disabled
 
 ### Engarde
-- Settings
+- Stamina
   - Souls-like Stamina: Disabled
 - KeyButton
   - Defensive Action Key: Z
@@ -48,7 +48,7 @@ When you're done making your character, save the game and then load that save. T
 ### Lock Overhaul
 - Click Activate mod, exit the MCM, then re-enter the MCM
 - Lock Requirement
-  - Enable Lock Requirement: Enabled
+  - Activate Lock Requirements: Enabled
 - Smash Locks
   - Activate Smash Locks: Enabled
 - Unlock with Magic
@@ -80,7 +80,8 @@ When you're done making your character, save the game and then load that save. T
 - Brightness: Bright
 
 ### Schlongs of Skyrim
-- SOS Potions: Disabled
+- General Settings
+  - SOS Potions: Disabled
 
 ### Scrappies Matchmaker
 - Mod Enabled: Enabled
@@ -92,7 +93,7 @@ When you're done making your character, save the game and then load that save. T
 - Click Install SexLab, exit the MCM, wait for the notification to appear stating "SexLab - SexLab v1.63 SE - Ready!" before continuing
 - Sex Diary
   - Sexuality: Pick your character's.
-- Clean & Rebuild
+- Rebuild & Clean
   - Click "Import Settings"
 
 ### SL Anim Loader
@@ -106,7 +107,7 @@ When you're done making your character, save the game and then load that save. T
 - Billyy_HumanFurnitureInvis
   - Click Disable All
 - General Options (again)
-  - Click "Register Animations" and WAIT. This can take up to 5 minutes to complete.
+  - Click "Register Animations" and WAIT for the message 'Registered new animations'. This can take up to 5 minutes to complete.
 
 ### Furniture Sex
 - Click Update Furniture Types and wait for it to finish.
@@ -122,7 +123,8 @@ When you're done making your character, save the game and then load that save. T
   - Click "Import Settings"
 
 ### Sunhelm
-- Mod Enabled: Enabled; then exit the MCM and wait for installation to complete.
+- General Settings
+  - Sunhelm Survival: Enabled; then exit the MCM and wait for installation to complete.
 - Profiles
   - Browse: Masterstroke
   - Click Load
@@ -139,11 +141,11 @@ When you're done making your character, save the game and then load that save. T
 ### Trade & Barter
 - Barter Rates
   - Modify Barter Settings: Enabled
-  - Preset: Difficult
+  - Barter Preset: Difficult
 
 ### True Armor
 - Save & Load
-  - Click "Load Balanced Preset" and wait for it to finish.
+  - Click "Load Balanced Settings" and wait for it to finish with the message 'Settings Loaded'.
 
 ### True Directional Movement
 - Target Lock

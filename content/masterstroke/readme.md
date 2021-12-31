@@ -354,57 +354,7 @@ Lastly, I (ForgottenGlory) and the Path of the Dovahkiin development team do not
 
 I don’t know, can you?
 
-## Credits & Thanks
-- Path of the Dovahkiin created by ForgottenGlory
-- Path of the Dovahkiin Dev Team:
-  - Volk (Boll)
-  - Spandanahan (Formerly Melisandre)
-  - Rite of Spring (Formerly JaceVenture)
-  - Magnus Hellfire
-  - Bearnard
-  - Volkaru
-  - JaxomOfRuatha
-  - TwistedModding
-  - celadoneiron
-- Path of the Dovahkiin Discord Staff:
-  - Chanka
-  - Aronax
-  - goolito
-  - Logan
-  - Pulsefire ezreal
-  - Sae the Intern
-  - Day7
-  - TheCampingOwl
-  - Sean Misses Scotch
-  - ChunkeeMunkee
-  - Dace617
-  - Gooala
-  - scraunch
-  - Shiv
-  - GravenImages
-- Contributors & Beta Testers:
-  - Patchier
-  - DwarfDude
-  - Qwerrecd
-  - Timboman
-  - Vyktory
-  - Total
-  - Dispo
-  - Dracosaber
-  - Sentrus
-  - Nechrion
-  - Xanza (For MCM Automation, thank you!)
-  - tjbassoon
-- Halgari & The Wabbajack Team
-   - Thank you for creating Wabbajack, you’re amazing!
-   - Halgari’s Patreon
-- Special Thanks
-   - The TUCO Modding Team - Their modlist is a great way to get a Vanilla+ experience with a tutorial that is extremely helpful for learning the basics of creating a modlist.
-   - DarkLadyLexy - Her LotD list is an invaluable resource not only for an awesome modlist, but also for learning many fundamentals of modding and compiling a modlist.
-   - EzioTheDeadPoet - For their SME(FT) modlist. The ability to start from scratch on a whim while building this list has been invaluable.
-  - My Patreon patrons.
-- Mod Authors
-  - None of this would be possible without the people who make the quality content we’ve grown to know and love. Please endorse the authors’ works.
+
 
 ## One Last Thing
 
