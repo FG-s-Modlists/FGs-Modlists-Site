@@ -179,7 +179,7 @@ Some MCM settings have been pre-set for you. See this document to set the remain
 
 ## Common Issues
 
-If you encounter any issues, click here to visit the [LS Troubleshooting]() page.
+If you encounter any issues, click here to visit the [LS Troubleshooting](/faq/lsissiues) page.
 
 ### Bug Reporting, Github, and You
 
