@@ -4,7 +4,6 @@ weight: 2
 layout: "lsbase"
 ---
 
-## Before You Get Started
 Before you get started installing or playing Living Skyrim, it's important to note a few things:
 
 {{< tip >}}
