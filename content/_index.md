@@ -19,6 +19,10 @@ Path of the Dovahkiin is the ultimate ARPG-in-Skyrim experience. Fast combat, Vo
 [![MOISE Logo](/images/MOISELogoVerySmall.png)](moise)
 # [MOISE](moise)
 Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.
+
+[![Masterstroke Logo](/images/MasterstrokeSmallLogo.webp)]()
+# Masterstroke
+Masterstroke is an upcoming modlist by ForgottenGlory.
 {{< /column >}}
 {{< /block >}}
 
