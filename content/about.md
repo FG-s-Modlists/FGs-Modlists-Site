@@ -5,7 +5,6 @@ aliases = ["about-us", "contact"]
 author = "ForgottenGlory"
 +++
 
-## Credits & Thanks
 - FG's Modlists created by ForgottenGlory
 - FG's Modlists Administrators
   - celadoneiron
