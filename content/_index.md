@@ -10,18 +10,18 @@ ForgottenGlory's flagship modlist, Living Skyrim, is a full-featured overhaul of
 {{< /column >}}
 
 {{< column >}}
-[![POTD Logo](/images/POTDSmallLogo.png)](potd)
-# [Path of the Dovahkiin](potd)
-
-Path of the Dovahkiin is the ultimate ARPG-in-Skyrim experience. Fast combat, Vokriinator Black, hordes of enemies, infinite loot variety, replayable dungeons, performant and pretty graphics, and of course, endless character build theorycrafting. What path will you choose, Dovahkiin?
+[![MOISE Logo](/images/MOISELogoVerySmall.png)](moise)
+# [MOISE](moise)
+Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.
 {{< /column >}}
 {{< /block >}}
 
 {{< block "grid-2" >}}
 {{< column >}}
-[![MOISE Logo](/images/MOISELogoVerySmall.png)](moise)
-# [MOISE](moise)
-Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.
+[![POTD Logo](/images/POTDSmallLogo.png)](potd)
+# [Path of the Dovahkiin](potd)
+
+Path of the Dovahkiin is the ultimate ARPG-in-Skyrim experience. Fast combat, Vokriinator Black, hordes of enemies, infinite loot variety, replayable dungeons, performant and pretty graphics, and of course, endless character build theorycrafting. What path will you choose, Dovahkiin?
 {{< /column >}}
 
 {{< column >}}
