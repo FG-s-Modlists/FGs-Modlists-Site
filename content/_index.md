@@ -18,7 +18,7 @@ Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graph
 
 {{< block "grid-2" >}}
 {{< column >}}
-[![POTD Logo](/images/POTDSmallLogo.png)](potd)
+[![POTD Logo](/images/POTDSmallLogo.webp)](potd)
 # [Path of the Dovahkiin](potd)
 
 Path of the Dovahkiin is the ultimate ARPG-in-Skyrim experience. Fast combat, Vokriinator Black, hordes of enemies, infinite loot variety, replayable dungeons, performant and pretty graphics, and of course, endless character build theorycrafting. What path will you choose, Dovahkiin?
@@ -33,7 +33,7 @@ Masterstroke is an upcoming modlist by ForgottenGlory.
 
 {{< block "grid-2" >}}
 {{< column >}}
-[![Atelier Logo](/images/AtelierVerySmall.png)](atelier)
+[![Atelier Logo](/images/AtelierVerySmall.webp)](atelier)
 # [Atelier](atelier)
 {{< tip "warning" >}}
 **Atelier has been archived until further notice.**
@@ -42,7 +42,7 @@ Masterstroke is an upcoming modlist by ForgottenGlory.
 Atelier (noun, /ˌadlˈyā/): a workshop or studio, especially one used by an artist or designer. And in this context, a Skyrim SE modlist focused on one thing and one thing only: taking screenshots. Atelier is setup to make taking screenshots as easy as possible out of the box. Just install, load up the game, pick some outfits, and you’re ready to go.
 {{< /column >}}
 {{< column >}}
-[![DNDDC Logo](/images/DNDDCSmallLogo.png)](dnddc)
+[![DNDDC Logo](/images/DNDDCSmallLogo.webp)](dnddc)
 # [D&DDC](dnddc)
 {{< tip "warning" >}}
 **D&DDC has been archived until further notice.**
