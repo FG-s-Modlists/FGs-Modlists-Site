@@ -18,6 +18,10 @@ stuff about making a character here
 
 When you're done making your character, save the game and then load that save. Then proceed with the following. Nothing is automated yet.
 
+### A Matter of Time
+- Presets
+  - Click "Load user settings" and wait for the confirmation message to appear.
+
 ### AGO
 - Settings
   - Persistent Arrows: Disabled
@@ -85,6 +89,13 @@ When you're done making your character, save the game and then load that save. T
 
 ### Scrappies Matchmaker
 - Mod Enabled: Enabled
+- Locations
+  - (Walled) Cities: Masterstroke
+  - Towns: Masterstroke
+  - Settlements: Masterstroke
+  - Orc Stronghold: Masterstroke
+  - Castles & (Jarl) Palaces: Masterstroke
+  - Inns: Masterstroke
 
 ### Sets of Skills
 - Pick a class, any class.
@@ -113,6 +124,9 @@ When you're done making your character, save the game and then load that save. T
 - Click Update Furniture Types and wait for it to finish.
 - Filter Furniture Anims: Enabled
 - Override Chance: 0.20
+
+### SexLab Eager NPCs
+- Click "Enable and Set Defaults", then exit the MCM and wait for installation to complete. 
 
 ### Simply Balanced
 - Save & Load
