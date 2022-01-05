@@ -52,4 +52,4 @@ Enchantments that affect power attacks, two-handed damage, and light armor ratin
 
 ## Spells
 
-None. You have a big stick, hit them with it til they die. Or you die, whichever comes first.
+None. You have a big stick, hit them with it til they die. Or you die, whichever comes first. Victory or Sovngarde and all that.
