@@ -4,6 +4,11 @@ weight: 3
 layout: "moisebase"
 ---
 
+### 1/5/2022 1.2.6
+#### Incremental
+- Fixes
+  - Fixed the Dark Brotherhood delay mod not working.
+
 ### 7/21/2021 1.2.5
 #### Incremental
 - Mod Updates

@@ -1,6 +1,6 @@
 ---
 title: "Performance Guide"
-weight: 6
+weight: 7
 layout: "lsbase"
 ---
 
