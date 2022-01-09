@@ -24,7 +24,7 @@ Yes, but remember that if you need to update the list you will have to download 
 
 #### “The LS3 DynDOLOD Output fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 DynDOLOD 3.5.0](https://drive.google.com/file/d/1hQa0DgfIZLxW3MkOzPiVK82524h8EAuw/view?usp=sharing)
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 DynDOLOD 3.7.0](https://drive.google.com/file/d/1OPAfHz_ql7OYiOOhvomFt9O_rfzLJsrq/view?usp=sharing)
 
 #### “The LS3 SSELODGen Output fails to download.”
 
@@ -32,7 +32,7 @@ You’ll need to download this manually and put it in your downloads folder. The
 
 #### “The LS3 Grass Cache fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 Grass Cache 3.5.0](https://drive.google.com/file/d/1Yk3Nlq3d5775QXdZSExHVMHQI2E0zqBy/view?usp=sharing)
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 Grass Cache 3.7.0](https://drive.google.com/file/d/1spCzbhwntaaciWuYd-cDWJNwXh5rThWX/view?usp=sharing)
 
 #### "Inconsequential NPCs Visual Overhaul fails to download."
 
