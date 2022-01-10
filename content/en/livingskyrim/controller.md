@@ -1,7 +1,16 @@
 ---
 title: "Using A Controller"
-weight: 8
-layout: "lsbase"
+description: "Test"
+lead: ""
+date: 2020-10-13T15:21:01+02:00
+lastmod: 2020-10-13T15:21:01+02:00
+draft: false
+images: []
+menu:
+  docs:
+    parent: "living skyrim"
+weight: 80
+toc: true
 ---
 
 Living Skyrim supports a controller or gamepad out of the box. If you wish to use a controller, follow this guide.

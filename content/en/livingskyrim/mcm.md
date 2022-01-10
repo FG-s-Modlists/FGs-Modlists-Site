@@ -1,7 +1,16 @@
 ---
 title: "Character Creation & MCMs"
-weight: 4
-layout: "lsbase"
+description: "Test"
+lead: ""
+date: 2020-10-13T15:21:01+02:00
+lastmod: 2020-10-13T15:21:01+02:00
+draft: false
+images: []
+menu:
+  docs:
+    parent: "living skyrim"
+weight: 40
+toc: true
 ---
 
 ## Getting Started in Living Skyrim
