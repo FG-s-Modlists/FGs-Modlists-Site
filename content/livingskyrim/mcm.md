@@ -140,3 +140,7 @@ For the SmoothCam preset, make sure you are selecting the option to Load the pre
 #### True Directional Movement
 - Target Lock
   - Toggle Target Lock Key: Mouse 3 (middle mouse button)
+
+#### VioLens
+- Profile System
+  - Load -> LS3 VioLens Config
