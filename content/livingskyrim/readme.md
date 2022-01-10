@@ -109,11 +109,13 @@ Among other things, Wabbajack has installed a copy of Mod Organizer 2 for you. T
 ### Configuration Specific
 There are three mods that can be optionally enabled, depending on your preferences and computer configuration. 
 
-The first is [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=description). This should only be enabled if you are using a 21:9 monitor at 2560x1080 resolution or higher.
+The first is Nordic UI Ultrawide Patch. Enable either the 21 by 9 or 32 by 9 patch depending on the aspect ratio of your monitor.
 
 The second is QuickLoot, which adds a Fallout 4 style loot menu to bodies, containers, etc. This mod provides a significant quality of life improvement to looting, however it can cause issues with mods that run scripts upon looting certain objects. Enable it, or don't, it's entirely up to your personal preference. If you do enable it, it's recommended that you also enable the retexture for it to match the rest of the Skyrim UI.
 
-Lastly, [Gamepad++](https://www.nexusmods.com/skyrimspecialedition/mods/27007?tab=files) is included if you plan on playing the list with a controller. Reading the mod page for this mod is not optional if you're going to use it.
+[Gamepad++](https://www.nexusmods.com/skyrimspecialedition/mods/27007?tab=files) is included if you plan on playing the list with a controller. Reading the mod page for this mod is not optional if you're going to use it.
+
+Lastly, there is Immersive Sounds - Compendium Re-Add Nirnroot Sounds. Nirnroot by default does not make any noise in LS3, enable this if you would like the sound enabled.
 
 ### ENB
 By default, Living Skyrim comes bundled with six ENB presets that you can choose between: Culminated, Ominous, Pi-CHO, Re-Engaged, Silent Horizons, and TNT. ENB is turned on by default and the Culminated preset is already enabled for you.
