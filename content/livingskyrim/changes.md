@@ -4,6 +4,78 @@ weight: 9
 layout: "lsbase"
 ---
 
+### 1/9/2022 3.7.0
+#### Minor
+- Fixes
+  - See closed [Github issues for 3.7.0](https://github.com/ForgottenGlory/Living-Skyrim-3/milestone/15?closed=1)
+- Removed 
+	- Complete Widescreen Fix for SkyUI
+	- The Scarlett
+- Replaced
+	- Paper Maps -> Flat World Map Framework SE 1.7
+	- Blackthorn -> Hjertesten Hall 7.0
+- Updated	
+	- Alternate Perspective - Helgen Reborn Patch 1.1
+	- Awesome Artifacts 2.4.3
+	- xLODgen 85
+	- Vanilla Script microOptimizations 1.12b
+	- Sakora's Make Over Kit 1.4
+	- Bhruce Hammer Legacy 1.6.1
+	- Arbor Philosophorum 1.0.3
+	- Gladys the Corgi 1.2.3
+	- Triumvirate
+- Added	
+	- Flat World Map Framework SE 1.7
+	- Flat Map Markers 1.3.0
+	- AIO Duncan's Paper Maps for FWMF 1.0
+	- Paper Sovngarde Map for FWMF 1.01
+	- Blackreach Paper Map for FWMF 1.01
+	- Immersive Paper Map (3rd Edition) by CKW25 1.1
+	- Paper Forgotten Vale Map for FWMF 1.0
+	- Security Overhaul SKSE - Lock Variations 1.0
+	- Merlin the Corgi - A Magical Dog Follower 1.1
+	- CBBE Vanilla Armors - No Rim Lighting 1.0
+	- Kreiste's Warriors of Light - Weapons and Armors 2.0
+	- Dark Brotherhood Armor SE 1.1
+	- Dark Brotherhood Armor SE CBBE Conversion 1.2
+	- Use Telekinesis on Traps 0.2.3
+	- Auto Input Switcher 1.1.2
+	- Colovian Leather Armor and Outfit V2
+	- iiENB Preset for Obsidian 4.562
+	- College Prestige Mage Outfit 1.4
+	- Magnus Robe 1.1
+	- Battle Mage Armour 1.0.1
+	- Hjertesten Hall 7.0
+	- Bow Charge Plus 0.5.2
+	- Weapon Animation (Dawnbreaker) 1.1
+	- Weapon Animation (Volendrung) 1.1
+	- Weapon Animation (Skull of Corruption) 1.0
+	- Weapon Animation (Miraak's Sword) 1.1
+	- Weapon Animation (Chillrend) 1.0
+	- Weapon Animation (Mace of Molag Bal) 1.1
+	- Weapon Animation (The Staff of Magnus) 1.1
+	- Static Mesh Improvement Mod Improvement Mod 1.3.0
+	- Solmnolent Nook 1.0
+	- Solitude Rectory 2.0
+	- Legacy of the Dragonborn - SMIM Chests 0.1.1
+	- Fortified Whiterun 1.5
+	- Kalilies Brows 1.1
+	- Legendary Skyrim Crossbows and Bows SSE 3.6
+	- Choose your own Arch-Mage 1.0.01
+	- Rugged Rogue Outfits 1.1
+	- Wilderness Witch Outfit 1.0
+	- Practical Pirate Outfit 1.2
+	- Toughened Traveller Outfit 1.0
+	- Closing Time 2.0
+	- Security Overhaul SKSE - Add-ons 0.1.2
+	- Security Overhaul SKSE - Some More Locks 1.0.6
+	- Soul Cairn Objects Secured 1.0
+	- Legacy of The Dragonborn - Alternate Perspective Patch 1.0
+- Other
+  - Regenerated DynDOLOD and friends.
+  - Regenerated Grass Cache
+  - Tweaked XP gain and progression.
+
 ### 11/6/2021 3.6.0
 #### Minor
 - Mod Updates

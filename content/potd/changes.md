@@ -4,6 +4,14 @@ weight: 4
 layout: "potdbase"
 ---
 
+### 1.1.0 1/8/2021
+#### Minor
+- Fixes
+  - Several bug fixes. Check Github's closed issues.
+- Mod Updates
+  - Lux 3.9
+  - Alternate Perspective 2.6
+
 ### Release 1.0.0 10/28/2021
 #### Incremental
 - Lots of back-end changes based on tester feedback.

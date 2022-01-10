@@ -20,7 +20,7 @@ Living Skyrim is not compatible with either the Skyrim Anniversary Edition or th
 
 **If your Skyrim Special Edition received an update through Steam or you installed Skyrim Special Edition anytime after November 11, 2021, you have the Anniversary Update.**
 
-You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248919&game_id=1704)
+You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files)
 
 To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
 {{< /tip >}}

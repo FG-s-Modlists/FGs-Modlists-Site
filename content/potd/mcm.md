@@ -37,7 +37,11 @@ For the SmoothCam preset, make sure you are selecting the option to Load the pre
 
 #### SmoothCam
 - Presets
-  - Click Load next to whichever preset you wish to use. You can and should test them all out to see which one works best for you
+  - Click Load next to whichever preset you wish to use. You can and should test them all out to see which one works best for you\
+
+#### Sets of Skills
+- Hardcore Mode: Enabled
+- Class Limit: 2
 
 #### Trade & Barter
 - Barter Rates
