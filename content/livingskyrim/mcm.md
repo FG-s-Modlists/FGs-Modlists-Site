@@ -1,27 +1,7 @@
 ---
 title: "Character Creation & MCMs"
-<<<<<<< HEAD
-<<<<<<<< HEAD:content/livingskyrim/mcm.md
 weight: 4
 layout: "lsbase"
-========
-=======
->>>>>>> newthemetest
-description: "Character creation and MCM instructions for Living Skyrim."
-lead: ""
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
-draft: false
-images: []
-menu:
-  livingskyrim:
-    parent: "living skyrim"
-weight: 40
-toc: true
-<<<<<<< HEAD
->>>>>>>> newthemetest:content/en/livingskyrim/mcm.md
-=======
->>>>>>> newthemetest
 ---
 
 ## Getting Started in Living Skyrim

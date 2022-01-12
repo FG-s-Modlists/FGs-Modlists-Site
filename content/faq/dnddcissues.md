@@ -1,25 +1,8 @@
 ---
-title: "Troubleshooting D&DDC"
-description: "The troubleshooting page for D&DDC."
-lead: ""
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
-draft: false
-images: []
-menu:
-  dnddc:
-    parent: "D&DDC"
-weight: 90
-toc: true
+title: "D&DDC Issues"
+weight: 4
+layout: "faqbase"
 ---
-
-{{< alert icon="🛑" >}}
-**WARNING!**
-
-**The D&DDC modlist is no longer supported and this document is out of date. Proceed at your own risk.**
-
-**This page will be removed from the website on 2/1/2022.**
-{{< /alert >}}
 
 #### “The D&DDC DynDOLOD Output fails to download.”
 

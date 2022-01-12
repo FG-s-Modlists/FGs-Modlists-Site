@@ -1,27 +1,7 @@
 ---
 title: "Performance Guide"
-<<<<<<< HEAD
-<<<<<<<< HEAD:content/livingskyrim/performanceguide.md
 weight: 7
 layout: "lsbase"
-========
-=======
->>>>>>> newthemetest
-description: "The official performance guide for Living Skyrim."
-lead: ""
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
-draft: false
-images: []
-menu:
-  livingskyrim:
-    parent: "living skyrim"
-weight: 70
-toc: true
-<<<<<<< HEAD
->>>>>>>> newthemetest:content/en/livingskyrim/performanceguide.md
-=======
->>>>>>> newthemetest
 ---
 
 ## Disclaimers
@@ -379,11 +359,11 @@ Run xLODGenx64 from the dropdown menu in MO2 in and run it.
 2. Uncheck the "Terrain LOD" checkbox.
 3. Check the "Occlusion" checkbox.
 
-{{< alert icon="⚠️" >}}
+{{< tip >}}
 **Important!** 
 
 Make sure Occlusion is the only thing checked.
-{{< /alert >}}
+{{< /tip >}}
 
 4. Click Generate and let it run.
 5. When finished, open the SSELODGen Output mod folder and locate `Occlusion.esp`.

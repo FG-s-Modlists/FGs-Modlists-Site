@@ -1,17 +1,7 @@
 ---
-<<<<<<< HEAD:content/potd/_index.md
 title: "Path of the Dovahkiin"
 weight: 1
 layout: "potdbase"
-=======
-title : "Path of the Dovahkiin"
-description: "A description of Path of the Dovahkiin."
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
-images: []
->>>>>>> newthemetest:content/en/potd/_index.md
 ---
 
 Looking for riches untold, countless hordes of enemies, the ability to truly master a dungeon and its layout, and a world with thousands of possibilities? You've come to the right place, Dovahkiin. The path you choose will dictate how your adventure unfolds, and you can spend an endless amount of time choosing that path. Or make your choices as the piles and piles of loot roll in, it's up to you.

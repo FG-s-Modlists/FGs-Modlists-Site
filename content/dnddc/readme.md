@@ -1,58 +1,38 @@
 ---
 title: "Readme"
-<<<<<<< HEAD
-<<<<<<<< HEAD:content/dnddc/readme.md
 weight: 1
 layout: "dnddcbase"
-========
-=======
->>>>>>> newthemetest
-description: "The D&DDC readme and installation instructions."
-lead: ""
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
-draft: false
-images: []
-menu:
-  dnddc:
-    parent: "D&DDC"
-weight: 10
-toc: true
-<<<<<<< HEAD
->>>>>>>> newthemetest:content/en/dnddc/readme.md
-=======
->>>>>>> newthemetest
 ---
 
 Current version: 10/10/2021 2.2.1
 
 ## Before You Get Started
 
-{{< alert icon="🛑" >}}
+{{< tip >}}
 **Important!** 
 
 Sections labeled important like this one will tell you when you need to pay extra attention to something.
-{{< /alert >}}
+{{< /tip >}}
 
-{{< alert icon="🛑" >}}
+{{< tip "warning" >}}
 **WARNING!**
 
 **Warning blocks like this one will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.**
-{{< /alert >}} 
+{{< /tip >}} 
 
 Before you get started installing or playing Dungeons & Deviousness: Director's Cut, it's important to note a few things:
 
-{{< alert icon="🛑" >}}
+{{< tip "warning" >}}
 **WARNING!**
 
 **This modlist contains explicit sexual content and a wide variety of kinks/fetishes. Proceed at your own discretion.**
-{{< /alert >}} 
+{{< /tip >}} 
 
-{{< alert icon="🛑" >}}
+{{< tip >}}
 **Important!** 
 
 This modlist only functions correctly with female player characters.
-{{< /alert >}}
+{{< /tip >}}
 
 - You are not required to have Nexus Premium to install D&DDC, however, it is highly recommended. Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
 - As of 2.0.0 D&DDC requires 264GB (71GB downloads/185GB mods/7GB Bodyslides) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
@@ -87,7 +67,7 @@ Skyrim is very heavy on processors. Generally, anything above 3GHz should be fin
 
 ## Pre-Installation
 ### Steam & SSE Setup
-{{< alert icon="🛑" >}}
+{{< tip "warning" >}}
 **WARNING!**
 
 D&DDC is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update.
@@ -97,7 +77,7 @@ D&DDC is not compatible with either the Skyrim Anniversary Edition or the free A
 You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=243513&game_id=1704)
 
 To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
-{{< /alert >}}
+{{< /tip >}}
 
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
 
@@ -126,11 +106,11 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 5. Ensure that C:\Dungeons & Deviousness is completely empty.
 6. Ensure that Wabbajack.exe is in C:\Wabbajack.
 
-{{< alert icon="🛑" >}}
+{{< tip "warning" >}}
 **WARNING!**
 
 **Failure to set up these folders properly will result in the install failing. For example, [install drive]\Wabbajack\Dungeons & Deviousness is incorrect.**
-{{< /alert >}} 
+{{< /tip >}} 
 
 ## Wabbajack Installation
 If you are updating your existing installation of Dungeons & Deviousness: Director's Cut, skip to the Updating D&DDC section.
@@ -176,21 +156,21 @@ If you are updating D&DDC, the process is very simple. Before you update, you sh
 6. Click the three dots in the second (middle) box. Navigate to your Dungeons & Deviousness folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
 7. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
 
-{{< alert icon="🛑" >}}
+{{< tip >}}
 **Important!** 
 
 Set your downloads folder path to the same downloads folder location you used when you first installed Dungeons & Deviousness. Failure to do this will make Wabbajack download every mod again, which you want to avoid if possible.
-{{< /alert >}}
+{{< /tip >}}
 
 8. When prompted if you would like to overwrite the existing installation, click “Confirm.”
 
 ## BodySlides
 
-{{< alert icon="🛑" >}}
+{{< tip "warning" >}}
 **WARNING!**
 
 **Failure to do either of the following options will result in your character's body turning invisible when equipped with certain outfits.**
-{{< /alert >}} 
+{{< /tip >}} 
 
 When you first load up D&DDC, there will be zero BodySlides created. You have two options here: Download the prebuilt ones I’ve made using the D&DDC Slim2Thicc preset, or make your own.
 
@@ -237,11 +217,11 @@ There is a mod included in the list that you can enable but should not except un
 2. In the right pane of MO2, locate Poser Hotkeys.esp and Poser Merged Module.esp. They should be at the bottom of the load order.
 3. Move these two ESPs to priority 84 and 85 in the right pane of MO2, respectively.
 
-{{< alert icon="🛑" >}}
+{{< tip "warning" >}}
 **WARNING!**
 
 **Poser Hotkeys should only be enabled for the duration of your screenarchery. If you wish to actually play the list instead of taking screenshots, it should be disabled!**
-{{< /alert >}} 
+{{< /tip >}} 
 
 ## Launching Dungeons & Deviousness
 The hard part is now over. Carry on, the end is in sight!
@@ -256,11 +236,11 @@ The hard part is now over. Carry on, the end is in sight!
 1. Consult the [D&DDC MCM Configuration document](/dnddc/mcm) and follow all listed steps. This step is required if you want the list to work properly.
 2. Don’t forget to save your game after configuring the MCMs, I promise you don’t want to have to do this step more than once.
 
-{{< alert icon="🛑" >}}
+{{< tip "warning" >}}
 **WARNING!**
 
 **The MCMs for Dungeons & Deviousness must be set correctly, failure to do this will result in the list not working.**
-{{< /alert >}} 
+{{< /tip >}} 
 
 ## Important Mods You Need to Know About
 This section details the most important mods included in Dungeons & Deviousness and is intended to give you a basic understanding of what to expect when you start the game.

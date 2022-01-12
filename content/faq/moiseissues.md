@@ -1,16 +1,7 @@
 ---
-title: "Troubleshooting MOISE"
-description: "The troubleshooting page for MOISE."
-lead: ""
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
-draft: false
-images: []
-menu:
-  moise:
-    parent: "moise"
-weight: 90
-toc: true
+title: "MOISE Issues"
+weight: 3
+layout: "faqbase"
 ---
 
 ### My game crashes immediately!

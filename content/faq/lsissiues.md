@@ -1,28 +1,7 @@
 ---
-<<<<<<< HEAD
-<<<<<<<< HEAD:content/faq/lsissiues.md
 title: "Living Skyrim Issues"
 weight: 2
 layout: "faqbase"
-========
-=======
->>>>>>> newthemetest
-title: "Troubleshooting Living Skyrim"
-description: "The troubleshooting page for Living Skyrim."
-lead: ""
-date: 2020-10-13T15:21:01+02:00
-lastmod: 2020-10-13T15:21:01+02:00
-draft: false
-images: []
-menu:
-  livingskyrim:
-    parent: "living skyrim"
-weight: 90
-toc: true
-<<<<<<< HEAD
->>>>>>>> newthemetest:content/en/livingskyrim/lsissiues.md
-=======
->>>>>>> newthemetest
 ---
 
 ### Wabbajack Issues

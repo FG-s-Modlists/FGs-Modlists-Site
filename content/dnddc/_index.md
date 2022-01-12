@@ -1,23 +1,7 @@
 ---
-<<<<<<< HEAD
-<<<<<<<< HEAD:content/dnddc/_index.md
 title: "D&DDC"
 weight: 1
 layout: "dnddcbase"
-========
-=======
->>>>>>> newthemetest
-title : "Dungeons & Deviousness: Director's Cut"
-description: "A description of D&DDC."
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
-draft: false
-images: []
-<<<<<<< HEAD
->>>>>>>> newthemetest:content/en/dnddc/_index.md
-=======
->>>>>>> newthemetest
 ---
 
 Have you ever watched a movie, thought it was good, and then watched the Director's Cut and thought it was 10x better? That's this list. If you've played Dungeons & Deviousness before, you mostly know what you're getting into. But the Director's Cut is so much more.
