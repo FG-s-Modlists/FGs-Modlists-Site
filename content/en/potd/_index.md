@@ -1,5 +1,5 @@
 ---
-title : "POTD Description"
+title : "Path of the Dovahkiin"
 description: "A description of Path of the Dovahkiin."
 lead: ""
 date: 2020-10-06T08:48:23+00:00

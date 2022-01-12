@@ -1,5 +1,5 @@
 ---
-title : "Masterstroke Description"
+title : "Masterstroke"
 description: "A description of Masterstroke."
 lead: ""
 date: 2020-10-06T08:48:23+00:00
