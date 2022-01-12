@@ -66,6 +66,8 @@ The following MCMs should only be configured if you are interested in utilizing 
 - General Options (again)
   - Click Register Animations This can take up to 5 minutes to complete, wait in the MCM until it is finished.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
+**WARNING!**
+
 **Save your game! I promise you don’t want to have to do the MCM setups more than once.**
-{{< /tip >}} 
+{{< /alert >}}

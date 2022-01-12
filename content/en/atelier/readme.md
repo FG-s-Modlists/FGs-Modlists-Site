@@ -21,34 +21,34 @@ toc: true
 **This page will be removed from the website on 2/1/2022.**
 {{< /alert >}}
 
-{{< tip >}}
+{{< alert icon="🛑" >}}
 Atelier has been archived until further notice. It is no longer available to install through Wabbajack.
-{{< /tip >}}
+{{< /alert >}}
 
 ## Before You Get Started
 
-{{< tip >}}
+{{< alert icon="🛑" >}}
 **Important!** 
 
 Sections labeled important like this one will tell you when you need to pay extra attention to something.
-{{< /tip >}}
+{{< /alert >}}
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Warning blocks like this one will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ### Warnings/Disclaimers
 Wabbajack no longer requires that you have Nexus Premium to install the modlist, however, having Nexus Premium will cut your install time to a fraction of what it would be instead of downloading each mod individually (and save you a couple thousand clicks or so).
 
 The modlist requires ~174GB (46.7GB Downloads/128GB Mods) of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing onto an SSD/NVMe is not required, but strongly recommended. Download and installation times vary based on your computer and internet speeds but expect the entire process to take a few of hours.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **This modlist contains explicit sexual content and nude character models. Proceed at your own discretion.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ### System Specifications
 Atelier is somewhat graphically intensive, but with how lightweight the rest of the list is, it performs very well. As a result, the following hardware can run the list at a consistent 60+ FPS with ENB. Use it to gauge how your system might run the list.
@@ -76,9 +76,9 @@ As with any modlist, it is strongly recommended that you start with a clean, unm
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Properties… > Local Files > Browse Local Files…), delete them.
 3. Install Skyrim: Special Edition.
 
-{{< tip >}}
+{{< alert icon="🛑" >}}
 Protip: If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.
-{{< /tip >}}
+{{< /alert >}}
 
 Also make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
 
@@ -97,11 +97,11 @@ Launch Skyrim SE to create any INI or registry entries the game needs. Immediate
 5. Ensure that [Install Drive]\Atelier is completely empty.
 6. Ensure that Wabbajack.exe is in [Install Drive]\Wabbajack.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Failure to set up these folders properly will result in the install failing. For example, [install drive]\Wabbajack\Atelier is incorrect.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ## Wabbajack Installation
 If you are updating your existing installation of Atelier, skip to Updating Atelier.
@@ -127,11 +127,11 @@ If Wabbajack fails to download a particular mod, it means that the mod has likel
 ### Game Folder Files
 Now you have to copy some files to their correct locations. Navigate to `[Install Drive]\Atelier\Game Folder Files`. Copy all of the files inside the Game Folder Files folder into `[Steam Install Location]\steamapps\common\Skyrim Special Edition\` and Overwrite if prompted. This folder contains SKSE and Engine Fixes part 2, which are required to use Atelier and must be placed into your Skyrim’s installation folder for the list to function.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **These files include SKSE and Engine Fixes Part 2, both of which are essential for the list to function correctly. Failure to copy these files will result in the list not working.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ### Mod Organizer 2
 1. Navigate to [Install Drive]\Atelier and open ModOrganizer.exe. Your Mod Organizer window will have a dark theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
@@ -147,20 +147,20 @@ If you wish to use ENB, follow these steps:
 1. Download the latest ENB Binary from http://enbdev.com/download_mod_tesskyrimse.htm
 2. Open the .zip file, go into the WrapperVersion folder, and copy ONLY d3d11.dll and d3dcompiler_46e.dll into your Skyrim SE installation folder. (Usually located at[install drive]\Steam\steamapps\common\Skyrim Special Edition)
 
-{{< tip >}}
+{{< alert icon="🛑" >}}
 **Important!** 
 
 Make sure your chosen ENB preset is compatible with Obsidian Weathers! 
-{{< /tip >}}
+{{< /alert >}}
 
 3. Download your selected ENB preset.
 4. Follow any installation instructions included with your Preset. Every ENB has slight variations in their requirements, so make sure to follow the instructions included for that preset.
 
-{{< tip >}}
+{{< alert icon="🛑" >}}
 **Important!** 
 
 You should not need to download any additional files other than the preset. Things like ENB Helper and Particle Patch are already included!
-{{< /tip >}}
+{{< /alert >}}
 
 5. Ensure that ForceVsync is set to false in enblocal.ini
 
@@ -204,11 +204,11 @@ The hard part is now over. Carry on, the end is in sight!
 4. As soon as you gain control of your character, do nothing. The mods are loading and this can take several minutes. You’ll see a list of mods initializing in the top left of the screen.
 5. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.\
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Loading a save from another modlist or from before you installed Atelier will corrupt that save, do not do this.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ## The MCM Settings
 1. Consult the Atelier MCM Configuration document and follow all listed steps. This step is required if you want the list to work properly.
@@ -222,11 +222,11 @@ If you want some tips on how to take better screenshots, consult this link: Clic
 ## Adding to Atelier
 The only support provided for adding mods to Atelier is for adding additional Skyrim SE outfits using the CBBE or 3BBB bodies. Adding any other mods is not supported in any way, shape or form.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Before you add anything to Atelier, you should be familiar with the following things: Installing mods using Mod Organizer; running BodySlide; using xEdit. If you don't have all three of these skills, you need to learn how to do them. No support will be provided for learning these skills.**
-{{< /tip >}} 
+{{< /alert >}}
 
 To add an outfit to Atelier, follow these steps:
 

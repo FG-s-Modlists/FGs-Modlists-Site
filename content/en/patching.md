@@ -44,12 +44,11 @@ And conversely, how do you know if you need to make a patch? Let's look at anoth
 
 <img src="https://i.imgur.com/QQ1Kw6m.png"></img>
 
-
-{{< tip >}}
+{{< alert icon="📝" >}}
 **Protip:** 
 
-Right-click in the right pane of SSEEdit and select "Hide no conflict and empty rows" to condense the information there down to only the rows where conflicts are occurring. 
-{{< /tip >}}
+Right-click in the right pane of SSEEdit and select "Hide no conflict and empty rows" to condense the information there down to only the rows where conflicts are occurring.
+{{< /alert >}}
 
 In this example from AI Overhaul, we can see that NPC VO Merged is missing some data that AI Overhaul has added. Because NPC VO Merged is missing that data (indicated in red), we need to make a patch to **combine** the changes AI Overhaul makes with the changes that NPC VO Merged makes.
 
