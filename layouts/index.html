@@ -2,12 +2,10 @@
 <section class="section container-fluid mt-n3 pb-3">
   <div class="row justify-content-center">
     <div class="col-lg-12 text-center">
-      <h1 class="mt-0">{{ .Title }}</h1>
+      <h1 class="mt-0">ForgottenGlory's Modlists</h1>
     </div>
     <div class="col-lg-9 col-xl-8 text-center">
-      <p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" role="button">Get Started</a>
-      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p>
+      <p class="lead">The official website for all things related to FG's modlists.</p>
     </div>
   </div>
 </section>
@@ -17,32 +15,40 @@
   {{ if eq $.Site.Language.LanguageName "English" }}
   <section class="section section-sm">
     <div class="container">
-      <div class="row justify-content-center text-center">
+      <div class="row justify-content-center text-left">
         <div class="col-lg-5">
-          <h2 class="h4">Security aware</h2>
-          <p>Get A+ scores on <a href="https://observatory.mozilla.org/analyze/doks.netlify.app">Mozilla Observatory</a> out of the box. Easily change the default Security Headers to suit your needs.</p>
+          <a href="\livingskyrim"><img src="images\LS3ResizedSmallLogo.webp" style='width: 100%; object-fit: contain'/></a>
+          <h2 class="h4"><a href="\livingskyrim">Living Skyrim</a></h2>
+          <p>ForgottenGlory's flagship modlist, Living Skyrim, is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of this modlist. All of this on top of a beautiful graphics package.</p>
         </div>
         <div class="col-lg-5">
-          <h2 class="h4">Fast by default ⚡️</h2>
-          <p>Get 100 scores on <a href="https://googlechrome.github.io/lighthouse/viewer/?gist=92eaa982d7dbf92f94fe8ecc03987c9a">Google Lighthouse</a> by default. Doks removes unused css, prefetches links, and lazy loads images.</p>
+          <a href="\moise"><img src="images\MOISEResizedSmallLogo.webp" style='width: 100%; object-fit: contain'/></a>
+          <h2 class="h4"><a href="\moise">MOISE</a></h2>
+          <p>Morrowind Overall Improvement Suite Enhanced (MOISE) is a basic, primarily graphical overhaul for Morrowind GOTY edition. It includes all of the necessities required to begin a Morrowind modding adventure.</p>
         </div>
         <div class="col-lg-5">
-          <h2 class="h4">SEO-ready</h2>
-          <p>Use sensible defaults for structured data, open graph, and Twitter cards. Or easily change the SEO settings to your liking.</p>
+          <a href="\potd"><img src="images\POTDSmallLogo.webp" style='width: 100%; object-fit: contain'/></a>
+          <h2 class="h4"><a href="\potd">Path of the Dovahkiin</a></h2>
+          <p>Path of the Dovahkiin is the ultimate ARPG-in-Skyrim experience. Fast combat, Vokriinator Black, hordes of enemies, infinite loot variety, replayable dungeons, performant and pretty graphics, and of course, endless character build theorycrafting. What path will you choose, Dovahkiin?</p>
         </div>
       </div>
-      <div class="row justify-content-center text-center">
+      <div class="row justify-content-center text-left">
         <div class="col-lg-5">
-          <h2 class="h4">Full text search</h2>
-          <p>Search your Doks site with FlexSearch. Easily customize index settings and search options to your liking.</p>
+          <a href="\dnddc"><img src="images\DNDDCSmallLogo.webp" style='width: 100%; object-fit: contain'/></a>
+          <h2 class="h4"><a href="\dnddc">D&DDC</a></h2>
+          <p>⚠️ D&DDC has been archived until further notice.</p>
+          <p>Dungeons & Deviousness is a NSFW Skyrim SE modlist intended to be fully playable with a semi-hardcore survival experience included. Rather than a screenshot simulator or lightweight add-on to vanilla Skyrim, Dungeons & Deviousness seeks to be as intrusive as possible in the systems present in Skyrim and overhaul them to fit the theme. The Director's Cut is a refined and rebuilt version of the list.</p>
         </div>
         <div class="col-lg-5">
-          <h2 class="h4">Page layouts</h2>
-          <p>Build pages with a landing page, blog, or documentation layout. Add custom sections and components to suit your needs.</p>
+          <a href="\atelier"><img src="images\AtelierVerySmall.webp" style='width: 100%; object-fit: contain'/></a>
+          <h2 class="h4"><a href="\atelier">Atelier</a></h2>
+          <p>⚠️ Atelier has been archived until further notice.</p>
+          <p>Atelier (noun, /ˌadlˈyā/): a workshop or studio, especially one used by an artist or designer. And in this context, a Skyrim SE modlist focused on one thing and one thing only: taking screenshots. Atelier is setup to make taking screenshots as easy as possible out of the box. Just install, load up the game, pick some outfits, and you’re ready to go.</p>
         </div>
         <div class="col-lg-5">
-          <h2 class="h4">Dark mode</h2>
-          <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
+          <img src="images\MasterstrokeSmallLogo.webp" style='width: 100%; object-fit: contain'/>
+          <h2 class="h4">Masterstroke</h2>
+          <p>Masterstroke is an upcoming modlist by ForgottenGlory.</p>
         </div>
       </div>
     </div>

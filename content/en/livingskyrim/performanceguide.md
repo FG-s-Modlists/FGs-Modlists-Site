@@ -7,7 +7,7 @@ lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
-  docs:
+  livingskyrim:
     parent: "living skyrim"
 weight: 70
 toc: true
@@ -27,11 +27,11 @@ If I may wax poetical for a moment, video games are complicated, masterful works
 
 The reason I mention this is because a lot is happening under the hood of your computer when it's running a game and you're trying to figure out why a game isn't performing well. Much in the same way many things have to come together for a video game to exist, hardware, game settings, other software, operating system, monitor, and more all have to come together in just such a way that the game you're trying to play is running smoothly. Because of the number of settings and options available, **this guide is not guaranteed to increase your game's performance.** It will cover many of the most common things you can do to increase the game performance of Living Skyrim, but you may find that only some increase your frame rate. Some may in fact decrease it. Some may do nothing at all.
 
-{{< tip >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
 This guide can ***NOT*** be blindly followed and then expected to fix all your performance problems immediately. You will have to do some experimenting on your own to find out what combination of settings gives you the best performance.
-{{< /tip >}}
+{{< /alert >}}
 
 ## The "Easy" Stuff
 
@@ -113,11 +113,11 @@ This should, in theory, cause Skyrim to run in a borderless window at your monit
 
 ### nVidia Control Panel
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Changing settings in the nVidia Control Panel will affect every game you play on your computer - not just Skyrim! Be aware of this when considering making these changes. Most, if not all games on your system, will run better but look worse after changing these settings.**
-{{< /tip >}} 
+{{< /alert >}}
 
 Open the nVidia Control Panel. 
 
@@ -158,11 +158,11 @@ Experiment with the following settings to see what helps and what doesn't.
 
 We're now getting into technical modding things specific to Skyrim SE. 
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **This is the one area of the performance guide that should be followed to the letter. Deviating from this can break the list entirely if you're not careful. Additionally, you should only proceed with the following if you are still receiving poor performance after doing all of the above steps.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ### Regenerate LODs
 

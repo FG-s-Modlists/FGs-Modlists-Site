@@ -7,7 +7,7 @@ lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
-  docs:
+  livingskyrim:
     parent: "living skyrim"
 weight: 40
 toc: true
@@ -27,11 +27,11 @@ If you’re coming from a previous version of Living Skyrim (1.x.x or 2.x.x), th
 - There’s a loading screen tip I’m fond of that says something along the lines of “Strong enemies care not if you’re just starting out, they’ll kill you all the same.” Don’t be afraid to run away.
 - **Alternate Perspective** modifies how the main quest begins in Living Skyrim 3. With any start except for the Dragonborn start, Helgen will remain intact as a fully functional town until such time that you decide to start the main story. To begin the main Skyrim story, go to Helgen and speak with the innkeeper. The dialogue option ***"I'd like to rent a room (Start intro)"*** will begin the opening sequence of Skyrim with the notable change that you are a bystander that gets caught in the Alduin attack.
 
-{{< tip >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
 It's important that you do the following steps in the order they are presented. Skipping around or going out of order is bad.
-{{< /tip >}}
+{{< /alert >}}
 
 ## Character Customization Mods
 
@@ -47,11 +47,11 @@ Also, while fantastic for roleplaying purposes, AVA, ELSA, and Classic Classes &
 
 ## AVA & ELSA
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **If you are going to use them, AVA and ELSA must be configured before leaving the Alternate Perspective starting room.**
-{{< /tip >}} 
+{{< /alert >}}
 
 Immediately after you create your character, you'll be prompted to assign your attributes using AVA. You may do this now or later by selecting the appropriate response when the popup appears. If you choose to do this later, you'll be given a power in your Powers/Shouts menu that you can activate to assign your attributes. Also, choosing to do this later allows you to skip using AVA entirely if you wish.
 
@@ -66,13 +66,13 @@ The choices you make in the CC&BR menu are permanent and cannot be changed witho
 
 ## Mandatory control and MCM settings
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **The following options must be set manually in the game's settings and MCM menus for Living Skyrim 3 to work properly.**
-{{< /tip >}} 
+{{< /alert >}}
 
-#### Esc key menu
+#### Esc Key Menu
 - Controls
   - Sneak: LCtrl (this is your "dodge" key in-game)
 
@@ -122,11 +122,11 @@ The choices you make in the CC&BR menu are permanent and cannot be changed witho
   - SWF Version Checking
     - Map Menu: Disabled
 
-{{< tip >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
 For the SmoothCam preset, make sure you are selecting the option to Load the preset instead of save it. If you accidentally save instead of load, you'll need to re-run Wabbajack to restore the preset to its correct settings.
-{{< /tip >}}
+{{< /alert >}}
 
 #### SmoothCam
 - Presets

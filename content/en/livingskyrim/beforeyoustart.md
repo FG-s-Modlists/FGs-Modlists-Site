@@ -7,7 +7,7 @@ lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
-  docs:
+  livingskyrim:
     parent: "living skyrim"
 weight: 20
 toc: true
@@ -15,13 +15,13 @@ toc: true
 
 Before you get started installing or playing Living Skyrim, it's important to note a few things:
 
-{{< alert icon="❗" >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
 Sections labeled important like this one will tell you when you need to pay extra attention to something.
 {{< /alert >}}
 
-{{< alert icon="⚠️" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Warning blocks like this one will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.**

@@ -7,7 +7,7 @@ lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
-  docs:
+  livingskyrim:
     parent: "living skyrim"
 weight: 30
 toc: true
@@ -22,7 +22,8 @@ Click the link to download the latest Visual C++ x64 Redistributable, then doubl
 - [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 ### Steam & SSE Setup
-{{< tip "warning" >}}
+
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 Living Skyrim is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update.
@@ -32,7 +33,7 @@ Living Skyrim is not compatible with either the Skyrim Anniversary Edition or th
 You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files)
 
 To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
-{{< /tip >}}
+{{< /alert >}}
 
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
 
@@ -44,11 +45,11 @@ Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to 
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Manage > Browse Local Files), delete them.
 3. Install Skyrim: Special Edition.
 
-{{< tip >}}
-**Protip:** 
+{{< alert icon="📝" >}}
+**Protip!** 
 
 If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.
-{{< /tip >}}
+{{< /alert >}}
 
 Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist.
 
@@ -69,11 +70,11 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 5. Download the latest version of Wabbajack from the Wabbajack website: Wabbajack.
 6. Place the Wabbajack.exe file you just downloaded into the folder you created earlier called Wabbajack.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Failure to set up these folders properly will result in the install failing. For example, `[install drive]\Wabbajack\Living Skyrim` is incorrect.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ## Installing the List
 
@@ -95,11 +96,11 @@ It’s now time to begin the installation of the list. Follow these steps:
 | 9. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn’t happen, it isn’t a problem and means you’ve already set this up. | 9. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn’t required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it. |
 | 10. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). Take this opportunity to read the Important Mods You Need To Know About section of this document. | |
 
-{{< tip >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
 Reading the Important Mods section of this document is not optional. You won't have any idea what's going on if you don't.
-{{< /tip >}}
+{{< /alert >}}
 
 Once complete, Wabbajack will indicate it is done with a green box that says "Installation complete". You may exit Wabbajack after this appears.
 
@@ -136,11 +137,11 @@ To switch between presets, launch ENB Organizer from within Mod Organizer 2. If 
 5. Click on the toggle under any other preset to enable it.
 6. Wait 10 seconds, then you're done!
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **You should only ever have one ENB preset enabled. Having multiple enabled is a recipe for a Bad Time™.**
-{{< /tip >}} 
+{{< /alert >}}
 
 Note that ENB can put a very heavy strain on weaker computers. If you would like to turn off ENB, simply disable all of the presets shown in ENB Organizer.
 
@@ -149,11 +150,11 @@ Support is not provided for adding additional ENB options to the modlist. If you
 ## Updating Living Skyrim
 If you are updating Living Skyrim, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#ls-announcements` channel on the Living Skyrim Discord server before updating.**
-{{< /tip >}} 
+{{< /alert >}}
 
 1. Run Wabbajack.exe.
 2. At the bottom of the window, click Browse Modlists.
@@ -177,11 +178,11 @@ To actually launch and then play Living Skyrim, follow these steps:
 7. As soon as you gain control of your character, do nothing. The mods are initializing and this can take several minutes. You’ll see a list of mods appearing in the top left corner of your screen.
 8. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Loading a save from another modlist or from before you installed Living Skyrim will corrupt that save, do not do this.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ## The MCM Settings
 Some MCM settings have been pre-set for you. See this document to set the remaining MCMs that are required for LS3 to function correctly: [Click Here](/livingskyrim/mcm)
@@ -204,11 +205,11 @@ To report a bug, follow these steps:
 
 After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible.
 
-{{< tip >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
 Don't forget to check back on your report periodically just in case we request more information from you.
-{{< /tip >}}
+{{< /alert >}}
 
 ## Performance Optimizations
 

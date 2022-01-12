@@ -7,7 +7,7 @@ lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
-  docs:
+  livingskyrim:
     parent: "living skyrim"
 weight: 80
 toc: true
@@ -32,11 +32,11 @@ First thing's first, download this preset.
 
 [Click Here to download the preset](https://drive.google.com/file/d/1HcuoBi-dJlOAHqi0JW7unnAQY4GUXIu0/view?usp=sharing)
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **This preset must be unzipped directly into your LS3\mods folder, using an "Extract Here" option, not one that creates its own folder.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ## In-Game Configuration
 
