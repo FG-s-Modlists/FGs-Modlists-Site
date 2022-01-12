@@ -1,0 +1,3 @@
+[submodule "doks"]
+	path = doks
+	url = https://github.com/h-enk/doks
