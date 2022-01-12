@@ -3,7 +3,7 @@
   functions = "functions"
 
 [build.environment]
-  HUGO_VERSION = "0.88.1"
+  HUGO_VERSION = "0.87.0"
   NODE_VERSION = "16.9.1"
   NPM_VERSION = "7.21.1"
 
@@ -11,10 +11,10 @@
   command = "hugo -b $URL --gc --minify && npm run build:functions"
 
 [context.deploy-preview]
-  command = "npm run build -- -b $DEPLOY_PRIME_URL"
+  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify"
 
 [context.branch-deploy]
-  command = "npm run build -- -b $DEPLOY_PRIME_URL"
+  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify"
 
 [context.next]
   command = "npm run build"
