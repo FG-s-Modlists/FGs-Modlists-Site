@@ -1,7 +1,27 @@
 ---
 title: "Changelog"
+<<<<<<< HEAD
+<<<<<<<< HEAD:content/livingskyrim/changes.md
 weight: 9
 layout: "lsbase"
+========
+=======
+>>>>>>> newthemetest
+description: "The Living Skyrim Changelog"
+lead: ""
+date: 2020-10-13T15:21:01+02:00
+lastmod: 2020-10-13T15:21:01+02:00
+draft: false
+images: []
+menu:
+  livingskyrim:
+    parent: "living skyrim"
+weight: 50
+toc: true
+<<<<<<< HEAD
+>>>>>>>> newthemetest:content/en/livingskyrim/changes.md
+=======
+>>>>>>> newthemetest
 ---
 
 ### 1/9/2022 3.7.0

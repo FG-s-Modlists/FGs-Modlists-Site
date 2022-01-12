@@ -1,18 +1,39 @@
 ---
+<<<<<<< HEAD
+<<<<<<<< HEAD:content/dnddc/mcm.md
 title: "MCMs"
 weight: 3
 layout: "dnddcbase"
+========
+=======
+>>>>>>> newthemetest
+title: "Character Creation & MCMs"
+description: "Character creation and MCM instructions for D&DDC."
+lead: ""
+date: 2020-10-13T15:21:01+02:00
+lastmod: 2020-10-13T15:21:01+02:00
+draft: false
+images: []
+menu:
+  dnddc:
+    parent: "D&DDC"
+weight: 40
+toc: true
+<<<<<<< HEAD
+>>>>>>>> newthemetest:content/en/dnddc/mcm.md
+=======
+>>>>>>> newthemetest
 ---
 
 Current MCM Document Version: 10/7/2021 2.2.0
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Before doing anything with the MCM, wait for all the messages in the top left to finish appearing. Then, save your game and load the save you just created. Once that save has loaded, you must once again wait for all messages in the top left to disappear (usually indicated by the "SexLab Ready!" message). When you do this, you will receive a popup about SLSF and its Papyrus storage. This is normal and will be fixed by following the below steps.**
 
 **Additionally, you should do the steps here in the order they are presented.**
-{{< /tip >}} 
+{{< /alert >}}
 
 For Dungeons & Deviousness to work properly, the MCM and Skyrim in-game settings should be set as follows.
 
@@ -26,11 +47,11 @@ Character creation in Dungeons & Deviousness is going to be slightly different t
 
 Also, before you begin, if you're going to use a RaceMenu preset, it's possible that they will look weird on initial load. You can load the head sculpt for your chosen preset from RaceMenu's Sculpt menu. Doing so should fix any oddities with head shapes and such. Note that not every preset has a head sculpt to load, you should only do this if it looks weird.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Dungeons & Deviousness only functions correctly with female player characters.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ## AVA & ELSA
 Immediately after you create your character, you'll be prompted to assign your attributes using AVA. You may do this now or later by selecting the appropriate response when the popup appears. If you choose to do this later, you'll be given a power in your Powers/Shouts menu that you can activate to assign your attributes. You should select either Expert or Master when prompted.
@@ -58,11 +79,11 @@ The choices you make in the CC&BR menu are permanent and cannot be changed witho
 - Debug
   - Import Settings
 
-{{< tip >}}
+{{< alert icon="🛑" >}}
 **Important!** 
 
 Now, go look at what all has been set by the Cursed Loot import and configure Cursed Loot to your liking. The included preset is tough but fair, however, I'd be willing to guarantee you'll want to tweak it. Cursed Loot is very subjective. 
-{{< /tip >}}
+{{< /alert >}}
 
 ### Devious Devices
 - Debug
@@ -195,11 +216,11 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
 - Boss Bar Widget
   - Show Boss Bar: Disabled
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **The following should only be configured after you have exited the starting room and entered into Helgen proper.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ### Realistic Needs
 - Basic Needs
@@ -220,8 +241,8 @@ Now, go look at what all has been set by the Cursed Loot import and configure Cu
 - Profile
   - Click Load Settings.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Save your game! I promise you don't want to have to do the MCM setups more than once.**
-{{< /tip >}} 
+{{< /alert >}}

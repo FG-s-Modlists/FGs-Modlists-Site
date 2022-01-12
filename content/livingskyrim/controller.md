@@ -1,7 +1,27 @@
 ---
 title: "Using A Controller"
+<<<<<<< HEAD
+<<<<<<<< HEAD:content/livingskyrim/controller.md
 weight: 8
 layout: "lsbase"
+========
+=======
+>>>>>>> newthemetest
+description: "A guide to using a controller with Living Skyrim."
+lead: ""
+date: 2020-10-13T15:21:01+02:00
+lastmod: 2020-10-13T15:21:01+02:00
+draft: false
+images: []
+menu:
+  livingskyrim:
+    parent: "living skyrim"
+weight: 80
+toc: true
+<<<<<<< HEAD
+>>>>>>>> newthemetest:content/en/livingskyrim/controller.md
+=======
+>>>>>>> newthemetest
 ---
 
 Living Skyrim supports a controller or gamepad out of the box. If you wish to use a controller, follow this guide.

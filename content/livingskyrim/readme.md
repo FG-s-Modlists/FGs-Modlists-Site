@@ -1,7 +1,21 @@
 ---
 title: "Installation Instructions"
+<<<<<<< HEAD:content/livingskyrim/readme.md
 weight: 3
 layout: "lsbase"
+=======
+description: "Living Skyrim's installation instructions."
+lead: ""
+date: 2020-10-13T15:21:01+02:00
+lastmod: 2020-10-13T15:21:01+02:00
+draft: false
+images: []
+menu:
+  livingskyrim:
+    parent: "living skyrim"
+weight: 30
+toc: true
+>>>>>>> newthemetest:content/en/livingskyrim/readme.md
 ---
 
 ## Pre-Installation
@@ -179,7 +193,7 @@ Some MCM settings have been pre-set for you. See this document to set the remain
 
 ## Common Issues
 
-If you encounter any issues, click here to visit the [LS Troubleshooting](/faq/lsissiues) page.
+If you encounter any issues, click here to visit the [LS Troubleshooting](/livingskyrim/lsissiues) page.
 
 ### Bug Reporting, Github, and You
 

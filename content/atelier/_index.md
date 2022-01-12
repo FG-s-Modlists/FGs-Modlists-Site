@@ -1,7 +1,17 @@
 ---
+<<<<<<< HEAD:content/atelier/_index.md
 title: "Atelier"
 weight: 1
 layout: "atelierbase"
+=======
+title : "Atelier"
+description: "A description of Atelier."
+lead: ""
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
+images: []
+>>>>>>> newthemetest:content/en/atelier/_index.md
 ---
 
 Atelier (noun, /ˌadlˈyā/): a workshop or studio, especially one used by an artist or designer. And in this context, a Skyrim SE modlist focused on one thing and one thing only: taking screenshots. Atelier is setup to make taking screenshots as easy as possible out of the box. Just install, load up the game, pick some outfits, and you’re ready to go. This modlist isn’t intended to be “played” in the traditional sense. Certainly, the game is functional - all of the vanilla quests work and can be done - but that’s not what we’re here for. Instead, we’re here for powerful camera controls, the ability to set a scene exactly as you wish, and a vast array of outfits to pick from.

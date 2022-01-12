@@ -1,7 +1,27 @@
 ---
 title: "Changelog"
+<<<<<<< HEAD
+<<<<<<<< HEAD:content/dnddc/changes.md
 weight: 4
 layout: "dnddcbase"
+========
+=======
+>>>>>>> newthemetest
+description: "The D&DDC changelog."
+lead: ""
+date: 2020-10-13T15:21:01+02:00
+lastmod: 2020-10-13T15:21:01+02:00
+draft: false
+images: []
+menu:
+  dnddc:
+    parent: "D&DDC"
+weight: 50
+toc: true
+<<<<<<< HEAD
+>>>>>>>> newthemetest:content/en/dnddc/changes.md
+=======
+>>>>>>> newthemetest
 ---
 
 ### 12/11/2021 2.3.6

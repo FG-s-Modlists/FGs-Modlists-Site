@@ -1,7 +1,17 @@
 ---
+<<<<<<< HEAD:content/masterstroke/_index.md
 title: "Masterstroke"
 weight: 1
 layout: "masterstrokebase"
+=======
+title : "Masterstroke"
+description: "A description of Masterstroke."
+lead: ""
+date: 2020-10-06T08:48:23+00:00
+lastmod: 2020-10-06T08:48:23+00:00
+draft: false
+images: []
+>>>>>>> newthemetest:content/en/masterstroke/_index.md
 ---
 
 The pursuit of a fun, challenging, and sexy modlist is something that some might say is a madman's journey. Good thing I'm that madman. Inside Masterstroke, you'll find all of the above: fun, challenge, and sexy. Where previous endeavors pitted the modlist against the player, instead Masterstroke is designed to work with the player to accomplish similar goals. If you want to ramp up the difficulty, you can. If you want to scale it back or tone down certain aspects, you can also do that.
