@@ -1,30 +1,32 @@
 [build]
-  publish = "public"
-  functions = "functions"
+publish = "public"
+#command = "hugo --gc --minify"
+command = "hugo --gc --minify --baseURL https://docs.neuralvibes.com/"
 
-[build.environment]
-  NODE_VERSION = "16.9.1"
-  NPM_VERSION = "7.21.1"
+[context.production.environment]
+HUGO_VERSION = "0.87.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
 
-[context.production]
-  command = "npm run build"
+[context.split1]
+command = "hugo --gc --minify --enableGitInfo"
+
+[context.split1.environment]
+HUGO_VERSION = "0.87.0"
+HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "npm run build -- -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.87.0"
 
 [context.branch-deploy]
-  command = "npm run build -- -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
-[context.next]
-  command = "npm run build"
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.87.0"
 
 [context.next.environment]
-  HUGO_ENV = "next"
+HUGO_ENABLEGITINFO = "true"
 
-[dev]
-  framework = "#custom"
-  command = "npm run start"
-  targetPort = 1313
-  port = 8888
-  publish = "public"
-  autoLaunch = false

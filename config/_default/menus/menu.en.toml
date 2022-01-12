@@ -1,0 +1,31 @@
+#  menu items
+[[main]]
+  name = "Discord"
+  weight = 2
+  url = "https://discord.gg/NdmGpGzqg8"
+
+[[main]]
+  name = "Patreon"
+  weight = 3
+  url = "https://www.patreon.com/LivingSkyrim"
+  
+[[main]]
+  name = "Wabbajack"
+  weight = 4
+  url = "https://www.wabbajack.org/"
+
+[[main]]
+  name = "Troubleshooting"
+  weight = 5
+  url = "faq/"
+
+[[main]]
+  name = "Credits"
+  weight = 6
+  url = "about/"
+
+
+# [[main]]
+#   name = "Blog"
+#   weight = 4
+#   url = "blog/"
