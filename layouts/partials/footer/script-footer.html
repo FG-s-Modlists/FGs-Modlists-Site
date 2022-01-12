@@ -77,6 +77,21 @@
   {{ if and (.Site.Params.options.flexSearch) (eq .Section "docs") -}}
     <script src="{{ $index.RelPermalink }}" defer></script>
   {{ end -}}
+  {{ if and (.Site.Params.options.flexSearch) (eq .Section "dnddc") -}}
+  <script src="{{ $index.RelPermalink }}" defer></script>
+  {{ end -}}
+  {{ if and (.Site.Params.options.flexSearch) (eq .Section "livingskyrim") -}}
+  <script src="{{ $index.RelPermalink }}" defer></script>
+  {{ end -}}
+  {{ if and (.Site.Params.options.flexSearch) (eq .Section "atelier") -}}
+  <script src="{{ $index.RelPermalink }}" defer></script>
+  {{ end -}}
+  {{ if and (.Site.Params.options.flexSearch) (eq .Section "moise") -}}
+  <script src="{{ $index.RelPermalink }}" defer></script>
+  {{ end -}}
+  {{ if and (.Site.Params.options.flexSearch) (eq .Section "potd") -}}
+  <script src="{{ $index.RelPermalink }}" defer></script>
+  {{ end -}}
 {{ else -}}
   {{ $js := $js | minify | fingerprint "sha512" -}}
   {{ $index := $index | minify | fingerprint "sha512" -}}
