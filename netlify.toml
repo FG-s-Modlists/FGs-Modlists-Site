@@ -3,11 +3,12 @@
   functions = "functions"
 
 [build.environment]
+  HUGO_VERSION = "0.88.1"
   NODE_VERSION = "16.9.1"
   NPM_VERSION = "7.21.1"
 
 [context.production]
-  command = "npm run build"
+  command = "hugo -b $URL --gc --minify && npm run build:functions"
 
 [context.deploy-preview]
   command = "npm run build -- -b $DEPLOY_PRIME_URL"
