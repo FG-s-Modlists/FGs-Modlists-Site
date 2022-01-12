@@ -1,4 +1,4 @@
-relativeURLs = true
+baseURL= "https://www.fgsmodlists.com"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
