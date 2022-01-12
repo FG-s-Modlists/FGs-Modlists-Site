@@ -92,6 +92,27 @@ Source:
   ];
   */
 
+  var index = new FlexSearch({
+    preset: 'score',
+    cache: true,
+    doc: {
+        id: 'id',
+        field: [
+          'title',
+          'description',
+          'content',
+        ],
+        store: [
+          'href',
+          'title',
+          'description',
+        ],
+    },
+    // Insert language specific settings below — e.g. Latin
+    encode: "simple",
+    tokenize: "forward"
+  });
+
   // https://discourse.gohugo.io/t/range-length-or-last-element/3803/2
 
   {{ $list := (where .Site.Pages "Section" "docs") -}}
