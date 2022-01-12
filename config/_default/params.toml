@@ -40,7 +40,7 @@ schemaGitHub = ""
 schemaSection = "blog"
 
 ## Sitelinks Search Box
-siteLinksSearchBox = false
+siteLinksSearchBox = true
 
 ## Chrome Browser
 themeColor = "#fff"
