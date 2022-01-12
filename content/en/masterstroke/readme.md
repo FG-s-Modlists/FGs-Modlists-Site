@@ -69,7 +69,7 @@ As for RAM, 16GB is the minimum recommended specification for running the list. 
 ## Pre-Installation
 
 ### Steam & SSE Setup
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 Path of the Dovahkiin is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update.
@@ -79,7 +79,7 @@ Path of the Dovahkiin is not compatible with either the Skyrim Anniversary Editi
 You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=243513&game_id=1704)
 
 To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
-{{< /tip >}}
+{{< /alert >}}
 
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
 
@@ -91,11 +91,11 @@ Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to 
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Manage > Browse Local Files), delete them.
 3. Install Skyrim: Special Edition.
 
-{{< tip >}}
+{{< alert icon="📝" >}}
 **Protip:** 
 
 If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.
-{{< /tip >}}
+{{< /alert >}}
 
 
 Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist.
@@ -117,11 +117,11 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 5. Download the latest version of Wabbajack from the Wabbajack website: [Wabbajack](https://www.wabbajack.org/#/).
 6. Place the Wabbajack.exe file you just downloaded into the folder you created earlier called Wabbajack.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Failure to set up these folders properly will result in the install failing. For example, `[install drive]\Wabbajack\Path of the Dovahkiin` is incorrect.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ## Installing the List
 
@@ -143,11 +143,11 @@ It’s now time to begin the installation of the list. Follow these steps:
 | 9. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn’t happen, it isn’t a problem and means you’ve already set this up. | 9. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn’t required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it. |
 | 10. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). Take this opportunity to read the Important Mods You Need To Know About section of this document. | |
 
-{{< tip >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
 Reading the Important Mods section of this document is not optional. You won't have any idea what's going on if you don't.
-{{< /tip >}}
+{{< /alert >}}
 
 Once complete, Wabbajack will indicate it is done with a green box that says "Installation complete". You may exit Wabbajack after this appears.
 
@@ -174,11 +174,11 @@ The default ENB included with Path of the Dovahkiin is [Culminated ENB](https://
 ## Updating Path of the Dovahkiin
 If you are updating Path of the Dovahkiin, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Updating may delete any saves that are present. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#potd-announcements` channel on the Discord server before updating.**
-{{< /tip >}} 
+{{< /alert >}}
 
 1. Run Wabbajack.exe.
 2. At the bottom of the window, click Browse Modlists.
@@ -202,11 +202,11 @@ To actually launch and then play Path of the Dovahkiin, follow these steps:
 7. As soon as you gain control of your character, do nothing. The mods are initializing and this can take several minutes. You’ll see a list of mods appearing in the top left corner of your screen.
 8. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **Loading a save from another modlist or from before you installed Path of the Dovahkiin will corrupt that save, do not do this.**
-{{< /tip >}} 
+{{< /alert >}}
 
 ## The MCM Settings
 Some MCM settings have been pre-set for you. See this document to set the remaining MCMs that are required for POTD to function correctly: [Click Here](/potd/mcm)
@@ -270,11 +270,11 @@ To report a bug, follow these steps:
 
 After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible.
 
-{{< tip >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
 Don't forget to check back on your report periodically just in case we request more information from you.
-{{< /tip >}}
+{{< /alert >}}
 
 ## Common Issues
 

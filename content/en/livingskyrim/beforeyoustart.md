@@ -183,11 +183,11 @@ Additionally, several of the quest mods included with Living Skyrim have player 
 
 [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) has too many features to list, but what you need to know is this: You can have multiple followers, you can configure just about anything about them, and you'll have a lot more flexibility with controlling your followers. You can also import followers added by mods to be able to use NFF's features on them.
 
-{{< tip >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
 Do NOT import standalone followers (Inigo, Lucien, etc.) into Nether's Follower Framework. It will 100% break them. The notable exceptions to this are Auri and any of the Interesting NPCs followers.
-{{< /tip >}}
+{{< /alert >}}
 
 ## Adding to Living Skyrim
 

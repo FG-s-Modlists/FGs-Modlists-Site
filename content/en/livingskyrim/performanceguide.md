@@ -368,11 +368,11 @@ Run xLODGenx64 from the dropdown menu in MO2 in and run it.
 2. Uncheck the "Terrain LOD" checkbox.
 3. Check the "Occlusion" checkbox.
 
-{{< tip >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
 Make sure Occlusion is the only thing checked.
-{{< /tip >}}
+{{< /alert >}}
 
 4. Click Generate and let it run.
 5. When finished, open the SSELODGen Output mod folder and locate `Occlusion.esp`.

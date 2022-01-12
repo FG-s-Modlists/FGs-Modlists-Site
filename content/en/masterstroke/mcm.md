@@ -19,11 +19,11 @@ stuff about making a character here
 
 ## Mandatory MCMs
 
-{{< tip "warning" >}}
+{{< alert icon="🛑" >}}
 **WARNING!**
 
 **The following options must be set manually in the MCM for Masterstroke to work properly.**
-{{< /tip >}} 
+{{< /alert >}}
 
 When you're done making your character, save the game and then load that save. Then proceed with the following. Nothing is automated yet.
 
