@@ -1,5 +1,5 @@
 ---
-title : "Description"
+title : "Living Skyrim Description"
 description: "A description of Living Skyrim."
 lead: ""
 date: 2020-10-06T08:48:23+00:00

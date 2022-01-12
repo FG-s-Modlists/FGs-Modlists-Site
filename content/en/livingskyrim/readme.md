@@ -1,6 +1,6 @@
 ---
 title: "Installation Instructions"
-description: "Test"
+description: "Living Skyrim's installation instructions."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00

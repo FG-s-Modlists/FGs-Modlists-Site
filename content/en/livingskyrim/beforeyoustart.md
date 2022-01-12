@@ -1,6 +1,6 @@
 ---
 title: "Before You Start"
-description: "Test"
+description: "Must read information before installing Living Skyrim."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00

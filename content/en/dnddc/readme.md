@@ -1,6 +1,6 @@
 ---
 title: "Readme"
-description: "The Masterstroke readme."
+description: "The D&DDC readme and installation instructions."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00

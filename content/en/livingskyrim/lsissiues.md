@@ -1,6 +1,6 @@
 ---
 title: "Troubleshooting Living Skyrim"
-description: ""
+description: "The troubleshooting page for Living Skyrim."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00

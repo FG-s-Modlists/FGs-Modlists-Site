@@ -1,6 +1,6 @@
 ---
 title: "Modlist"
-description: "Test"
+description: "The full D&DDC modlist."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00

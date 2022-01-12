@@ -1,6 +1,6 @@
 ---
 title: "Installation Instructions"
-description: "POTD Install Instructions"
+description: "The Path of the Dovahkiin readme and installation instructions."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00

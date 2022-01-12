@@ -1,6 +1,6 @@
 ---
 title: "Character Creation & MCMs"
-description: "POTD MCM document."
+description: "Character creation and MCM instructions for Path of the Dovahkiin."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00

@@ -1,6 +1,6 @@
 ---
 title: "Using A Controller"
-description: "Test"
+description: "A guide to using a controller with Living Skyrim."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
