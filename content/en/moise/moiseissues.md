@@ -18,3 +18,6 @@ MGE XE can sometimes be corrupt upon installation. Go to the folder where WJ dow
 
 ### The game is saying there are missing mods!
 Morrowind is wrong. This, to put it simply, happens when the mods installed changed since the last time you launched Morrowind. This warning can be safely ignored. Saving your game should remove the error.
+
+### Wabbajack fails to download mods!
+If Wabbajack fails to download Psy_VGRCreatureEdition_1_2 or Psy_Azura_Replacer1: Download them manually from [Here](https://www.moddb.com/games/morrowind/addons/vivec-god-replacer) and [Here](https://www.moddb.com/addons/azura-replacer) place them in your MOISE download folder (DO NOT EXTRACT THEM) and then try the install again.
