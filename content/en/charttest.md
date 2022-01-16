@@ -7,8 +7,13 @@ draft: false
 images: []
 dataset1:
     fileLink: "content/ls3modlist.csv"
+    colors: ["#627c62", "#11819b", "#ef7f1a", "#4e1154"]
     columnTitles: ["Mod Name", "URL"]
     title: "LS3 Modlist"
+    baseChartOn: 2
+    piechart: false
+    doughnutchart: false
+    bargraph: false
     table: true
 ---
 
