@@ -7,7 +7,7 @@ draft: false
 images: []
 dataset1:
     fileLink: "content/ls3modlist.csv"
-    columnTitles: ["#Mod_Name", "#Mod_Nexus_URL"]
+    columnTitles: ["Mod Name", "URL"]
     title: "LS3 Modlist"
     table: true
 ---
