@@ -13,4 +13,4 @@ dataset1:
 ---
 
 
-{{< grid "3" >}} {{< chart "dataset2" "table" >}} {{< /grid >}}
+{{< grid "3" >}} {{< chart "dataset1" "table" >}} {{< /grid >}}
