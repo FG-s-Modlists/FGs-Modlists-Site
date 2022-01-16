@@ -13,5 +13,6 @@ dataset1:
 ---
 
 
-
-{{< chart "dataset1" >}}
+{{</* grid " mt-2" */>}}
+    {{< chart "dataset1" >}}
+{{</* /grid */>}}
