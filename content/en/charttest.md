@@ -15,6 +15,4 @@ images: []
   table = true # show table listing the chart data
 +++
 
-{{< grid " mt-2" >}}
-  {{< chart "dataset1" >}}
-{{< /grid >}}
+{{< chart "dataset1" >}}
