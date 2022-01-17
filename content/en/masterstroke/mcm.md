@@ -1,6 +1,6 @@
 ---
 title: "Character Creation & MCMs"
-description: "The Masterstroke changelog."
+description: "The Masterstroke  character creation and MCM document"
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
