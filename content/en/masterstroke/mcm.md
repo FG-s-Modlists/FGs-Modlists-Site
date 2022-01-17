@@ -29,7 +29,7 @@ Now, go into the MCM and find MCM Recorder. You'll see two options listed: Maste
 
 Click on the one matching your character's gender. You'll be prompted to exit the MCM. Do so. You'll then receive a popup with information about the MCM preset you've chosen. Click "Run Recording".
 
-Once again, ***WAIT.*** This can take up to 5 minutes to complete. During this wait, if you receive any pop-up messages, click through them. When it is finished, you will receive one final pop-up message stating the recording has finished playing. Once this happens, you are free to begin playing.
+Once again, ***WAIT.*** This can take up to 10 minutes to complete. During this wait, if you receive any pop-up messages, click through them. When it is finished, you will receive one final pop-up message stating the recording has finished playing. Once this happens, you are free to begin playing.
 
 ## Post-MCM Configuration Chracter Creation
 
