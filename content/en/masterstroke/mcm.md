@@ -15,17 +15,40 @@ toc: true
 
 ## Character Creation
 
-stuff about making a character here
+Make your character as normal using RaceMenu. No other steps are required before completing MCM Configuration and the Post-MCM steps.
 
-## Mandatory MCMs
+## MCM Configuration
+
+When you are finished making your character, a bunch of text will start scrolling in the top left-hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.** If you receive any pop-up messages during this wait, click through them.
+
+Now, *save your game*. Then *load that save.*
+
+Once again, text will appear in the top left hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.**
+
+Now, go into the MCM and find MCM Recorder. You'll see two options listed: Masterstroke Female and Masterstroke Male.
+
+Click on the one matching your character's gender. You'll be prompted to exit the MCM. Do so. You'll then receive a popup with information about the MCM preset you've chosen. Click "Run Recording".
+
+Once again, ***WAIT.*** This can take up to 5 minutes to complete. During this wait, if you receive any pop-up messages, click through them. When it is finished, you will receive one final pop-up message stating the recording has finished playing. Once this happens, you are free to begin playing.
+
+## Post-MCM Configuration Chracter Creation
+
+After you have completed the MCM steps, you have two final tasks.
+
+### Sets of Skills
+
+Sets of Skills is a class mod that I encourage you to read the mod page about. It will allow you to select a class for your character that will give you buffs as you level up. Be sure to read the options carefully. To select a class, open the Sets of Skills MCM and pick a class from the dropdown menu.
+
+### OBody
+
+You likely want to customize the body of your character. To do so, *with all menus closed*, press the `letter O` key. A menu will appear with all of the installed body presets. You can select whichever one you like and can change it at any time by pressing the `letter O` key to open the menu again. This also works for NPCs - aim your crosshair at the NPC whose body you would like to change, press the `letter O` key and then pick a new body preset for them. 
 
 {{< alert icon="🛑" >}}
 **WARNING!**
 
-**The following options must be set manually in the MCM for Masterstroke to work properly.**
+**The following options are pre-set for you by MCM Recorder. They are for documentation purposes only.**
 {{< /alert >}}
 
-When you're done making your character, save the game and then load that save. Then proceed with the following. Nothing is automated yet.
 
 ### A Matter of Time
 - Presets
