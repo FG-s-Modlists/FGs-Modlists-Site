@@ -43,6 +43,8 @@ Sets of Skills is a class mod that I encourage you to read the mod page about. I
 
 You likely want to customize the body of your character. To do so, *with all menus closed*, press the `letter O` key. A menu will appear with all of the installed body presets. You can select whichever one you like and can change it at any time by pressing the `letter O` key to open the menu again. This also works for NPCs - aim your crosshair at the NPC whose body you would like to change, press the `letter O` key and then pick a new body preset for them. 
 
+
+## MCM Documentation
 {{< alert icon="🛑" >}}
 **WARNING!**
 
