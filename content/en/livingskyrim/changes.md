@@ -13,6 +13,18 @@ weight: 50
 toc: true
 ---
 
+### 1/16/2022 3.7.1
+#### Incremental
+- Fixes
+  - Fixed Alternate Perspective starts not working
+  - Fixed Dark Brotherhood Armor
+- Removed
+  - Closing Time
+- Updated
+  - xLODGen 86
+- Other
+  - Converted list to Best of Both Worlds patched AE, meaning downgrading Skyrim should no longer be required to install the list.
+
 ### 1/9/2022 3.7.0
 #### Minor
 - Fixes

@@ -23,18 +23,6 @@ Click the link to download the latest Visual C++ x64 Redistributable, then doubl
 
 ### Steam & SSE Setup
 
-{{< alert icon="🛑" >}}
-**WARNING!**
-
-Living Skyrim is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update.
-
-**If your Skyrim Special Edition received an update through Steam or you installed Skyrim Special Edition anytime after November 11, 2021, you have the Anniversary Update.**
-
-You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/skyrimspecialedition/mods/57618?tab=files)
-
-To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
-{{< /alert >}}
-
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
 
 First, make sure that your Steam library, and therefore the Skyrim Special Edition install folder, is not located within your Program Files, Program Files (x86), Desktop, Documents or Download folders. Having the Steam library or your copy of Skyrim Special Edition in either of these folders is known to cause issues. Instructions on how to move your Steam library can be found elsewhere on the internet.
