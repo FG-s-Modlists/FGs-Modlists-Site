@@ -67,6 +67,9 @@ You likely want to customize the body of your character. To do so, *with all men
 - KeyButton
   - Defensive Action Key: Z
 
+### Fill Her Up
+- Set Expel Cum hotkey
+
 ### Gender Bender (Optional)
 - Mod Active: Enabled
 - Gender Quick Change: Numpad 7
@@ -95,6 +98,8 @@ You likely want to customize the body of your character. To do so, *with all men
 ### Milk Addict
 - Settings
   - Click "Import Settings", then exit the MCM and re-enter it.
+  - Disable Cleavage Spell
+  - Enable Sluttiness
 
 ### Milk Mod
 - Settings
@@ -117,6 +122,12 @@ You likely want to customize the body of your character. To do so, *with all men
 - Type of Light Source: No Effect
 - Brightness: Bright
 
+### Public Whore
+- Disable Executions and bestiality
+
+### Keep It Breezy
+- Enable in MCM
+
 ### Schlongs of Skyrim
 - General Settings
   - SOS Potions: Disabled
@@ -138,8 +149,13 @@ You likely want to customize the body of your character. To do so, *with all men
 - Click Install SexLab, exit the MCM, wait for the notification to appear stating "SexLab - SexLab v1.63 SE - Ready!" before continuing
 - Sex Diary
   - Sexuality: Pick your character's.
+- Animation Settings
+  - Enable Play Lipsync
+  - Activate Play Orgasm Effect (cam shake off)
+  - Activate Apply Cum Effect
+  - Disable f/f cum
 - Rebuild & Clean
-  - Click "Import Settings"
+  - Click "Import Settings", then wait for the confirmation message to appear.
 
 ### SL Anim Loader
 - The SLAL MCM can take a little while to load. Give it a couple of minutes to do so.
@@ -162,6 +178,9 @@ You likely want to customize the body of your character. To do so, *with all men
 ### SexLab Eager NPCs
 - Click "Enable and Set Defaults", then exit the MCM and wait for installation to complete. 
 
+### SLSO
+  Pleasure Priority: Partner
+
 ### Simply Balanced
 - Save & Load
   - Click "Load Custom Settings" and wait for the confirmation message to appear.
@@ -176,6 +195,12 @@ You likely want to customize the body of your character. To do so, *with all men
 - Profiles
   - Browse: Masterstroke
   - Click Load
+
+### Simple Slavery
+- Enable Slavery Options
+
+### Spell Tutor
+- Learning Method: Progress
 
 ### Take Notes!
 - Controls
