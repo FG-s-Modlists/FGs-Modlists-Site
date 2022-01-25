@@ -121,6 +121,10 @@ You likely want to customize the body of your character. To do so, *with all men
 ### Quick Light
 - Type of Light Source: No Effect
 - Brightness: Bright
+- Hotkey to End
+
+### Quick Mass Follower Commands
+- Hotkey to Home
 
 ### Public Whore
 - Disable Executions and bestiality
@@ -175,6 +179,9 @@ You likely want to customize the body of your character. To do so, *with all men
 - Filter Furniture Anims: Enabled
 - Override Chance: 0.20
 
+### OBody
+- Hotkey to PgDn
+
 ### SexLab Eager NPCs
 - Click "Enable and Set Defaults", then exit the MCM and wait for installation to complete. 
 
@@ -198,6 +205,9 @@ You likely want to customize the body of your character. To do so, *with all men
 
 ### Simple Slavery
 - Enable Slavery Options
+
+### Smoothcam
+- Modern preset shoulder hotkey to PgUp
 
 ### Spell Tutor
 - Learning Method: Progress
