@@ -130,7 +130,7 @@ You likely want to customize the body of your character. To do so, *with all men
 - Disable Executions and bestiality
 
 ### Keep It Breezy
-- Enable in MCM
+- Enable in MCM.
 
 ### Schlongs of Skyrim
 - General Settings
