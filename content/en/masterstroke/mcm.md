@@ -65,7 +65,7 @@ You likely want to customize the body of your character. To do so, *with all men
 - Stamina
   - Souls-like Stamina: Disabled
 - KeyButton
-  - Defensive Action Key: Z
+  - Defensive Action Key: V
 
 ### Fill Her Up
 - Set Expel Cum hotkey
@@ -84,7 +84,7 @@ You likely want to customize the body of your character. To do so, *with all men
   - Skill: Enchanting
 
 ### Leadership - Custom Skill Framework
-- Hotkey: >
+- Hotkey: K
 
 ### Lock Overhaul
 - Click Activate mod, exit the MCM, then re-enter the MCM
