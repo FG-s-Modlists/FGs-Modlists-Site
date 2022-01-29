@@ -13,7 +13,7 @@ weight: 50
 toc: true
 ---
 
-### 1.2.0 1/28/2021
+### 1.2.0 1/29/2021
 #### Minor
 - Fixes
   - More bug fixes. [Check Github closed issues for 1.2.0.](https://github.com/ForgottenGlory/POTD/milestone/2?closed=1)
