@@ -13,6 +13,20 @@ weight: 50
 toc: true
 ---
 
+### 1.2.0 1/28/2021
+#### Minor
+- Fixes
+  - More bug fixes. [Check Github closed issues for 1.2.0.](https://github.com/ForgottenGlory/POTD/milestone/2?closed=1)
+- Mod Updates
+  - Vokriinator Black 6.8.2
+- Additions
+  - Better Coin Purses
+  - Dovahkiin's Vault
+  - MoreHUD + Inventory Edition
+  - Dragon Claws Auto-Unlock
+- Other
+  - Made it so the list will automatically downgrade SSE, meaning using the downgrade patcher is no longer necessary.
+
 ### 1.1.0 1/8/2021
 #### Minor
 - Fixes
