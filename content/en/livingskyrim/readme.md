@@ -22,6 +22,11 @@ Click the link to download the latest Visual C++ x64 Redistributable, then doubl
 - [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 ### Steam & SSE Setup
+{{< alert icon="🛑" >}}
+**WARNING!**
+
+Before installing Living Skyrim, you should make sure Skyrim: Special Edition is up to date in Steam. If you have run a downgrade patcher or not updated yet, verifying the game files using Steam will fix any issues you may encounter during installation.
+{{< /alert >}}
 
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
 

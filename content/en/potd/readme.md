@@ -15,17 +15,17 @@ toc: true
 
 ## Pre-Installation
 
+### Microsoft Visual C++
+The Visual C++ Redistributable is a DLL (Dynamic Link Library) file required by programs or games built using Microsoft’s Visual Studio software development environment. As Skyrim Special Edition is a 64-bit program, elements of it - along with other aspects of the modlist - require the 64-bit version of Visual C++ in order to run.
+
+Click the link to download the latest Visual C++ x64 Redistributable, then double-click the downloaded file and follow the instructions:
+- [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+
 ### Steam & SSE Setup
 {{< alert icon="🛑" >}}
 **WARNING!**
 
-Path of the Dovahkiin is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update.
-
-**If your Skyrim Special Edition received an update through Steam or you installed Skyrim Special Edition anytime after November 11, 2021, you have the Anniversary Update.**
-
-You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248919&game_id=1704)
-
-To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
+Before installing Path of the Dovahkiin, you should make sure Skyrim: Special Edition is up to date in Steam. If you have run a downgrade patcher or not updated yet, verifying the game files using Steam will fix any issues you may encounter during installation.
 {{< /alert >}}
 
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
