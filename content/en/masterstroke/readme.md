@@ -13,72 +13,13 @@ weight: 10
 toc: true
 ---
 
-## Before You Get Started
-Before you get started installing or playing Path of the Dovahkiin, it's important to note a few things:
-
-{{< alert icon="❗" >}}
-**Important!** 
-
-Sections labeled important like this one will tell you when you need to pay extra attention to something.
-{{< /alert >}}
-
-{{< alert icon="⚠️" >}}
-**WARNING!**
-
-**Warning blocks like this one will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.**
-{{< /alert >}}  
-  
-### General Disclaimers
-- You are not required to have Nexus Premium to install Path of the Dovahkiin , however, it is highly recommended. Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
-- As of version 1.0.0, Path of the Dovahkiin requires 158GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
-- To maximize performance, both Skyrim: Special Edition and Path of the Dovahkiin should be installed on the same hard drive, ideally an SSD/NVMe. This is not required, just recommended if you want the smoothest gameplay experience.
-- If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the POTD Modlist Spreadsheet.
-- If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the Important Mods You Need to Know About of this document.
-- Autosaves for Path of the Dovahkiin are disabled. You should make your quicksave button your best friend (usually, the F5 key).
-- Continuing the last point, it is always better to save **before** entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so.
-- Wabbajack does support updating an existing installation of a modlist. However, as part of this process, it does delete files that don't match with what it is installing. This includes RaceMenu presets, mods you've added/changed, and possibly even save files. It is a good practice to keep backups of your save files so that you can update safely. Saves are stored within the folder you install Path of the Dovahkiin to.
-- In Path of the Dovahkiin, NPCs and player characters are never nude. Underwear is worn by all NPCs and the player character and cannot be unequipped.
-- Adding to, changing, or removing from Path of the Dovahkiin is not supported. See the Adding to Path of the Dovahkiin section of this document for more details.
-- As many common issues as I could find have been documented in the Common Issues section of this document. Refer to this before asking for support.
-- If you want some tips related to getting started playing the list, refer to the Getting Started in Path of the Dovahkiin section of this document.
-- By default, Path of the Dovahkiin has the game running in exclusive fullscreen mode to assist with game performance.
-
-### System Specifications
-The following system is ForgottenGlory's personal computer and is able to run the list at a constant 60FPS including ENB at 1440p monitor resolution. Use it as a guide to determine how your own computer might run the list.
-
-- CPU: AMD Ryzen 9 3900X @ 4.2GHz
-- RAM: G.Skill TridentZ Neo 32GB DDR4 3600MHz CL16
-- GPU: nVidia RTX 2080 Super 8GB (8192MB actual)
-- Monitor: Dell S2716DGR 2560x1440 @ 144hz
-- Storage: Sabrent Rocket 2TB M.2 NVMe 2280; Samsung EVO 860 250GB; SeaGate Barracuda 2TB 7200RPM
-
-In general, it is recommended that you have a processor with a clock speed of at least 3GHz and a graphics card with at least 6GB of VRAM. 4GB graphics cards may be able to run the list if you do not use ENB, but it is not guaranteed.
-
-As for RAM, 16GB is the minimum recommended specification for running the list. 32GB is the ideal amount, and anything more than that is honestly overkill for this list.
-
-### Important Links
-- [The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1EielytXpSpG5tPQJU-tIbLjQKxh0XRWKc_yP2zgRQK8/edit?usp=sharing)
-- [Path of the Dovahkiin Bug Tracker](https://github.com/ForgottenGlory/POTD/issues)
-- [Path of the Dovahkiin Discord](https://discord.com/invite/NdmGpGzqg8)
-- [Path of the Dovahkiin Patreon](https://www.patreon.com/LivingSkyrim)
-- [Path of the Dovahkiin Build Planner](https://thehajo.github.io/PotD/)
-
-### Screenshots
-[Path of the Dovahkiin Screenshot Gallery](/potd/screenshots)
-
 ## Pre-Installation
 
 ### Steam & SSE Setup
 {{< alert icon="🛑" >}}
 **WARNING!**
 
-Path of the Dovahkiin is not compatible with either the Skyrim Anniversary Edition or the free Anniversary Update.
-
-**If your Skyrim Special Edition received an update through Steam or you installed Skyrim Special Edition anytime after November 11, 2021, you have the Anniversary Update.**
-
-You must use the FULL AE downgrade patcher - [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=243513&game_id=1704)
-
-To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
+Before installing Masterstroke, you should make sure Skyrim: Special Edition is up to date in Steam. If you have run a downgrade patcher or not updated yet, verifying the game files using Steam will fix any issues stemming from an out of date game you may encounter during installation.
 {{< /alert >}}
 
 Before proceeding with installation, it’s important that your Steam and Skyrim Special Edition install are configured correctly.
