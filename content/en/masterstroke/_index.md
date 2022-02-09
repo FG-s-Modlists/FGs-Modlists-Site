@@ -8,7 +8,6 @@ draft: false
 images: []
 ---
 
-
 The pursuit of a fun, challenging, and sexy modlist is something that some might say is a madman's journey. Good thing I'm that madman. Inside Masterstroke, you'll find all of the above: fun, challenge, and sexy. Where previous endeavors pitted the modlist against the player, instead Masterstroke is designed to work with the player to accomplish similar goals. If you want to ramp up the difficulty, you can. If you want to scale it back or tone down certain aspects, you can also do that.
 
 That said - what *is* Masterstroke? It's a NSFW Skyrim SE modlist with a few key pillars that guide its development. The first is survival, and in this list, you'll find a host of mods that transform Skyrim into a place where you must work to survive. The very environment is out to get you. The second is skill. Instead of punishing the player just for getting unlucky, instead Masterstroke seeks to make sure that skillful play can avoid the worst of any situation. From the combat to the trapped chests and containers, you'll find that carefully and skillfully navigating your way through the gameplay will make for a rewarding experience. Last, but certainly not least, is flexibility. It is a core tenet of Masterstroke that you be able to play whatever character you want, within the confines of whatever gameplay you want. Masterstroke has an entire segment of its documentation dedicated to customizing its gameplay - even if this means overwriting some of its pillars.

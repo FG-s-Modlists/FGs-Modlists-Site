@@ -13,4 +13,5 @@ weight: 20
 toc: true
 ---
 
-### Release 1.0.0 XX/XX/XXXX
+### Beta 1 2/12/2022
+- Initial public release.
