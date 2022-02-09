@@ -9,7 +9,7 @@ images: []
 menu:
   masterstroke:
     parent: "Masterstroke"
-weight: 20
+weight: 50
 toc: true
 ---
 
