@@ -1,9 +1,9 @@
 ---
-title: "Bourbon with FG 3"
-description: "."
+title: "Bourbon With FG 3"
+description: ""
 lead: ""
-date: 2022-02-17T20:32:54-05:00
-lastmod: 2022-02-17T20:32:54-05:00
+date: 2022-02-22T20:32:54-05:00
+lastmod: 2022-02-22T20:32:54-05:00
 draft: false
 weight: 50
 images: ["bourbon-with-fg-3.jpg"]
