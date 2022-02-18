@@ -8,13 +8,13 @@
   NPM_VERSION = "7.21.1"
 
 [context.production]
-  command = "hugo -b $URL --gc --minify && npm run build:functions"
+  command = "npm run build"
 
 [context.deploy-preview]
-  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify"
+  command = "npm run build -- -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
-  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify"
+  command = "npm run build -- -b $DEPLOY_PRIME_URL"
 
 [context.next]
   command = "npm run build"
@@ -29,3 +29,9 @@
   port = 8888
   publish = "public"
   autoLaunch = false
+
+
+
+HUGO_VERSION = "0.88.1"
+  NODE_VERSION = "16.9.1"
+  NPM_VERSION = "7.21.1"
