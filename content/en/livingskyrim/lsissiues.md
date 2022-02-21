@@ -107,7 +107,7 @@ Yes. Display Tweaks SSE is included to allow higher refresh rates.
 
 #### “Can I use this list on an ultrawide monitor?”
 
-Yes, Complete Widescreen Fix is included by default. Just make sure to enable it in the left pane of MO2.
+Yes, Nordic UI patches for 21:9 and 32:9 aspect ratios are included by default. Just make sure to enable the correct version for your aspect ratio in the left pane of MO2 under the 'Configuration Specific' seperator.
 
 #### Nudity?
 
