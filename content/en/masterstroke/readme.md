@@ -66,6 +66,14 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 
 ## Installing the List
 
+{{< alert context="danger" icon="🛑" >}}
+
+### 🛑🛑🛑 THE FOLLOWING FILES MUST BE DOWNLOADED MANUALLY BEFORE BEGINNING INSTALLATION OF MASTERSTROKE 🛑🛑🛑
+
+asdf
+
+{{< /alert >}}
+
 If you are updating your existing installation of Masterstroke, skip to the [Updating Masterstroke](#updating-masterstroke) section of this document.
 
 It’s now time to begin the installation of the list. Follow these steps:
