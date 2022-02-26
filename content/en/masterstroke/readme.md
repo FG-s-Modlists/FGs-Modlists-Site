@@ -202,7 +202,7 @@ To actually launch and then play Masterstroke, follow these steps:
 {{< /alert >}}
 
 ## The MCM Settings
-The MCMs are configured via MCM Recorder. See this document for information about how to set up the MCMs and create your character: [Click Here](/Masterstroke/mcm)
+The MCMs are configured via MCM Recorder. See this document for information about how to set up the MCMs and create your character: [Click Here](/masterstroke/mcm)
 
 ## Bug Reporting, Github, and You
 
