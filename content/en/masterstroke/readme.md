@@ -70,6 +70,10 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 
 #### 🛑🛑🛑 THE FOLLOWING FILES MUST BE DOWNLOADED MANUALLY BEFORE BEGINNING INSTALLATION OF MASTERSTROKE 🛑🛑🛑
 
+##### These files should be placed into a folder called `downloads` inside the empty Masterstroke folder you just created.
+
+{{< /alert >}}
+
 - [1657413332_SLAL_Billyy_Animationsv5.3SE.zip]()
 - [3BA for MME.zip]()
 - [Anub H 3.2021.7z]()
@@ -112,6 +116,10 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 - [ToyfulTemptations 2.0.zip]()
 - [Transformative Elixirs v1.1.0.7z]()
 - [Yamete - 4.3.2.zip]()
+
+{{< alert context="danger" >}}
+
+#### 🛑🛑🛑 ONCE THE ABOVE FILES ARE DOWNLOADED YOU MAY PROCEED 🛑🛑🛑
 
 {{< /alert >}}
 
