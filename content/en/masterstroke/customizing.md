@@ -26,7 +26,7 @@ OBody can be safely disabled in the left pane of MO2 if you do not want NPCs to 
 
 ## Difficulty & Realism
 
-If you'd like the make the list more difficult, you'll need to tweak a few things. You can also experiment with these settings if you'd like to tweak your experience. 
+If you'd like the make the list more (or less) difficult, you'll need to tweak a few things. You can also experiment with these settings if you'd like to tweak your experience. 
 
 ### AGO
 
