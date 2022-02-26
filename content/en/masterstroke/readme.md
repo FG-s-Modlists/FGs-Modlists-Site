@@ -127,14 +127,12 @@ If you are updating your existing installation of Masterstroke, skip to the [Upd
 
 It’s now time to begin the installation of the list. Follow these steps:
 
-1. Run Wabbajack.exe.
-2. At the bottom of the window, click Browse Modlists.
-3. Locate the Masterstroke card and click the download button to download the installer file.
-4. Once downloaded, click the play button.
-5. Below the image you see of the Masterstroke logo, there are three text boxes. The second and third need to be filled out.
-6. Click the three dots in the second (middle) box. Navigate to your Masterstroke folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
-7. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
-8. Click the play/right arrow button to begin the installation.
+1. Download this file and place it somewhere you can easily find it: [Masterstroke Installer]()
+2. Find the file you just downloaded and double click it to open it in Wabbajack.
+3. Set the Installation Location to the Masterstroke folder you created earlier.
+4. The Download Location should populate automatically, but if it does not, select the downloads folder you created while manually downloading the above files.
+5. Put a checkmark into the box that says Overwrite Installation, or, if you are prompted to overwrite the installation, click Confirm.
+6. Click the play/right arrow button to begin the installation.
 
 | With Nexus Premium | Without Nexus Premium |
 | :--- | :--- |
@@ -178,15 +176,12 @@ If you are updating Masterstroke, the process is very similar to installing the 
 **Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#Masterstroke-announcements` channel on the Discord server before updating.**
 {{< /alert >}}
 
-1. Run Wabbajack.exe.
-2. At the bottom of the window, click Browse Modlists.
-3. Locate the Masterstroke card and click the download button to download the installer file.
-4. Once downloaded, click the play button.
-5. Below the image you see of the Masterstroke logo, there are three text boxes. The second and third need to be filled out.
-6. Click the three dots in the second (middle) box. Navigate to your Masterstroke folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
-7. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
-8. Click the play/right arrow button to begin the installation.
-9. If you are prompted to overwrite, confirm that this is what you want to do by clicking the Confirm button.
+1. Download this file and place it somewhere you can easily find it: [Masterstroke Installer]()
+2. Find the file you just downloaded and double click it to open it in Wabbajack.
+3. Set the Installation Location to the Masterstroke folder you created earlier.
+4. The Download Location should populate automatically, but if it does not, select the downloads folder where all the files for Masterstroke are downloaded.
+5. Put a checkmark into the box that says Overwrite Installation, or, if you are prompted to overwrite the installation, click Confirm.
+6. Click the play/right arrow button to begin the installation.
 
 ## Launching Masterstroke
 To actually launch and then play Masterstroke, follow these steps:

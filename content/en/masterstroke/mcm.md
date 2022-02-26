@@ -188,15 +188,11 @@ You likely want to customize the body of your character. To do so, *with all men
 - Click "Enable and Set Defaults", then exit the MCM and wait for installation to complete. 
 
 ### SLSO
-  Pleasure Priority: Partner
+- Pleasure Priority: Partner
 
 ### Simply Balanced
 - Save & Load
   - Click "Load Custom Settings" and wait for the confirmation message to appear.
-
-### Spank That Ass
-- Settings
-  - Click "Import Settings"
 
 ### Sunhelm
 - General Settings
