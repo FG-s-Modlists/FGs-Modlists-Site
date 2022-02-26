@@ -47,7 +47,7 @@ You likely want to customize the body of your character. To do so, *with all men
 
 
 ## MCM Documentation
-{{< alert icon="🛑" >}}
+{{< alert context="danger" icon="🛑" >}}
 **WARNING!**
 
 **The following options are pre-set for you by MCM Recorder. They are for documentation purposes only.**
