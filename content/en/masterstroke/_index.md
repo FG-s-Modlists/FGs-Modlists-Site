@@ -1,6 +1,6 @@
 ---
 title : "Masterstroke"
-description: "Masterstroke is a NSFW Skyrim SE list focused on fun and engaging content with an emphasis on customization. It includes survival mechanics, fun combat, and a healthy dose of sexy content. Combined with a performant and pretty graphics package and hand-picked NPC visuals, you get a list that will challenge and "inspire" you."
+description: "Masterstroke is a NSFW Skyrim SE list focused on fun and engaging content."
 lead: ""
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
