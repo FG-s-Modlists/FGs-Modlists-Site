@@ -51,6 +51,10 @@ You'll need to download this manually and put it in your downloads folder. The m
 
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [ENB Series](http://enbdev.com/download_mod_tesskyrimse.htm)
 
+#### "Skyrim Particle Patch for ENB SEE 2020 02 08 fails to download."
+
+Download the file manually and put it in your downloads folder. A mirror for this file can be found here: [Skyrim Particle Patch for ENB SSE](https://drive.google.com/file/d/1kI_R7K8byNU3iB4jl0QvDbLj9RiU8RIV/view)
+
 #### "MEGA hosted files are failing to download."
 
 Download the files manually and put them in your downloads folder. A list of all the MEGA hosted files for the list are here:
@@ -103,7 +107,7 @@ Yes. Display Tweaks SSE is included to allow higher refresh rates.
 
 #### “Can I use this list on an ultrawide monitor?”
 
-Yes, Complete Widescreen Fix is included by default. Just make sure to enable it in the left pane of MO2.
+Yes, Nordic UI patches for 21:9 and 32:9 aspect ratios are included by default. Just make sure to enable the correct version for your aspect ratio in the left pane of MO2 under the 'Configuration Specific' seperator.
 
 #### Nudity?
 
