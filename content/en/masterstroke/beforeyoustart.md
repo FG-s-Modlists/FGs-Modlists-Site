@@ -56,7 +56,7 @@ In general, it is recommended that you have a processor with a clock speed of at
 As for RAM, 16GB is the minimum recommended specification for running the list. 32GB is the ideal amount, and anything more than that is honestly overkill for this list.
 
 ### Important Links
-- [The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1EielytXpSpG5tPQJU-tIbLjQKxh0XRWKc_yP2zgRQK8/edit?usp=sharing)
+- [The Modlist Spreadsheet]()
 - [Masterstroke Bug Tracker](https://github.com/ForgottenGlory/Masterstroke/issues)
 - [Masterstroke Keymap](http://www.keyboard-layout-editor.com/#/gists/0cd559c4d9f1a88b965b552e961a906c)
 - [Masterstroke Discord](https://discord.com/invite/NdmGpGzqg8)

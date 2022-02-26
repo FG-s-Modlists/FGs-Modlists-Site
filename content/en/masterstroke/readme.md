@@ -127,7 +127,7 @@ If you are updating your existing installation of Masterstroke, skip to the [Upd
 
 It’s now time to begin the installation of the list. Follow these steps:
 
-1. Download this file and place it somewhere you can easily find it: [Masterstroke Installer]()
+1. Download this file and place it somewhere you can easily find it: [Masterstroke Installer](https://drive.google.com/file/d/1uGqk-UMjNiMSPsQAJYHVkR-ClZOpgELo/view?usp=sharing)
 2. Find the file you just downloaded and double click it to open it in Wabbajack.
 3. Set the Installation Location to the Masterstroke folder you created earlier.
 4. The Download Location should populate automatically, but if it does not, select the downloads folder you created while manually downloading the above files.
@@ -176,7 +176,7 @@ If you are updating Masterstroke, the process is very similar to installing the 
 **Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#Masterstroke-announcements` channel on the Discord server before updating.**
 {{< /alert >}}
 
-1. Download this file and place it somewhere you can easily find it: [Masterstroke Installer]()
+1. Download this file and place it somewhere you can easily find it: [Masterstroke Installer](https://drive.google.com/file/d/1uGqk-UMjNiMSPsQAJYHVkR-ClZOpgELo/view?usp=sharing)
 2. Find the file you just downloaded and double click it to open it in Wabbajack.
 3. Set the Installation Location to the Masterstroke folder you created earlier.
 4. The Download Location should populate automatically, but if it does not, select the downloads folder where all the files for Masterstroke are downloaded.
