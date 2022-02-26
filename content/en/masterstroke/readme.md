@@ -70,7 +70,7 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 
 #### 🛑 THE FOLLOWING FILES MUST BE DOWNLOADED MANUALLY BEFORE BEGINNING INSTALLATION OF MASTERSTROKE 🛑
 
-##### These files should be placed into a folder called `downloads` inside the empty Masterstroke folder you just created.
+##### These files should be placed into a folder called `downloads` inside the empty Masterstroke folder you just created. Do not extract the files, only download them.
 
 {{< /alert >}}
 
