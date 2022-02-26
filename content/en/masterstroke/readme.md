@@ -16,7 +16,7 @@ toc: true
 ## Pre-Installation
 
 ### Steam & SSE Setup
-{{< alert icon="🛑" >}}
+{{< alert context="danger" icon="🛑" >}}
 **WARNING!**
 
 Before installing Masterstroke, you should make sure Skyrim: Special Edition is up to date in Steam. If you have run a downgrade patcher or not updated yet, verifying the game files using Steam will fix any issues stemming from an out of date game you may encounter during installation.
@@ -58,7 +58,7 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 5. Download the latest version of Wabbajack from the Wabbajack website: [Wabbajack](https://www.wabbajack.org/#/).
 6. Place the Wabbajack.exe file you just downloaded into the folder you created earlier called Wabbajack.
 
-{{< alert icon="🛑" >}}
+{{< alert context="danger" icon="🛑" >}}
 **WARNING!**
 
 **Failure to set up these folders properly will result in the install failing. For example, `[install drive]\Wabbajack\Masterstroke` is incorrect.**
@@ -84,7 +84,7 @@ It’s now time to begin the installation of the list. Follow these steps:
 | 9. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn’t happen, it isn’t a problem and means you’ve already set this up. | 9. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn’t required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it. |
 | 10. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). Take this opportunity to read the Important Mods You Need To Know About section of this document. | |
 
-{{< alert icon="⚠️" >}}
+{{< alert context="warning" icon="⚠️" >}}
 **Important!** 
 
 Reading the Important Mods section of this document is not optional. You won't have any idea what's going on if you don't.
@@ -115,7 +115,7 @@ The default ENB included with Masterstroke is [Culminated ENB](https://www.nexus
 ## Updating Masterstroke
 If you are updating Masterstroke, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Updating may delete any saves that are present. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
 
-{{< alert icon="🛑" >}}
+{{< alert context="danger" icon="🛑" >}}
 **WARNING!**
 
 **Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#Masterstroke-announcements` channel on the Discord server before updating.**
@@ -143,7 +143,7 @@ To actually launch and then play Masterstroke, follow these steps:
 7. As soon as you gain control of your character, do nothing. The mods are initializing and this can take several minutes. You’ll see a list of mods appearing in the top left corner of your screen.
 8. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
-{{< alert icon="🛑" >}}
+{{< alert context="danger" icon="🛑" >}}
 **WARNING!**
 
 **Loading a save from another modlist or from before you installed Masterstroke will corrupt that save, do not do this.**
@@ -166,7 +166,7 @@ To report a bug, follow these steps:
 
 After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible.
 
-{{< alert icon="⚠️" >}}
+{{< alert context="warning" icon="⚠️" >}}
 **Important!** 
 
 Don't forget to check back on your report periodically just in case we request more information from you.
