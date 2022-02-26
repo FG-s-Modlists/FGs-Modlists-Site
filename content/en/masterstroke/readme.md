@@ -66,11 +66,52 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 
 ## Installing the List
 
-{{< alert context="danger" icon="🛑" >}}
+{{< alert context="danger" >}}
 
-### 🛑🛑🛑 THE FOLLOWING FILES MUST BE DOWNLOADED MANUALLY BEFORE BEGINNING INSTALLATION OF MASTERSTROKE 🛑🛑🛑
+#### 🛑🛑🛑 THE FOLLOWING FILES MUST BE DOWNLOADED MANUALLY BEFORE BEGINNING INSTALLATION OF MASTERSTROKE 🛑🛑🛑
 
-asdf
+- [1657413332_SLAL_Billyy_Animationsv5.3SE.zip]()
+- [3BA for MME.zip]()
+- [Anub H 3.2021.7z]()
+- [Babo SLAL Human SE.7z]()
+- [Classic ToyBox SE CBBE 3bbb V1.31.7z]()
+- [Fill Her Up Baka Edition English SE 1.60V.7z]()
+- [FurnAnim v0_13.zip]()
+- [FurnitureMarkerSex v0_14_3 SE.zip]()
+- [GenderBender_SE.7z]()
+- [Gossip - 0.952.zip]()
+- [JKMilkMod.7z]()
+- [Maids II Sexlab Patch SE 1.2.7z]()
+- [Milk Addict SE v0.5.3.7z]()
+- [Milk-Mod-Economy-Assets-SE-2019-06-04.7z]()
+- [Milk-Mod-Economy-Bodyscaling-Bodymorph.7z]()
+- [Milk-Mod-Economy-Scripts-20211102.7z]()
+- [Mod Patches.7z]()
+- [NoOverpenetration_SE_1.0.7z]()
+- [Public Whore v1.1.2 SE.zip]()
+- [Schlongs_of_Skyrim_SE - v1.1.4.rar]()
+- [ScrappiesMatchmaker - 1.2.zip]()
+- [Sexlab BJ Sound FX replacerv0.1.rar]()
+- [SexLab EagerNPCSERev2.7z]()
+- [Sexlab Framework Sound Replacer AIO.7z]()
+- [SexLab Solutions v3 - Revisited SE v1.1.5.7z]()
+- [SexLab-Separate-Orgasm-SE-1.7.7 SL1.63.7z]()
+- [SexLabFrameworkSE_v163.7z]()
+- [Simple Slavery Plus Plus 6.3.13 [SE].zip]()
+- [Skooma Whore Patch V1.03 SE.7z]()
+- [Skooma Whore SE v1.01.7z]()
+- [SLAL_AnimationsByLeito_v1.6SE.7z]()
+- [SLAL_SE.7z]()
+- [SlaveTats CumTextures Remake v1.2.5.7z]()
+- [SLDrunkRedux v1.3.7z]()
+- [SLSW Addicted 3.635 SE.7z]()
+- [SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z]()
+- [SOS - Futanari - Patch for CBBE SE Femenine Khajiit Textures (Gray Cat ONLY).7z]()
+- [SOS - Futanari CBBE SSE V1.1b.7z]()
+- [State of Dress - 0.99.zip]()
+- [ToyfulTemptations 2.0.zip]()
+- [Transformative Elixirs v1.1.0.7z]()
+- [Yamete - 4.3.2.zip]()
 
 {{< /alert >}}
 
