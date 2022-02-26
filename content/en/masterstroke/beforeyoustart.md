@@ -290,7 +290,7 @@ To report a bug, follow these steps:
 
 After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible.
 
-{{< alert icon="⚠️" >}}
+{{< alert context="warning" icon="⚠️" >}}
 **Important!** 
 
 Don't forget to check back on your report periodically just in case we request more information from you.
