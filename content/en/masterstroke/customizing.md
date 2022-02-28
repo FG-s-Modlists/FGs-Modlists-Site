@@ -24,6 +24,9 @@ Masterstroke includes several different skin textures that can be enabled or dis
 ### Bodyslides & OBody
 OBody can be safely disabled in the left pane of MO2 if you do not want NPCs to have randomized bodyslide presets. Note that if you disable OBody, you will need to generate your own Bodyslides using Bodyslide. As of the Beta, support is not provided for generating your own Bodyslides but this will change with the official release of Masterstroke.
 
+### Skimpy Outfits
+Masterstroke contains additional bodyslides that allow you to select whether male and female outfits are skimpy or not. In the left pane of MO2, you can enable either "Masterstroke Bodyslides (Skimpy Male)" or "Masterstroke Bodyslides (Skimpy Female)", or both if you want everyone to be wearing skimpy outfits.
+
 ## Difficulty & Realism
 
 If you'd like the make the list more (or less) difficult, you'll need to tweak a few things. You can also experiment with these settings if you'd like to tweak your experience. 
