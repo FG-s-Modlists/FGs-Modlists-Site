@@ -45,6 +45,10 @@ Sets of Skills is a class mod that I encourage you to read the mod page about. I
 
 You likely want to customize the body of your character. To do so, *with all menus closed*, press the `letter U` key. A menu will appear with all of the installed body presets. You can select whichever one you like and can change it at any time by pressing the `letter U` key to open the menu again. This also works for NPCs - aim your crosshair at the NPC whose body you would like to change, press the `letter U` key and then pick a new body preset for them. 
 
+### SexLab
+
+The SexLab MCM contains an option for your character to be heterosexual, bisexual, or homosexual. You should open the MCM for SexLab and select your character's preference under the Sex Diary menu.
+
 
 ## MCM Documentation
 {{< alert context="danger" icon="🛑" >}}
@@ -86,7 +90,7 @@ You likely want to customize the body of your character. To do so, *with all men
   - Skill: Enchanting
 
 ### Leadership - Custom Skill Framework
-- Hotkey: K
+- Hotkey: .
 
 ### Lock Overhaul
 - Click Activate mod, exit the MCM, then re-enter the MCM
@@ -182,7 +186,7 @@ You likely want to customize the body of your character. To do so, *with all men
 - Override Chance: 0.20
 
 ### OBody
-- Hotkey to PgDn
+- Hotkey to U
 
 ### SexLab Eager NPCs
 - Click "Enable and Set Defaults", then exit the MCM and wait for installation to complete. 
@@ -217,7 +221,7 @@ You likely want to customize the body of your character. To do so, *with all men
 ### Toyful Temptations
 - General
   - Location Based Chances: Enabled
-  - Trap Method: Toys
+  - Trap Method: Rushed
 
 ### Trade & Barter
 - Barter Rates
