@@ -61,10 +61,9 @@ As for RAM, 16GB is the minimum recommended specification for running the list. 
 - [Masterstroke Keymap](http://www.keyboard-layout-editor.com/#/gists/0cd559c4d9f1a88b965b552e961a906c)
 - [Masterstroke Discord](https://discord.com/invite/NdmGpGzqg8)
 - [Masterstroke Patreon](https://www.patreon.com/LivingSkyrim)
-- [Masterstroke Build Planner](https://thehajo.github.io/Masterstroke/)
 
 ### Screenshots
-[Masterstroke Screenshot Gallery](/Masterstroke/screenshots)
+[Masterstroke Screenshot Gallery](/masterstroke/screenshots)
 
 ## Getting Started in Masterstroke
 
