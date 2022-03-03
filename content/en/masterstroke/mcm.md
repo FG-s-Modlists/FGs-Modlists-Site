@@ -127,7 +127,6 @@ The SexLab MCM contains an option for your character to be heterosexual, bisexua
 ### Quick Light
 - Type of Light Source: No Effect
 - Brightness: Bright
-- Hotkey to End
 
 ### Quick Mass Follower Commands
 - Hotkey to Home
