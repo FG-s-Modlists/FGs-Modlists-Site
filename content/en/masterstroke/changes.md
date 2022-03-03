@@ -17,6 +17,7 @@ toc: true
 - Mod Updates
   - Billyy's SLAL Animations v5.4
   - TAWOBA Balanced and Renamed
+  - Lux 4.01
 - Fixes
   - Many bug fixes, see [closed Github issues for Beta 2](https://github.com/ForgottenGlory/Masterstroke/milestone/1?closed=1)
 - Removals
