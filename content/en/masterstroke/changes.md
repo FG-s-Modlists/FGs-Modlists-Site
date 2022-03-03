@@ -16,6 +16,7 @@ toc: true
 ### Beta 2 3/2/2022
 - Mod Updates
   - Billyy's SLAL Animations v5.4
+  - TAWOBA Balanced and Renamed
 - Fixes
   - Many bug fixes, see [closed Github issues for Beta 2](https://github.com/ForgottenGlory/Masterstroke/milestone/1?closed=1)
 - Removals
