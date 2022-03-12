@@ -83,7 +83,7 @@ Once you have opened your Pull Request, you should feel free to add additional d
 {{< alert context="warning" icon="⚠️" >}}
 **Important!** 
 
-You do NOT need to document things like load order, modlist order, or anything else. All of this information is tracked for you by Github!
+You do NOT need to document things like load order or modlist order. All of this information is tracked for you by Github! The only things you need to document are an overview of what mods you added/removed, patches you created, or FOMOD options.
 {{< /alert >}}
 
 ## Bringing Your Copy Up To Date
