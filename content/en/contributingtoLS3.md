@@ -90,7 +90,7 @@ You do NOT need to document things like load order or modlist order. All of this
 
 If you notice in Github Desktop that your dev copy is out of date compared to Github, you should bring it up to date through these steps:
 
-1. Click "Fetch Origin" in Github Desktop. This will do most of the hard work for you.
+1. Click "Fetch Origin" in Github Desktop. This will do most of the hard work for you including syncing load order and mod order, adding patches that have been created, merge changes, and so on.
 2. Open the "History" tab in Github Desktop. This shows you all of the changes that have been made to the main branch.
 3. Go through the history and look for any changes related to `.meta` files. These changes will tell you what downloads have been removed or added.
 4. If you find a download that has been removed or added compared to your copy, you should remove or add the appropriate files. The name of the `.meta` file will tell you what archive(s) has been added so you can grab the exact archive necessary. These archives should be obtained from Nexus directly.
