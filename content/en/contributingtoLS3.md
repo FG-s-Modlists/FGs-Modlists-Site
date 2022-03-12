@@ -96,6 +96,8 @@ If you notice in Github Desktop that your dev copy is out of date compared to Gi
 4. If you find a download that has been removed or added compared to your copy, you should remove or add the appropriate files. The name of the `.meta` file will tell you what archive(s) has been added so you can grab the exact archive necessary. These archives should be obtained from Nexus directly.
 5. Now you need to install any new archives or remove any existing mods in the left pane of MO2 so that your copy matches. Review comments on pull requests or commits to see any additional information like FOMOD options.
 
+Note: The `.meta`s on your computer will be automatically deleted by MO2 if you do not have the archive associated with that meta in the downloads folder. Therefore, you should rely on Github Desktop's history to tell you what has been added and removed and *not* MO2. The metas will be recreated when you download/install the mod.
+
 ## Releases
 
 Eventually, enough changes will have been made such that I release the update publicly. Once this happens, we start the whole process over. When a release happens, bring your copy up to date one more time and then you should be good to continue iterating for the next inevitable update. *You should never have to install the list through Wabbajack unless you need a clean slate to start from.*
