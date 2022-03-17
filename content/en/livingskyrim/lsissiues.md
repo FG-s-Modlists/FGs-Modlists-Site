@@ -55,6 +55,10 @@ You'll need to download this manually and put it in your downloads folder. The m
 
 Download the file manually and put it in your downloads folder. A mirror for this file can be found here: [Skyrim Particle Patch for ENB SSE](https://drive.google.com/file/d/1kI_R7K8byNU3iB4jl0QvDbLj9RiU8RIV/view)
 
+#### "XLODGen.86 fails to download."
+
+Download the file manually and put it in your downloads folder. A mirror can be found here: [XLODGen.86](https://drive.google.com/file/d/1yGQtCNbG8RCJp0XLk4LLUL9q0gfO76OP/view)
+
 #### "MEGA hosted files are failing to download."
 
 Download the files manually and put them in your downloads folder. A list of all the MEGA hosted files for the list are here:
