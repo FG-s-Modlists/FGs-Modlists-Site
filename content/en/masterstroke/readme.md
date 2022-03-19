@@ -69,7 +69,7 @@ If you are updating your existing installation of Masterstroke, skip to the [Upd
 
 It’s now time to begin the installation of the list. Follow these steps:
 
-1. Download this file and place it somewhere you can easily find it: [Masterstroke Installer](https://drive.google.com/file/d/10CMvcn6KgPxo3GrKDJawSVFzGq5KUj0M/view?usp=sharing)
+1. Download this file and place it somewhere you can easily find it: [Masterstroke Installer](https://drive.google.com/file/d/1YL8g-Cc7Kaag4Zx-zFWcEGFdDTG9xsVn/view?usp=sharing)
 2. Find the file you just downloaded and double click it to open it in Wabbajack.
 3. Set the Installation Location to the Masterstroke folder you created earlier.
 4. The Download Location should populate automatically, but if it does not, select the downloads folder you created while manually downloading the above files.
