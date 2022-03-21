@@ -146,22 +146,19 @@ To actually launch and then play Masterstroke, follow these steps:
 ## The MCM Settings
 The MCMs are configured via MCM Recorder. See this document for information about how to set up the MCMs and create your character: [Click Here](/masterstroke/mcm)
 
-## Bug Reporting, Github, and You
+## Bug Reporting
 
-While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it's duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it's important that you report bugs you find on the Masterstroke Github so that it can be fixed for everyone.
+While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it's duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it's important that you report bugs you find so that it can be fixed for everyone.
 
 To report a bug, follow these steps:
 
-1.  Login to [Github](https://github.com/) or create an account as necessary.
-2.  Open this link: [Click Here!](https://github.com/ForgottenGlory/Masterstroke/issues/new/choose)
-3.  Click the green button that says "Get Started" in the line next to "Bug Report".
-4.  Input a title and fill out the form in the large text box. If you need to attach a screenshot, it can be dragged from your computer to the Github post to insert it.
-5.  When you have filled out the form completely, click the green "Submit new issue" button.
+1.  Go to this Google Form: [Click Me!](https://forms.gle/7Ym2P4x8jwbea9138)
+2.  Fill out the form and submit the form.
+3.  That's it, you're done!
 
-After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible.
-
-{{< alert context="warning" icon="⚠️" >}}
+{{< alert icon="⚠️" >}}
 **Important!** 
 
-Don't forget to check back on your report periodically just in case we request more information from you.
+If we need additional information about the bug, we will contact you via Discord.
 {{< /alert >}}
+

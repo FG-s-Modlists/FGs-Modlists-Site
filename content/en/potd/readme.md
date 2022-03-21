@@ -158,23 +158,19 @@ To actually launch and then play Path of the Dovahkiin, follow these steps:
 ## The MCM Settings
 Some MCM settings have been pre-set for you. See this document to set the remaining MCMs that are required for POTD to function correctly: [Click Here](/potd/mcm)
 
-## Bug Reporting, Github, and You
+## Bug Reporting
 
-While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it's duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it's important that you report bugs you find on the Path of the Dovahkiin Github so that it can be fixed for everyone.
+While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it's duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it's important that you report bugs you find so that it can be fixed for everyone.
 
 To report a bug, follow these steps:
 
-1.  Login to [Github](https://github.com/) or create an account as necessary.
-2.  Open this link: [Click Here!](https://github.com/ForgottenGlory/POTD/issues/new/choose)
-3.  Click the green button that says "Get Started" in the line next to "Bug Report".
-4.  Input a title and fill out the form in the large text box. If you need to attach a screenshot, it can be dragged from your computer to the Github post to insert it.
-5.  When you have filled out the form completely, click the green "Submit new issue" button.
-
-After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible.
+1.  Go to this Google Form: [Click Me!](https://forms.gle/Ps7LoUaVD9ZvgwEV6)
+2.  Fill out the form and submit the form.
+3.  That's it, you're done!
 
 {{< alert icon="⚠️" >}}
 **Important!** 
 
-Don't forget to check back on your report periodically just in case we request more information from you.
+If we need additional information about the bug, we will contact you via Discord.
 {{< /alert >}}
 

@@ -157,3 +157,19 @@ Morrowind is wrong. This, to put it simply, happens when the mods installed chan
 In general, you should be able to build on top of MOISE. Feel free to fork it and make your own Morrowind modlist if you want.
 
 The only thing that needs to be mentioned is that MOISE is 100% incompatible with OpenMW, so mods that require it and OpenMW itself will not work under any circumstances.
+
+## Bug Reporting
+
+While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it's duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it's important that you report bugs you find so that it can be fixed for everyone.
+
+To report a bug, follow these steps:
+
+1.  Go to this Google Form: [Click Me!](https://forms.gle/U6zmFBXT4LJFGXFK8)
+2.  Fill out the form and submit the form.
+3.  That's it, you're done!
+
+{{< alert icon="⚠️" >}}
+**Important!** 
+
+If we need additional information about the bug, we will contact you via Discord.
+{{< /alert >}}
