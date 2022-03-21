@@ -19,15 +19,33 @@ toc: true
 
 First, you can also try enabling the Network Workaround option in the settings for Wabbajack to see if it will download the file after enabling that setting.
 
+Secondly, Some downloads that commonly fail but do not usually require a list update are listed under this section, please check the files listed there if any of them are the files failing to download.
+
 Otherwise, wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Masterstroke is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
 
 ### "MEGA hosted files are failing to download."
 
 If MEGA downloads are either not downloading correctly or are frozen on the completed download page download the manually from the following links and place them in your Masterstroke download folder:
 
-- [Smooth Random Blocking Animation](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
 - [Smooth Random Magic Idle Animation](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
-- [xLODGEN.84](https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg)
+- [SE.rar](https://mega.nz/folder/xwxwzaDI#J3oxuELfc50dftUKQiIcUg/file/csZHUKrY) For the SE.rar download, open the link and right click on the SE.rar file listed on the webpage, then go to `Download` , then click `Standard Download`
+
+### "Community Overlays 1 - CBBE Male and Female Repackage fails to download."
+
+Download the file from the link provided here: [Community Overlays 1](https://drive.google.com/file/d/1DMWc4kzWRm-Cwtn3EAmIiRo7p1bJmx15/view) and place it in your Masterstroke download folder, then restart the install process.
+
+### "Core Masterstroke Files are failling to download."
+
+Masterstroke includes a number of custom output mods and bodyslides that need to be downloaded, if any of the following files are failing to download, use the mirror links provided to download the files and place them in your Masterstroke download folder, and try the install again.
+
+- [Masterstroke NPC Merge](https://drive.google.com/file/d/14Dinu2Mfjze00P4ZdG5CTPn4uP-2x0nj/view)
+- [Masterstroke Prebuilt Bodyslides (Obody)](https://drive.google.com/file/d/1AFoP2GJG9ZwB3tiPjGubmzlpima17s7l/view)
+- [Masterstroke Bodyslides - Skimpy Female](https://drive.google.com/file/d/1lpyOC36toa4YsvY2N7PhyJ1nmX9af-eD/view)
+- [Masterstroke Bodyslides - Skimpy Male](https://drive.google.com/file/d/1C3E83rHMwwifssuqwwQaX-2p-3OblLCb/view)
+- [Core Masterstroke Bodyslides Beta 3](https://drive.google.com/file/d/1OP_PmexC80mU1gUyNA8qwdjpSK5ugKsw/view)
+- [Masterstroke Dyndolod Output (Beta 1)](https://drive.google.com/file/d/1QwBZdjQOZaDq036UlpV9DChNsgzDT20K/view)
+- [Masterstroke Texgen Output (Beta 1)](https://drive.google.com/file/d/1MZfHI2ODwj_WXclWmXwIEORcgFW9xTaM/view)
+- [Masterstroke XLODGen Output (Beta 1)](https://drive.google.com/file/d/10k2qm5Jej0iKLhrAvRLVstpydSoado1J/view)
 
 ### “Wabbajack says I’m out of requests.”
 
@@ -51,7 +69,7 @@ You will need to download this manually and put it in your downloads folder. The
 
 ### "Skyrim Game files are failing to download."
 
-If your Skyrim game files (SkyrimSE.exe, Data_Skyrim.esm, Data_Skyrim - Textures0.bsa, etc.) are failing to download this is most commonly caused by the Anniversary update to Skyrim Special Edition, you will need the downgrade patcher located [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248919&game_id=1704)
+If your Skyrim game files (SkyrimSE.exe, Data_Skyrim.esm, Data_Skyrim - Textures0.bsa, etc.) are failing to download this is most commonly caused by your Skyrim Special Edition being set to a language other than English in Steam, check this first. If you continue to get errors on these files verify your game files using Steam.
 
 ## Gameplay Issues
 
@@ -65,7 +83,7 @@ Check the SSE Display Tweaks INI file to make sure you have the resolution for y
 
 ### “MO2 cannot find SKSE.”
 
-You’ll need to manually set the path for SKSE using the Edit Executables menu in MO2. Set it to `[install folder]\Stock Game\skse64_loader.exe`
+You’ll need to manually set the path for SKSE using the Edit Executables menu in MO2. Set it to `[install folder]\Stock Game\skse64_loader.exe`. If you cannot locate this file it has likely been falsely quarantined by your antivirus software.
 
 ### “Can I use a controller?”
 
@@ -81,5 +99,5 @@ Yes. Display Tweaks SSE is included to allow higher refresh rates.
 
 ### “Can I use this list on an ultrawide monitor?”
 
-Yes, Complete Widescreen Fix is included by default. Just make sure to enable it in the left pane of MO2.
+Yes, Enable the correct Nordic UI patch for your aspect ratio **AND** the Nordic UI - Ultrawide Fixes and Patches mod in the `Customizaiton` Seperator on the left side of Mod Organizer.
 
