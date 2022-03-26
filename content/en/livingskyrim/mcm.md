@@ -43,21 +43,19 @@ There is one particular mod you need to be aware of during character creation: [
 
 Living Skyrim is intended to be played at the Adept difficulty level. If you wish to have a challenge or find the game too difficult, you can and should adjust the game difficulty as you wish. Adept is merely where I (ForgottenGlory) like to play - it provides a decent challenge without being overly difficult.
 
-Also, while fantastic for roleplaying purposes, AVA, ELSA, and Classic Classes & Birthsigns can make the game significantly easier. If you wish to have a more difficult time of things - especially in combat - you can and should skip setting up AVA, ELSA, and CC&B.
+Also, while fantastic for roleplaying purposes, ELSA and Classic Classes & Birthsigns can make the game significantly easier. If you wish to have a more difficult time of things - especially in combat - you can and should skip setting up ELSA, and CC&B.
 
-## AVA & ELSA
+## ELSA
 
 {{< alert icon="🛑" >}}
 **WARNING!**
 
-**If you are going to use them, AVA and ELSA must be configured before leaving the Alternate Perspective starting room.**
+**If you are going to use it,  ELSA must be configured before leaving the Alternate Perspective starting room.**
 {{< /alert >}}
-
-Immediately after you create your character, you'll be prompted to assign your attributes using AVA. You may do this now or later by selecting the appropriate response when the popup appears. If you choose to do this later, you'll be given a power in your Powers/Shouts menu that you can activate to assign your attributes. Also, choosing to do this later allows you to skip using AVA entirely if you wish.
 
 ELSA gives you a bonus to a single skill based on your character's background. To do this, select the "Reflect" option from your Power/Shout menu and then press the Shout key (Usually Z) to select your background. If you are opting to skip ELSA, simply do not activate this power/shout.
 
-The choices you make in the AVA and ELSA menus are permanent and cannot be changed without starting a new character!
+The choices you make in the ELSA menus are permanent and cannot be changed without starting a new character!
 
 ## Classic Classes & Birthsigns Reimagined
 You will start the game with a book in your inventory called "Classic Classes". Read this book to select a class and birthsign for your character. The book can be safely disposed of as you wish. If you want a challenge, try playing without selecting a class/birthsign. You can still select a birthsign by finding the appropriate standing stone at any time. If you wish to skip using CC&B, simply do not read the book and dispose of it as you wish.
@@ -66,86 +64,14 @@ The choices you make in the CC&BR menu are permanent and cannot be changed witho
 
 ## Mandatory control and MCM settings
 
-{{< alert icon="🛑" >}}
-**WARNING!**
+When you are finished making your character, a bunch of text will start scrolling in the top left-hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.** If you receive any pop-up messages during this wait, click through them.
 
-**The following options must be set manually in the game's settings and MCM menus for Living Skyrim 3 to work properly.**
-{{< /alert >}}
+Now, *save your game*. Then *load that save.*
 
-#### Esc Key Menu
-- Controls
-  - Sneak: LCtrl (this is your "dodge" key in-game)
+Once again, text will appear in the top left hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.** Sometimes this second round of text can go very quickly, so if you don't see anything, don't panic. Just wait a few seconds and then proceed.
 
-#### A Matter of Time
--	Presets
-  - User Settings
-    - Click Load user settings, and wait for the confirmation before proceeding.
+Now, go into the MCM and find MCM Recorder. You'll see one option listed: `LS3 MCM Recording` Select that option.
 
-#### AGO
-- Settings
-  - Persistent Arrows: Disabled
-  - Arm Fatigue: Disabled
+You'll be prompted to exit the MCM. Do so. You'll then receive a popup with information about the MCM preset you've chosen. Click "Run Recording".
 
-#### Complete Alchemy
-- Help
-  - Ragdoll Paralysis: Disabled
-
-#### Destructible Display Cases
-- Blunt Objects: Enabled
-- Fire and Frost Spells: Disabled
-- Claws and Cutters: Enabled
-- Arrows: Disabled
-- Shouts: Disabled
-
-#### Follower Framework
-- Activity
-  - Ignore Special Furniture: Enabled
-- System
-  - Followers Attack Hotkey: G
-
-#### I'm a Customer
-- Dammit
-  - Food
-    - Use Label: Disabled
-    - Eating Method: With fork equipped
-
-#### LOTD Settings
-- Craftloot
-  - Craftloot Status: Disabled
-
-#### Less Intrusive HUD
-- General Settings
-  - Click Load personal preset, then exit the MCM and wait for it to finish before proceeding.
-
-#### Sky UI
-- Advanced
-  - SWF Version Checking
-    - Map Menu: Disabled
-
-{{< alert icon="⚠️" >}}
-**Important!** 
-
-For the SmoothCam preset, make sure you are selecting the option to Load the preset instead of save it. If you accidentally save instead of load, you'll need to re-run Wabbajack to restore the preset to its correct settings.
-{{< /alert >}}
-
-#### SmoothCam
-- Presets
-  - Click Load next to whichever preset you wish to use. You can and should test them all out to see which one works best for you
-
-#### Take Notes!
-- Controls
-  - Journal
-    - Open Journal: B
-
-#### Thieves Guild Req.
-- Main Quest
-  - Requirements to Begin Recruitment Quest
-    - Items Stolen: 150
-  - Requirements to Begin 3rd Quest
-    - Radiant Jobs completed: 5
-  - Requirements to begin 4th Quest
-    - Radiant Jobs Completed: 15
-
-#### True Directional Movement
-- Target Lock
-  - Toggle Target Lock Key: Mouse 3 (middle mouse button)
+Once again, ***WAIT.*** This can take up to 10 minutes to complete. During this wait, if you receive any pop-up messages, click through them. When it is finished, you will receive one final pop-up message stating the MCMs are now configured.

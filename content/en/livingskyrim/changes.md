@@ -13,6 +13,87 @@ weight: 50
 toc: true
 ---
 
+### 3/26/2022 3.8.0
+#### Minor
+- Fixes
+  - Many bug fixes
+- Updated
+  - True Directional Movement
+  - Synthesis
+  - Smooth Random Blocking Animation
+  - Smooth Random Sprint Animation
+  - Lux
+  - JK's Interior Patch Collection
+  - Vominheim
+  - Hammet's Dungeon Pack
+  - Artefakes 2.0
+  - LOTD 5.6.2
+  - LOTD Patches 2.6
+  - More Informative Console 0.43 SSE
+  - The Choice is Yours 2.4
+  - The Falkreath Hauntings 2.0
+  - SmoothCam 1.6.1
+  - Ice skating fixed for real 1.3
+  - Riverside Shack 4.0
+  - Lost Knowledge Quest Fix
+- Removed
+  - SkyRem AVA
+  - SkyRem GABI
+  - SkyRem EVE
+  - Exterior FPS Boost
+  - HQ Tree Bark
+- Replaced
+  - Celtic Music in Skyrim, Immersive Music, LS2 Music Selection -> Hun Lovaas, Melodies of Civilization, Around the Fire, The Elder Songs
+  - Blade & Blunt, The Ultimate Dodge Mod -> Engarde
+  - Better Dynamic Snow, Better Dynamic Ash -> Simplicity of Snow
+  - Enhanced Vanilla Trees -> Happy Little Trees
+- Added
+  - TrueHUD
+  - True Armor
+  - Simply Balanced
+  - Classic Elder Scrolls Attributes
+  - MCM Recorder
+  - Animation Motion Revolution
+  - Conditional Tavern Cheering
+  - Dialogue Animation Remix + vanilla shield patch
+  - Dynamic Animation Replacer Power Attacks (changed conditions needed)
+  - Immersive Folded Hands + vanilla shield patch
+  - Leviathan Animations - Two Handed High Stance
+  - Leviathan Animations - Two Handed Normal Attacks for High Stance
+  - Leviathan Animations - Two Handed Power Attacks for High Stance
+  - NPC Animation Remix + vanilla shield patch + NPC AR weight shift idles
+  - Random First Person Magic Animation SSE
+  - Smooth Random Equip Animation(unarmed)
+  - Vanargand Animations - Archery
+  - Vanargand Animations - Dual Wield Attacks
+  - Vanargand Animations - Dual Wield Sneak Strikes
+  - Vanargand Animations - Dual Wield Sneak Thrusts
+  - Vanargand Animations - One Handed Mid Stance
+  - Vanargand Animations - One Handed Normal Attacks
+  - Vanargand Animations - One Handed Power Attacks
+  - Vanargand Animations - Sneak Archery
+  - Vanargand Animations - Sneak Idle Walk and Run
+  - Vanargand Animations - Sneak Strike Attacks
+  - Vanargand Animations - Sprint
+  - Blended Roads Simplicity of Snow Patch
+  - JK's Sky Haven Temple
+  - JK's High Hrothgar
+  - JK's Jorrvaskr
+  - JK's Haelga's Bunkhouse
+  - JK's Temple of Talos
+  - Luminosity
+  - Vominheim - Grasses SE
+  - Vominheim - Signages SE-AE
+  - Vominheim - SkyTEST patch SE-AE
+  - Vominheim - Trees LODs with shadows SE-AE
+  - Vominheim - Unique Weapons SE-AE 2K
+  - VDUR - Hammet's Dungeon Pack - SE-AE
+  - Quest NPCs Run
+- Other
+  - Regenerated DynDOLOD and friends. 
+  - Regenerated Synthesis patches
+  - Updated readme and MCM document
+
 ### 1/16/2022 3.7.1
 #### Incremental
 - Fixes

@@ -124,28 +124,11 @@ Legacy of the Dragonborn of course requires no introduction, but if you’re som
 
 ## The Combat Mods
 
-The core combat package of Living Skyrim is [Blade & Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549), The Ultimate Dodge Mod (more details below), and [VioLens](http://violens). Assuming a fair fight this generally means that combat will be fast-paced and somewhat deadly. You won't get one-shot unless you're fighting an enemy that is significantly higher level than you (10+ levels above your own).
+The core combat package of Living Skyrim is [Engarde](https://www.nexusmods.com/skyrimspecialedition/mods/25673). Assuming a fair fight this generally means that combat will be fast-paced and somewhat deadly. You won't get one-shot unless you're fighting an enemy that is significantly higher level than you (10+ levels above your own).
 
 [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/24296) completely revamps the archery system in Skyrim. You'll find it now has much more realistic gameplay including arm fatigue, the ability to spread poisons across multiple arrows, stamina drain while the bowstring is pulled, and so on. This mod is highly configurable via its MCM menu, so feel free to tweak it to suit your playstyle.
 
 Also for your consideration: [SkyTEST](https://www.nexusmods.com/skyrimspecialedition/mods/1104), [Deadly Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/23723), and [Arena - An Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/33487). Enemies in general will be smarter and stronger across the board, and will dynamically update their levels to match or surpass you as appropriate.
-
-## The Ultimate Dodge Mod
-
-The Ultimate Dodge Mod is a very simple but powerful mod: it allows you to dodge while in combat. 
-
-By default, TUDM hijacks the vanilla sneak key in order to have no delay or script lag when dodging. Living Skyrim by default uses the following keybinds for TUDM:
-
-- Sneak Key: Left Shift
-- Dodge: Ctrl
-
-If you would like to change these keybinds, keep in mind that the Sneak Key you set in the vanilla controls menu will be the key you press to dodge, and the Sneak Key you set in the TUDM MCM will be the key you press to sneak.
-
-A couple of minor notes about TUDM:
-
-- You cannot dodge in the Alternate Perspective starting room, you must leave that cell first before being able to dodge.
-- The first time you press the dodge key, you'll be stuck in a weird position in the air. Press your  \ | key twice to become unstuck.
-- It is recommended to set TUDM to sidestep OR roll only in the TUDM MCM, not both.
 
 ## The Perks & Leveling Mods
 
@@ -161,7 +144,7 @@ Opposite the loot side, we have the economy side of things. Naturally, because o
 
 ## The HUD Mods
 
-Living Skyrim includes a completely different UI and HUD experience than what you're used to, probably even if you've played modded Skyrim before. [Less Intrusive HUD II](https://www.nexusmods.com/skyrimspecialedition/mods/17974) is 100% customizable through an in-game menu, allowing you to change the position, size, opacity, and anything else for any HUD element. [EZ2C Dialogue Menu](https://www.nexusmods.com/skyrimspecialedition/mods/2246) changes the dialogue menu to be easier to read and use and is also 100% configurable. See the mod description pages for EZ2C and Less Intrusive HUD II to see how to configure these to your liking. [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440) keeps pesky HUD elements out of the way when you don't need to see them. Lastly, [Favorite Things](https://www.nexusmods.com/skyrimspecialedition/mods/27177) greatly expands the SkyUI Favorites menu to make it larger, easier to use, and more customizable.
+Living Skyrim includes a completely different UI and HUD experience than what you're used to, probably even if you've played modded Skyrim before. [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775) is 100% customizable through an in-game menu, allowing you to change the position, size, opacity, and anything else for any HUD element. [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440) keeps pesky HUD elements out of the way when you don't need to see them. You'll also find [Nordic UI](https://www.nexusmods.com/skyrimspecialedition/mods/49881) included to overhaul the appearance of the in-game menus.
 
 ## Player Homes
 
