@@ -13,6 +13,14 @@ weight: 50
 toc: true
 ---
 
+### 3/29/2022 3.8.0.2
+#### Hotfix
+- Fixes
+  - Fixed the map
+  - Fixed attack speed
+  - Fixed College of Winterhold crashes.
+  - Fixed MCM Recording error.
+
 ### 3/26/2022 3.8.0
 #### Minor
 - Fixes
