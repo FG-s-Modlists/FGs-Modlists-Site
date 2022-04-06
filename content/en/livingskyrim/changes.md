@@ -13,6 +13,19 @@ weight: 50
 toc: true
 ---
 
+### 4/6/2022 3.8.1
+#### Incremental
+- Fixes
+  - Fixed triple enchantment perk bug
+  - Fixed non-Skyrim maps
+  - Fixed Bound Bow not leveling Archery
+  - Fixed Growl-Engarde interaction
+- Removals
+  - Classic Elder Scrolls Attributes
+- Other
+  - ESPFE'd some things to make room for future expansion
+  - A couple minor readme fixes
+
 ### 3/29/2022 3.8.0.2
 #### Hotfix
 - Fixes

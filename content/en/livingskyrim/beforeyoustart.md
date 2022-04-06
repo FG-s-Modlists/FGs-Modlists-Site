@@ -164,7 +164,7 @@ Additionally, several of the quest mods included with Living Skyrim have player 
 
 ## Nether's Follower Framework
 
-[Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) has too many features to list, but what you need to know is this: You can have multiple followers, you can configure just about anything about them, and you'll have a lot more flexibility with controlling your followers. You can also import followers added by mods to be able to use NFF's features on them.
+[Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) has too many features to list, but what you need to know is this: You can have multiple followers, you can configure just about anything about them, and you'll have a lot more flexibility with controlling your followers. You can also import followers added by mods to be able to use NFF's features on them.
 
 {{< alert icon="⚠️" >}}
 **Important!** 
