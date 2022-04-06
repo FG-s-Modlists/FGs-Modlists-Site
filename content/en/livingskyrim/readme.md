@@ -38,7 +38,7 @@ Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to 
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Manage > Browse Local Files), delete them.
 3. Install Skyrim: Special Edition.
 
-{{< alert icon="📝" >}}
+{{< alert context="success" icon="📝" >}}
 **Protip!** 
 
 If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.
