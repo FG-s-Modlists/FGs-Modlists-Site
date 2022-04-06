@@ -27,7 +27,7 @@ If you’re coming from a previous version of Living Skyrim (1.x.x or 2.x.x), th
 - There’s a loading screen tip I’m fond of that says something along the lines of “Strong enemies care not if you’re just starting out, they’ll kill you all the same.” Don’t be afraid to run away.
 - **Alternate Perspective** modifies how the main quest begins in Living Skyrim 3. With any start except for the Dragonborn start, Helgen will remain intact as a fully functional town until such time that you decide to start the main story. To begin the main Skyrim story, go to Helgen and speak with the innkeeper. The dialogue option ***"I'd like to rent a room (Start intro)"*** will begin the opening sequence of Skyrim with the notable change that you are a bystander that gets caught in the Alduin attack.
 
-{{< alert icon="⚠️" >}}
+{{< alert context="warning" icon="⚠️" >}}
 **Important!** 
 
 It's important that you do the following steps in the order they are presented. Skipping around or going out of order is bad.
@@ -47,7 +47,7 @@ Also, while fantastic for roleplaying purposes, ELSA and Classic Classes & Birth
 
 ## ELSA
 
-{{< alert icon="🛑" >}}
+{{< alert context="danger" icon="🛑" >}}
 **WARNING!**
 
 **If you are going to use it,  ELSA must be configured before leaving the Alternate Perspective starting room.**

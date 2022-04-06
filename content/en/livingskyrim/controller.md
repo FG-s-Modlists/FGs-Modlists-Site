@@ -32,7 +32,7 @@ First thing's first, download this preset.
 
 [Click Here to download the preset](https://drive.google.com/file/d/1HcuoBi-dJlOAHqi0JW7unnAQY4GUXIu0/view?usp=sharing)
 
-{{< alert icon="🛑" >}}
+{{< alert context="danger" icon="🛑" >}}
 **WARNING!**
 
 **This preset must be unzipped directly into your LS3\mods folder, using an "Extract Here" option, not one that creates its own folder.**
