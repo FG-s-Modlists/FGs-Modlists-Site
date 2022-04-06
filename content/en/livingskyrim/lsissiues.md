@@ -33,11 +33,11 @@ Yes, but remember that if you need to update the list you will have to download 
 
 #### “The LS3 DynDOLOD Output fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 DynDOLOD 3.7.0](https://drive.google.com/file/d/1OPAfHz_ql7OYiOOhvomFt9O_rfzLJsrq/view?usp=sharing)
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 DynDOLOD 3.8.0](https://drive.google.com/file/d/1HxpnvUuxQ0RUCPRFw4xiMWGlpZ5VCbQh/view?usp=sharing)
 
 #### “The LS3 SSELODGen Output fails to download.”
 
-You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 SSELODGen 3.0.0](https://drive.google.com/file/d/1C8shpKCM4CO2fcoxasiw501rgBQiGmAQ/view?usp=sharing)
+You’ll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [LS3 SSELODGen 3.8.0](https://drive.google.com/file/d/1d_23fKbor4VO5uBoKkjN6nON36KFVPzR/view?usp=sharing)
 
 #### “The LS3 Grass Cache fails to download.”
 
@@ -77,17 +77,10 @@ Read this modpage: [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedi
 
 Read this modpage: [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
 
-#### My character gets stuck when dodging!
-
-This is a known issue with TUDM. Press the Dodge Style Toggle key (Your \ | key, by default) and your character should resume moving.
 
 #### “Can I access RaceMenu after character creation?”
 
 Only if you are not changing your character’s gender or race. Changing gender/race will cause issues with powers and passive buffs your character has.
-
-#### “Can I change my attributes after starting?”
-
-No. The choices you make are permanent. You can increase your attributes through various methods, refer to this modpage for more details: AVA
 
 #### “My screen is zoomed in or weirdly off-center.”
 

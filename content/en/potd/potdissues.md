@@ -27,7 +27,7 @@ If MEGA downloads are either not downloading correctly or are frozen on the comp
 
 - [Smooth Random Blocking Animation](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
 - [Smooth Random Magic Idle Animation](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
-- [xLODGEN.84](https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg)
+- [xLODGEN.86](https://drive.google.com/file/d/1yGQtCNbG8RCJp0XLk4LLUL9q0gfO76OP/view)
 
 ### “Wabbajack says I’m out of requests.”
 
@@ -39,7 +39,11 @@ Yes, just close Wabbajack. When you start the installation process again it will
 
 ### “Can I delete the downloads folder after installing?”
 
-Yes, but remember that if you need to update the list you will have to download all of the mods that have updated again.
+Yes, but remember that if you need to reinstall the list you will have to download all of the mods again.
+
+### "POTD xLODGen Output 1.0.0 fails to download."
+
+Youll need to download this manually and put it in your download folder. A mirror link can be found here: [POTD xLODGen Output 1.0.0](https://drive.google.com/file/d/10T1yWPU7O3m85T0NPesktbrhT9oJbR6f/view?usp=sharing)
 
 ### "ENB Series fails to download."
 
