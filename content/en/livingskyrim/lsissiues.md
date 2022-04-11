@@ -69,6 +69,10 @@ Download the files manually and put them in your downloads folder. A list of all
 
 ### Gameplay Issues
 
+#### "How do I start the Main Quest?"
+
+Alternate Perspective modifies how the main quest begins in Living Skyrim 3. With any start except for the Dragonborn start, Helgen will remain intact as a fully functional town until such time that you decide to start the main story. To begin the main Skyrim story, go to Helgen and speak with the innkeeper. Selecting the dialogue option "I'd like to rent a room (Start intro)" and sleeping in the bed in the room Matlara leads you to will begin the opening sequence of Skyrim, with the notable change that you are a bystander that gets caught in the Alduin attack.
+
 #### “The Main Quest doesn’t proceed after retrieving the Dragonstone.”
 
 Read this modpage: [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
@@ -77,6 +81,15 @@ Read this modpage: [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedi
 
 Read this modpage: [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
 
+#### "I can't join the Stormcloaks/Imperial Legion."
+
+Start the main quest and progress it to at least Way of the Voice. See above questions for how to start the main quest.
+
+#### "I can't use spells with a weapon equipped! I Can't power attack!"
+
+Engarde changes the way these combat functions work. To use a spell in your characters *right* hand: hold the Modifier hotkey while you right click (default Shift)
+Please note that swapping mouse buttons for attacks can cause issues with this. You will need to configure things yourself if you do this.
+Power attacks have their own keybind (Default Mouse 3). These can be changed at any time in the Engarde MCM
 
 #### “Can I access RaceMenu after character creation?”
 
@@ -86,9 +99,17 @@ Only if you are not changing your character’s gender or race. Changing gender/
 
 Check the SSE Display Tweaks INI file to make sure you have the resolution for your screen set correctly. You may also need to check BethINI or the Skyrim INI files to make sure they all match your screen’s resolution.
 
+#### "How can I adjust graphical/resolution settings?"
+
+A program called BethINI is included with the Living Skyrim installation. You can find it in the `Living Skyrim\Tools\BethINI` folder. Run the program (**MAKE SURE Mod Organizer IS CLOSED) and adjust your settings as necessary.
+
+#### "Interiors are too dark/bright."
+
+Instructions here are for the default ENB, if you have changed it you will need to search for the settings on your own. Open the ENB configuration menu in game with `Shift+Enter` Navigate to the `ENBEffect.fx` menu on the right side of the configuration screen. You will see two options near the top of this section, The first is the `Nights` modifier, Set this to a lower number between 0.5 and 1 to make nights brighter outdoors. Set it to a number between 1 and 2 to make them darker. Repeat this for the `Interiors` setting using the same number scale. Press **Save Configuration** in the top left and then close the menu using `Shift+Enter` again. ***DO NOT CLICK APPLY CHANGES*** This will load the configuration from the .ini file and you will lose your changes.
+
 #### “MO2 cannot find SKSE.”
 
-You’ll need to manually set the path for SKSE using the Edit Executables menu in MO2. Set it to `[install folder]\Stock Game\skse64_loader.exe`
+You’ll need to manually set the path for SKSE using the Edit Executables menu in MO2. Set it to `[install folder]\Stock Game\skse64_loader.exe`. Alternatively your Antivirus software may be interfering with the installation, set exceptions and/or disable as necessary.
 
 #### “Can I use a controller?”
 
