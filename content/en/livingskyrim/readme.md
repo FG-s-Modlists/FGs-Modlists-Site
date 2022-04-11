@@ -21,6 +21,12 @@ The Visual C++ Redistributable is a DLL (Dynamic Link Library) file required by 
 Click the link to download the latest Visual C++ x64 Redistributable, then double-click the downloaded file and follow the instructions:
 - [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
+### Microsoft .Net Runtime
+This is another runtime library required by some programs. Not having these installed can result in issues running Living Skyrim.
+
+click the link to open a page on the Microsoft Website to download the .NET runtime files. You may need both the Desktop and Console versions, so please install both:
+- [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
+
 ### Steam & SSE Setup
 {{< alert context="danger" icon="🛑" >}}
 **WARNING!**
@@ -38,20 +44,15 @@ Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to 
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Manage > Browse Local Files), delete them.
 3. Install Skyrim: Special Edition.
 
-{{< alert context="success" icon="📝" >}}
-**Protip!** 
 
-If you want to be absolutely certain you have uninstalled Skyrim completely, download and use Skyrim Shredder.
-{{< /alert >}}
-
-Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist.
+Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist. You will also need to ensure the game is running in English, as that is the only language the modlist supports.
 
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 2. In Steam, disable the Steam Overlay. (Right-click > Properties… > General > Enable the Steam Overlay while in-game checkbox)
+3. In Steam, configure Skyrim's language to English. (Right-click > Properties… > Language > Select 'English' in the dropdown list)
 
 Once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.
 
-Last, but certainly not least, make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
 
 ### Wabbajack Preparations
 We’ll now setup the folders needed for the installation to proceed smoothly.
@@ -165,11 +166,12 @@ To actually launch and then play Living Skyrim, follow these steps:
 1. Launch the copy of Mod Organizer 2 found inside your Living Skyrim folder.
 2. In the top-right corner of Mod Organizer, you’ll see a large dropdown menu. Select Living Skyrim [SKSE] from this dropdown menu.
 3. Click the large Run button.
-4. This is how Living Skyrim should always be launched. You can create a shortcut to this selection on your desktop, if you wish, using the Shortcut button directly below the large Run button.
-5. Once Skyrim starts, create a new game.
-6. Create your character and name them whatever you’d like.
-7. As soon as you gain control of your character, do nothing. The mods are initializing and this can take several minutes. You’ll see a list of mods appearing in the top left corner of your screen.
-8. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
+4. A message box may appear asking you to update the game's registry path. Click Yes on this popup if it appears. If it does not appear, it is not an issue and likely means you've already done this.
+5. This is how Living Skyrim should always be launched. You can create a shortcut to this selection on your desktop, if you wish, using the Shortcut button directly below the large Run button.
+6. Once Skyrim starts, create a new game.
+7. Create your character and name them whatever you’d like.
+8. As soon as you gain control of your character, do nothing. The mods are initializing and this can take several minutes. You’ll see a list of mods appearing in the top left corner of your screen.
+9. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 {{< alert context="danger" icon="🛑" >}}
 **WARNING!**
@@ -178,7 +180,7 @@ To actually launch and then play Living Skyrim, follow these steps:
 {{< /alert >}}
 
 ## The MCM Settings
-Some MCM settings have been pre-set for you. See this document to set the remaining MCMs that are required for LS3 to function correctly: [Click Here](/livingskyrim/mcm)
+See this document to set the MCMs that are required for LS3 to function correctly: [Click Here](/livingskyrim/mcm)
 
 ## Common Issues
 
