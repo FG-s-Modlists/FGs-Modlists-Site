@@ -81,3 +81,7 @@ Due to some unforseen issues with hotkey bindings during the recording process y
 
 #### Take Notes
  - Open Journal should be bound to the 'B' Key.
+
+#### Immersive HUD
+- Options 
+Enable Hide shout meter with compass
