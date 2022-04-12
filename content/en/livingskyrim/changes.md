@@ -13,6 +13,21 @@ weight: 50
 toc: true
 ---
 
+### 4/12/2022 3.8.2
+#### Incremental
+- Fixes
+  - Fixed Kthonia's Unique Weapon Pack + LOTD Patch
+  - Fixed Falskaar Lost Knowledge quest
+  - Fixed some BFBs.
+  - Fixed attack speed issues.
+- Updates
+  - Kthonia's Unique Weapon Pack
+- Additions
+  - AVA Rebalanced
+  - Comprehensive Falskaar Fixes
+- Other
+  - Set MCM Recording to autorun upon character creation being completed.
+
 ### 4/6/2022 3.8.1
 #### Incremental
 - Fixes
