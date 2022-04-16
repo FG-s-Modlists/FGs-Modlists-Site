@@ -13,6 +13,13 @@ weight: 80
 toc: true
 ---
 
+{{< alert context="danger" icon="🛑" >}}
+**WARNING!**
+
+**This guide is currently out of date and will not function correctly with mods currently in the list. It may possibly be updated in the future. Currently Engarde's mod page has the best guide for controller setup [HERE](https://www.nexusmods.com/skyrim/articles/52225)**
+{{< /alert >}}
+
+
 Living Skyrim supports a controller or gamepad out of the box. If you wish to use a controller, follow this guide.
 
 ## Before You Get Started
