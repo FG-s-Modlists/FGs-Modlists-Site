@@ -20,7 +20,7 @@ toc: true
   - Fixed follower attack speed, damage, and movement issues
   - Fixed a CTD in the Pale Pass
 - Mod Updates
-  - LOTD Pale Pass Extension
+  - LOTD Pale Pass Extension.
 
 ### 4/12/2022 3.8.2
 #### Incremental
