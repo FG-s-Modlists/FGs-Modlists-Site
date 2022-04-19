@@ -13,6 +13,15 @@ weight: 50
 toc: true
 ---
 
+### 4/18/2022 3.8.3
+#### Incremental
+- Fixes
+  - Fixed the children
+  - Fixed follower attack speed, damage, and movement issues
+  - Fixed a CTD in the Pale Pass
+- Mod Updates
+  - LOTD Pale Pass Extension
+
 ### 4/12/2022 3.8.2
 #### Incremental
 - Fixes
