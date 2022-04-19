@@ -17,7 +17,9 @@ toc: true
 
 ### “A mod failed to download.”
 
-First, you can also try enabling the Network Workaround option in the settings for Wabbajack to see if it will download the file after enabling that setting.
+First, you can try restarting the install once, you may also try enabling the Network Workaround option in the settings for Wabbajack to see if it will download the file after enabling that setting.
+
+Next, check the list of commonly failing files further down on this page, some files hosted on certain file hosting sites are prone to failing at times.
 
 Otherwise, wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Path of the Dovahkiin is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
 
@@ -43,7 +45,19 @@ Yes, but remember that if you need to reinstall the list you will have to downlo
 
 ### "POTD xLODGen Output 1.0.0 fails to download."
 
-Youll need to download this manually and put it in your download folder. A mirror link can be found here: [POTD xLODGen Output 1.0.0](https://drive.google.com/file/d/10T1yWPU7O3m85T0NPesktbrhT9oJbR6f/view?usp=sharing)
+You'll need to download this manually and put it in your download folder. A mirror link can be found here: [POTD xLODGen Output 1.0.0](https://drive.google.com/file/d/10T1yWPU7O3m85T0NPesktbrhT9oJbR6f/view?usp=sharing)
+
+### "POTD DynDOLOD Output 1.0.0 fails to download."
+
+You'll need to download this manually and put it in your download folder. A mirror link can be found here: [POTD DynDOLOD Output 1.0.0](https://drive.google.com/file/d/1jQaV3QxHW-cNymDgxeS0tpBX8Qe7msra/view?usp=sharing)
+
+### "Paper Maps SE V1.1 fails to download."
+
+You'll need to download this manually and put it in your download folder. A mirror link can be found here: [Paper Maps SE V1.1](https://drive.google.com/file/d/1mfTQy2HIsdz8WWuTLDgiOR-t_IBZyTQC/view)
+
+### "Smooth Magic Casting Animation and/or Smooth Combat Non Combat Animation fails to download."
+
+You'll need to download these manually and put them in your download folder. Mirror links can be found here: [Smooth Magic Casting Animation 3.2](https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth%20Magic%20Casting%20Animation%203.2.7z?attach=1&knm=tfile.7z) and here: [Smooth Combat Non Combat Animation](https://blog.kakaocdn.net/dn/9Tn0e/btq6pI8JGgq/RMxvJoTOF071qWFu9pc04k/Smooth%20Combat%20Animation.7z?attach=1&knm=tfile.7z)
 
 ### "ENB Series fails to download."
 
@@ -55,7 +69,7 @@ You will need to download this manually and put it in your downloads folder. The
 
 ### "Skyrim Game files are failing to download."
 
-If your Skyrim game files (SkyrimSE.exe, Data_Skyrim.esm, Data_Skyrim - Textures0.bsa, etc.) are failing to download this is most commonly caused by the Anniversary update to Skyrim Special Edition, you will need the downgrade patcher located [HERE](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248919&game_id=1704)
+If your Skyrim game files (SkyrimSE.exe, Data_Skyrim.esm, Data_Skyrim - Textures0.bsa, etc.) are failing please verify your game install through Steam. Downgrade patchers are no longer required.
 
 ## Gameplay Issues
 
@@ -63,9 +77,29 @@ If your Skyrim game files (SkyrimSE.exe, Data_Skyrim.esm, Data_Skyrim - Textures
 
 Only if you are not changing your character’s gender or race. Changing gender/race will cause issues with powers and passive buffs your character has.
 
+### "I can't use spells with a weapon equipped! I Can't power attack!"
+
+Engarde changes the way these combat functions work. To use a spell in your characters right hand: hold the Modifier hotkey while you right click (default Shift) Please note that swapping mouse buttons for attacks can cause issues with this. You will need to configure things yourself if you do this. Power attacks have their own keybind (Default Mouse 3). These can be changed at any time in the Engarde MCM
+
+### "I can't level up! My skills aren't increasing!"
+
+Please read the information on leveling up in the previous pages of the readme, alternatively check the [Gold Is XP](https://www.nexusmods.com/skyrimspecialedition/mods/20084) mod page
+
+### "How do I start the Main Quest?"
+
+Alternate Perspective modifies how the main quest begins in Living Skyrim 3. With any start except for the Dragonborn start, Helgen will remain intact as a fully functional town until such time that you decide to start the main story. To begin the main Skyrim story, go to Helgen and speak with the innkeeper. Selecting the dialogue option "I'd like to rent a room (Start intro)" and sleeping in the bed in the room Matlara leads you to will begin the opening sequence of Skyrim, with the notable change that you are a bystander that gets caught in the Alduin attack.
+
+### "It's too dark inside/at night."
+
+You can adjust the ENB settings to brighten nights/interiors in the list (Please note if you have changed the ENB from the default you will need to search how to do this yourself.) Open the ENB configuration menu in game with `Shift+Enter` Navigate to the `ENBEffect.fx` menu on the right side of the configuration screen. You will see two options near the top of this section, The first is the `Nights` modifier, Set this to a lower number between 0.5 and 1 to make nights brighter outdoors. Set it to a number between 1 and 2 to make them darker. Repeat this for the `Interiors` setting using the same number scale. Press Save Configuration in the top left and then close the menu using `Shift+Enter` again. DO NOT CLICK APPLY CHANGES This will load the configuration from the .ini file and you will lose your changes.
+
 ### “My screen is zoomed in or weirdly off-center.”
 
 Check the SSE Display Tweaks INI file to make sure you have the resolution for your screen set correctly. You may also need to check BethINI or the Skyrim INI files to make sure they all match your screen’s resolution.
+
+### "How can I adjust graphical/resolution settings?"
+
+A program called BethINI is included with the Living Skyrim installation. You can find it in the `Living Skyrim\Tools\BethINI` folder. Run the program (**MAKE SURE Mod Organizer IS CLOSED**) and adjust your settings as necessary.
 
 ### “MO2 cannot find SKSE.”
 
@@ -85,5 +119,5 @@ Yes. Display Tweaks SSE is included to allow higher refresh rates.
 
 ### “Can I use this list on an ultrawide monitor?”
 
-Yes, Complete Widescreen Fix is included by default. Just make sure to enable it in the left pane of MO2.
+Yes, Nordic UI patches for 21:9 and 32:9 aspect ratios are included by default. Just make sure to enable the correct version for your aspect ratio in the left pane of MO2 under the 'Configuration Specific' seperator.
 
