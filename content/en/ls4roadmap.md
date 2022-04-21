@@ -43,4 +43,18 @@ Living Skyrim 3 has several pieces that people have pointed to and said "This is
 
 ## Specifics?
 
-At this point, you might ask me what exactly will be different between Living Skyrim 3 and Living Skyrim 4. The answer to that (at the time of writing this) is: I don't know. For now I will say that a lot will be staying the same and a lot will be changing. But I'm nowhere near ready to reveal anything specific. I'll update this page as I figure out specifics.
+Here's what I have that I am ready to reveal. More will be added as I make decisions.
+
+### Graphics
+
+Once again the graphics package will be receiving an overhaul. It will be familiar enough to still be Living Skyrim but will include a number of new mods and replacements to freshen things up. The goal here is gorgeous and performant. We want the game to look as good as possible without lighting your computer on fire. The current graphics package will also be propogated to Atelier 2 and be used as a baseline for that list. For your enjoyment, here are some early screenshots. Please note that these screenshots are not final and may be subject to change at any point.
+
+<img src="https://i.imgur.com/I4SHH94.jpeg"><br>
+<img src="https://i.imgur.com/HzsDJ77.jpg"><br>
+<img src="https://i.imgur.com/Nb4ZqbM.jpeg"><br>
+<img src="https://i.imgur.com/SGhtbES.jpeg"><br>
+
+
+### Character Customization
+
+LS4 will be including Masterstroke's entire character customization library. This means that you'll be able to share character presets between Masterstroke and Living Skyrim 4. This change will eventually come to Path of the Dovahkiin and of course Atelier 2 so with the advent of LS4, if you make a character preset on one of my lists it will (eventually) work on every ForgottenGlory modlist. No more having to choose which list to use to make your preset!
