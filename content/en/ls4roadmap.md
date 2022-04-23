@@ -58,3 +58,11 @@ Once again the graphics package will be receiving an overhaul. It will be famili
 ### Character Customization
 
 LS4 will be including Masterstroke's entire character customization library. This means that you'll be able to share character presets between Masterstroke and Living Skyrim 4. This change will eventually come to Path of the Dovahkiin and of course Atelier 2 so with the advent of LS4, if you make a character preset on one of my lists it will (eventually) work on every ForgottenGlory modlist. No more having to choose which list to use to make your preset!
+
+### NPC Visual Overhaul
+
+The LS4 NPC Visual Overhaul will be feature hand-picked overhauls for every named NPC. NPC visuals will be pulled from a large number of mods and combined into a single NPC Visual Overhaul specifically for the list. The goal here was to pick what I felt was "the best" or my personal favorite for each NPC that has a name. Generic NPCs like bandits and such will still be overhauled, but not to the level of detail as named NPCs. However, I will say that I specifically avoided mods that made characters too "anime" or "supermodel". I wanted there to be a good variety between pretty and ugly and while not perfectly realistic, every NPC should fall into the realm of "possible."
+
+### Audio
+
+The music and sound effects will be much the same as they are currently in LS3. However, there will be a few new mods that overhaul some creature sounds and voice lines to increase quality or make general improvements over the vanilla sounds and voice lines.
