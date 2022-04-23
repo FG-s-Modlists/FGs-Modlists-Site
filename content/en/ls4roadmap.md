@@ -65,4 +65,4 @@ The LS4 NPC Visual Overhaul will be feature hand-picked overhauls for every name
 
 ### Audio
 
-The music and sound effects will be much the same as they are currently in LS3. However, there will be a few new mods that overhaul some creature sounds and voice lines to increase quality or make general improvements over the vanilla sounds and voice lines.
+The music and sound effects will be much the same as they are currently in LS3. However, there will be a few new mods that overhaul some creature sounds and voice lines to increase quality or make general improvements over the vanilla sounds and voice lines. I feel that audio is an often neglected area of modlists and I wanted to make the audio experience of the game as high quality and interesting as the rest of the list.
