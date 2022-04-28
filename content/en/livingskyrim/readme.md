@@ -117,8 +117,6 @@ The first is Nordic UI 32x9 or 21x9. This should only be enabled if you are usin
 
 The second is QuickLoot, which adds a Fallout 4 style loot menu to bodies, containers, etc. This mod provides a significant quality of life improvement to looting, however it can cause issues with mods that run scripts upon looting certain objects. Enable it, or don't, it's entirely up to your personal preference. If you do enable it, it's recommended that you also enable the retexture for it to match the rest of the Skyrim UI.
 
-Lastly, [Gamepad++](https://www.nexusmods.com/skyrimspecialedition/mods/27007?tab=files) is included if you plan on playing the list with a controller. Reading the mod page for this mod is not optional if you're going to use it.
-
 ### ENB
 By default, Living Skyrim comes bundled with six ENB presets that you can choose between: Culminated, Ominous, Pi-CHO, Re-Engaged, Silent Horizons, and TNT. ENB is turned on by default and the Culminated preset is already enabled for you.
 
