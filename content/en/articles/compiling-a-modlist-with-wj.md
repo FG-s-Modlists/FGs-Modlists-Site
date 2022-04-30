@@ -13,8 +13,6 @@ weight: 50
 toc: true
 ---
 
-# Compiling a Modlist for Wabbajack
-
 So you want to create a Wabbajack modlist installer, either to keep as a personal backup or to share with your friends, or heck, maybe even to get onto the Wabbajack UI? The process may seem intimidating at first, but I assure you, it's much easier than it seems. Here's how it's done.
 
 ## Disclaimers
