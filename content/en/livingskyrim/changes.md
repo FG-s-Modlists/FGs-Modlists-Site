@@ -13,6 +13,19 @@ weight: 50
 toc: true
 ---
 
+### 4/30/2022 3.8.4
+#### Incremental
+- Fixes
+  - Fixed attack speed issues.
+  - Fixed the Dragonborn alternate start.
+- Mod Updates
+  - Alternate Perspective 2.7.2
+  - Particle Patch for ENB 1.0.9 (Nexus)
+- Removals
+  - True Armor
+- Additions
+  - Combat Music Fix SKSE
+
 ### 4/18/2022 3.8.3
 #### Incremental
 - Fixes
