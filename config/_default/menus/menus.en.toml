@@ -4,6 +4,11 @@
   weight = 10
 
 [[main]]
+  name = "Articles"
+  url = "/articles/"
+  weight = 15
+
+[[main]]
   name = "Get Wabbajack"
   url = "https://www.wabbajack.org/#/"
   weight = 20
