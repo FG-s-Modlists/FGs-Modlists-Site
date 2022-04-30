@@ -30,15 +30,15 @@ Before you begin creating a modlist installer, there's some basic setup that nee
 
 1. Your copy of Mod Organizer 2 needs to be a portable copy of the program. This is an option presented to you when you install and run MO2 for the first time.
 
-![](https://i.imgur.com/9soWRrw.png)
+<img src="https://i.imgur.com/9soWRrw.png">
 
 2. Your copy of Mod Organizer 2 should be set to use a dark theme. This is both a courtesy to the people who will be installing your modlist and a way to know for certain that the installation completed properly quickly and easily.
 
-![](https://i.imgur.com/rQ0fY28.png)
+<img src="https://i.imgur.com/rQ0fY28.png">
 
 3. You should have a profile in MO2 which you will use for compilation. It is recommended to keep this separate from the Default profile. The name of the profile doesn't matter, but common practice is to name the profile you use to compile the same as your modlist (excluding any version number or additional identifiers).
 
-![](https://i.imgur.com/iix8lTJ.png)
+<img src="https://i.imgur.com/iix8lTJ.png">
 
 4. The files downloaded for the modlist you wish to compile should be kept separate from any other mod download folders you have. It doesn't particularly matter what folder, as long as the only files in that folder are the archives and .meta files for *only* the mods used in the modlist. This is to prevent Wabbajack from downloading *everything* inside that "shared" download folder. When a user installs your modlist, you only want them to download the mods required to build your modlist. Including a bunch of extra downloads that aren't used just extends the download/install time and wastes precious hard drive space.
 
@@ -54,33 +54,33 @@ Now that you've set up MO2 properly and have completed building your modlist, it
 
 You'll be presented with the following screen. We're interested in the "Create a Modlist" button.
 
-![](https://i.imgur.com/xKLDNZQ.png)
+<img src="https://i.imgur.com/xKLDNZQ.png">
 
 When you click this button, you'll be presented with a whole lot of empty boxes. The very first thing you need to do is click the 3 dots next to the "Modlist Location" box.
 
-![](https://i.imgur.com/8qTzMlw.png)
+<img src="https://i.imgur.com/8qTzMlw.png">
 
 When you do, you'll be prompted to find a file. You're looking for the modlist.txt for the MO2 profile you want to turn into a Wabbajack installer.
 
-![](https://i.imgur.com/VgdS15N.png)
+<img src="https://i.imgur.com/VgdS15N.png">
 
 When you have located it, open it. Wabbajack will auto-complete some information for you, namely (heh) the Modlist Name. Next, you need to fill out the Download Location. This is the *folder* that contains all of the downloads specific to your modlist. Remember earlier we kept those downloads separate from any other mod download folders. Click the three dots in the "Download Location" box.
 
-![](https://i.imgur.com/g17cca6.png)
+<img src="https://i.imgur.com/g17cca6.png">
 
 You'll again be prompted to find something, but this time, we're looking for a *folder* instead of an individual file. 
 
-![](https://i.imgur.com/8pOoi2A.png)
+<img src="https://i.imgur.com/8pOoi2A.png">
 
 Next, you'll want to fill out the "Output Location" field. Click the three dots next to that box.
 
-![](https://i.imgur.com/WVJLnUa.png)
+<img src="https://i.imgur.com/WVJLnUa.png">
 
 The path you now select is where your modlist installer file will be created when Wabbajack is finished. Make it somewhere easy to remember so you can easily find it when needed.
 
 Now, the only other required field is the Version field. You can put any combination of numbers and dots (periods) you want. Common practice is to use x.y.z notation, where X is major list versions, Y is minor list versions, and Z is incremental list versions. How exactly you want to do your version numbering is entirely up to you.
 
-![](https://i.imgur.com/o2KOaL1.png)
+<img src="https://i.imgur.com/o2KOaL1.png">
 
 You *can* fill out the rest of the fields and *absolutely should* if your modlist is going to have any sort of public release. 
 
@@ -93,7 +93,7 @@ You *can* fill out the rest of the fields and *absolutely should* if your modlis
 
 With all of that filled out, you're now ready to click the Compile button!
 
-![](https://i.imgur.com/qOHNaFX.png)
+<img src="https://i.imgur.com/qOHNaFX.png">
 
 Wabbajack will now begin the process of compiling your modlist installer.
 
