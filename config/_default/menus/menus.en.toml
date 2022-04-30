@@ -1,5 +1,5 @@
 [[main]]
-  name = "News & Articles"
+  name = "News"
   url = "/blog/"
   weight = 10
 
