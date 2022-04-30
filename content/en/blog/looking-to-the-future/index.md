@@ -24,4 +24,4 @@ Living Skyrim 3.8.x will continue to be supported while I work on Living Skyrim 
 
 Anything you see or read is subject to change at any point with LS4. Also, before anyone asks, Living Skyrim 4 is a long term project. My initial estimate is that it will take about 6 months before it's in any sort of playable state and anywhere from 8 to 10 months before it's officially released. Again, subject to change at any point.
 
-LS4 Roadmap: https://www.fgsmodlists.com/ls4roadmap
+LS4 Roadmap: [Click Me!](https://www.fgsmodlists.com/ls4roadmap)
