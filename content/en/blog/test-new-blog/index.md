@@ -10,4 +10,4 @@ images: ["test-new-blog.jpg"]
 contributors: ["ForgottenGlory"]
 ---
 
-Test
+Test.
