@@ -1,6 +1,6 @@
 ---
 title: "Compiling a Modlist with Wabbajack"
-description: ""
+description: "A guide on how to compile a modlist using Wabbajack."
 lead: "By ForgottenGlory"
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
