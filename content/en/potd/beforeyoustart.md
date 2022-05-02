@@ -73,7 +73,7 @@ Character Creation is fairly straightforward, but you should be aware that you c
 
 This one's important. You don't level up like normal anymore in Path of the Dovahkiin. Instead, [Gold is XP](https://www.nexusmods.com/skyrimspecialedition/mods/20084) is used to... well, make gold into XP. When you sleep and have acquired enough gold, you'll get the option to increase whichever skills you choose. This allows you to pick exactly which direction you want to build your character into. You'll level up quickly until about level 20 or so, and then level ups will start taking longer and longer to receive. Gold is XP also counts gold you receive from selling loot, so keep that in mind. Note that because this mod is included, it's near impossible to max every skill to 100. You'll have to choose carefully and specialize to build your character.
 
-It is possible to "respec" your perk choices. At a high enough player level scroll vendors may sell a 'Scroll of Legends' that can be used to refund all your perk points allowing you to redistribute them. These may be quite expensive though.
+It is possible to "respec" your perk choices. At a high enough player level scroll vendors may sell a 'Scroll of Legends' that can be used to refund all your perk points allowing you to redistribute them. These may be quite expensive though. If you're lucky, however, you might run afoul of one in the wild.
 
 ### The Enemy Mods
 
