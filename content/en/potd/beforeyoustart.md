@@ -73,6 +73,8 @@ Character Creation is fairly straightforward, but you should be aware that you c
 
 This one's important. You don't level up like normal anymore in Path of the Dovahkiin. Instead, [Gold is XP](https://www.nexusmods.com/skyrimspecialedition/mods/20084) is used to... well, make gold into XP. When you sleep and have acquired enough gold, you'll get the option to increase whichever skills you choose. This allows you to pick exactly which direction you want to build your character into. You'll level up quickly until about level 20 or so, and then level ups will start taking longer and longer to receive. Gold is XP also counts gold you receive from selling loot, so keep that in mind. Note that because this mod is included, it's near impossible to max every skill to 100. You'll have to choose carefully and specialize to build your character.
 
+It is possible to "respec" your perk choices. At a high enough player level scroll vendors may sell a 'Scroll of Legends' that can be used to refund all your perk points allowing you to redistribute them. These may be quite expensive though.
+
 ### The Enemy Mods
 
 In general you'll find that enemy variety and quantity is significantly increased thanks to [Increased Enemy Spawns](https://www.nexusmods.com/skyrimspecialedition/mods/2470) and [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017). They've also been beefed up by [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/2470). Dragons are handled by [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/32211). That said, enemies aren't particularly more difficult, especially once your character build starts to come together. There's also a handful of mods included that increase animal/monster variety. 
