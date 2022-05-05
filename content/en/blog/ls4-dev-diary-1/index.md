@@ -2,8 +2,8 @@
 title: "Living Skyrim 4: Dev Diary 1"
 description: ""
 lead: ""
-date: 2022-05-4T00:00:01-04:00
-lastmod: 2022-05-4T00:00:01-04:00
+date: 2022-05-05T00:00:01-04:00
+lastmod: 2022-05-05T00:00:01-04:00
 draft: false
 weight: 50
 images: ["ls4-dev-diary-1.jpg"]
