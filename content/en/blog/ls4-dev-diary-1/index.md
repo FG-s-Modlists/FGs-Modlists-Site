@@ -35,7 +35,7 @@ I should perhaps back up a bit and explain how the entire process of building a 
 
 Once I've determined the high concept, I design and create a logo for the list. I don't know why but for whatever reason this really sets the tone for how the list is going to be. With a logo, I can easily show it to people and hopefully give an impression of what people can expect from the list. The Living Skyrim 4 logo is an evolution of the previous logo. 
 
-<img src="images\LS3ResizedSmallLogo.webp" style='width: 100%; object-fit: contain'/>
+<img src="\images\LS3ResizedSmallLogo.webp" style='width: 100%; object-fit: contain'/>
 
 <img src="\images\LS4Logo.png" style='width: 100%; object-fit: contain'/>
 
