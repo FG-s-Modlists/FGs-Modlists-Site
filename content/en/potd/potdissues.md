@@ -89,9 +89,15 @@ Please read the information on leveling up in the previous pages of the readme, 
 
 Alternate Perspective modifies how the main quest begins in Living Skyrim 3. With any start except for the Dragonborn start, Helgen will remain intact as a fully functional town until such time that you decide to start the main story. To begin the main Skyrim story, go to Helgen and speak with the innkeeper. Selecting the dialogue option "I'd like to rent a room (Start intro)" and sleeping in the bed in the room Matlara leads you to will begin the opening sequence of Skyrim, with the notable change that you are a bystander that gets caught in the Alduin attack.
 
+An option is available to skip various parts of the main quest, if you're playing through a second (or more) time. Make your way into the Pilgrim Inn Cellar once you have started your character or are otherwise ready to begin the main quest. Afterwards, head through the cellar until you end up outside again and find and speak to the Messenger.
+
 ### "It's too dark inside/at night."
 
 You can adjust the ENB settings to brighten nights/interiors in the list (Please note if you have changed the ENB from the default you will need to search how to do this yourself.) Open the ENB configuration menu in game with `Shift+Enter` Navigate to the `ENBEffect.fx` menu on the right side of the configuration screen. You will see two options near the top of this section, The first is the `Nights` modifier, Set this to a lower number between 0.5 and 1 to make nights brighter outdoors. Set it to a number between 1 and 2 to make them darker. Repeat this for the `Interiors` setting using the same number scale. Press Save Configuration in the top left and then close the menu using `Shift+Enter` again. DO NOT CLICK APPLY CHANGES This will load the configuration from the .ini file and you will lose your changes.
+
+### "Can I respec my character?"
+
+Yes you can refund your perk points to redistribute them. After a certain character level 'Scrolls of Legends' may begin appearing on magical vendors that sell scrolls. You can use this to refund all spent perk points and redistribute them as you like. Be careful they may be expensive. If you're lucky, however, you may run afoul of one in the wild.
 
 ### “My screen is zoomed in or weirdly off-center.”
 
