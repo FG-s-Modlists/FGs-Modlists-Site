@@ -69,7 +69,7 @@ This, for me, seems to be a very good guideline for achieving good to great look
 
 But I have an example for this as well.
 
-<iframe frameborder="0" class="juxtapose" style='width: 100%; object-fit: contain' height="344" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=579e92bc-cffc-11ec-b5bb-6595d9b17862"></iframe>
+[Click Me To See the Example!](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=343a38b6-d007-11ec-b5bb-6595d9b17862)
 
 This is a window in Solitude. On the left you have a 2K texture, and on the right is an 8K AI Upscale I made specifically for this comparison. Obviously, the 8K version *looks* better, especially when you're as close as I was when taking these screenshots. But under normal gameplay circumstances you should *never* be close enough to see this difference. Nevermind that going from 2K to 8K textures makes the performance impact significantly higher. So which should you pick? The one that looks better under all circumstances, or the one that will realistically look "good enough"? If you picked 2K, you're correct by my measure. 
 
