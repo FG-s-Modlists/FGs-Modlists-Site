@@ -10,4 +10,4 @@ images: ["ls4-dev-diary-2.jpg"]
 contributors: ["ForgottenGlory"]
 ---
 
-<iframe frameborder="0" style='width: 100%; object-fit: contain' src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=579e92bc-cffc-11ec-b5bb-6595d9b17862"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="1440" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=579e92bc-cffc-11ec-b5bb-6595d9b17862"></iframe>
