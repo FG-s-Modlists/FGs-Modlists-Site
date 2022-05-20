@@ -49,12 +49,12 @@ Here's what I have that I am ready to reveal. More will be added as I make decis
 
 Once again the graphics package will be receiving an overhaul. It will be familiar enough to still be Living Skyrim but will include a number of new mods and replacements to freshen things up. The goal here is gorgeous and performant. We want the game to look as good as possible without lighting your computer on fire. The current graphics package will also be propogated to Atelier 2 and be used as a baseline for that list. For your enjoyment, here are some early screenshots. Please note that these screenshots are not final and may be subject to change at any point.
 
+For more information about LS4's graphics, check [Dev Diary 2](https://www.fgsmodlists.com/blog/living-skyrim-4-dev-diary-2/).
+
 <img src="https://i.imgur.com/I4SHH94.jpeg"><br>
 <img src="https://i.imgur.com/HzsDJ77.jpg"><br>
 <img src="https://i.imgur.com/Nb4ZqbM.jpeg"><br>
 <img src="https://i.imgur.com/SGhtbES.jpeg"><br>
-
-For more information about LS4's graphics, check [Dev Diary 2](https://www.fgsmodlists.com/blog/living-skyrim-4-dev-diary-2/).
 
 ### Character Customization
 
