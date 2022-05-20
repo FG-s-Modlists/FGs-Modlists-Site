@@ -45,7 +45,7 @@ Living Skyrim 3 has several pieces that people have pointed to and said "This is
 
 Here's what I have that I am ready to reveal. More will be added as I make decisions.
 
-### Graphics
+### [Graphics](https://www.fgsmodlists.com/blog/living-skyrim-4-dev-diary-2/)
 
 Once again the graphics package will be receiving an overhaul. It will be familiar enough to still be Living Skyrim but will include a number of new mods and replacements to freshen things up. The goal here is gorgeous and performant. We want the game to look as good as possible without lighting your computer on fire. The current graphics package will also be propogated to Atelier 2 and be used as a baseline for that list. For your enjoyment, here are some early screenshots. Please note that these screenshots are not final and may be subject to change at any point.
 
@@ -61,7 +61,7 @@ LS4 will be including Masterstroke's entire character customization library. Thi
 
 ### NPC Visual Overhaul
 
-The LS4 NPC Visual Overhaul will be feature hand-picked overhauls for every named NPC. NPC visuals will be pulled from a large number of mods and combined into a single NPC Visual Overhaul specifically for the list. The goal here was to pick what I felt was "the best" or my personal favorite for each NPC that has a name. Generic NPCs like bandits and such will still be overhauled, but not to the level of detail as named NPCs. However, I will say that I specifically avoided mods that made characters too "anime" or "supermodel". I wanted there to be a good variety between pretty and ugly and while not perfectly realistic, every NPC should fall into the realm of "possible."
+The LS4 NPC Visual Overhaul will feature hand-picked overhauls for every named NPC. NPC visuals will be pulled from a large number of mods and combined into a single NPC Visual Overhaul specifically for the list. The goal here was to pick what I felt was "the best" or my personal favorite for each NPC that has a name. Generic NPCs like bandits and such will still be overhauled, but not to the level of detail as named NPCs. However, I will say that I specifically avoided mods that made characters too "anime" or "supermodel". I wanted there to be a good variety between pretty and ugly and while not perfectly realistic, every NPC should fall into the realm of "possible."
 
 ### Audio
 
