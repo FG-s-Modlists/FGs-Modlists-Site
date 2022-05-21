@@ -17,7 +17,11 @@ toc: true
 
 #### “A mod failed to download.”
 
-The short answer: wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Living Skyrim is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
+First, you can try restarting the install once, you may also try enabling the Network Workaround option in the settings for Wabbajack to see if it will download the file after enabling that setting.
+
+Next, check the list of commonly failing files further down on this page, some files hosted on certain file hosting sites are prone to failing at times.
+
+Otherwise: wait for an update to the list. Please do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Living Skyrim is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
 
 #### “Wabbajack says I’m out of requests.”
 
