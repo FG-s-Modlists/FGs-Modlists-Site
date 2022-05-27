@@ -59,10 +59,10 @@ images: []
   - tjbassoon
 - Halgari & The Wabbajack Team
    - Thank you for creating Wabbajack, you’re amazing!
-   - Halgari’s Patreon
+   - Halgari’s [Patreon](https://www.patreon.com/user?u=11907933)
 - Special Thanks
    - The TUCO Modding Team - Their modlist is a great way to get a Vanilla+ experience with a tutorial that is extremely helpful for learning the basics of creating a modlist.
-   - DarkLadyLexy - Her LotD list is an invaluable resource not only for an awesome modlist, but also for learning many fundamentals of modding and compiling a modlist.
+   - DarkLadyLexy - Her [LotD list](https://lexyslotd.com/) is an invaluable resource not only for an awesome modlist, but also for learning many fundamentals of modding and compiling a modlist.
    - EzioTheDeadPoet - For their SME(FT) modlist. The ability to start from scratch on a whim while building this list has been invaluable.
   - My Patreon patrons.
 - Mod Authors
