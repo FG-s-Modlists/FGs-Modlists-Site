@@ -15,6 +15,8 @@ toc: true
 
 ### Wabbajack Issues
 
+---
+
 #### “A mod failed to download.”
 
 First, you can try restarting the install once, you may also try enabling the Network Workaround option in the settings for Wabbajack to see if it will download the file after enabling that setting.
@@ -73,6 +75,8 @@ Download the files manually and put them in your downloads folder. A list of all
 
 ### Gameplay Issues
 
+---
+
 #### "How do I start the Main Quest?"
 
 Alternate Perspective modifies how the main quest begins in Living Skyrim 3. With any start except for the Dragonborn start, Helgen will remain intact as a fully functional town until such time that you decide to start the main story. To begin the main Skyrim story, go to Helgen and speak with the innkeeper. Selecting the dialogue option "I'd like to rent a room (Start intro)" and sleeping in the bed in the room Matlara leads you to will begin the opening sequence of Skyrim, with the notable change that you are a bystander that gets caught in the Alduin attack.
@@ -105,7 +109,7 @@ Check the SSE Display Tweaks INI file to make sure you have the resolution for y
 
 #### "How can I adjust graphical/resolution settings?"
 
-A program called BethINI is included with the Living Skyrim installation. You can find it in the `Living Skyrim\Tools\BethINI` folder. Run the program (**MAKE SURE Mod Organizer IS CLOSED) and adjust your settings as necessary.
+A program called BethINI is included with the Living Skyrim installation. You can find it in the `Living Skyrim\Tools\BethINI` folder. Run the program (**MAKE SURE Mod Organizer IS CLOSED**) and adjust your settings as necessary.
 
 #### "Interiors are too dark/bright."
 
