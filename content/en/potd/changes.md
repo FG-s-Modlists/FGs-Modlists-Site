@@ -13,6 +13,26 @@ weight: 50
 toc: true
 ---
 
+### 1.3.0 6/4/2022
+#### Minor
+- Fixes
+  - Possibly fixed Werewolf CTD
+- Mod Updates
+  - Lux 4.2
+  - Manbeast 1.2.1
+  - xLODGen 90
+  - DynDOLOD 3 Alpha 93
+- Additions
+  - Skyshards
+- Removals
+  - Slayable Offspring
+- Replacements
+  - Paper Maps -> Flat World Map Framework
+  - Alternate Perspective -> Realm of Lorkhan
+- Other
+  - Regenerated Synthesis Patch
+  - Regenerated DynDOLOD and Occlusion
+
 ### 1.2.0 1/29/2021
 #### Minor
 - Fixes
