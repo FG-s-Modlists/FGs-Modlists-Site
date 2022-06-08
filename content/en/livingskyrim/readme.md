@@ -98,7 +98,7 @@ Reading the Before You Start section of this document is not optional. You won't
 
 Once complete, Wabbajack will indicate it is done with a green box that says "Installation complete". You may exit Wabbajack after this appears.
 
-If it does not complete successfully (a red box with "Installation failed"), consult the Common Issues section of this document, or visit the [Living Skyrim Discord server](https://discord.gg/NdmGpGzqg8) for assistance. 
+If it does not complete successfully (a red box with "Installation failed"), consult the [Troubleshooting](/livingskyrim/lsissiues/) page of the readme, or visit the [Living Skyrim Discord server](https://discord.gg/NdmGpGzqg8) for assistance. 
 
 ## Post-Wabbajack Install
 
