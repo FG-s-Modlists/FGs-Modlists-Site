@@ -72,6 +72,12 @@ Download the files manually and put them in your downloads folder. A list of all
 - [Smooth Random Magic Idle Animation](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
 - [Smooth Random Sprint Animation](https://mega.nz/file/8T4ixLCB#YKQw5EDFdL1_e-5G_JB8WgmUkJ8N0kNtpzeOwUHZcZY)
 
+#### "Smooth Magic Casting Animation 3.2 or Smooth Combat Non Combat Animation fails to download."
+
+Download the files manually and put them in your downloads folder. The mods can be found here:
+- [Smooth Magic Casting Animation 3.2](https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth%20Magic%20Casting%20Animation%203.2.7z?attach=1&knm=tfile.7z)
+- [Smooth Combat Non Combat Animation](https://blog.kakaocdn.net/dn/9Tn0e/btq6pI8JGgq/RMxvJoTOF071qWFu9pc04k/Smooth%20Combat%20Animation.7z?attach=1&knm=tfile.7z)
+
 
 ### Gameplay Issues
 
