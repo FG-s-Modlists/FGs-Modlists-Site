@@ -20,7 +20,7 @@ I also feel the need to address some specific questions about the list so people
 
 We've decided to move away from Toys and to Devious Devices for Masterstroke. While Toys is newer, that unfortunately is its downfall. The simple fact of the matter is that, at the moment, Devious Devices is more flexible and more ubiquitous. More mods use Devious Devices and, while not perfect, it integrates better with the other things in the list and allows for me to expand the list in the future if necessary.
 
-This also means that we've been forced to change the "traps" mechanic of the list. Instead of Toyful Temptations, we're not using Deviously Enchanted Chests. This is a simpler trap mod than Deviously Cursed Loot while still giving the functionality I want. It also doesn't include numerous extremely intrusive changes to the game. Sticking with the theme of Masterstroke, its MCM also allows for the flexibility of customization.
+This also means that we've been forced to change the "traps" mechanic of the list. Instead of Toyful Temptations, we're now using Deviously Enchanted Chests. This is a simpler trap mod than Deviously Cursed Loot while still giving the functionality I want. It also doesn't include numerous extremely intrusive changes to the game. Sticking with the theme of Masterstroke, its MCM also allows for the flexibility of customization.
 
 Toys also has separate arousal and denial mechanics that overlap and interfere with the arousal system already in the list, so there's that. Technically, yes, Toys can use the built in arousal mechanics, but it doesn't integrate as seamlessly with everything else in the list.
 
