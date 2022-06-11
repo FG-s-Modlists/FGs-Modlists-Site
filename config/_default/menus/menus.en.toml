@@ -14,6 +14,11 @@
   weight = 20
 
 [[main]]
+  name = "Merch Shop"
+  url = "https://fgs-modlists-shop.myspreadshop.com"
+  weight = 25
+
+[[main]]
   name = "Credits"
   url = "/about"
   weight = 30
