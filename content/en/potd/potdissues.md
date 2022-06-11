@@ -29,7 +29,7 @@ If MEGA downloads are either not downloading correctly or are frozen on the comp
 
 - [Smooth Random Blocking Animation](https://mega.nz/file/4LxGTALK#7I8XPLnIW0PxR_r_nXMP-9ZUnZ16MlFVMdFdgGy-gF0)
 - [Smooth Random Magic Idle Animation](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
-- [xLODGEN.86](https://drive.google.com/file/d/1yGQtCNbG8RCJp0XLk4LLUL9q0gfO76OP/view)
+
 
 ### “Wabbajack says I’m out of requests.”
 
@@ -49,11 +49,7 @@ You'll need to download this manually and put it in your download folder. A mirr
 
 ### "POTD DynDOLOD Output 1.0.0 fails to download."
 
-You'll need to download this manually and put it in your download folder. A mirror link can be found here: [POTD DynDOLOD Output 1.0.0](https://drive.google.com/file/d/1jQaV3QxHW-cNymDgxeS0tpBX8Qe7msra/view?usp=sharing)
-
-### "Paper Maps SE V1.1 fails to download."
-
-You'll need to download this manually and put it in your download folder. A mirror link can be found here: [Paper Maps SE V1.1](https://drive.google.com/file/d/1mfTQy2HIsdz8WWuTLDgiOR-t_IBZyTQC/view)
+You'll need to download this manually and put it in your download folder. A mirror link can be found here: [POTD DynDOLOD Output 1.3.0](https://drive.google.com/file/d/1x_auJYyP1_26zAcCodL0JEJ-qHR_BHF5/view?usp=sharing)
 
 ### "Smooth Magic Casting Animation and/or Smooth Combat Non Combat Animation fails to download."
 
@@ -87,9 +83,7 @@ Please read the information on leveling up in the previous pages of the readme, 
 
 ### "How do I start the Main Quest?"
 
-Alternate Perspective modifies how the main quest begins in Living Skyrim 3. With any start except for the Dragonborn start, Helgen will remain intact as a fully functional town until such time that you decide to start the main story. To begin the main Skyrim story, go to Helgen and speak with the innkeeper. Selecting the dialogue option "I'd like to rent a room (Start intro)" and sleeping in the bed in the room Matlara leads you to will begin the opening sequence of Skyrim, with the notable change that you are a bystander that gets caught in the Alduin attack.
-
-An option is available to skip various parts of the main quest, if you're playing through a second (or more) time. Make your way into the Pilgrim Inn Cellar once you have started your character or are otherwise ready to begin the main quest. Afterwards, head through the cellar until you end up outside again and find and speak to the Messenger.
+Speak to Jarl Balgruuf in Whiterun
 
 ### "It's too dark inside/at night."
 
