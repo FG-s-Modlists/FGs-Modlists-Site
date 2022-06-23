@@ -55,6 +55,10 @@ You'll need to download this manually and put it in your download folder. A mirr
 
 You'll need to download these manually and put them in your download folder. Mirror links can be found here: [Smooth Magic Casting Animation 3.2](https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth%20Magic%20Casting%20Animation%203.2.7z?attach=1&knm=tfile.7z) and here: [Smooth Combat Non Combat Animation](https://blog.kakaocdn.net/dn/9Tn0e/btq6pI8JGgq/RMxvJoTOF071qWFu9pc04k/Smooth%20Combat%20Animation.7z?attach=1&knm=tfile.7z)
 
+### "Smooth Combat Animation by Race fails to download."
+
+You'll need to download this manually and place it in your downloads folder. The link can be found here:[Smooth Combat Animation by Race](https://blog.kakaocdn.net/dn/cc2DCv/btq75DwB45E/Ngh6JToG1d7rL8IOwblKLk/Smooth%20Combat%20Animation%20by%20Race.7z?attach=1&knm=tfile.7z)
+
 ### "ENB Series fails to download."
 
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [ENB Series](http://enbdev.com/download_mod_tesskyrimse.htm)
