@@ -58,11 +58,11 @@ There's no correct answer here, you'll need to read through this MCM and see wha
 ### Sunhelm
 The survival mechanics can be tweaked to affect how frequently you need to fulfill your needs, or disabled completely.
 
-### Toyful Temptations
-In this MCM you can change how often traps that place Toys on your character occur, as well as control how frequently keys appear. Changing these settings can make the Toys experience much harder or much easier.
+### Deviously Enchanted Chests
+In this MCM you can change how often traps that place Devious Devices on your character occur, as well as control how frequently keys appear. Changing these settings can make the Devious Devices experience much harder or much easier.
 
-### Toys
-In this MCM you can change the difficulty of escaping toys as well as turn off various features related to Toys, if that's what you want.
+### Devious Devices
+In this MCM you can change the difficulty of escaping toys as well as turn off various features related to Devious Devices, if that's what you want.
 
 ### Trade & Barter
 - Barter Rates
@@ -100,7 +100,7 @@ If you do not want to use the milk features of the list, these can be tweaked an
 ### Scrappies Matchmaker
 The locations of where matchmaking occurs can be modified and disabled in this MCM.
 
-### Toyful Temptations
+### Deviously Enchanted Chests
 This MCM allows for trapped containers to be disabled if you do not want these mechanics.
 
 ## Other
