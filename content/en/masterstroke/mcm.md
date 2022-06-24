@@ -25,9 +25,9 @@ Now, *save your game*. Then *load that save.*
 
 Once again, text will appear in the top left hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.**
 
-Now, go into the MCM and find MCM Recorder. You'll see two options listed: Masterstroke Female and Masterstroke Male.
+Now, go into the MCM and find MCM Recorder.
 
-Click on the one matching your character's gender. You'll be prompted to exit the MCM. Do so. You'll then receive a popup with information about the MCM preset you've chosen. Click "Run Recording".
+Click on the Masterstroke MCM option. You'll be prompted to exit the MCM. Do so. You'll then receive a popup with information about the MCM preset you've chosen. Click "Run Recording".
 
 Once again, ***WAIT.*** This can take up to 10 minutes to complete. During this wait, if you receive any pop-up messages, click through them. When it is finished, you will receive one final pop-up message stating the MCMs are now configured.
 
