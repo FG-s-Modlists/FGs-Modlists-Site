@@ -46,8 +46,6 @@ Afterwards, you need to disable automatic updates for Skyrim to avoid a game upd
 
 Once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.
 
-Last, but certainly not least, make sure you have deleted or disabled any and all Creation Club content that may have downloaded with the game.
-
 ### Wabbajack Preparations
 We’ll now setup the folders needed for the installation to proceed smoothly.
 
