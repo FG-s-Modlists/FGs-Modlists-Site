@@ -119,7 +119,7 @@ You can safely change the SmoothCam preset in this mod's MCM if you do not like 
 The following items should not be changed.
 
 ### HUD
-The various widgets and HUDs are affected by a several mods and shouldn't be modified.
+The various widgets and HUDs are affected by several mods and shouldn't be modified.
 
 ### SexLab
 The configuration for SexLab itself is set up in such a way that things should work as smoothly as possible. Tweaking things in this MCM isn't recommended.
