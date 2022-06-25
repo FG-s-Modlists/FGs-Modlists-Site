@@ -38,14 +38,13 @@ Download the file from the link provided here: [Community Overlays 1](https://dr
 
 Masterstroke includes a number of custom output mods and bodyslides that need to be downloaded, if any of the following files are failing to download, use the mirror links provided to download the files and place them in your Masterstroke download folder, and try the install again.
 
-- [Masterstroke NPC Merge](https://drive.google.com/file/d/14Dinu2Mfjze00P4ZdG5CTPn4uP-2x0nj/view)
-- [Masterstroke Prebuilt Bodyslides (Obody)](https://drive.google.com/file/d/1AFoP2GJG9ZwB3tiPjGubmzlpima17s7l/view)
-- [Masterstroke Bodyslides - Skimpy Female](https://drive.google.com/file/d/1lpyOC36toa4YsvY2N7PhyJ1nmX9af-eD/view)
-- [Masterstroke Bodyslides - Skimpy Male](https://drive.google.com/file/d/1C3E83rHMwwifssuqwwQaX-2p-3OblLCb/view)
-- [Core Masterstroke Bodyslides Beta 3](https://drive.google.com/file/d/1OP_PmexC80mU1gUyNA8qwdjpSK5ugKsw/view)
-- [Masterstroke Dyndolod Output (Beta 1)](https://drive.google.com/file/d/1QwBZdjQOZaDq036UlpV9DChNsgzDT20K/view)
-- [Masterstroke Texgen Output (Beta 1)](https://drive.google.com/file/d/1MZfHI2ODwj_WXclWmXwIEORcgFW9xTaM/view)
-- [Masterstroke XLODGen Output (Beta 1)](https://drive.google.com/file/d/10k2qm5Jej0iKLhrAvRLVstpydSoado1J/view)
+- [Masterstroke NPC Merge](https://drive.google.com/file/d/1LyT3KhrqzoE30BRn_OVmaoFD_QELQAbx/view?usp=sharing)
+- [Core Masterstroke Bodyslides](https://drive.google.com/file/d/1mzrIoBzpZfKe__7QgAswc1ICuGkFcBVG/view?usp=sharing)
+- [Masterstroke Bodyslides - Skimpy Female](https://drive.google.com/file/d/15AHdmw_69-qtAfS_1u3HStm4-V6D_UcV/view?usp=sharing)
+- [Masterstroke Bodyslides - Skimpy Male](https://drive.google.com/file/d/14pkPQxzOwR4EWZkvb4DLYIAT8vc0iCCg/view?usp=sharing)
+- [Masterstroke DynDOLOD Output](https://drive.google.com/file/d/1sG9spObGb6NOjpaYkikIftVvWgGV390G/view?usp=sharing)
+- [Masterstroke TexGen Output](https://drive.google.com/file/d/1M09btZfDoSGgX09CO2uDeTegWOtYvsJt/view?usp=sharing)
+- [Masterstroke xLODGen Output](https://drive.google.com/file/d/12nze1wV0y0-glM3bDceljfL7raxXauxR/view?usp=sharing)
 
 ### “Wabbajack says I’m out of requests.”
 
