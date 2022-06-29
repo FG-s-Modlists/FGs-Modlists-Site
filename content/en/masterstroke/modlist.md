@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   masterstroke:
-    parent: "masterstroke"
+    parent: "Masterstroke"
 weight: 60
 toc: true
 ---
