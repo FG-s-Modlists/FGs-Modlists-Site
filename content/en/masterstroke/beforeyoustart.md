@@ -118,7 +118,7 @@ Masterstroke uses a multitude of mods that allow for a survival experience that 
 - Voidgate: Provides a town portal scroll/spell you can use at higher levels.
 - Helps to Have a Map and Compass: Requires you to purchase/find and equip a map and compass to use the map and compass.
 - Item Durability: Weapons and armor will degrade over time and require repairs periodically.
-- Spell Tutor: Changes how learning spells work such that you must invest time into learning them, and gates higher tier spells behind a required minimum skill level.
+- Spellforge: Changes how spells are acquired to allow for better pacing to mages.
 - Simply Balanced: Allows every aspect of the game to be tweaked to increase or decrease difficulty.
 
 ### The Combat & Enemy Mods
@@ -138,7 +138,7 @@ Combat in Masterstroke is difficult without being on the level of Dark Souls or 
 
 The HUD and UI is going to be different in Masterstroke, even if you're coming from other modlists and especially if you're coming from vanilla Skyrim. All of the HUD elements have been condensed to the lower-left corner of the screen. The mods that affect the HUD and UI are as follows:
 
-- Horizons UI: The primary UI overhaul. Retextures almost every UI interface and object.
+- Nordic UI: The primary UI overhaul. Retextures almost every UI interface and object.
 - Atlas Map Markers: Adds more map markers.
 - Immersive HUD & SkyHUD: Allows the HUD to be repositioned and hidden if needed.
 - Sovngarde Font: A replacement for the main font in the game.
@@ -215,7 +215,7 @@ Of course, Masterstroke is designed around sexy elements and interactions. The c
 
 - SexLab: Makes the whole NSFW world go around.
 - SexLab Aroused: Makes your character and NPCs have arousal to affect various other things.
-- Yamete: The defeat mod of choice. Adds surrender and defeat mechanics to combat.
+- SexLab Defeat Baka Edition: The defeat mod of choice. Adds surrender and defeat mechanics to combat.
 - SexLab Separate Orgasms: Adds a minigame to NSFW scenes.
 - ZaZ Animation Pack: Adds animations for various scenes.
 - Devious Devices: A framework for NSFW equipment and managing of that equipment.
@@ -276,13 +276,7 @@ No modlist would be complete without an entire suite of mods to improve the qual
 
 While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it's duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it's important that you report bugs you find on the Masterstroke Github so that it can be fixed for everyone.
 
-To report a bug, follow these steps:
-
-1.  Login to [Github](https://github.com/) or create an account as necessary.
-2.  Open this link: [Click Here!](https://github.com/ForgottenGlory/Masterstroke/issues/new/choose)
-3.  Click the green button that says "Get Started" in the line next to "Bug Report".
-4.  Input a title and fill out the form in the large text box. If you need to attach a screenshot, it can be dragged from your computer to the Github post to insert it.
-5.  When you have filled out the form completely, click the green "Submit new issue" button.
+To report a bug, fill out this form: [Click Me!](https://forms.gle/whAiotJfGVwu1UrB7)
 
 After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible.
 

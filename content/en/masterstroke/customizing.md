@@ -70,13 +70,7 @@ In this MCM you can change the difficulty of escaping toys as well as turn off v
 
 Making this change will make items sell for more or less and increase or decrease the cost of purchasing items.
 
-### True Armor
-- Save & Load
-  - Click "Load Realistic Settings"
-
-This change makes the differences in heavy armor vs. light armor much more dramatic and realistic. This change will also make it so that you have to take into account what weapon you're using in relation to enemy armors.
-
-### Yamete
+### SexLab Defeat
 In this MCM you can change the requirements to be defeated as well as what happens when you are defeated. It can also be disabled completely if you want to forego the defeat mechanics in the list and would instead prefer to just die.
 
 ## Content

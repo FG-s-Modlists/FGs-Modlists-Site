@@ -85,7 +85,7 @@ Download the files manually and put them in your downloads folder. The mods can 
 
 #### "How do I start the Main Quest?"
 
-Alternate Perspective modifies how the main quest begins in Living Skyrim 3. With any start except for the Dragonborn start, Helgen will remain intact as a fully functional town until such time that you decide to start the main story. To begin the main Skyrim story, go to Helgen and speak with the innkeeper. Selecting the dialogue option "I'd like to rent a room (Start intro)" and sleeping in the bed in the room Matlara leads you to will begin the opening sequence of Skyrim, with the notable change that you are a bystander that gets caught in the Alduin attack.
+Alternate Perspective modifies how the main quest begins in Living Skyrim 3. With any start except for the Dragonborn start, Helgen will remain intact as a fully functional town until such time that you decide to start the main story. To begin the main Skyrim story, go to Helgen and enter the inn. Due to a current bug with TrueHUD, you will have to skip a portion of the intro. To do so, go behind the counter and enter the basement. Go through a few locked doors until you exit to Skyrim, where you'll find the Messenger dragon from the starting room. Speak with him and choose to skip the intro, and select the Keep when prompted. 
 
 #### “The Main Quest doesn’t proceed after retrieving the Dragonstone.”
 
