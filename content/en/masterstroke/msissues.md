@@ -13,6 +13,66 @@ weight: 90
 toc: true
 ---
 
+## Lover's Lab Downloads
+
+
+Lover's Lab files can have issues when downloading through Wabbajack. it is therefore  recommended to download these manually in your web browser before you install. The filenames are listed here along with the mod page containing them. **Please ensure you download the correct file from the mod pages** 
+
+---
+
+| Filename                                                                        | Link                                                                                       |
+|---------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| 2022_06_12_The Trappings of Fate v0.3.0.7z                                      | https://www.loverslab.com/files/file/22231-the-trappings-of-fate/                          |
+| 3BA for MME.zip                                                                 | https://www.loverslab.com/files/file/6103-milk-mod-economy-se/                             |
+| Anub H 3.2021.7z                                                                | https://www.loverslab.com/files/file/5623-anubs-animations-for-se/                         |
+| Babo SLAL Human SE.7z                                                           | https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/              |
+| DD_Helpers_1_04_8.7z                                                            | https://www.loverslab.com/files/file/5236-devious-device-helpers/                          |
+| Deviously Enchanted Chests SE 3.11.7z                                           | https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/                      |
+| Fill Her Up Baka Edition.7z                                                     | https://www.loverslab.com/files/file/14920-fill-her-up-baka-edition/                       |
+| FurnAnim v0_13.zip                                                              | https://www.loverslab.com/files/file/13464-furniture-sex-framework/                        |
+| FurnitureMarkerSex v0_14_3 SE.zip                                               | https://www.loverslab.com/files/file/13464-furniture-sex-framework/                        |
+| GenderBender_SE.7z                                                              | https://www.loverslab.com/files/file/6976-gender-bender-se/                                |
+| Gossip - 0.952.zip                                                              | https://www.loverslab.com/files/file/19062-gossip-a-fame-framework/                        |
+| JKMilkMod.7z                                                                    | https://www.loverslab.com/files/file/19660-jks-skyrim-milk-mod-economy-patch/              |
+| Maids II Sexlab Patch SE 1.2.7z                                                 | https://www.loverslab.com/files/file/14010-maids-ii-sexlab-patch-se/                       |
+| Milk Addict SE v0.5.3.7z                                                        | https://www.loverslab.com/files/file/11621-milk-addict-se/                                 |
+| Milk-Mod-Economy-Assets-SE-2019-06-04.7z                                        | https://www.loverslab.com/files/file/6103-milk-mod-economy-se/                             |
+| Milk-Mod-Economy-Bodyscaling-Bodymorph.7z                                       | https://www.loverslab.com/files/file/6103-milk-mod-economy-se/                             |
+| Milk-Mod-Economy-Scripts-20211102.7z                                            | https://www.loverslab.com/files/file/6103-milk-mod-economy-se/                             |
+| Mod Patches.7z                                                                  | https://www.loverslab.com/files/file/3474-maids-ii-deception/                              |
+| NoOverpenetration_SE_1.0.7z                                                     | https://www.loverslab.com/files/file/10339-no-overpenetration-se/                          |
+| Public Whore v1.1.4 SE.zip                                                      | https://www.loverslab.com/files/file/17026-public-whore/                                   |
+| PW Hero Fame Patch.zip                                                          | https://www.loverslab.com/files/file/17026-public-whore/                                   |
+| Schlongs_of_Skyrim_SE - v1.1.4.rar                                              | https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/                           |
+| ScrappiesMatchmaker - 1.2.zip                                                   | https://www.loverslab.com/files/file/19891-scrappies-matchmaker/                           |
+| Sex Lab - Sexual Fame 0.99.rar                                                  | https://www.loverslab.com/files/file/2455-sex-lab-sexual-fame-framework/                   |
+| Sexlab Baka Defeat.7z                                                           | https://www.loverslab.com/files/file/18689-sexlab-defeat-baka-edition-lese/                |
+| Sexlab BJ Sound FX replacerv0.1.rar                                             | https://www.loverslab.com/files/file/15988-sexlab-bj-sound-fx-replacerv01/                 |
+| SexLab EagerNPCSERev2.7z                                                        | https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/                       |
+| Sexlab Framework Sound Replacer AIO.7z                                          | https://www.loverslab.com/files/file/14230-sexlab-framework-sound-replacer/                |
+| SexLab Solutions v3 - Revisited SE v1.1.5.7z                                    | https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/                  |
+| SexLab-Separate-Orgasm-SE-1.7.9 SL1.63.7z                                       | https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/                       |
+| SexLabFrameworkSE_v163.7z                                                       | https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v164c-010722/ |
+| Simple Slavery Plus Plus 6.3.15 [SE].zip                                        | https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/                       |
+| Skooma Whore Patch V1.04 SE.7z                                                  | https://www.loverslab.com/files/file/2229-skooma-whore-addicted/                           |
+| Skooma Whore SE v1.01.7z                                                        | https://www.loverslab.com/files/file/10093-skooma-whore-se/                                |
+| SLAL_AnimationsByLeito_v1.6SE.7z                                                | https://www.loverslab.com/files/file/6357-slal-animation-pack-by-leito-se/                 |
+| SLAL_SE.7z                                                                      | https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/                     |
+| SlaveTats CumTextures Remake v1.2.5.7z                                          | https://www.loverslab.com/files/file/2968-sexlab-cum-textures-remake-slavetats/            |
+| SLDrunkRedux v1.3.7z                                                            | https://www.loverslab.com/files/file/11310-sexlab-drunk-redux/                             |
+| SLSW Addicted 3.65 SE.7z                                                        | https://www.loverslab.com/files/file/2229-skooma-whore-addicted/                           |
+| SLWidgets 2.0.5 (SE).zip                                                        | https://www.loverslab.com/files/file/19148-sl-widgets/                                     |
+| SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z  | https://www.loverslab.com/files/file/18156-llapc-loverslab-attachment-patch-compendium/    |
+| SOS - Futanari - Patch for CBBE SE Femenine Khajiit Textures (Gray Cat ONLY).7z | https://www.loverslab.com/files/file/18156-llapc-loverslab-attachment-patch-compendium/    |
+| SOS - Futanari CBBE SSE V1.1b.7z                                                | https://www.loverslab.com/files/file/11344-sos-addon-futanari-cbbe-sse/                    |
+| State of Dress - 1.0.3.zip                                                      | https://www.loverslab.com/files/file/21388-state-of-dress-10/                              |
+| SubmissiveLolaResubmission 2.0.51.7z                                            | https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/          |
+| Transformative Elixirs v1.1.0.7z                                                | https://www.loverslab.com/files/file/19735-transformative-elixirs/                         |
+| 1600063388_SLAL_Billyy_Animationsv5.8SE.7z                                      | https://www.loverslab.com/files/file/3999-billyys-slal-animations-2022-6-1/                |
+
+---
+
+
 ## Wabbajack Issues
 
 ### “A mod failed to download.”
