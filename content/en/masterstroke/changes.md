@@ -13,6 +13,14 @@ weight: 50
 toc: true
 ---
 
+### 7/5/2022 1.0.2
+#### Incremental
+- Mod Updates
+  - SL Baka Defeat
+  - Billyy's SLAL Animations
+  - BakaFactory SLAL Animations
+  - Fill Her Up SE
+
 ### 6/27/2022 1.0.1
 #### Incremental
 - Fixes
