@@ -23,6 +23,8 @@ When you are finished making your character, a bunch of text will start scrollin
 
 Now, *save your game*. Then *load that save.*
 
+A popup will appear from SexLab - Sexual Fame talking about a consistence check of Papyrus location storage failing. This popup can be safely ignored, the issue will be resolved in a moment by MCM Recorder.
+
 Once again, text will appear in the top left hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.**
 
 Now, go into the MCM and find MCM Recorder.
