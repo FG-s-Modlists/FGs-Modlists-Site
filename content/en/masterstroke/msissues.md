@@ -69,6 +69,8 @@ Lover's Lab files can have issues when downloading through Wabbajack. it is ther
 | SubmissiveLolaResubmission 2.0.51.7z                                            | [https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/)          |
 | Transformative Elixirs v1.1.0.7z                                                | [https://www.loverslab.com/files/file/19735-transformative-elixirs/](https://www.loverslab.com/files/file/19735-transformative-elixirs/)                         |
 | 1600063388_SLAL_Billyy_Animationsv5.8SE.7z                                      | [https://www.loverslab.com/files/file/3999-billyys-slal-animations-2022-6-1/](https://www.loverslab.com/files/file/3999-billyys-slal-animations-2022-6-1/)                |
+| SoS Uncloaked.zip                                                                | [https://www.loverslab.com/files/file/19122-schlongs-of-skyrim-uncloaked/](https://www.loverslab.com/files/file/19122-schlongs-of-skyrim-uncloaked/)                   |
+| Laura's Bondage Shop v3.32 SSE version - by tznvlw.7z                            | [https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-7-oct-2021-v332/](https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-7-oct-2021-v332/)                |
 
 ---
 
