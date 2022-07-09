@@ -13,6 +13,22 @@ weight: 50
 toc: true
 ---
 
+### 7/9/2022 1.1.0
+#### Minor
+- Fixes
+  - Check v1.1.0 [closed issues on Github](https://github.com/ForgottenGlory/Masterstroke/milestone/5?closed=1)
+- Mod Updates
+  - Realistic AI Detection v3
+- Removals
+  - Helps to Have A Compass
+- Additions
+  - Recorder SOS Patch
+  - Laura's Bondage Shop
+  - SoS and XPMSSE Uncloaked
+- Other
+  - Revised MCMs.
+  - Revised included RaceMenu presets to add some males and remove some broken ones.
+
 ### 7/5/2022 1.0.2
 #### Incremental
 - Mod Updates
