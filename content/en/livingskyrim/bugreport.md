@@ -1,10 +1,16 @@
 ---
 title: "Living Skyrim Bug Report Form"
 description: "For reporting Living Skyrim bugs."
-date: 2020-08-27T19:25:12+02:00
-lastmod: 2020-08-27T19:25:12+02:00
+lead: ""
+date: 2020-10-13T15:21:01+02:00
+lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
+menu:
+  livingskyrim:
+    parent: "living skyrim"
+weight: 90
+toc: true
 ---
 
 <div style="height: 1000px;" class="asana-embed-container">
