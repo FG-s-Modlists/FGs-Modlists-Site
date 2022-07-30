@@ -9,7 +9,7 @@ images: []
 menu:
   potd:
     parent: "potd"
-weight: 100
+weight: 120
 toc: true
 ---
 
