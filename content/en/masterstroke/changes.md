@@ -13,6 +13,33 @@ weight: 50
 toc: true
 ---
 
+### 7/30/2022 1.2.0
+#### Minor
+- Fixes
+  - Removed a duplicate DD Patch
+  - Fixed Fall Damage being broken
+  - Fixed CK dependency to install list
+  - Fixed Tower Stone breaking scenes
+  - Fixed missing bodyslides for Nibenean armors
+  - Fixed mismatched Argonian male textures
+  - Fixed schlong shenanigans
+  - Fixed Maids + 3DNPC Conflict
+  - Fixed Follower Command Hotkey
+  - Fixed map textures for non-Skyrim worldspaces
+  - Fixed panties conflicting with body armor
+- Mod Updates
+  - Devious Devices 5.2 Beta 7
+  - The Trappings of Fate 1.0
+  - Submissive Lola The Resubmission 2.0.53
+- Removals
+  - SOS Uncloaked
+  - XP32 Weapon Styles Uncloaked
+- Additions
+  - Recorder - Bugfix Patch SSE
+- Other
+  - Regenerated Core Bodyslides
+  - Added several new community-created RaceMenu and Bodyslide presets
+
 ### 7/9/2022 1.1.0
 #### Minor
 - Fixes

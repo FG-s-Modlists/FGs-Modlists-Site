@@ -101,7 +101,7 @@ Download the file from the link provided here: [Community Overlays 1](https://dr
 Masterstroke includes a number of custom output mods and bodyslides that need to be downloaded, if any of the following files are failing to download, use the mirror links provided to download the files and place them in your Masterstroke download folder, and try the install again.
 
 - [Masterstroke NPC Merge](https://drive.google.com/file/d/1LyT3KhrqzoE30BRn_OVmaoFD_QELQAbx/view?usp=sharing)
-- [Core Masterstroke Bodyslides](https://drive.google.com/file/d/1mzrIoBzpZfKe__7QgAswc1ICuGkFcBVG/view?usp=sharing)
+- [Core Masterstroke Bodyslides](https://drive.google.com/file/d/1x_yL2S68jI-HfOxmD2g4mZy5BcV4ZWBa/view?usp=sharing)
 - [Masterstroke Bodyslides - Skimpy Female](https://drive.google.com/file/d/15AHdmw_69-qtAfS_1u3HStm4-V6D_UcV/view?usp=sharing)
 - [Masterstroke Bodyslides - Skimpy Male](https://drive.google.com/file/d/14pkPQxzOwR4EWZkvb4DLYIAT8vc0iCCg/view?usp=sharing)
 - [Masterstroke DynDOLOD Output](https://drive.google.com/file/d/1sG9spObGb6NOjpaYkikIftVvWgGV390G/view?usp=sharing)
