@@ -30,7 +30,7 @@ Sections labeled important like this one will tell you when you need to pay extr
 ### General Disclaimers
 - You are not required to have Nexus Premium to install Masterstroke, however, it is highly recommended. Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
 - As of v1.0.0, Masterstroke requires 279GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
-- To maximize performance, both Skyrim: Special Edition and Masterstroke should be installed on the same hard drive, ideally an SSD/NVMe. This is not required, just recommended if you want the smoothest gameplay experience.
+- To maximize performance, Masterstroke should be installed on an SSD drive. While this is not necessary, installing on an HDD will result in extremely long load and startup times aswell as potential performace and stability issues.
 - If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the Masterstroke Modlist Spreadsheet.
 - If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the Important Mods You Need to Know About of this document.
 - Autosaves for Masterstroke are disabled. You should make your quicksave button your best friend (usually, the F5 key).
