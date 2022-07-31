@@ -13,6 +13,13 @@ weight: 50
 toc: true
 ---
 
+### 7/30/2022 1.2.1
+#### Incremental
+- Fixes
+  - Fixed panty issue.
+- Mod Updates
+  - FurnAnim SLAL Pack v14
+
 ### 7/30/2022 1.2.0
 #### Minor
 - Fixes
