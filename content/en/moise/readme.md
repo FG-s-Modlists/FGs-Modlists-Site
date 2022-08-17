@@ -110,7 +110,7 @@ Last, we have to update the Morrowind Script Extender.
 2. Run MWSE-Update.exe and let it finish. It will close automatically when complete.
 
 ### Mod Organizer 2
-1. Navigate to `C:\MOISE` and open ModOrganizer.exe. Your Mod Organizer window will have the Morrowind theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
+1. Navigate to `C:\MOISE` and open ModOrganizer.exe. Your Mod Organizer window will have a dark theme already selected. If it doesn’t, something has gone wrong and you’ll likely need to do the Wabbajack installation again.
 2. A dialogue will appear and ask if you want to associate Mod Organizer with nxm links. Click Yes.’
 
 ## Configuration Specific
