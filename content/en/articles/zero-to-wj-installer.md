@@ -4,7 +4,7 @@ description: "A comprehensive guide on how to go from completed modlist to the W
 lead: "By ForgottenGlory"
 date: 2022-08-10T00:00:01-04:00
 lastmod: 2022-08-10T00:00:01-04:00
-draft: false
+draft: true
 images: []
 menu:
   articles:
