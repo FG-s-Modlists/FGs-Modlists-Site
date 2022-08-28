@@ -197,5 +197,9 @@ You can also use the `machineURL` field on the Wabbajack compilation screen to h
 #### List Healing
 When validation for a mod on Nexus fails, Wabbajack will then check to see if that mod has been updated. If it has, Wabbajack is able to continue serving the old version of the mod. Or, if the old version is no longer available somehow, Wabbajack will try to heal the modlist. It will download the new version of the mod and then change the new version such that it matches the old version. It will then continue to serve the modlist to users, but you should really try to update the mod when possible. This process is entirely automated so you shouldn't have to worry about it too much, but it is a handy backup just in case.
 
-#### WabbaBot
+### WabbaBot
 The last thing you may want to set up for your modlist is access to WabbaBot. WabbaBot is a Discord bot that allows you to quickly announce updates for your modlist. It will make the announcement for you across multiple Discord servers that have opted in to receive notifications about your list. For more information about this bot and how to set it up, you should join the [Wabbajack Discord server](https://discord.gg/wabbajack) and visit the #wabbabot-help channel.
+
+### Support & Troubleshooting
+
+If you encounter any issues that haven't been covered by the resources in this document, you should definitely join the [Wabbajack Discord server](https://discord.gg/wabbajack). There's a channel dedicated to helping people with creating an installer with Wabbajack - #modlist-development-help. Feel free to pop in there and ask any questions you may have.
