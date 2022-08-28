@@ -140,7 +140,6 @@ There's also a repository of pre-existing `.meta` files for commonly used mods, 
 While the CDN is a very powerful tool that we can use as modlist authors, it cannot be used to re-upload mods unless the permissions of that mod state it can be re-uploaded. You are always expected to obey the permissions set by mod authors while creating your modlist.
 
 ### Logo
-
 Before you compile your modlist, you may want to create a logo for it. This can be as simple as something you put together in MS Paint or as complex as using Photoshop to create a unique and cool logo. While I won't go into the specifics of logo creation (there are only about a billion tutorials online), I will say that having an eye-catching logo is important for the branding and marketing of your modlist.
 
 ### Readme
