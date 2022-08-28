@@ -4,7 +4,7 @@ description: "A comprehensive guide on how to go from completed modlist to the W
 lead: "By ForgottenGlory"
 date: 2022-08-10T00:00:01-04:00
 lastmod: 2022-08-10T00:00:01-04:00
-draft: true
+draft: false
 images: []
 menu:
   articles:
@@ -131,6 +131,9 @@ Simply click Select File, then find the file you want to upload. Then click Uplo
 
 The reason you don't want to close Wabbajack yet is that once the upload finishes, you'll be given the URL to your file. This is the URL that should be placed in a `directURL .meta` to allow Wabbajack to automatically download the file you just uploaded.
 
+#### Common Mods
+Some commonly used mods are available on the CDN for you already, such as the ENB binaries. You should double-check to see if a copy of that mod already exists on the CDN and use that copy instead of uploading a new copy whenever possible.
+
 #### Regarding Mod Permissions
 While the CDN is a very powerful tool that we can use as modlist authors, it cannot be used to re-upload mods unless the permissions of that mod state it can be re-uploaded. You are always expected to obey the permissions set by mod authors while creating your modlist.
 
@@ -164,7 +167,7 @@ Note that if your list goes from Unofficial to Featured, the custom repository y
 Once you've done that, give Wabbajack some time to update (anywhere from 10 minutes to an hour) and then your modlist will appear on the Wabbajack UI!
 
 #### Nexus
-You can also upload your installer to Nexus, if you so choose. Just follow the normal process for creating a new mod and upload the installer file to it. Nexus is a good alternative as there is more traffic to Nexus itself, as well as allowing you to show off screenshots, describe the list, and respond to users all in one convenient place.
+You can also upload your installer to Nexus, if you so choose. Just follow the normal process for creating a new mod and upload the installer file to it. Nexus is a good alternative as there is more traffic to Nexus itself, as well as allowing you to show off screenshots, describe the list, and respond to users all in one convenient place. Note, if you do upload your list to Nexus, it is against Wabbajack's terms of service to opt the list in to Nexus's Donation Points program. 
 
 #### Filehosting
 While not ideal, you can technically just put your installer on any filehosting site and give people the link to the file. They'll be able to download and run the installer themselves through Wabbajack.
