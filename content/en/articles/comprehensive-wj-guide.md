@@ -134,6 +134,8 @@ The reason you don't want to close Wabbajack yet is that once the upload finishe
 #### Common Mods
 Some commonly used mods are available on the CDN for you already, such as the ENB binaries. You should double-check to see if a copy of that mod already exists on the CDN and use that copy instead of uploading a new copy whenever possible.
 
+There's also a repository of pre-existing `.meta` files for commonly used mods, found [here.](https://github.com/wabbajack-tools/mod-lists/tree/master/custom_mo2_metadata)
+
 #### Regarding Mod Permissions
 While the CDN is a very powerful tool that we can use as modlist authors, it cannot be used to re-upload mods unless the permissions of that mod state it can be re-uploaded. You are always expected to obey the permissions set by mod authors while creating your modlist.
 
