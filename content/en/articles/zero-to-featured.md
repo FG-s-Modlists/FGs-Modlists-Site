@@ -1,5 +1,5 @@
 ---
-title: "From Zero to Featured"
+title: "Comprehensive Wabbajack Guide"
 description: "A comprehensive guide on how to go from completed modlist to the Wabbajack UI as a featured modlist."
 lead: "By ForgottenGlory"
 date: 2022-08-10T00:00:01-04:00
