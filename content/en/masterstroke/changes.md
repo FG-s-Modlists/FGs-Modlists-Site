@@ -13,6 +13,17 @@ weight: 50
 toc: true
 ---
 
+### 9/3/2022 1.2.2
+#### Incremental
+- Fixes
+  - Fixed CTD caused by Equipment Toggle + SMP Hair.
+- Additions
+  - Amorous Adventures Text and Player Dialogue Revision
+- Mod Updates
+  - Billyy's SLAL Animations 6.0
+  - Submissive Lola the Resubmission 2.0.55
+  - Lux 5.0
+
 ### 7/30/2022 1.2.1
 #### Incremental
 - Fixes
