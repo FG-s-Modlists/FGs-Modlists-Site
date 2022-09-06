@@ -30,6 +30,7 @@ To set the pagefile up properly for this modlist, follow these steps:
 3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
 4. Disable 'Automatically manage paging file size for all drives'
 5. Set a custom size for your fastest drive and increase the initial and maximum size to be at least 20GB (20000MB).
+6. Restart your computer to make sure the changes have taken effect.
 
 If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
 
