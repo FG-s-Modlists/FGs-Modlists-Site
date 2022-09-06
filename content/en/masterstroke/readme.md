@@ -15,6 +15,24 @@ toc: true
 
 ## Pre-Installation
 
+### Pagefile Configuration
+
+Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
+
+A pagefile is a file on your disk Windows will use when there is not enough RAM available.
+
+Never disable the pagefile - this may lead to various issues on your system, including Skyrim crashes.
+
+To set the pagefile up properly for this modlist, follow these steps:
+
+1. Press Windows + R on your keyboard and enter `sysdm.cpl ,3`
+2. Under the Performance section, press 'Settings'
+3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
+4. Disable 'Automatically manage paging file size for all drives'
+5. Set a custom size for your fastest drive and increase the initial and maximum size to be at least 20GB (20000MB).
+
+If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
+
 ### Steam & SSE Setup
 {{< alert context="danger" icon="🛑" >}}
 **WARNING!**
