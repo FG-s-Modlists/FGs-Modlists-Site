@@ -17,7 +17,7 @@ toc: true
 #### Minor
 - Fixes
   - Fixed some BFBs
-  - Fixed missing armor textures
+  - Fixed missing armor textures (including panties?)
   - Fixed clipping in Realm of Lorkhan
   - Fixed misaligned body textures for Maids NPCs
 - Additions
@@ -64,7 +64,7 @@ toc: true
     - Engarde -> Valhalla Combat + TK Dodge RE
     - SL Aroused Redux -> OSL Aroused
 - Other
-  - Completely rebuilt all Bodyslides. All issues should be fixed with them now.
+  - Completely rebuilt all Bodyslides. All issues should be fixed with them now. (including panties?)
   - Updated MCMs
   - Updated documentation to reflect new profile and new combat.
   - Updated RaceMenu INI to add more functionality.
