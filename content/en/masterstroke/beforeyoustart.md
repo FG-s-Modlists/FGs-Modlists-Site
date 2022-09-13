@@ -125,7 +125,8 @@ Masterstroke uses a multitude of mods that allow for a survival experience that 
 
 Combat in Masterstroke is difficult without being on the level of Dark Souls or similar games - it rewards skillful play and knowledge of enemies and their equipment and capabilities. Enemies are more varied and challenging.
 
-- Engarde: The primary combat mod, including features such as dodging.
+- Valahalla Combat: A new, modern take on combat with many features such as timed block, executions, and more.
+- TK Dodge RE: A scriptless remake of TK Dodge, allowing you to dodge while your weapons are out.
 - Archery and Archery Locational Damage: Overhauls the archery system to require more skill and precision.
 - Arena: Rebalances encounter zones to make them more varied and challenging.
 - Heritage Enemies 2: Adds a simply insane amount of variety to enemies you encounter.
@@ -271,6 +272,22 @@ No modlist would be complete without an entire suite of mods to improve the qual
 - FreeFlyCam: Improves the default free camera in a multitude of ways.
 - Twisted's Command Binders: Provides a hotkey you can press to immediately go into "screenshot mode". 
 - Equipment Toggle 2: Allows hiding your helmet or other equipment through a hotkey, configurable in the mod's INI.
+
+### Optional Creature Profile
+
+Masterstroke includes an optional creature profile allowing for even more degeneracy. The mods that make this possible are:
+
+- Creature Framework: The backbone of creature content.
+- More Nasty Critters: A framework that allows creature animations.
+- Baka's ABC: If you know, you know.
+- Estrus Chaurus: Chaurus spit attacks can put you into a helpless state.
+- Estrus Spider: As above, but for Spiders.
+- Egg Factory: Eggs!
+- Pheromones: Your potions may be laced with something a bit extra.
+- CO More Creatures: As it says, more creatures.
+- SL Parasites: Parasites!
+
+To use the Creature Profile, you should use the Profile dropdown menu in Mod Organizer 2 to switch to the Creature Profile.
 
 ## Bug Reporting, Github, and You
 

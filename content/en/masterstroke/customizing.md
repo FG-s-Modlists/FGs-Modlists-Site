@@ -31,12 +31,6 @@ Masterstroke contains additional bodyslides that allow you to select whether mal
 
 If you'd like the make the list more (or less) difficult, you'll need to tweak a few things. You can also experiment with these settings if you'd like to tweak your experience. 
 
-### Engarde
-- Stamina
-  - Souls-like Stamina: Enabled
-
-This adds a mechanic where using weapons consumes stamina during combat. It makes stamina management even more important and more Souls-like.
-
 ### Milk Addict
 In this MCM you can tweak various features regarding becoming addicted to milk/lactacid. You can make it so you become addicted much faster or much slower.
 
@@ -108,6 +102,10 @@ You should refer to the [Masterstroke Keymap](http://www.keyboard-layout-editor.
 
 ### SmoothCam Preset
 You can safely change the SmoothCam preset in this mod's MCM if you do not like the default preset. You can and should experiment to see which camera variant you like best.
+
+## Creature Profile
+
+Almost all of the mods added in the Creature Profile have MCMs that allow you to tweak or disable things. Check the MCM for your options. Note that some of the mods in the creature profile have very touchy MCMs that require some patience, such as Estrus Chaurus. Be careful and go slow when making changes to these mods.
 
 ## Things You Shouldn't Mess With
 The following items should not be changed.

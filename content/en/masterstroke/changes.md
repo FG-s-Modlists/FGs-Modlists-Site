@@ -13,6 +13,63 @@ weight: 50
 toc: true
 ---
 
+### 9/13/2022 1.3.0
+#### Minor
+- Fixes
+  - Fixed some BFBs
+  - Fixed missing armor textures (not panties)
+  - Fixed clipping in Realm of Lorkhan
+  - Fixed misaligned body textures for Maids NPCs
+- Additions
+  - Creature Profile
+    - FNIS Creature Pack
+    - Creature Framework
+    - More Nasty Critters
+    - Baka's ABC
+    - Estrus Chaurus
+    - Estrus Spider
+    - Horny Creatures of Skyrim
+    - EggFactory
+    - CO More Creatures
+    - SL Parasites
+    - Billyy's SLAL Creature Animations
+    - Babo Creature Animations
+    - SL Pheromones
+  - Both Profiles
+    - Nemesis Unlimited Behavior Engine
+    - HD Local Map
+    - Configurable Notification Messages
+    - Survival Control Panel
+    - Simple Offence Suppression
+- Mod Updates
+  - CBBE 3BA 2.43
+  - CBPC 1.5.2
+  - CBPC Firm Preset 3.0
+  - Sets of Skills 2.0.1
+  - DX Outfits 3BA 2.3
+  - Hand to Hand 1.3.3
+  - Thaumaturgy 1.2.1
+  - Pilgrim 1.1.0.1
+  - Apothecary 1.3.3
+  - Mundus 1.8.2
+  - Adamant 5.6.1
+  - Mysticism 2.1.2
+  - Aetherius 2.8.2
+  - TrueHUD 1.1.6
+  - Nordic-Ish 1.1.1
+  - The Trappings of Fate 1.0.1
+  - Simple Slavery Plus Plus 6.3.16
+- Replacements
+  - Both Profiles
+    - Engarde -> Valhalla Combat + TK Dodge RE
+    - SL Aroused Redux -> OSL Aroused
+- Other
+  - Completely rebuilt all Bodyslides. All issues should be fixed with them now. (except panties)
+  - Updated MCMs
+  - Updated documentation to reflect new profile and new combat.
+  - Updated RaceMenu INI to add more functionality.
+  - Updated various output mods to use the new FG's Modlists Output Repository for more consistent downloads during installation.
+
 ### 9/3/2022 1.2.2
 #### Incremental
 - Fixes
