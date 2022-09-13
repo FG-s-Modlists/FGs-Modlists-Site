@@ -17,7 +17,7 @@ toc: true
 #### Minor
 - Fixes
   - Fixed some BFBs
-  - Fixed missing armor textures (not panties)
+  - Fixed missing armor textures
   - Fixed clipping in Realm of Lorkhan
   - Fixed misaligned body textures for Maids NPCs
 - Additions
@@ -64,11 +64,11 @@ toc: true
     - Engarde -> Valhalla Combat + TK Dodge RE
     - SL Aroused Redux -> OSL Aroused
 - Other
-  - Completely rebuilt all Bodyslides. All issues should be fixed with them now. (except panties)
+  - Completely rebuilt all Bodyslides. All issues should be fixed with them now.
   - Updated MCMs
   - Updated documentation to reflect new profile and new combat.
   - Updated RaceMenu INI to add more functionality.
-  - Updated various output mods to use the new FG's Modlists Output Repository for more consistent downloads during installation.
+  - Updated various output mods to use the new [FG's Modlists Output Repository](https://www.nexusmods.com/skyrimspecialedition/mods/75106) for more consistent downloads during installation.
 
 ### 9/3/2022 1.2.2
 #### Incremental
