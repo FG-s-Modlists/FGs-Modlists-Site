@@ -98,7 +98,7 @@ Download the file from the link provided here: [Community Overlays 1](https://dr
 
 ### "Core Masterstroke Files are failling to download."
 
-Masterstroke includes a number of custom output mods and bodyslides that need to be downloaded, if any of the Masterstroke files are failing to download, visit the [FG's Modlists Output Repository](https://www.nexusmods.com/skyrimspecialedition/mods/75106) to download the files required.
+Masterstroke includes a number of custom output mods and bodyslides that need to be downloaded, if any of the Masterstroke files are failing to download, visit the [FG's Modlists Output Repository](https://www.nexusmods.com/skyrimspecialedition/mods/75106) to download the files required. Put them into the downloads folder you specified when starting the installation process, Wabbajack will handle installing the files for you. 
 
 ### “Wabbajack says I’m out of requests.”
 
