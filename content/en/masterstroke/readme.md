@@ -108,7 +108,7 @@ Reading the Important Mods section of this document is not optional. You won't h
 
 Once complete, Wabbajack will indicate it is done with a green box that says "Installation complete". You may exit Wabbajack after this appears.
 
-If it does not complete successfully (a red box with "Installation failed"), consult the Common Issues section of this document, or visit the [Masterstroke Discord server](https://discord.gg/NdmGpGzqg8) for assistance. 
+If it does not complete successfully (a red box with "Installation failed"), consult the Masterstroke Troubleshooting page of this document, or visit the [Masterstroke Discord server](https://discord.gg/NdmGpGzqg8) for assistance. 
 
 ## Post-Wabbajack Install
 
@@ -174,7 +174,7 @@ While we have tried out best to eliminate as many bugs and inconsistencies as po
 
 To report a bug, follow these steps:
 
-1.  Go to this Google Form: [Click Me!](https://forms.gle/7Ym2P4x8jwbea9138)
+1.  Go to this Google Form: [Click Me!](/masterstroke/bugreport)
 2.  Fill out the form and submit the form.
 3.  That's it, you're done!
 
@@ -182,5 +182,6 @@ To report a bug, follow these steps:
 **Important!** 
 
 If we need additional information about the bug, we will contact you via Discord.
+Please make sure to enter your full Discord username (Username#XXXX).
 {{< /alert >}}
 

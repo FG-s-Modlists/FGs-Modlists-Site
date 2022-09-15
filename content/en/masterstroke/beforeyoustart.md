@@ -39,7 +39,7 @@ Sections labeled important like this one will tell you when you need to pay extr
 - In Masterstroke, NPCs and player characters are nude while wearing no armor/clothing.
 - Adding to, changing, or removing from Masterstroke is not supported. See the Adding to Masterstroke section of this document for more details.
 - As many common issues as I could find have been documented in the Common Issues section of this document. Refer to this before asking for support.
-- If you want some tips related to getting started playing the list, refer to the Getting Started in Masterstroke section of this document.
+- If you want some tips related to getting started playing the list, refer to the Beginner's Tips on the Character Creation & MCMs section of this document.
 - By default, Masterstroke has the game running in exclusive fullscreen mode to assist with game performance.
 
 ### System Specifications
@@ -57,13 +57,10 @@ As for RAM, 16GB is the minimum recommended specification for running the list. 
 
 ### Important Links
 - [The Modlist Spreadsheet](/masterstroke/modlist)
-- [Masterstroke Bug Tracker](https://github.com/ForgottenGlory/Masterstroke/issues)
+- [Masterstroke Bug Report Form](/masterstroke/bugreport)
 - [Masterstroke Keymap](http://www.keyboard-layout-editor.com/#/gists/0cd559c4d9f1a88b965b552e961a906c)
 - [Masterstroke Discord](https://discord.com/invite/NdmGpGzqg8)
 - [Masterstroke Patreon](https://www.patreon.com/LivingSkyrim)
-
-### Screenshots
-[Masterstroke Screenshot Gallery](/masterstroke/screenshots)
 
 ## Important Mods You Need To Know About
 
@@ -116,7 +113,7 @@ Masterstroke uses a multitude of mods that allow for a survival experience that 
 - Campfire: Adds a full camping system for extended journeys.
 - Hunterborn: Overhauls hunting and collecting loot from killed animals.
 - Voidgate: Provides a town portal scroll/spell you can use at higher levels.
-- Helps to Have a Map and Compass: Requires you to purchase/find and equip a map and compass to use the map and compass.
+- Helps to Have a Map: Requires you to purchase/find a map to use it.
 - Item Durability: Weapons and armor will degrade over time and require repairs periodically.
 - Spellforge: Changes how spells are acquired to allow for better pacing to mages.
 - Simply Balanced: Allows every aspect of the game to be tweaked to increase or decrease difficulty.
@@ -167,6 +164,7 @@ Masterstroke ships with several new questlines and dungeon mods to increase vari
 - Wyrmstooth: A new land and quest mod focused on dragons.
 - Maids 2: Deception: A somewhat NSFW themed and lighthearted questline.
 - The Forgotten City: The critically acclaimed quest that was recently turned into its own standalone game.
+- The Trappings of Fate: Devious Devices meets Escape Room.
 
 ### Followers
 
@@ -215,7 +213,7 @@ Masterstroke also has a few new player homes scattered throughout the world for 
 Of course, Masterstroke is designed around sexy elements and interactions. The core NSFW package is as follows.
 
 - SexLab: Makes the whole NSFW world go around.
-- SexLab Aroused: Makes your character and NPCs have arousal to affect various other things.
+- OSL Aroused: Makes your character and NPCs have arousal to affect various other things.
 - SexLab Defeat Baka Edition: The defeat mod of choice. Adds surrender and defeat mechanics to combat.
 - SexLab Separate Orgasms: Adds a minigame to NSFW scenes.
 - ZaZ Animation Pack: Adds animations for various scenes.
@@ -289,18 +287,20 @@ Masterstroke includes an optional creature profile allowing for even more degene
 
 To use the Creature Profile, you should use the Profile dropdown menu in Mod Organizer 2 to switch to the Creature Profile.
 
-## Bug Reporting, Github, and You
+## Bug Reporting
 
 While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it's duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it's important that you report bugs you find on the Masterstroke Github so that it can be fixed for everyone.
 
-To report a bug, fill out this form: [Click Me!](https://forms.gle/whAiotJfGVwu1UrB7)
+To report a bug, fill out this form: [Click Me!](/masterstroke/bugreport)
 
-After that, you've filed your bug report and the LS dev team will take a look at it as soon as possible.
+After that, you've filed your bug report and the MS dev team will take a look at it as soon as possible.
 
 {{< alert context="warning" icon="⚠️" >}}
 **Important!** 
 
-Don't forget to check back on your report periodically just in case we request more information from you.
+If we need additional information about the bug, we will contact you via Discord.
+Please make sure to enter your full Discord username (Username#XXXX).
+
 {{< /alert >}}
 
 ## Adding to Masterstroke
