@@ -182,5 +182,6 @@ To report a bug, follow these steps:
 **Important!** 
 
 If we need additional information about the bug, we will contact you via Discord.
+Please make sure to enter your full Discord username (Username#XXXX).
 {{< /alert >}}
 
