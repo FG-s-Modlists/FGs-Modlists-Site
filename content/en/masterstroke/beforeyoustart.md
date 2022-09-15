@@ -298,7 +298,8 @@ After that, you've filed your bug report and the MS dev team will take a look at
 {{< alert context="warning" icon="⚠️" >}}
 **Important!** 
 
-We might contact you in case we need more information, please be sure to enter your full Discord name (Username#XXXX).
+If we need additional information about the bug, we will contact you via Discord.
+Please make sure to enter your full Discord username (Username#XXXX).
 
 {{< /alert >}}
 
