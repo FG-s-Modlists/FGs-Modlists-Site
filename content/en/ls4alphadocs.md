@@ -36,7 +36,7 @@ You'll also want to use ENB Organizer to pick an ENB. The default (Rudy's Zangda
 
 ### MCMs and Character Creation
 
-This should be pretty familiar coming from LS3. Run the MCM Recording, pick a class using the book, pick a background using the Reflect power in your shouts menu.
+This should be pretty familiar coming from LS3. Run the MCM Recording, pick a class using the book, pick a background using the Reflect power in your shouts menu. There is a *potential* bug in Realm of Lorkhan where you won't have the class book in your inventory. I haven't been able to consistently replicate it so if this happens to you please let me know via a bug report.
 
 ### Have fun!
 
