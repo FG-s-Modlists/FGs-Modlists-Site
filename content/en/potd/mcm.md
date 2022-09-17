@@ -70,3 +70,9 @@ For the SmoothCam preset, make sure you are selecting the option to Load the pre
 #### True Directional Movement
 - Target Lock
   - Toggle Target Lock Key: Mouse 5 (forward button; or whatever key is convenient for you)
+
+### MoreHUD
+- Enemy's Level
+  - Show Magicka Meter: Disabled
+  - Show Stamina Meter: Disabled
+  - Show Health Numbers: Disabled
