@@ -178,10 +178,11 @@ To report a bug, follow these steps:
 2.  Fill out the form and submit the form.
 3.  That's it, you're done!
 
-{{< alert icon="⚠️" >}}
+{{< alert context="warning" icon="⚠️" >}}
 **Important!** 
 
 If we need additional information about the bug, we will contact you via Discord.
 Please make sure to enter your full Discord username (Username#XXXX).
+
 {{< /alert >}}
 
