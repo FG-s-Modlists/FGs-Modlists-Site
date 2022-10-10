@@ -13,6 +13,37 @@ weight: 50
 toc: true
 ---
 
+### 10/10/2022 1.3.1
+#### Incremental
+- Fixes
+  - Fixed invisible Futa Milking cuirass
+  - Fixed some issues with BD's overwriting vanilla meshes on non-skimpy bodyslides
+  - Fixed armbinder animations
+  - Fixed immortal rabbits
+  - Fixed duplicate copies of Routa
+  - Fixed Lock Overhaul not using correct skill
+  - Possibly fixed unable to do Dragons
+  - Fixed SLP bodyslides
+  - Fixed some errors with merchant chest leveled lists
+  - Fixed Laura's shop item issues
+  - Fixed over-eager NPCs
+- Additions
+  - Both Profiles
+    - RaceMenu 0.4.16 Memory Leak Hotfix (SE)
+    - Sidequests of Skyrim
+    - Honed Metal
+- Removals
+  - State of Dress (was unused)
+- Mod Updates
+  - The Trappings of Fate 1.0.2
+  - Billyy's SLAL Animations 6.1
+  - TrueHUD 1.1.8
+  - CBBE 3BA 2.45
+  - CBPC 1.5.6
+- Other
+  - Updated MCM Recording to fix a few things
+  - Regenerated FNIS/Nemesis output
+
 ### 9/13/2022 1.3.0
 #### Minor
 - Fixes
