@@ -13,6 +13,14 @@ weight: 120
 toc: true
 ---
 
+{{< alert context="warning" icon="⚠️" >}}
+**Important!** 
+
+If we need additional information about the bug, we will contact you via Discord.
+Please make sure to enter your full Discord username (Username#XXXX).
+
+{{< /alert >}}
+
 <div style="height: 1000px;" class="asana-embed-container">
     <link rel="stylesheet" href="https://form.asana.com/static/asana-form-embed-style.css" />
     <iframe style="height:1000px;" class="asana-embed-iframe" src="https://form.asana.com/?k=jp3taEigTA2bH8VWx8G9Yw&d=1202685114827965&embed=true"></iframe>
