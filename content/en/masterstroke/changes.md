@@ -40,6 +40,7 @@ toc: true
   - TrueHUD 1.1.8
   - CBBE 3BA 2.45
   - CBPC 1.5.6
+  - Nordic UI Misc Patches 1.7.0
 - Other
   - Updated MCM Recording to fix a few things
   - Regenerated FNIS/Nemesis output

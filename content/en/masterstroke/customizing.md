@@ -27,6 +27,9 @@ OBody can be safely disabled in the left pane of MO2 if you do not want NPCs to 
 ### Skimpy Outfits
 Masterstroke contains additional bodyslides that allow you to select whether male and female outfits are skimpy or not. In the left pane of MO2, you can enable either "Masterstroke Bodyslides (Skimpy Male)" or "Masterstroke Bodyslides (Skimpy Female)", or both if you want everyone to be wearing skimpy outfits.
 
+### Physics
+By default, Masterstroke has a few options for the physics applied to your character. In-game, you can switch between CBPC and SMP physics by pressing `Numpad +`. If you find that neither of these is to your liking, you can safely disable `3BA 3BBB CBPC Realistic Firm Breasts Butt and Thighs (3BA RFBBT)` in the left pane of MO2. This will make the CBPC option a bit bouncier.
+
 ## Difficulty & Realism
 
 If you'd like the make the list more (or less) difficult, you'll need to tweak a few things. You can also experiment with these settings if you'd like to tweak your experience. 
