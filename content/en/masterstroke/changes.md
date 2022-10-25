@@ -13,6 +13,13 @@ weight: 50
 toc: true
 ---
 
+### xx/xx/2022 1.4.0
+#### Minor
+- Fixes
+  - Fixed an issue with Valmilia's body not conforming to OBody
+- Removals
+  - Removed Hank's Gamepad & Controller Fixes
+
 ### 10/10/2022 1.3.1
 #### Incremental
 - Fixes

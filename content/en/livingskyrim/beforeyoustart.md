@@ -62,7 +62,7 @@ If your PC is struggling to run Living Skyrim, see the Performance Optimizations
 - [The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1PxBMg2rIApANPaS0jW5d597dnDjNy8kcHKNoprf6NDs/edit?usp=sharing)
 - [LS3 Default Keymap](http://www.keyboard-layout-editor.com/#/gists/0469bf568cf28f1ea8e9e78dba13c169)
 - [Living Skyrim Bug Tracker](https://github.com/ForgottenGlory/Living-Skyrim-3/issues)
-- [Living Skyrim Discord](https://discord.com/invite/NdmGpGzqg8)
+- [Living Skyrim Discord](https://discord.gg/thg2eRxf7z)
 - [Living Skyrim Patreon](https://www.patreon.com/LivingSkyrim)
 
 ## Screenshots

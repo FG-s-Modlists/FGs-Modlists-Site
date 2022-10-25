@@ -59,7 +59,7 @@ As for RAM, 16GB is the minimum recommended specification for running the list. 
 - [The Modlist Spreadsheet](/masterstroke/modlist)
 - [Masterstroke Bug Report Form](/masterstroke/bugreport)
 - [Masterstroke Keymap](http://www.keyboard-layout-editor.com/#/gists/0cd559c4d9f1a88b965b552e961a906c)
-- [Masterstroke Discord](https://discord.com/invite/NdmGpGzqg8)
+- [Masterstroke Discord](https://discord.gg/thg2eRxf7z)
 - [Masterstroke Patreon](https://www.patreon.com/LivingSkyrim)
 
 ## Important Mods You Need To Know About

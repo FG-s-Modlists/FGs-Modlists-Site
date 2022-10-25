@@ -57,7 +57,7 @@ As for RAM, 16GB is the minimum recommended specification for running the list. 
 ### Important Links
 - [The Modlist Spreadsheet](https://docs.google.com/spreadsheets/d/1EielytXpSpG5tPQJU-tIbLjQKxh0XRWKc_yP2zgRQK8/edit?usp=sharing)
 - [Path of the Dovahkiin Bug Tracker](https://github.com/ForgottenGlory/POTD/issues)
-- [Path of the Dovahkiin Discord](https://discord.com/invite/NdmGpGzqg8)
+- [Path of the Dovahkiin Discord](https://discord.gg/thg2eRxf7z)
 - [Path of the Dovahkiin Patreon](https://www.patreon.com/LivingSkyrim)
 - [Path of the Dovahkiin Build Planner](https://thehajo.github.io/PotD/)
 
