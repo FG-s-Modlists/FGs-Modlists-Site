@@ -1,5 +1,5 @@
 ---
-title: "Installation Instructions"
+title: "LS4 Installation Instructions"
 description: "Living Skyrim 4's installation instructions."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
