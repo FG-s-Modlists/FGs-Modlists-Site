@@ -71,7 +71,8 @@ Unfortunately MCM Recorder does not like setting hotkeys, so the following hotke
 #### Take Notes!
 - Controls
   - Open Journal: B
-
+  - iHUD: RAlt
+ 
 #### Valhalla Combat
 
 If you wish you use the Executions feature of Valhalla Combat, you should set its hotkey in the Valhalla Combat MCM.
