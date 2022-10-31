@@ -10,8 +10,6 @@ weight: 30
 toc: true
 ---
 
-## Pre-Installation
-
 ### Hard Requirements
 
 The following are *absolutely required* to begin installation of Living Skyrim 4. These must all be installed and up to date before you begin.
@@ -22,6 +20,8 @@ The following are *absolutely required* to begin installation of Living Skyrim 4
 - [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
 
 More detailed instructions on installing and configuring these are below.
+
+## Pre-Installation
 
 ### Pagefile Configuration
 
