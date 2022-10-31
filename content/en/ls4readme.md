@@ -1,6 +1,6 @@
 ---
-title: "LS4 Installation Instructions"
-description: "Living Skyrim 4's installation instructions."
+title: "LS4 Beta Installation Instructions"
+description: "Living Skyrim 4's Beta installation instructions."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
@@ -11,6 +11,17 @@ toc: true
 ---
 
 ## Pre-Installation
+
+### Hard Requirements
+
+The following are *absolutely required* to begin installation of Living Skyrim 4. These must all be installed and up to date before you begin.
+
+- [Skyrim Special Edition (Steam, v1.6.640)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
+- [Skyrim Special Edition: Creation Kit (Steam)](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
+- [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+- [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
+
+More detailed instructions on installing and configuring these are below.
 
 ### Pagefile Configuration
 
