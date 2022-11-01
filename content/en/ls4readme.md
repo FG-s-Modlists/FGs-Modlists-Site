@@ -18,6 +18,7 @@ The following are *absolutely required* to begin installation of Living Skyrim 4
 - [Skyrim Special Edition: Creation Kit (Steam)](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 - [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 - [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
+- 350GB of available space on a hard drive/SSD/NVMe. (120GB downloads/217GB mods/13GB Stock Game)
 
 More detailed instructions on installing and configuring these are below.
 
