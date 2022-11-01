@@ -206,7 +206,7 @@ To actually launch and then play Living Skyrim, follow these steps:
 {{< /alert >}}
 
 ## The MCM Settings
-See this document to set the MCMs that are required for LS3 to function correctly: [Click Here](/ls4mcm)
+See this document to set the MCMs that are required for LS4 to function correctly: [Click Here](https://www.fgsmodlists.com/ls4mcm)
 
 ### Bug Reporting
 
