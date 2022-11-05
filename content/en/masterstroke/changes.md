@@ -13,12 +13,17 @@ weight: 50
 toc: true
 ---
 
-### xx/xx/2022 1.4.0
-#### Minor
+### 11/5/2022 1.3.2
+#### Incremental
 - Fixes
-  - Fixed an issue with Valmilia's body not conforming to OBody
+  - Possibly Fixed an issue with Valmilia's body not conforming to OBody
+- Updates
+  - Trappings of Fate 1.0.3
+  - Baka ABC
+  - HCOS 1.31
 - Removals
   - Removed Hank's Gamepad & Controller Fixes
+
 
 ### 10/10/2022 1.3.1
 #### Incremental
