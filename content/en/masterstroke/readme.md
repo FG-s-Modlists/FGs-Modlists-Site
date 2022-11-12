@@ -38,8 +38,6 @@ If you have more than one drive, try enabling it for at least one more drive as 
 
 The Visual C++ Redistributable is a DLL (Dynamic Link Library) file required by programs or games built using Microsoft’s Visual Studio software development environment. As Skyrim Special Edition is a 64-bit program, elements of it - along with other aspects of the modlist - require the 64-bit version of Visual C++ in order to run.
 
-
-
 Click the link to download the latest Visual C++ x64 Redistributable, then double-click the downloaded file and follow the instructions:
 
 - [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
@@ -50,13 +48,14 @@ Click the link to download the latest Visual C++ x64 Redistributable, then doubl
 
 This is another runtime library required by some programs. Not having these installed can result in issues running Living Skyrim.
 
-
-
-click the link to open a page on the Microsoft Website to download the .NET runtime files. You may need both the Desktop and Console versions, so please install both:
+Click the link to open a page on the Microsoft Website to download the .NET runtime files. You may need both the Desktop and Console versions, so please install both:
 
 - [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
 
 
+### Skyrim Special Edition Creation Kit.
+
+You must now install Skyrim Special Edition Creation Kit through Steam *on the same drive as your Skyrim: Special Edition installation*. The install of the list will not proceed without it.
 
 ### Steam & SSE Setup
 {{< alert context="danger" icon="🛑" >}}
