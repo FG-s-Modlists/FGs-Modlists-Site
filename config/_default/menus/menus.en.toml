@@ -9,6 +9,11 @@
   weight = 15
 
 [[main]]
+  name = "Wiki"
+  url = "https://wiki.fgsmodlists.com"
+  weight = 16
+
+[[main]]
   name = "Get Wabbajack"
   url = "https://www.wabbajack.org/#/"
   weight = 20
