@@ -13,6 +13,45 @@ weight: 50
 toc: true
 ---
 
+### 11/17/2022 1.4.0
+#### Minor
+- Fixes
+  - Fixed CTD related to Honed Metal
+  - Fixed jump bug after being headshot (thanks MaiNeym!)
+  - Fixed CTD in Ancestral Glade (thanks Zarantha!)
+  - fixed CTD during Alduin's Bane cutscene (thanks Zarantha!)
+  - Fixed dog/wolf schlongs
+  - Fixed incorrect main menu
+  - Fixed SL Drunk applying to followers
+  - Fixed CTD with Necromancer class
+  - Fixed followers and many NPCs not using OBody (thanks MaiNeym!)
+- Updates
+  - Faster HDT-SMP
+  - MoreNastyCritters 12.8A
+  - Lux 5.2
+  - Sets of Skills 2.0.2
+  - Papyrus Extender 5.4.0
+  - Submissive Lola 2.0.57
+  - SLWidgets 2.0.6
+  - Scion 2.0.1
+- Additions
+  - Both Profiles
+    - Papyrus Tweaks NG
+    - Better Third Person Selection
+    - Simple Werewolf Favourite Howls Menu
+    - Galaxy Cosmic Eyes
+    - Fantasy Creature Overlay
+    - Fantasy Creature HDT-SMP Tails
+    - Vanillla Warpaints Absolution SE
+    - Realistic Hair Colors
+    - Realm of Lorkhan Better Bridges
+  - Creature Profile
+    - Estrus Retexture
+    - Aradia Living Armor Retexture
+    - SL Aroused Creatures
+- Other
+  - Updated some hotkeys that need to be set manually on the MCM page of the documentation.
+
 ### 11/5/2022 1.3.2
 #### Incremental
 - Fixes
