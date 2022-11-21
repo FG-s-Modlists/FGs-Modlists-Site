@@ -33,7 +33,7 @@ If MEGA downloads are either not downloading correctly or are frozen on the comp
 
 ### "Community Overlays 1 - CBBE Male and Female Repackage fails to download."
 
-Download the file from the link provided here: [Community Overlays 1](https://drive.google.com/file/d/1DMWc4kzWRm-Cwtn3EAmIiRo7p1bJmx15/view) and place it in your Masterstroke download folder, then restart the install process.
+Download the file from the link provided here: [Community Overlays 1](https://drive.google.com/file/d/1jHzXv8VC6fF9pGHbKlkitCE8UK-p-vX9/view) and place it in your Masterstroke download folder, then restart the install process.
 
 ### "Core Masterstroke Files are failling to download."
 

@@ -13,6 +13,30 @@ weight: 50
 toc: true
 ---
 
+### 1.4.1
+#### Incremental
+- Fixes
+  - Fixed vendors not having the correct amount of spell scrolls and staves
+  - Made Papyrus Tweaks NG actually work.
+- Mod Updates
+  - Transformative Elixirs 1.1.1
+- Additions
+  - Both Profiles
+    - Fair Skin Makeup Overhaul
+    - Whetstones
+    - Infinity UI
+    - Compass Navigation Overhaul
+    - No Vendor Spell Tomes (Apprentice, Adept, Expert, Master only)
+    - Wade in Water Redone
+    - Use or Take
+    - Sound Record Distributor
+    - Regional Sounds Expansion
+    - Reverb Interior Sounds Expansion
+    - Acoustic Space Improvement Fixes
+- Replacements
+  - Both Profiles
+    - Sometimes Pick Up Books -> Read or Take
+
 ### 11/17/2022 1.4.0
 #### Minor
 - Fixes
