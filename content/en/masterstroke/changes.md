@@ -33,6 +33,7 @@ toc: true
     - Regional Sounds Expansion
     - Reverb Interior Sounds Expansion
     - Acoustic Space Improvement Fixes
+    - Enemy Magelock
 - Replacements
   - Both Profiles
     - Sometimes Pick Up Books -> Read or Take
