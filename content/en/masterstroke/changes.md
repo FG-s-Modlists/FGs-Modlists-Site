@@ -13,7 +13,7 @@ weight: 50
 toc: true
 ---
 
-### 1.4.1
+### 11/21/2022 1.4.1
 #### Incremental
 - Fixes
   - Fixed vendors not having the correct amount of spell scrolls and staves
