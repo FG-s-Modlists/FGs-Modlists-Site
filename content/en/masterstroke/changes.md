@@ -13,6 +13,17 @@ weight: 50
 toc: true
 ---
 
+### 11/24/2022 1.4.1.1
+#### Hotfix
+- Fixes
+  - Fixed Enemy Magelock not working properly
+  - Fixed Papyrus Tweaks NG for real this time
+  - Fixed missing hand-to-hand perk tree.
+  - Fixed Acoustic Space Improvement Fixes not working.
+- Additions
+  - Both Profiles
+    - Wet Function Redux (disabled in-game by default, optional enable, requires MCM refresh on existing saves)
+
 ### 11/21/2022 1.4.1
 #### Incremental
 - Fixes
