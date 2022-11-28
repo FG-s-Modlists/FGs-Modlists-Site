@@ -25,7 +25,7 @@ Sections labeled important like this one will tell you when you need to pay extr
 - As of version 4.0.0, Living Skyrim requires approximately 347GB of hard drive space (This number *includes* the download size). Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
 - To avoid installation/gameplay issues please ensure Living Skyrim is not installed to any protected Windows locations such as: My Documents, The Desktop, Program Files, etc.
 - If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the LS3 Modlist Spreadsheet.
-- If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the Important Mods You Need to Know About of this document.
+- If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the Important Mods You Need to Know About section of this document.
 - Autosaves for Living Skyrim are disabled. You should make your quicksave button your best friend (usually, the F5 key).
 - Continuing the last point, it is always better to save **before** entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so. When practical, try to avoid saving during combat.
 - Wabbajack does support updating an existing installation of a modlist. However, as part of this process, it does delete files that don't match with what it is installing. This includes RaceMenu presets, mods you've added/changed, and possibly even save files. It is a good practice to keep backups of your save files so that you can update safely. Saves are stored within the folder you install Living Skyrim to.
@@ -62,6 +62,8 @@ If your PC is struggling to run Living Skyrim, see the Performance Optimizations
 ## Videos
 - [LS4 Modlist Overview Video](https://www.youtube.com/watch?v=cielru_UErg)
 - [LS4 Beta Preview](https://www.youtube.com/watch?v=1HDQne_yKZ8)
+
+# Important Mods You Need To Know About
 
 ## The Performance Profile
 
