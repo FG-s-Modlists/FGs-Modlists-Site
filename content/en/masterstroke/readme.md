@@ -118,6 +118,12 @@ It’s now time to begin the installation of the list. Follow these steps:
 7. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
 8. Click the play/right arrow button to begin the installation.
 
+{{< alert context="danger" icon="🛑" >}}
+**WARNING!**
+
+Wabbajack will prompt you to manually download mods from Lovers Lab, please make sure you have an account and are signed into Lovers Lab through Wabbajack's settings menu. Once you have logged in you will see a download button on each mod page Wabbajack shows you in it's browser, you will see a black banner at the top of each download page indicating which file you should download if the page shows multiple files available to download. **please make sure you read this and download the correct mod.**
+{{< /alert >}}
+
 | With Nexus Premium | Without Nexus Premium |
 | :--- | :--- |
 | 9. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn’t happen, it isn’t a problem and means you’ve already set this up. | 9. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn’t required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it. |
