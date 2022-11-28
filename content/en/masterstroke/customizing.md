@@ -19,7 +19,7 @@ Masterstroke is intended to be customized to suit your playstyle. You can make t
 Some changes to the list must be made in Mod Organizer 2 before launching the game.
 
 ### Skin Textures
-Masterstroke includes several different skin textures that can be enabled or disabled in the left pane of MO2. Note that you must have at least one skin texture enabled or else characters will not look correct.
+Masterstroke includes several different skin textures that can be enabled or disabled in the left pane of MO2. Note that you should only have one skin texture enabled at a time, and failure to enable one will make characters look incorrect.
 
 ### Bodyslides & OBody
 OBody can be safely disabled in the left pane of MO2 if you do not want NPCs to have randomized bodyslide presets. Note that if you disable OBody, you will need to generate your own Bodyslides using Bodyslide. Support is not provided for generating your own Bodyslides.
