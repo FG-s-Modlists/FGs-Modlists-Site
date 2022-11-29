@@ -105,7 +105,7 @@ If you are updating your existing installation of Living Skyrim, skip to the [Up
 
 It’s now time to begin the installation of the list. Follow these steps:
 
-1. Download the latest installer file [here.](https://drive.google.com/file/d/1NU7MLapKtZFMHaLQ6UMA5PGNkSA6D2Or/view?usp=share_link)
+1. Download the latest installer file [here.](https://drive.google.com/file/d/1B0ebI4KeRnXJd-J7AxnhbtbHaL8dZ5Uj/view?usp=share_link)
 2. Run Wabbajack.exe.
 3. At the bottom of the window, click Install From Disk
 4. Locate the Living Skyrim installer file you downloaded and open it.
@@ -177,7 +177,7 @@ If you are updating Living Skyrim, the process is very similar to installing the
 **Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#ls-announcements` channel on the Living Skyrim Discord server before updating.**
 {{< /alert >}}
 
-1. Download the latest installer file [here.](https://drive.google.com/file/d/1NU7MLapKtZFMHaLQ6UMA5PGNkSA6D2Or/view?usp=share_link)
+1. Download the latest installer file [here.](https://drive.google.com/file/d/1B0ebI4KeRnXJd-J7AxnhbtbHaL8dZ5Uj/view?usp=share_link)
 2. Run Wabbajack.exe.
 3. At the bottom of the window, click Install From Disk
 4. Locate the Living Skyrim installer file you downloaded and open it.
