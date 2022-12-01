@@ -13,6 +13,29 @@ weight: 50
 toc: true
 ---
 
+### 12/1/2022 1.4.2
+#### Incremental
+- Fixes
+  - Fixed overpowered werewolves
+  - Fixed overpowered DX outfits
+  - Fixed being able to select a normally unselectable object on Spellforges
+  - Fixed cultists attacking too early
+  - Fixed suspicious Chaurus eggs not appearing (creature profile)
+  - Fixed some broken/missing bodyslides
+  - Fixed males using skimpy mage robes when no skimpy option is selected
+- Mod Updates
+  - Devious Devices (bodyslides only)
+  - Papyrus Tweaks 3.0
+  - Scrappies Matchmaker 1.5
+  - Rosa Round-Bottom 1.2
+- Additions
+  - Both Profiles
+    - Heat & Hunger
+    - Vanity Mirror SE
+    - TERA Armors 3BA Conversion
+- Other
+  - Regenerated bodyslides as needed
+
 ### 11/24/2022 1.4.1.1
 #### Hotfix
 - Fixes
