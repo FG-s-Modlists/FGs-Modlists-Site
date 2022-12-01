@@ -66,6 +66,8 @@ If your PC is struggling to run Living Skyrim, see the Performance Optimizations
 # Important Mods You Need To Know About
 
 ## The Performance Profile
+Living Skyrim 4 ships with 2 different profiles, those being the Standard profile and the Performance profile. The latter of such is ideal for use if you're not quite getting your desired performance out of the Standard profile. MO2's Profile selector, located in the top left, just above the mods pane, allows you to easily swap between the two. A visual representation of such can be [found here](https://cdn.discordapp.com/attachments/1034149881390051482/1047990987139600414/image.png).
+Saves are compatible between the two profiles, though you will need to manually copy your saves over to the new profile. The saves will be located at {Your Living Skyrim 4 install folder}\profiles\Living Skyrim 4\saves. Copy the saves you'd like to transfer, and paste them into Living Skyrim 4\profiles\LS4 Performance\saves.
 
 ## The Population Mods
 WIP
