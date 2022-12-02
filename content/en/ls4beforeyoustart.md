@@ -85,7 +85,7 @@ WIP
 [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138), [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099), and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) are all included to make magic as diverse as possible with a huge breadth of options. Pilgrim covers the religious aspect of the game, Thaumaturgy covers enchantments, and Mundus covers the various standing stones of the world.
 
 ## The Combat Mods
-WIP
+The core of combat in LS4 is comprised of [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) and [MCO - ADXP](https://www.skyrim-guild.com/mods/attack), the former being a modern combat overhaul, complete with a custom stamina system and timed block mechanics, the latter being an animation overhaul for all attacks, bringing attack commitment and general combat gameplay more in line with modern action RPGs. To compliment this, [TK Dodge Re](https://www.nexusmods.com/skyrimspecialedition/mods/56956) allows you to dodge attacks, and [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) brings hitstop, swing trails, and realistic collision for a very tight and modern feeling combat package. Additionally, [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045) brings new depth to fights, allowing you to deal with enemies easier with a bit of planning. The [Archery](https://www.nexusmods.com/skyrimspecialedition/mods/10926) mod brings more realistic archery gameplay, with faster arrows and gravity to overhaul ranged combat.
 
 ## The Perks & Leveling Mods
 WIP
