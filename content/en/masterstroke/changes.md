@@ -13,6 +13,25 @@ weight: 50
 toc: true
 ---
 
+### 12/8/2022 1.4.3
+#### Incremental
+- Mod Updates
+  - NL_MCM 1.1.2
+  - Transformative Elixirs 1.2.0
+  - MCM Helper 1.4.0
+  - po3's Tweaks 1.7.5
+  - Spellforge 2.2
+  - Public Whore 1.2.0
+- Additions
+  - Both Profiles
+    - Elemental Eyes
+    - Koralina's Eyebrows for HPH
+    - Ravens' Warpaint SE
+    - Seductive Lips SE
+- Replacements
+  - Both Profiles
+    - Minimalistic Follower Framework -> Nether's Follower Framework
+
 ### 12/1/2022 1.4.2
 #### Incremental
 - Fixes
