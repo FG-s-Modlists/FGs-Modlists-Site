@@ -66,6 +66,8 @@ If your PC is struggling to run Living Skyrim, see the Performance Optimizations
 # Important Mods You Need To Know About
 
 ## The Performance Profile
+Living Skyrim 4 ships with 2 different profiles, those being the Standard profile and the Performance profile. The latter of such is ideal for use if you're not quite getting your desired performance out of the Standard profile. MO2's Profile selector, located in the top left, just above the mods pane, allows you to easily swap between the two. A visual representation of such can be [found here](https://cdn.discordapp.com/attachments/1034149881390051482/1047990987139600414/image.png).
+Saves are compatible between the two profiles, though you will need transfer the saves. You can easily do so by clicking the Profile selection dropdown and clicking <Manage>. In the window that opens up, click the profile you are currently on, click the Transfer Saves button, then transfer the saves over to the Global location (left hand side). From there, close that window and select the profile you'd like to switch to, click Transfer Saves again, then transfer your saves from the Global location to the new profile.
 
 ## The Population Mods
 WIP
@@ -74,10 +76,16 @@ WIP
 WIP
 
 ## The Magic Mods
-WIP
+[Smart Cast](https://www.nexusmods.com/skyrimspecialedition/mods/32847) has returned in Living Skyrim 4. With Smart Cast you can set up specific rules and conditions under which spells will be cast for you - assuming you have the magicka to cast them. It also lets you combine spells into a single cast, again, assuming you have the magicka to cast them both at the same time. This mod has quite a few features available, reading its mod page is highly recommended.
+
+[Spellforge](https://www.nexusmods.com/skyrimspecialedition/mods/46482) completely changes how your character learns new spells. Instead of "eating" the book and learning the spell, you now craft the spells you want from the Spellforge, which can be found just beside the bridge leading to the College of Winterhold, or alternatively you can buy the Spellforge Manual at any novice vendor, such as court mages. From the Spellforge, you can craft spells using handy and informative menus, using Arcane Resin as a resource to do so. More in-depth info can be found in-game or on the modpage.
+
+[Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839), [Triumvirate](https://www.nexusmods.com/skyrimspecialedition/mods/39170), and [The Elder Scrolls - Tomebound](https://www.nexusmods.com/skyrimspecialedition/mods/21403) make up the mods adding new spells to Living Skyrim. Between all of these and the additional options found below, it is possible to have multiple mage playthroughs and never do the same build twice.
+
+[Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138), [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099), and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) are all included to make magic as diverse as possible with a huge breadth of options. Pilgrim covers the religious aspect of the game, Thaumaturgy covers enchantments, and Mundus covers the various standing stones of the world.
 
 ## The Combat Mods
-WIP
+The core of combat in LS4 is comprised of [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) and [MCO - ADXP](https://www.skyrim-guild.com/mods/attack), the former being a modern combat overhaul, complete with a custom stamina system and timed block mechanics, the latter being an animation overhaul for all attacks, bringing attack commitment and general combat gameplay more in line with modern action RPGs. To compliment this, [TK Dodge Re](https://www.nexusmods.com/skyrimspecialedition/mods/56956) allows you to dodge attacks, and [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) brings hitstop, swing trails, and realistic collision for a very tight and modern feeling combat package. Additionally, [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045) brings new depth to fights, allowing you to deal with enemies easier with a bit of planning. The [Archery](https://www.nexusmods.com/skyrimspecialedition/mods/10926) mod brings more realistic archery gameplay, with faster arrows and gravity to overhaul ranged combat.
 
 ## The Perks & Leveling Mods
 WIP

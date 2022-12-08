@@ -163,7 +163,7 @@ If you are updating Masterstroke, the process is very similar to installing the 
 {{< alert context="danger" icon="🛑" >}}
 **WARNING!**
 
-**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#Masterstroke-announcements` channel on the Discord server before updating.**
+**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#nsfw-announcements` channel on the Discord server before updating.**
 {{< /alert >}}
 
 1. Run Wabbajack.exe.
