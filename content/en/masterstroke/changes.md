@@ -13,6 +13,17 @@ weight: 50
 toc: true
 ---
 
+### 12/12/2022 1.4.4
+#### Incremental
+- Fixes
+  - Fixed NFF free crafting recipes
+  - Fixed being able to use NFF to have followers sell things
+- Mod Updates
+  - Public Whore 1.2.1
+- Additions
+  - Both Profiles
+    - Multicolored KS Hairdos Standalone
+
 ### 12/8/2022 1.4.3
 #### Incremental
 - Mod Updates
