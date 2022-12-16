@@ -16,8 +16,9 @@ toc: true
 ### 12/16/2022 1.4.5
 #### Incremental
 - Mod Updates
-  - Submissive Lola
-  - Simple Dual Sheath
+  - Submissive Lola 2.0.58
+  - Simple Dual Sheath 1.5.4
+  - Public Whore 1.2.2
 - Additions
   - Both Profiles
     - Difficulty Balance
