@@ -13,6 +13,20 @@ weight: 50
 toc: true
 ---
 
+### 12/16/2022 1.4.5
+#### Incremental
+- Mod Updates
+  - Submissive Lola
+  - Simple Dual Sheath
+- Additions
+  - Both Profiles
+    - Difficulty Balance
+    - TESL Loading Screens (plus custom MS loading screens)
+    - Fus Ro Don't
+    - Phoenix Compendium
+    - Khajiit Steal Too
+    - Allow Dialogue Progress Bugfix
+
 ### 12/12/2022 1.4.4
 #### Incremental
 - Fixes
