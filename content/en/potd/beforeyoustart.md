@@ -77,7 +77,7 @@ It is possible to "respec" your perk choices. At a high enough player level scro
 
 ### The Enemy Mods
 
-In general you'll find that enemy variety and quantity is significantly increased thanks to [Increased Enemy Spawns](https://www.nexusmods.com/skyrimspecialedition/mods/2470) and [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017). They've also been beefed up by [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/2470). Dragons are handled by [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/32211). That said, enemies aren't particularly more difficult, especially once your character build starts to come together. There's also a handful of mods included that increase animal/monster variety. 
+In general you'll find that enemy variety and quantity is significantly increased thanks to [Increased Enemy Spawns](https://www.nexusmods.com/skyrimspecialedition/mods/2470) and [Heritage](https://www.nexusmods.com/skyrimspecialedition/mods/30017). They've also been beefed up by [Enemy Releveler](https://www.nexusmods.com/skyrimspecialedition/mods/32211). Dragons are handled by [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310). That said, enemies aren't particularly more difficult, especially once your character build starts to come together. There's also a handful of mods included that increase animal/monster variety. 
 
 Last but not least, enemies respawn every 24 in-game hours thanks to [1 Day Respawn Time](https://www.nexusmods.com/skyrimspecialedition/mods/5394). Feel free to grind and master dungeons to your heart's content!
 
