@@ -71,7 +71,9 @@ Unfortunately MCM Recorder does not like setting hotkeys, so the following hotke
 #### Take Notes!
 - Controls
   - Open Journal: B
-  - iHUD: RAlt
+
+#### Immersive HUD
+  - Toggle: RAlt
  
 #### Valhalla Combat
 

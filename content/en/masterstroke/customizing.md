@@ -15,11 +15,13 @@ toc: true
 
 Masterstroke is intended to be customized to suit your playstyle. You can make things as hard or easy as you'd like, or turn off several features that you're not interested in using. Below you'll find information about things that can be safely customized. Most of the following changes should be made in the MCMs for Masterstroke *after you have run the initial setup process for the MCMs*.
 
+Our Wiki provides additional information and tips about customizing Masterstroke to your liking: [Click here](https://wiki.fgsmodlists.com/en/masterstroke)
+
 ## Out-Of-Game Changes
 Some changes to the list must be made in Mod Organizer 2 before launching the game.
 
 ### Skin Textures
-Masterstroke includes several different skin textures that can be enabled or disabled in the left pane of MO2. Note that you should only have one skin texture enabled at a time, and failure to enable one will make characters look incorrect.
+The default skin texture in Masterstroke is Fair Skin, if that isn't to your liking we have prepared several options for you to choose from. They are listed under the Customization separator in the left pane of MO2. Note that you should only have one skin texture enabled at a time, it is not possible to combine them.
 
 ### Bodyslides & OBody
 OBody can be safely disabled in the left pane of MO2 if you do not want NPCs to have randomized bodyslide presets. Note that if you disable OBody, you will need to generate your own Bodyslides using Bodyslide. Support is not provided for generating your own Bodyslides.
