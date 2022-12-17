@@ -29,9 +29,9 @@ Sections labeled important like this one will tell you when you need to pay extr
   
 ### General Disclaimers
 - You are not required to have Nexus Premium to install Masterstroke, however, it is highly recommended. Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
-- As of v1.0.0, Masterstroke requires 279GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
+- As of v1.4.5, Masterstroke requires ~303GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
 - To maximize performance, Masterstroke should be installed on an SSD drive. While this is not necessary, installing on an HDD will result in extremely long load and startup times aswell as potential performace and stability issues.
-- If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the Masterstroke Modlist Spreadsheet.
+- If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the Masterstroke Modlist Spreadsheet. (Outdated!)
 - If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the Important Mods You Need to Know About of this document.
 - Autosaves for Masterstroke are disabled. You should make your quicksave button your best friend (usually, the F5 key).
 - Continuing the last point, it is always better to save **before** entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so.
@@ -61,6 +61,7 @@ As for RAM, 16GB is the minimum recommended specification for running the list. 
 - [Masterstroke Keymap](http://www.keyboard-layout-editor.com/#/gists/0cd559c4d9f1a88b965b552e961a906c)
 - [Masterstroke Discord](https://discord.gg/thg2eRxf7z)
 - [Masterstroke Patreon](https://www.patreon.com/LivingSkyrim)
+- [FG's Modlists Wiki](https://wiki.fgsmodlists.com/en/home)
 
 ## Important Mods You Need To Know About
 
@@ -117,6 +118,9 @@ Masterstroke uses a multitude of mods that allow for a survival experience that 
 - Item Durability: Weapons and armor will degrade over time and require repairs periodically.
 - Spellforge: Changes how spells are acquired to allow for better pacing to mages.
 - Simply Balanced: Allows every aspect of the game to be tweaked to increase or decrease difficulty.
+- Heat & Hunger: a simple addon that integrates Sexlab into Sunhelm.
+- Honed Metal: NPCs can create weaponry or enchantments to order, if you have the necessary change.
+- Whetstones: Portable whetstones are now for sale!
 
 ### The Combat & Enemy Mods
 
@@ -131,6 +135,7 @@ Combat in Masterstroke is difficult without being on the level of Dark Souls or 
 - Dragon War: Overhauls dragon fights to make them significantly more "boss" like.
 - Enemy Releveler: Changes the levels of enemies to make them able to scale higher and start a bit more challenging.
 - True Directional Movement: Adds a lock-on feature and changes the movement system to make combat more dynamic.
+- Enemy Magelock: NPCs can no longer run around while casting.
 
 ### The HUD & UI Mods
 
@@ -189,7 +194,7 @@ It also includes some minimal mods to facilitate multiple followers and interact
 
 - Leadership: Adds a skill tree requiring you to invest perks to be able to have more than one follower.
 - Quick Inventory: Allows easy and quick access to follower inventory.
-- Minimalistic Follower Framework: A minimal framework to facilitate multiple followers.
+- Nether’s Follower Framework: A  framework providing various options to manage and customize your followers.
 - Simple Outfit System: Allows setting outfits for followers.
 - Quick Mass Follower Commands Hotkey: Adds a hotkey to issue mass commands to your followers.
 
@@ -219,7 +224,6 @@ Of course, Masterstroke is designed around sexy elements and interactions. The c
 - ZaZ Animation Pack: Adds animations for various scenes.
 - Devious Devices: A framework for NSFW equipment and managing of that equipment.
 - SexLab Fame: A framework for characters to gain NSFW fame in areas across the land.
-- State of Dress: A framework for determining your character's level of dress, used by other mods.
 - Scrappies Matchmaker: A matchmaking framework that allows NPCs to get busy with each other.
 - Milk Mod Economy: Adds a new layer to the Skyrim economy focused around the production and sale of milk.
 - Simple Slavery: A framework to allow the player character to be sold into slavery.
@@ -270,6 +274,8 @@ No modlist would be complete without an entire suite of mods to improve the qual
 - FreeFlyCam: Improves the default free camera in a multitude of ways.
 - Twisted's Command Binders: Provides a hotkey you can press to immediately go into "screenshot mode". 
 - Equipment Toggle 2: Allows hiding your helmet or other equipment through a hotkey, configurable in the mod's INI.
+- Vanity Mirror SE: Provides a safe and easy way of opening Racemenu again.
+- Khajiits steal too: Now you can sell stolen goods at Khajiit caravans. 
 
 ### Optional Creature Profile
 
