@@ -153,7 +153,7 @@ Among other things, Wabbajack has installed a copy of Mod Organizer 2 for you. T
 **Important!** 
 
 You'll notice that multiple mods in MO2 are deactivated, leave them as they are unless told otherwise!
-For more information: Click here
+For more information: [Click here](https://www.fgsmodlists.com/masterstroke/beforeyoustart/#optional-creature-profile)
 {{< /alert >}}
 
 ### Configuration Specific
