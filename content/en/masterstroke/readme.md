@@ -149,6 +149,13 @@ Among other things, Wabbajack has installed a copy of Mod Organizer 2 for you. T
 3. A dialogue may appear and ask if you want to associate Mod Organizer with .nxm links. Click Yes. If this dialogue does not appear, it is not an issue and means you’ve likely already done this.
 4. Another dialogue may appear asking you to update the game's registry path. Click Yes on this popup if it appears. If it does not appear, it is not an issue and likely means you've already done this.
 
+{{< alert context="warning" icon="⚠️" >}}
+**Important!** 
+
+You'll notice that multiple mods in MO2 are deactivated, leave them as they are unless told otherwise!
+For more information: [Click here](https://www.fgsmodlists.com/masterstroke/beforeyoustart/#optional-creature-profile)
+{{< /alert >}}
+
 ### Configuration Specific
 
 If you're using an ultrawide monitor, you can enable either of the Nordic UI Ultrawide options under the "Configuration Specific" section of the left pane of MO2. Just make sure you only enable the one that matches your monitor's resolution ratio.
