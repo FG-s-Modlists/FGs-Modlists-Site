@@ -58,7 +58,6 @@ toc: true
       - Goetia Animations - Conditional Shouts
       - Leviathan Animations - Male Idle Walk And Run
       - Witcher Dodge Replacer
-      - Parkour in Skyrim
     - Graphics - Lighting & Effects
       - FleshFX
     - Graphics - Objects
