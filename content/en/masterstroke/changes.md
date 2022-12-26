@@ -14,7 +14,7 @@ toc: true
 ---
 
 ### 12/26/2022 1.5.0
-#### Minor
+#### "Minor"
 - Fixes
   - Fixed BethINI INI paths
   - Fixed mismatched Futa skin textures
