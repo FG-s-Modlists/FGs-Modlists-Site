@@ -38,7 +38,7 @@ toc: true
       - LewdMarks
     - Bodyslide Presets
       - Divine's Chosen Bodyslide Preset (HIMBO)
-      - Edgar Bodyslide Preset
+      - Edgar Bodyslide Preset (HIMBO)
       - Femboy HIMBO Bodyslide Preset
     - RaceMenu Presets
       - LMJ's Cutegonians
