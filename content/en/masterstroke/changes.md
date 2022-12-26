@@ -13,6 +13,134 @@ weight: 50
 toc: true
 ---
 
+### 12/26/2022 1.5.0
+#### Minor
+- Fixes
+  - Fixed BethINI INI paths
+  - Fixed mismatched Futa skin textures
+  - Fixed Rosa's missing Round Bottom
+  - Possibly fixed animation bug regarding yokes
+- Mod Updates
+  - Lux 5.3.1
+  - Mod Organizer 2.4.4
+  - Trappings of Fate 1.1
+  - SL Aroused Creatures 4.10
+- Additions
+  - Both Profiles
+    - Quality of Life
+      - No Numpad Hotkeys
+      - SkyUI Config Tweak - Equipped Items On Top SE
+    - HUD/UI
+      - Wash That Blood Off 2
+      - Oxygen Meter 2
+    - Overlays/Tattoos
+      - Lyru's Tattoo Packs (1 and 2)
+      - LewdMarks
+    - Bodyslide Presets
+      - Divine's Chosen Bodyslide Preset (HIMBO)
+      - Edgar Bodyslide Preset
+      - Femboy HIMBO Bodyslide Preset
+    - RaceMenu Presets
+      - LMJ's Cutegonians
+    - Gameplay Changes - Combat
+      - Dual Wield Block
+    - Gameplay Changes - Miscellaneous
+      - Smart Training Tweaked
+    - SFW Animations
+      - Leviathan Animations - Sprint
+      - Vanargand Animations - Dual Wield Normal and Power Attacks
+      - Vanargand Animations - Dual Wield Sneak Strikes
+      - Vanargand Animations - Crossbows
+      - Goetia Animations - Female Idle Walk And Run
+      - Goetia Animations - Male Idle Walk And Run
+      - Goetia Animations - Sprint
+      - Goetia Animations - Sneak Magic
+      - Goetia Animations - Conditional Shouts
+      - Leviathan Animations - Male Idle Walk And Run
+      - Witcher Dodge Replacer
+      - Parkour in Skyrim
+    - Graphics - Lighting & Effects
+      - FleshFX
+    - Graphics - Objects
+      - Vanilla Table Replacers
+    - Items - Armors
+      - DX Morenn Outfit
+      - DX Necromancer Robes
+      - DX Merta Assassin Outfit
+      - DX Cassandra Apocrypha Robes
+      - DX Witcher Armor
+      - Tera Succubus Armor
+      - Stormcloak Warmaiden Armor
+      - Daring Demon Hunter Armor
+      - Dwemer Researcher Armor and Outfit
+    - Location Expansions
+      - JK's Arcadia's Cauldron
+      - JK's Belethor's General Goods
+      - JK's Warmaiden's
+      - JK's The Drunken Huntsman
+      - JK's The Bannered Mare
+      - JK's Dragonsreach
+      - JK's Sleeping Giant Inn
+      - JK's The Winking Skeever
+      - JK's Angeline's Aromatics
+      - JK's Bits and Pieces
+      - JK's Radiant Raiment
+      - JK's Blue Palace
+      - JK's Candlehearth Hall
+      - JK's White Phial
+      - JK's Sadri's Used Wares
+      - JK's Palace of the Kings
+      - JK's The Bee and Barb
+      - JK's Elgrim's Elixirs
+      - JK's The Pawned Prawn
+      - JK's The Ragged Flagon
+      - JK's Mistveil Keep
+      - JK's The Temple of Mara
+      - JK's Silver-Blood Inn
+      - JK's Arnleif and Sons Trading Company
+      - JK's The Hag's Cure
+      - JK's Understone Keep
+      - JK's Riverwood Trader
+      - JK's Temple of Dibella
+      - JK's Temple of Kynareth
+      - JK's Temple of the Divines
+      - JK's Temple of Talos
+      - JK's Haelga's Bunkhouse
+      - JK's Jorrvaskr
+      - JK's High Hrothgar
+      - JK's Sky Haven Temple
+      - JK's College of Winterhold
+      - JK's Septimus Signus's Outpost
+      - JK's Sinderion's Field Laboratory
+      - JK's The Bards College
+      - JK's Castle Dour
+      - JK's Interiors Patch Collection
+      - JK's Guild HQ Interiors Patch Collection
+      - JK's College of Winterhold Combo Patches
+    - NPCs - Followers
+      - Serana Dialogue Add-On
+    - SexLab and Friends
+      - CBPC Separate Anal Collision
+      - The Ancient Profession
+      - The Ancient Profession Interiors Project
+  - Creature Profile
+    - Female Draugr uses Strap Ons Special Edition
+- Removals
+  - Seductive Lips SE
+  - Amorous Adventures SE
+- Replacements
+  - Both Profiles
+    - Leviathan Female Idle Walk Run -> Leviathan II Female Idle Walk Run
+    - Smooth Random Jump Animation -> Parkour in Skyrim
+    - Smooth Staff Animation -> Goetia Animations - Enchanted Staves
+    - Smooth Magic Casting Animation -> Goetia Animations - Magic Spell Casting
+    - Faster Get Up/Stand Up -> Get Up With Style
+- Other
+  - Added to and updated MCM Recording
+  - Regenerated FNIS and Nemesis Outputs
+  - Regenerated Synthesis Patches
+  - Added ENB Organizer and several ENB Presets (default is still Culminated)
+
 ### 12/16/2022 1.4.5
 #### Incremental
 - Mod Updates
