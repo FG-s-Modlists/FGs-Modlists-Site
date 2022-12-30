@@ -13,6 +13,28 @@ weight: 50
 toc: true
 ---
 
+### 12/30/2022 1.5.1
+#### Incremental
+- Fixes
+  - Fixed Lux not actually doing anything
+  - Fixed Dodge being weird (Sprint rebound to left Shift key)
+  - Fixed College of Winterhold CTD
+- Mod Updates
+  - Mu Joint Fix 2.0.10
+  - Laura's Bondage Shop 3.40
+- Additions
+  - Both Profiles
+    - KSHair for Laura's Bondage Shop
+    - Deviously Helpless SE
+    - Missives
+    - SL Dirty Deeds Missives
+- Removals
+  - Luminosity
+- Replacements
+  - Fantasy Creature Tails -> Fantasy Creature Tails 2
+- Other
+  - Added Masterstroke Brighter Interiors under the Customization section
+
 ### 12/26/2022 1.5.0
 #### "Minor"
 - Fixes
