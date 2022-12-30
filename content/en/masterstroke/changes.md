@@ -34,6 +34,8 @@ toc: true
   - Fantasy Creature Tails -> Fantasy Creature Tails 2
 - Other
   - Added Masterstroke Brighter Interiors under the Customization section
+  - Updated MCM/Character Creation documentation
+  - Updated Customization documentation
 
 ### 12/26/2022 1.5.0
 #### "Minor"
