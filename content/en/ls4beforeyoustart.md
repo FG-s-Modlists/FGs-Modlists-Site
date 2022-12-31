@@ -97,7 +97,7 @@ The economy in Living Skyrim is built to be as dynamic and interesting as the re
 
 On the loot side of things, we start with [Loot Overhaul - Rarity and Abundance](https://www.nexusmods.com/skyrimspecialedition/mods/26732). This makes loot more dynamic and interesting, especially when coupled with [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308), [Narrative Loot](https://www.nexusmods.com/skyrimspecialedition/mods/12812), and [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342). For you treasure hunters out there, Living Skyrim also includes [New Treasure Hunt](https://www.nexusmods.com/skyrimspecialedition/mods/19469).
 
-## The HUD Mods
+## The HUD/Menu Mods
 As with all versions of Living Skyrim, the HUD and menus have been completely overhauled. At the base, we have [Nordic UI]() to bring a consistent and much improved look to the entire menu and HUD setup. You'll also find your usual suspects like [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688), [A Matter of Time](https://www.nexusmods.com/skyrimspecialedition/mods/12937), [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252), and [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775). Living Skyrim also includes a number of additions and improvements to the vanilla HUD experience such as a custom main menu setup, [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057), [Oxygen Meter 2](https://www.nexusmods.com/skyrimspecialedition/mods/64532), [Security Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/58224), [Atlas Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/24104), and [Compass Navigation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/74484).
 
 ## Player Homes
@@ -125,22 +125,81 @@ Living Skyrim features a number of new and improved player homes to suit all you
 | Mona Alta                   |                           |
 
 ## Quality of Life
-WIP
+Living Skyrim includes a number of quality of life mods that improve the overall playing process, whether it be to make things easier or more intuitive or to fix issues with vanilla Skyrim.
+
+- Essential Favorites
+- Better Third Person Selection - BTPS
+- MCM Recorder
+- Use Or Take SKSE
+- Simple Werewolf Favourite Howls Menu
+- Read Or Take SKSE
+- Dragon Claws Auto-Unlock
+- Equipment Toggle
+- Better Container Controls for SkyUI
+- Vampire Lords Can Activate
+- The Choice is Yours
+- Vendor Sale Delay - GONE
+- To Your Face SE - AE - VR
+- I'm Walkin' Here
+- Quest NPCs Run
+- Use Telekinesis on Traps
+- Hide Your Quests (ESL flagged)
+- Better Combat Escape - SSE
+- Hide Quest Items in Container Menu
+- Courier Shows Delivery
+- Yes Im Sure
+- Quick Light SE
+- Whose Quest Is It Anyway
+- Player Rotation in ShowRaceMenu
+- Notification Log SSE
+- Stay At The System Page - Updated
 
 ## The Stealth Mods
-WIP
+You'll find stealth to be much more difficult and less of an "easy button" in Living Skyrim. This is thanks to mods such as [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345), [Suspicious City Guards](https://www.nexusmods.com/skyrimspecialedition/mods/38762), and [Store Entrance Doorbells](https://www.nexusmods.com/skyrimspecialedition/mods/56196). To help you out, though, [Mum's The Word](https://www.nexusmods.com/skyrimspecialedition/mods/27713) and [Better Stealth AI for Followers](https://www.nexusmods.com/skyrimspecialedition/mods/17600) are also included.
 
 ## Crafting Mods
-WIP
+Most of the crafting systems in the game have been overhauled. This is primarily thanks to [Apothecary](https://www.nexusmods.com/skyrimspecialedition/mods/52130) and [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138). For smithing, [Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015) is included allowing you to order specific items if you don't have the necessary skill to make them. Be warned, though, the items ordered with Honed Metal are very expensive!
+
+To make self-crafting more convenient, [Linked Crafting Storage](https://www.nexusmods.com/skyrimspecialedition/mods/64772) is also included.
 
 ## ImMuRsHuN & Miscellaneous Mods
-WIP
+For your roleplaying pleasure, an entire host of mods have been added to improve that area of the game. From [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667), which allows you to go camping, to [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001), you'll find the game as "immersive" as you like. Some realism mods in the form of [Wash That Blood Off](https://www.nexusmods.com/skyrimspecialedition/mods/62358), [Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/71418), [Sit on Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/74446), and [Simply Knock](https://www.nexusmods.com/skyrimspecialedition/mods/14098) are also included allowing you to interact with the world itself in new ways. 
+
+[Carriage and Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379) and [Skyrim's Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256) are included to change how you can travel across the land. Changing how you traverse dungeons is [EVG Animated Traversal](https://www.nexusmods.com/skyrimspecialedition/mods/63232) and several realistic animations have been added thanks to [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006). [Take Notes](https://www.nexusmods.com/skyrimspecialedition/mods/13570) is included as well, allowing you to chronicle your journey.
 
 ## Dungeons & New Lands
-WIP
+Several new sets of dungeons and entire new lands have been added to the game. [Hammet's Dungeon Pack](https://www.nexusmods.com/skyrimspecialedition/mods/12186) adds many extremely high quality dungeons to the world and [Dungeons - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/51798) expands many of the existing dungeons in the world. On the new lands side of things, we have [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565), [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917), and [New Vominheim](https://www.nexusmods.com/skyrimspecialedition/mods/70963). Several quests also add new areas to explore, such as [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849), [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351), [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996), and [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301).
 
 ## Followers
-WIP
+Living Skyrim would be incomplete without an entire list of followers for you to find and explore with. That list is below.
+
+- Remiel
+- Sparky
+- Vigilance the Husky
+- Garm the Husky
+- Merlin the Corgi
+- Gladys the Corgi
+- Interesting NPCs SE (3DNPC)
+- Xelzaz
+- Vimar Ice-Blood
+- Kaidan
+- Song of the Green
+- Lucien
+- Hoth
+- Companions and Followers
+- Khajiit Will Follow
+- Nord Brothers Followers
+- Real Warrior Woman
+- Mirai - the Girl with the Dragon Heart
+- Cerri Steelfist - Sword and Shield Follower
+- Shandar
+- Professor Benjamin Doon
+- Recorder
+- INIGO
+- Lucifer
+- Katana
+
+Living Skyrim also includes [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) to make adventuring with your followers seamless. It should also be noted that Living Skyrim includes [Leadership](https://www.nexusmods.com/skyrimspecialedition/mods/47134), which adds a skill tree that you'll need to invest in to be able to bring more than one follower with you. For convenience, [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764) is included to avoid any accidents.
 
 
 ## Adding to Living Skyrim
