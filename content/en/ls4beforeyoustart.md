@@ -70,7 +70,9 @@ Living Skyrim 4 ships with 2 different profiles, those being the Standard profil
 Saves are compatible between the two profiles, though you will need transfer the saves. You can easily do so by clicking the Profile selection dropdown and clicking <Manage>. In the window that opens up, click the profile you are currently on, click the Transfer Saves button, then transfer the saves over to the Global location (left hand side). From there, close that window and select the profile you'd like to switch to, click Transfer Saves again, then transfer your saves from the Global location to the new profile.
 
 ## The Population Mods
-WIP
+Living Skyrim wouldn't be complete without an entire set of mods to increase the population of the world. [Immersive College NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/9252), [Inconsequential NPCs](https://www.nexusmods.com/skyrim/mods/36334), and [Citizens of Tamriel](https://www.nexusmods.com/skyrimspecialedition/mods/29069) make up the core of the population increasing mods, fleshing out cities and towns with tons of new NPCs to interact with. On the enemy side of things, [Unlimited Hostile Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/67479) and [Hand Placed Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/59249) increase the enemy count of the world. You'll need to prepare heavily to take on larger dungeons or bring along some followers.
+
+To round out the population mods, we also have [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718), [Man Those Borders](https://www.nexusmods.com/skyrimspecialedition/mods/29502), and [Populated Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/29452). Overall, the world is jam-packed with people.
 
 ## The Quest & Guild Mods
 WIP
@@ -85,19 +87,42 @@ WIP
 [Thaumaturgy](https://www.nexusmods.com/skyrimspecialedition/mods/57138), [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099), and [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) are all included to make magic as diverse as possible with a huge breadth of options. Pilgrim covers the religious aspect of the game, Thaumaturgy covers enchantments, and Mundus covers the various standing stones of the world.
 
 ## The Combat Mods
-The core of combat in LS4 is comprised of [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) and [MCO - ADXP](https://www.skyrim-guild.com/mods/attack), the former being a modern combat overhaul, complete with a custom stamina system and timed block mechanics, the latter being an animation overhaul for all attacks, bringing attack commitment and general combat gameplay more in line with modern action RPGs. To compliment this, [TK Dodge Re](https://www.nexusmods.com/skyrimspecialedition/mods/56956) allows you to dodge attacks, and [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) brings hitstop, swing trails, and realistic collision for a very tight and modern feeling combat package. Additionally, [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045) brings new depth to fights, allowing you to deal with enemies easier with a bit of planning. The [Archery](https://www.nexusmods.com/skyrimspecialedition/mods/10926) mod brings more realistic archery gameplay, with faster arrows and gravity to overhaul ranged combat.
+The core of combat in LS4 is comprised of [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741) and [MCO - ADXP](https://www.skyrim-guild.com/mods/attack), the former being a modern combat overhaul, complete with a custom stamina system and timed block mechanics, the latter being an animation overhaul for all attacks, bringing attack commitment and general combat gameplay more in line with modern action RPGs. To compliment this, [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) allows you to dodge attacks, and [Precision](https://www.nexusmods.com/skyrimspecialedition/mods/72347) brings hitstop, swing trails, and realistic collision for a very tight and modern feeling combat package. Additionally, [Know Your Enemy Redux](https://www.nexusmods.com/skyrimspecialedition/mods/55045) brings new depth to fights, allowing you to deal with enemies easier with a bit of planning. The [Archery](https://www.nexusmods.com/skyrimspecialedition/mods/10926) mod brings more realistic archery gameplay, with faster arrows and gravity to overhaul ranged combat.
 
 ## The Perks & Leveling Mods
-WIP
+At the core of the Living Skyrim leveling up process is [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751), which changes how you level up to require you to complete quests, explore, and clear dungeons. To make this process more rewarding, we've also included [Achieve That]() and [Perks From Questing](). You'll also find overhauled perk trees from [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191), [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639), and [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746). Living Skyrim also includes [Reading is Good](https://www.nexusmods.com/skyrimspecialedition/mods/42026) to make finding skill books more incentivizing.
 
 ## The Economy & Loot Mods
-WIP
+The economy in Living Skyrim is built to be as dynamic and interesting as the rest of the list, starting with [Economy Overhaul and Speechcraft Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/9542). Similarly, you'll also find the inclusion of [NPC Bartering](https://www.nexusmods.com/skyrimspecialedition/mods/21307) and [Trade Routes](https://www.nexusmods.com/skyrimspecialedition/mods/12358) to make trade something you can engage with fully. For completeness, [Khajiits Steal Too](https://www.nexusmods.com/skyrimspecialedition/mods/18231) is included to round out the caravaneer experience.
+
+On the loot side of things, we start with [Loot Overhaul - Rarity and Abundance](https://www.nexusmods.com/skyrimspecialedition/mods/26732). This makes loot more dynamic and interesting, especially when coupled with [Dynamic Dungeon Loot](https://www.nexusmods.com/skyrimspecialedition/mods/10308), [Narrative Loot](https://www.nexusmods.com/skyrimspecialedition/mods/12812), and [Lock Related Loot](https://www.nexusmods.com/skyrimspecialedition/mods/11342). For you treasure hunters out there, Living Skyrim also includes [New Treasure Hunt](https://www.nexusmods.com/skyrimspecialedition/mods/19469).
 
 ## The HUD Mods
-WIP
+As with all versions of Living Skyrim, the HUD and menus have been completely overhauled. At the base, we have [Nordic UI]() to bring a consistent and much improved look to the entire menu and HUD setup. You'll also find your usual suspects like [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688), [A Matter of Time](https://www.nexusmods.com/skyrimspecialedition/mods/12937), [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252), and [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775). Living Skyrim also includes a number of additions and improvements to the vanilla HUD experience such as a custom main menu setup, [Detection Meter](https://www.nexusmods.com/skyrimspecialedition/mods/63057), [Oxygen Meter 2](https://www.nexusmods.com/skyrimspecialedition/mods/64532), [Security Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/58224), [Atlas Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/24104), and [Compass Navigation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/74484).
 
 ## Player Homes
-WIP
+Living Skyrim features a number of new and improved player homes to suit all your characters' needs.
+
+|     **New Player Homes**    | **Improved Player Homes** |
+|:---------------------------:|:-------------------------:|
+| Squatter Shacks - Riverwood | Raven's Breezehome        |
+| The Tiniest Shack           | Riverside Shack           |
+| Moonlight Cottage           | TNF Skyrim House Remodel  |
+| Morskom Estate              |                           |
+| The Winking Skeever Loft    |                           |
+| Routa                       |                           |
+| Gleamblossom Hollow         |                           |
+| Redspire Manor              |                           |
+| Astronomer's Loft           |                           |
+| Canalside Bunker            |                           |
+| Faerdham                    |                           |
+| Dovahkiin's Vault           |                           |
+| Zulfardin                   |                           |
+| Niflholm                    |                           |
+| Pinewood Manor              |                           |
+| Somnolent Nook              |                           |
+| Solitude Rectory            |                           |
+| Mona Alta                   |                           |
 
 ## Quality of Life
 WIP
