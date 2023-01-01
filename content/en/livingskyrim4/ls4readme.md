@@ -1,6 +1,6 @@
 ---
-title: "LS4 Beta Installation Instructions"
-description: "Living Skyrim 4's Beta installation instructions."
+title: "Installation Instructions"
+description: "Living Skyrim 4's installation instructions."
 lead: ""
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
