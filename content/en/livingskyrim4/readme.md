@@ -108,29 +108,30 @@ If you are updating your existing installation of Living Skyrim, skip to the [Up
 
 It’s now time to begin the installation of the list. Follow these steps:
 
-1. Download the latest installer file [here.](https://drive.google.com/file/d/1vuKQXdaRcAWVLPoBi2efUQ2bgfCmFq6G/view?usp=share_link)
-2. Run Wabbajack.exe.
-3. At the bottom of the window, click Install From Disk
-4. Locate the Living Skyrim installer file you downloaded and open it.
-5. Below the image you see of the Living Skyrim logo, there are three text boxes. The second and third need to be filled out.
-6. Click the three dots in the second (middle) box. Navigate to your Living Skyrim folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
-7. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
-8. Click the play/right arrow button to begin the installation.
+1. Run Wabbajack.exe.
+2. At the bottom of the window, click Browse Modlists.
+3. Put a check into the "Show Unofficial Lists" checkbox at the top of the window.
+4. Locate the Living Skyrim card and click the download button to download the installer file.
+5. Once downloaded, click the play button.
+6. Below the image you see of the Living Skyrim logo, there are three text boxes. The second and third need to be filled out.
+7. Click the three dots in the second (middle) box. Navigate to your Living Skyrim folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
+8. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
+9. Click the play/right arrow button to begin the installation.
 
 | With Nexus Premium | Without Nexus Premium |
 | :--- | :--- |
-| 9. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn’t happen, it isn’t a problem and means you’ve already set this up. | 9. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn’t required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it. |
-| 10. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most).  | |
+| 10. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn’t happen, it isn’t a problem and means you’ve already set this up. | 10. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn’t required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it. |
+| 11. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). Take this opportunity to read the [Before you Start](/livingskyrim4/beforeyoustart/) section of the readme. | |
 
 {{< alert context="warning" icon="⚠️" >}}
 **Important!** 
 
-Reading the Before You Start section of this document is not optional. You won't have any idea what's going on if you don't.
+Reading the Before You Start section of this documentation is not optional. You won't have any idea what's going on if you don't.
 {{< /alert >}}
 
 Once complete, Wabbajack will indicate it is done with a green box that says "Installation complete". You may exit Wabbajack after this appears.
 
-If it does not complete successfully (a red box with "Installation failed"), visit the [Living Skyrim Discord server](https://discord.gg/NdmGpGzqg8) for assistance. 
+If it does not complete successfully (a red box with "Installation failed"), consult the [Troubleshooting](/livingskyrim4/lsissiues/) page of the readme, or visit the [Living Skyrim Discord server](https://discord.gg/thg2eRxf7z) for assistance. 
 
 ## Post-Wabbajack Install
 
@@ -180,15 +181,16 @@ If you are updating Living Skyrim, the process is very similar to installing the
 **Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#ls-announcements` channel on the Living Skyrim Discord server before updating.**
 {{< /alert >}}
 
-1. Download the latest installer file [here.](https://drive.google.com/file/d/1vuKQXdaRcAWVLPoBi2efUQ2bgfCmFq6G/view?usp=share_link)
-2. Run Wabbajack.exe.
-3. At the bottom of the window, click Install From Disk
-4. Locate the Living Skyrim installer file you downloaded and open it.
-5. Below the image you see of the Living Skyrim logo, there are three text boxes. The second and third need to be filled out.
-6. Click the three dots in the second (middle) box. Navigate to your Living Skyrim folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
-7. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
-8. Click the play/right arrow button to begin the installation.
-9. If you are prompted to overwrite, confirm that this is what you want to do by clicking the Confirm button.
+1. Run Wabbajack.exe.
+2. At the bottom of the window, click Browse Modlists.
+3. Put a check into the "Show Unofficial Lists" checkbox at the top of the window.
+4. Locate the Living Skyrim card and click the download button to download the installer file.
+5. Once downloaded, click the play button.
+6. Below the image you see of the Living Skyrim logo, there are three text boxes. The second and third need to be filled out.
+7. Click the three dots in the second (middle) box. Navigate to your Living Skyrim folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
+8. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
+9. Click the play/right arrow button to begin the installation.
+10. If you are prompted to overwrite, confirm that this is what you want to do by clicking the Confirm button.
 
 ## Launching Living Skyrim
 To actually launch and then play Living Skyrim, follow these steps:
@@ -210,7 +212,7 @@ To actually launch and then play Living Skyrim, follow these steps:
 {{< /alert >}}
 
 ## The MCM Settings
-See this document to set the MCMs that are required for LS4 to function correctly: [Click Here](https://www.fgsmodlists.com/ls4mcm)
+See this document to set the MCMs that are required for LS4 to function correctly: [Click Here](https://www.fgsmodlists.com/livingskyrim4/mcm)
 
 ### Bug Reporting
 
