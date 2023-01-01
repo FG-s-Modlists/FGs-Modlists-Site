@@ -8,15 +8,6 @@ draft: false
 images: []
 ---
 
----
-title: "The Road to Living Skyrim 4"
-description: ""
-date: 2020-08-27T19:25:12+02:00
-lastmod: 2020-08-27T19:25:12+02:00
-draft: false
-images: []
----
-
 <iframe width="640" height="480" src="https://www.youtube.com/embed/kIADM1pL6W4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="\images\LS4Logo.png"><br>
