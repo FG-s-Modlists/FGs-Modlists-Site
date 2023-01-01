@@ -1,7 +1,7 @@
 {{ if .Site.Params.options.collapsibleSidebar -}}
   <ul class="list-unstyled collapsible-sidebar">
   {{ $currentPage := . -}}
-  {{ range $index, $element := .Site.Menus.livingskyrim -}}
+  {{ range $index, $element := .Site.Menus.livingskyrim3 -}}
   {{- $active := or ($currentPage.IsMenuCurrent "livingskyrim3" .) ($currentPage.HasMenuCurrent "livingskyrim3" .) -}}
   {{- $active = or $active (eq $currentPage.Section .Identifier) -}}
     <li class="mb-1">
