@@ -1,5 +1,5 @@
 ---
-title: "LS4 Before You Start"
+title: "Before You Start"
 description: ""
 date: 2020-08-27T19:25:12+02:00
 lastmod: 2020-08-27T19:25:12+02:00
@@ -8,6 +8,7 @@ menu:
   livingskyrim4:
     parent: "living skyrim 4"
 images: []
+weight: 20
 toc: true
 ---
 Before you get started installing or playing Living Skyrim, it's important to note a few things:
