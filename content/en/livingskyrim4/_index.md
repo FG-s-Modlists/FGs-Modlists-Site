@@ -23,11 +23,3 @@ Living Skyrim 3 is a great example of the pillar of Content. It's full of quests
 ### Roleplay
 
 I've always wanted a list where I can write out a backstory for a character and then act like that character in the game. I want to be able to *be* my character. Living Skyrim 3 does a decent job of this, but I feel like we can improve this in so many ways. Some new mods have come out recently that lean into this idea heavily, and there are plenty of things we can look into to really bring this idea to life. Now, some might say that the idea of mods that add things like attributes or skill bonuses from early life aren't in the spirit of roleplay - for example, how do you roleplay a character with an Intelligence attribute of 16? - I feel that these sorts of things are important for quantifying and informing decisions you make in the game. So these systems will still be present in Living Skyrim 4. 
-
-## Everything with Intention
-
-I want to be able to point to any random mod in the list and have a good reason for that mod's inclusion. Saying "FG likes the mod" isn't a good enough reason anymore. Now, there is a fairly large caveat to this, and that's graphics. Graphics are entirely subjective and what I like isn't what you like. With those, I instead want to be able to say that "these graphics mods fit together". And by that, I mean that I want the look of the world to be consistent. Things shouldn't be out of place and shouldn't look like they're cobbled together from ten different artists. So when I say everything with intention, I mean that I want every mod in the list to have a reason for being there or be a piece of the whole that fits nicely with the rest.
-
-## No Stone Left Unturned
-
-When we're done with the Living Skyrim 4 beta, I want to be able to release the list and say with confidence that the list works. And works well. To this end, even before the Beta is released, myself and the Living Skyrim staff will have played every major questline (and most of the minor ones) to guarantee functionality. Civil War, Main Story, Thieves' Guild, College of Winterhold, Companions, both DLCs - I want it all to work. And work well. On day one of Living Skyrim 4's public release you should be able to sit down with confidence and say "yes, I *can* put 200 hours into this character".
