@@ -111,7 +111,7 @@ It’s now time to begin the installation of the list. Follow these steps:
 | With Nexus Premium | Without Nexus Premium |
 | :--- | :--- |
 | 9. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn’t happen, it isn’t a problem and means you’ve already set this up. | 9. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn’t required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it. |
-| 10. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). Take this opportunity to read the [Before you Start](/livingskyrim/beforeyoustart/) section of the readme. | |
+| 10. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). Take this opportunity to read the [Before you Start](/livingskyrim3/beforeyoustart/) section of the readme. | |
 
 {{< alert context="warning" icon="⚠️" >}}
 **Important!** 
@@ -121,7 +121,7 @@ Reading the Before You Start section of this document is not optional. You won't
 
 Once complete, Wabbajack will indicate it is done with a green box that says "Installation complete". You may exit Wabbajack after this appears.
 
-If it does not complete successfully (a red box with "Installation failed"), consult the [Troubleshooting](/livingskyrim/lsissiues/) page of the readme, or visit the [Living Skyrim Discord server](https://discord.gg/thg2eRxf7z) for assistance. 
+If it does not complete successfully (a red box with "Installation failed"), consult the [Troubleshooting](/livingskyrim3/lsissiues/) page of the readme, or visit the [Living Skyrim Discord server](https://discord.gg/thg2eRxf7z) for assistance. 
 
 ## Post-Wabbajack Install
 
@@ -201,11 +201,11 @@ To actually launch and then play Living Skyrim, follow these steps:
 {{< /alert >}}
 
 ## The MCM Settings
-See this document to set the MCMs that are required for LS3 to function correctly: [Click Here](/livingskyrim/mcm)
+See this document to set the MCMs that are required for LS3 to function correctly: [Click Here](/livingskyrim3/mcm)
 
 ## Common Issues
 
-If you encounter any issues, click here to visit the [LS Troubleshooting](/livingskyrim/lsissiues) page.
+If you encounter any issues, click here to visit the [LS Troubleshooting](/livingskyrim3/lsissiues) page.
 
 ### Bug Reporting
 
@@ -225,4 +225,4 @@ If we need additional information about the bug, we will contact you via Discord
 
 ## Performance Optimizations
 
-Click here to visit the [Performance Optimizations](/livingskyrim/performanceguide) guide for Living Skyrim.
+Click here to visit the [Performance Optimizations](/livingskyrim3/performanceguide) guide for Living Skyrim.
