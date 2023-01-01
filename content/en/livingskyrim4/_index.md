@@ -12,8 +12,6 @@ images: []
 
 ## The Pillars of Living Skyrim
 
-Over time I feel that the list has somewhat shifted from its original goals and purposes. For those of you who aren't familiar or perhaps would just like a refresher, Living Skyrim has always been about three things: Life, Content, and Roleplay. These are the things that make Living Skyrim into what it is. These are also the things we need to get back to with Living Skyrim 4.
-
 ### Life
 
 Living Skyrim has always been about breathing life into Skyrim. When playing without mods I always felt that the world was so empty. And I don't just mean for NPCs - grass was sparse, trees and other flora were lacking, the world just didn't feel *alive*. The lack of NPCs certainly didn't help. With Living Skyrim 4, we'll be going back to this pillar in a big way. The world should feel bursting at the seams with life. And I mean life in every definition of the word: creatures, NPCs, grass, trees, flowers, and so on. 
