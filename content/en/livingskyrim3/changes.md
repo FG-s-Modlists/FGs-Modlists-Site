@@ -13,6 +13,10 @@ weight: 50
 toc: true
 ---
 
+{{< alert context="info" icon="ℹ️" >}}
+**Living Skyrim 3 has been archived and is no longer available for download. These pages are provided as legacy support, but no further support will be provided for the list.**
+{{< /alert >}}
+
 ### 4/30/2022 3.8.4
 #### Incremental
 - Fixes

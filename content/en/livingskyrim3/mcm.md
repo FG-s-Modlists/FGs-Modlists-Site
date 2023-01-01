@@ -13,6 +13,10 @@ weight: 40
 toc: true
 ---
 
+{{< alert context="info" icon="ℹ️" >}}
+**Living Skyrim 3 has been archived and is no longer available for download. These pages are provided as legacy support, but no further support will be provided for the list.**
+{{< /alert >}}
+
 ## Getting Started in Living Skyrim
 If you’re coming from a previous version of Living Skyrim (1.x.x or 2.x.x), throw out everything you thought you knew. If you’re new to Living Skyrim, welcome! It’s gonna be a bumpy ride - at first.
 

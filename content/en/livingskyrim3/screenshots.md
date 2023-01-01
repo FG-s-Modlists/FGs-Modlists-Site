@@ -13,6 +13,10 @@ weight: 90
 toc: true
 ---
 
+{{< alert context="info" icon="ℹ️" >}}
+**Living Skyrim 3 has been archived and is no longer available for download. These pages are provided as legacy support, but no further support will be provided for the list.**
+{{< /alert >}}
+
 Right click on an image and click "Open in new tab" to see larger versions.
 
 <img src="\images\LSGallery\Gallery1.webp"><br>

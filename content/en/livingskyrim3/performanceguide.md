@@ -13,6 +13,10 @@ weight: 70
 toc: true
 ---
 
+{{< alert context="info" icon="ℹ️" >}}
+**Living Skyrim 3 has been archived and is no longer available for download. These pages are provided as legacy support, but no further support will be provided for the list.**
+{{< /alert >}}
+
 ## Disclaimers
 
 If you need assistance with this guide, please don't hesitate to visit the Living Skyrim Discord server for help.
