@@ -14,7 +14,7 @@ toc: true
 ---
 
 ### 1/1/2023 4.0.0.5 Beta 5
-### Minor
+#### Minor
 - Fixes
   - Fixed 99.9% of terrain issues
   - Fixed Lux not doing anything
