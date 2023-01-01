@@ -11,39 +11,34 @@ images: []
 - FG's Modlists Administrators
   - celadoneiron
   - Dace617
-  - Volk
+  - GravenImages
+  - Vyra
 - FG's Modlists Dev Team:
   - Astrid
   - Hajo
-  - JaxomofRuatha
-  - Rite of Spring
-  - TwistedModding
+  - Alabast
+  - Dr.Frosty
+  - Eikonoklaste
   - LunaPapilio
   - Day7
   - sweinen
-  - Torcha09
+  - 𝔐𝔦𝔰𝔰 ℭ𝔬𝔯𝔯𝔲𝔭𝔱𝔦𝔬𝔫 [腐敗少女]
   - zarantha
 - FG's Modlists Discord Staff:
+  - Alabast
   - Aronax
-  - ChunkeeMunkee
+  - Chanka
   - Deadbeat-Senpai
-  - Dr.Frosty
-  - Eikonoklaste
   - Flora
-  - Gooala
-  - goolito
-  - GravenImages
-  - Jazz24
-  - Logan
+  - MaiNeym
+  - Mr. Horny
   - Rhone
-  - rme0722
   - Sae the Intern
   - scraunch
   - Sean Misses Scotch
-  - Shiv
   - Tamara
   - The Arcane Archer
-  - Vyra
+  - Warden
 - Contributors & Beta Testers:
   - Patchier
   - DwarfDude
