@@ -8,6 +8,7 @@ menu:
   livingskyrim4:
     parent: "living skyrim 4"
 images: []
+toc: true
 ---
 Before you get started installing or playing Living Skyrim, it's important to note a few things:
 
