@@ -10,12 +10,6 @@ images: []
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/kIADM1pL6W4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="\images\LS4Logo.png"><br>
-
-## Why Living Skyrim 4?
-
-Originally, the plan was to do incremental builds on Living Skyrim 3, and then, once the list was ready, call it Living Skyrim 4. As we began to dig into what needed doing for Living Skyrim v3.9.0, we realized that a lot of the work would be better served if we just rebuilt the list from scratch. So we decided to just do that. That said, Living Skyrim 4 will have a lot more similarities to LS3 than LS3 does to LS2. Whereas going from LS2 to LS3 was a huge shift, going from LS3 to LS4 is more going to be a "much the same, but also different".
-
 ## The Pillars of Living Skyrim
 
 Over time I feel that the list has somewhat shifted from its original goals and purposes. For those of you who aren't familiar or perhaps would just like a refresher, Living Skyrim has always been about three things: Life, Content, and Roleplay. These are the things that make Living Skyrim into what it is. These are also the things we need to get back to with Living Skyrim 4.
@@ -39,34 +33,3 @@ I want to be able to point to any random mod in the list and have a good reason 
 ## No Stone Left Unturned
 
 When we're done with the Living Skyrim 4 beta, I want to be able to release the list and say with confidence that the list works. And works well. To this end, even before the Beta is released, myself and the Living Skyrim staff will have played every major questline (and most of the minor ones) to guarantee functionality. Civil War, Main Story, Thieves' Guild, College of Winterhold, Companions, both DLCs - I want it all to work. And work well. On day one of Living Skyrim 4's public release you should be able to sit down with confidence and say "yes, I *can* put 200 hours into this character".
-
-## Power To The People
-
-Living Skyrim 3 has several pieces that people have pointed to and said "This is against the spirit of modding." And I see their point. There are several merges that are obtuse to navigate at best and make modifying the list downright impossible at worst. Additionally, the list is near the plugin limit. While some might claim this is intentional to catch people who make modifications to the list, this simply isn't true. Yes, the list is near the plugin limit which sets an arbitrary limit on how much people can modify the list, but it isn't intentional. With Living Skyrim 4, we will only merge mods if absolutely necessary and we will ESL every possible plugin to stay as far below the plugin limit as possible. We still won't be supporting Rule 11, but you shouldn't have to bang your head against figurative walls to even begin the process.
-
-## Specifics?
-
-Here's what I have that I am ready to reveal. More will be added as I make decisions.
-
-### Graphics
-
-Once again the graphics package will be receiving an overhaul. It will be familiar enough to still be Living Skyrim but will include a number of new mods and replacements to freshen things up. The goal here is gorgeous and performant. We want the game to look as good as possible without lighting your computer on fire. The current graphics package will also be propogated to Atelier 2 and be used as a baseline for that list. For your enjoyment, here are some early screenshots. Please note that these screenshots are not final and may be subject to change at any point.
-
-For more information about LS4's graphics, check [Dev Diary 2](https://www.fgsmodlists.com/blog/living-skyrim-4-dev-diary-2/).
-
-<img src="https://i.imgur.com/I4SHH94.jpeg"><br>
-<img src="https://i.imgur.com/HzsDJ77.jpg"><br>
-<img src="https://i.imgur.com/Nb4ZqbM.jpeg"><br>
-<img src="https://i.imgur.com/SGhtbES.jpeg"><br>
-
-### Character Customization
-
-LS4 will be including Masterstroke's entire character customization library. This means that you'll be able to share character presets between Masterstroke and Living Skyrim 4. This change will eventually come to Path of the Dovahkiin and of course Atelier 2 so with the advent of LS4, if you make a character preset on one of my lists it will (eventually) work on every ForgottenGlory modlist. No more having to choose which list to use to make your preset!
-
-### NPC Visual Overhaul
-
-The LS4 NPC Visual Overhaul will feature hand-picked overhauls for every named NPC. NPC visuals will be pulled from a large number of mods and combined into a single NPC Visual Overhaul specifically for the list. The goal here was to pick what I felt was "the best" or my personal favorite for each NPC that has a name. Generic NPCs like bandits and such will still be overhauled, but not to the level of detail as named NPCs. However, I will say that I specifically avoided mods that made characters too "anime" or "supermodel". I wanted there to be a good variety between pretty and ugly and while not perfectly realistic, every NPC should fall into the realm of "possible."
-
-### Audio
-
-The music and sound effects will be much the same as they are currently in LS3. However, there will be a few new mods that overhaul some creature sounds and voice lines to increase quality or make general improvements over the vanilla sounds and voice lines. I feel that audio is an often neglected area of modlists and I wanted to make the audio experience of the game as high quality and interesting as the rest of the list.
