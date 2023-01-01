@@ -1,6 +1,6 @@
 ---
-title : "Living Skyrim"
-description: "A description of Living Skyrim."
+title : "Living Skyrim 3"
+description: "A description of Living Skyrim 3."
 lead: ""
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00

@@ -7,8 +7,8 @@ lastmod: 2020-10-13T15:21:01+02:00
 draft: false
 images: []
 menu:
-  livingskyrim:
-    parent: "living skyrim"
+  livingskyrim3:
+    parent: "living skyrim 3"
 weight: 20
 toc: true
 ---
