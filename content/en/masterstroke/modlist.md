@@ -13,4 +13,4 @@ weight: 60
 toc: true
 ---
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTAHWz0rpW9e3khTKF_0GIRDF094zn525fm3ngSO6dFX1dJtOXsaevBDxtXhwomSDJC46ER9loO9jZ4/pubhtml?gid=2146552885&amp;single=true&amp;widget=true&amp;headers=false" height="1000" width="875"></iframe>
+<iframe src="https://loadorderlibrary.com/lists/masterstroke-16/embed/modlist.txt" width="875" height="1000" sandbox="allow-scripts" ></iframe>
