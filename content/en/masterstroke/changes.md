@@ -13,6 +13,51 @@ weight: 50
 toc: true
 ---
 
+### 1/6/2023 1.5.2
+#### Incremental
+- Fixes
+  - Fixed CTD caused by Mu Joint Fix
+  - Fixed missing Vanity Mirror in ROL (Thanks Dace!)
+  - Fixed some BFBs
+- Mod Updates
+  - moreHUD 4.1.2
+  - moreHUD Inventory Edition 1.0.20
+  - Administer Potions to NPCs SE 3.1
+  - Improved Traps 2.5
+  - Archery Locational Damage 2.1.2
+  - Simple Offence Suppression 2.2.1
+  - Equipment Toggle 1.1.0
+  - .NET Script Framework v18
+  - Assorted Mesh Fixes 0.77
+  - Actor Limit Fix v5
+  - Bug Fixes SSE v6
+  - Better Jumping 1.7.3
+  - Equip Enchantment Fix 1.3.5
+  - Enhanced Reanimation 1.5.1
+  - Private Profile Redirector 0.5.3
+  - Spell Perk Item Distributor 6.3.0
+  - Baka Defeat 1.50
+  - Laura's Bondage Shop 3.41
+- Additions
+  - Both Profiles
+    - Dark Bodyslide Preset III
+    - Dark Bodyslide Preset II
+    - Touched by Desire Curves Bodyslide Preset
+    - My Tasteful Bodyslide Preset
+    - Berry Mommy Bodyslide Preset
+    - Empyrean Bodyslide Preset
+    - Show Player In Menus
+    - Immersive Equipment Displays
+    - Let Your Hair Down
+    - SDA Patch Hub
+    - Damsels in Distress - The Caged Rose
+    - Damsels in Distress - Follower Collection
+    - TRX SOS/Futa Add-Ons
+- Replacements
+  - NPC AI Process Postion Fix -> NPC AI Process Position Fix NG
+- Removals
+  - Mu Joint Fix
+
 ### 12/30/2022 1.5.1
 #### Incremental
 - Fixes
