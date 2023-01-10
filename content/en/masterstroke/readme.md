@@ -52,11 +52,6 @@ Click the link to open a page on the Microsoft Website to download the .NET runt
 
 - [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
 
-
-### Skyrim Special Edition Creation Kit.
-
-You must now install Skyrim Special Edition Creation Kit through Steam *on the same drive as your Skyrim: Special Edition installation*. The install of the list will not proceed without it.
-
 ### Steam & SSE Setup
 {{< alert context="danger" icon="🛑" >}}
 **WARNING!**
