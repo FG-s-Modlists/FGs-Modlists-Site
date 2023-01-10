@@ -13,6 +13,27 @@ weight: 50
 toc: true
 ---
 
+### 1/10/2023 1.5.3
+#### Incremental
+- Fixes
+  - Fixed mismatched TRX textures & bodyslides
+  - Possibly fixed missing item objects in container/barter menus
+  - Probably fixed issues related to attack speed
+- Mod Updates
+  - Horny Creatures of Skyrim 2.0
+  - Public Whore 1.2.4
+  - Show Player In Menus 1.3.0
+  - Let Your Hair Down 1.6
+  - MoreNastyCritters 15
+- Additions
+  - Both Profiles
+    - Animation Queue Fix
+    - Lovely Lady 3BA Bodyslide Preset
+    - Attack Speed Framework
+- Other
+  - Updated MCM Recordings
+  - Regenerated FNIS/Nemesis Output
+
 ### 1/6/2023 1.5.2
 #### Incremental
 - Fixes
