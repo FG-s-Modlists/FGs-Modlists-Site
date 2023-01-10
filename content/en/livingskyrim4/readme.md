@@ -18,7 +18,6 @@ toc: true
 The following are *absolutely required* to begin installation of Living Skyrim 4. These must all be installed and up to date before you begin.
 
 - [Skyrim Special Edition (Steam, v1.6.640)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
-- [Skyrim Special Edition: Creation Kit (Steam)](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/)
 - [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 - [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
 - 350GB of available space on a hard drive/SSD/NVMe. (120GB downloads/217GB mods/13GB Stock Game)
@@ -83,8 +82,6 @@ Afterwards, you need to disable automatic updates for Skyrim to avoid a game upd
 3. In Steam, configure Skyrim's language to English. (Right-click > Properties… > Language > Select 'English' in the dropdown list)
 
 Once the above steps are completed, launch Skyrim SE through Steam to create any INI or registry entries the game needs. Immediately exit the launcher once it has successfully selected a graphics preset for your hardware. The INIs it just created will be overwritten by the ones included in the modlist, but this is a necessary step for Wabbajack to recognize that you have the game installed.
-
-Last, but certainly not least, make sure you have installed the Skyrim Special Edition Creation Kit in Steam.
 
 ### Wabbajack Preparations
 We’ll now setup the folders needed for the installation to proceed smoothly.
