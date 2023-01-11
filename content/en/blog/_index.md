@@ -1,6 +1,6 @@
 ---
-title: "Docsy Blog"
-linkTitle: "Blog"
+title: "FG's Modlists News"
+linkTitle: "News"
 menu:
   main:
     weight: 30
