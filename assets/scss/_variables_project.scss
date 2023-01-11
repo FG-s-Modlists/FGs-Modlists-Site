@@ -4,8 +4,82 @@ Add styles or override variables from the theme here.
 
 */
 
-$td-sidebar-bg-color: #403F4C;
+$td-sidebar-bg-color: #212529;
+$link-color: #98d6fd;
+$link-hover-color: #dee2e6;
+
+$td-sidebar-tree-root-color: #98d6fd;
+$td-sidebar-border-color: #dee2e6;
+
+$pagination-color: #dee2e6;
+$pagination-disabled-color: #dee2e6;
+
+$navbar-dark-color: #dee2e6;
+$navbar-dark-active-color: #dee2e6;
+
+$table-color: #dee2e6;
+
+$dark: #212529;
 
 body {
-    background-color: #403F4C;
+    color: #dee2e6;
+    background-color: #212529;
+}
+
+footer {
+    background-color: #212529;
+}
+
+bg-dark {
+    background-color: #212529;
+}
+
+container-fluid {
+    background-color: #212529;
+}
+
+main {
+    color: #dee2e6;
+    background-color: #212529;
+}
+
+aside {
+    color: #dee2e6;
+    background-color: #212529;
+}
+
+td-main {
+    color: #dee2e6;
+}
+
+td-breadcrumbs {
+    color: #dee2e6;
+}
+
+td-sidebar {
+    color: #dee2e6;
+}
+
+btn-link {
+    color: #dee2e6;
+}
+
+td-search {
+    color: #dee2e6;
+}
+
+td-sidebar-menu {
+    color: #dee2e6;
+}
+
+nav-item {
+    color: #dee2e6;
+}
+
+nav-link {
+    color: #dee2e6;
+}
+
+.td-toc #TableOfContents a {
+    color: #dee2e6;
 }
