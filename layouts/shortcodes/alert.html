@@ -1,13 +1,10 @@
-<div class="alert alert-{{ with .Get "context" }}{{.}}{{ else }}doks{{ end }} d-flex" role="alert">
-  <div class="flex-shrink-1 alert-icon">{{ with .Get "icon" }}{{.}} {{ end }}</div>
-  {{ with .Get "text"}}
-    <div class="w-100">{{ . | safeHTML }} </div>
-  {{ else }}
-    {{ with .Inner}}
-      <div class="w-100"> {{ . | markdownify}}</div>
-    {{ else }}
-      {{ errorf "No valid text variable or Inner content given"}}
-    {{ end }}
-  {{ end}}
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $color := .Get "color" | default "primary" }}
+<div class="alert alert-{{ $color }}" role="alert">
+{{ with .Get "title" }}<h4 class="alert-heading">{{ . | safeHTML }}</h4>{{ end }}
+{{ if eq .Page.File.Ext "md" }}
+    {{ .Inner | markdownify }}
+{{ else }}
+    {{ .Inner | htmlUnescape | safeHTML }}
+{{ end }}
 </div>
-<br>
