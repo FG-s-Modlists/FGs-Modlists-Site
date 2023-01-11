@@ -2,7 +2,7 @@
 ---
 title: "News"
 linkTitle: "News"
-weight: 20
+weight: 2
 ---
 
 

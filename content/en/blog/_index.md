@@ -3,7 +3,7 @@ title: "FG's Modlists News"
 linkTitle: "News"
 menu:
   main:
-    weight: 30
+    weight: 2
 ---
 
 

@@ -197,6 +197,24 @@ enable = false
 #  desc = "Discuss development issues around the project"
 
 # hugo module configuration
+[[menu.main]]
+    name = "Wiki"
+    weight = 50
+    url = "https://wiki.fgsmodlists.com"
+[[menu.main]]
+    name = "Discord"
+    weight = 51
+    url = "https://discord.gg/thg2eRxf7z"
+[[menu.main]]
+    name = "Get Wabbajack"
+    weight = 52
+    url = "https://www.wabbajack.org/"
+[[menu.main]]
+    name = "Merch Shop"
+    weight = 52
+    url = "https://fgs-modlists-shop.myspreadshop.com"
+
+
 
 [module]
   # uncomment line below for temporary local development of module
