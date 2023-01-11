@@ -4,9 +4,4 @@ Add styles or override variables from the theme here.
 
 */
 
-$primary: #390040;
-$secondary: #A23B72;
-
-main {
-    background-color: --var(--bs-dark);
-}
+$td-sidebar-bg-color: $dark;
