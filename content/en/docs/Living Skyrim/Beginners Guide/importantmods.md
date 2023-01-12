@@ -14,7 +14,39 @@ Living Skyrim wouldn't be complete without an entire set of mods to increase the
 To round out the population mods, we also have [Immersive Patrols](https://www.nexusmods.com/skyrimspecialedition/mods/718), [Man Those Borders](https://www.nexusmods.com/skyrimspecialedition/mods/29502), and [Populated Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/29452). Overall, the world is jam-packed with people.
 
 ### The Quest & Guild Mods
-WIP
+Living Skyrim includes a huge number of changes, expansions, and entirely new quests. Almost everything that can be overhauled has been, as well as a selection of some of the best quest mods available.
+
+| Quest Changes | New Quests |
+| :--- | :--- |
+| [Timing is Everything](https://www.nexusmods.com/skyrimspecialedition/mods/25464) | [Vigilant](https://www.nexusmods.com/skyrimspecialedition/mods/11849) |
+| [Skyrim's Got Talent](https://www.nexusmods.com/skyrimspecialedition/mods/50357) | [Helgen Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/5673) | 
+| [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704) | [Carved Brink](https://www.nexusmods.com/skyrimspecialedition/mods/24351) |
+| [Opulent Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/931) | [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179)  |
+| [The Companions - Don't be a Milk Drinker](https://www.nexusmods.com/skyrimspecialedition/mods/19490) | [Moon and Star](https://www.nexusmods.com/skyrimspecialedition/mods/4301)  |
+| [Finding Helgi and Laelette](https://www.nexusmods.com/skyrimspecialedition/mods/28973) | [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155) |
+| [Finding Susanna Alive](https://www.nexusmods.com/skyrimspecialedition/mods/32512) | [Project AHO](https://www.nexusmods.com/skyrimspecialedition/mods/15996) |  
+| [Namira for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/336) | [Artifacts - The Tournament of the Ten Bloods](https://www.nexusmods.com/skyrimspecialedition/mods/15264) |  
+| [House of Horrors Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285) | [The Wheels of Lull](https://www.nexusmods.com/skyrimspecialedition/mods/748) |  
+| [Even Better Quest Objectives](https://www.nexusmods.com/skyrimspecialedition/mods/159) | [Faction - Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513) |  
+| [Thieves Guild Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) | [The Tale of Tsatampra Xiros](https://www.nexusmods.com/skyrimspecialedition/mods/36707) |  
+| [College of Winterhold Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/66666) | [Leaps of Faith](https://www.nexusmods.com/skyrimspecialedition/mods/53074) |  
+| [Paarthurnax Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711) | [Missives](https://www.nexusmods.com/skyrimspecialedition/mods/17576) |  
+| [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850) | [Sidequests of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/54245) |  
+| [Boethiah for Good Guys](https://www.nexusmods.com/skyrimspecialedition/mods/329) | [Solitude Museum](https://www.nexusmods.com/skyrimspecialedition/mods/36109) |  
+| [Improved College Entry](https://www.nexusmods.com/skyrimspecialedition/mods/22184) |  |  
+| [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847) |  |  
+| [Save the Icerunner](https://www.nexusmods.com/skyrimspecialedition/mods/34681) |  | 
+| [Choose Your Own Archmage](https://www.nexusmods.com/skyrimspecialedition/mods/30887) |  |   
+| [Collecting the Edda](https://www.nexusmods.com/skyrimspecialedition/mods/52081) |  |   
+| [After the Civil War](https://www.nexusmods.com/skyrimspecialedition/mods/20668) |  |   
+| [Civil War Aftermath](https://www.nexusmods.com/skyrimspecialedition/mods/3484) |  |   
+| [Caught Red Handed Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/65708) |  |   
+| [The Only Cure Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683) |  |   
+| [Nilheim Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792) |  |   
+| [Dawnguard Rewritten - Arvak](https://www.nexusmods.com/skyrimspecialedition/mods/11999) |  |   
+| [Finding Velehk Sain](https://www.nexusmods.com/skyrimspecialedition/mods/19815) |  |   
+| [Finding Derkeethus](https://www.nexusmods.com/skyrimspecialedition/mods/19550) |  |   
+| [Teldryn Serious](https://www.nexusmods.com/skyrimspecialedition/mods/5541) |  |   
 
 ### The Magic Mods
 [Smart Cast](https://www.nexusmods.com/skyrimspecialedition/mods/32847) has returned in Living Skyrim 4. With Smart Cast you can set up specific rules and conditions under which spells will be cast for you - assuming you have the magicka to cast them. It also lets you combine spells into a single cast, again, assuming you have the magicka to cast them both at the same time. This mod has quite a few features available, reading its mod page is highly recommended.
