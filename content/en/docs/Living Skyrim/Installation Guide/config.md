@@ -26,8 +26,8 @@ To switch between presets, launch ENB Organizer from within Mod Organizer 2. If 
 5. Click on the toggle under any other preset to enable it.
 6. Wait 10 seconds, then you're done!
 
-{{< alert context="danger" icon="🛑" >}}
-**WARNING!**
+{{< alert color="danger" title="Warning!" >}}
+<div class="alert-icon">🛑</div>
 
 **You should only ever have one ENB preset enabled. Having multiple enabled is a recipe for a Bad Time™.**
 {{< /alert >}}

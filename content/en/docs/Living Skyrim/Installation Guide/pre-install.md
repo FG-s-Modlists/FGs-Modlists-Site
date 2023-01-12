@@ -40,8 +40,8 @@ click the link to open a page on the Microsoft Website to download the .NET runt
 - [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
 
 ### Steam & SSE Setup
-{{< alert context="danger" icon="🛑" >}}
-**WARNING!**
+{{< alert color="danger" title="Warning!" >}}
+<div class="alert-icon">🛑</div>
 
 Before installing Living Skyrim, you should make sure Skyrim: Special Edition is up to date in Steam. If you have run a downgrade patcher or not updated yet, verifying the game files using Steam will fix any issues you may encounter during installation.
 {{< /alert >}}
@@ -77,8 +77,8 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 5. Download the latest version of Wabbajack from the Wabbajack website: Wabbajack.
 6. Place the Wabbajack.exe file you just downloaded into the folder you created earlier called Wabbajack.
 
-{{< alert context="danger" icon="🛑" >}}
-**WARNING!**
+{{< alert color="danger" title="Warning!" >}}
+<div class="alert-icon">🛑</div>
 
-**Failure to set up these folders properly will result in the install failing. For example, `[install drive]\Wabbajack\Living Skyrim` is incorrect.**
+Failure to set up these folders properly will result in the install failing. For example, `[install drive]\Wabbajack\Living Skyrim` is incorrect.
 {{< /alert >}}

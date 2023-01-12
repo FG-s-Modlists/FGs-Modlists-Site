@@ -209,5 +209,25 @@ _The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik 
 {{< alert color="warning" >}}This is a warning.{{< /alert >}}
 {{< alert color="warning" title="Warning" >}}This is a warning with a title.{{< /alert >}}
 
+{{< alert title="Info">}}
+<div class="alert-icon">ℹ️</div>
+This is an info alert.
+{{< /alert >}}
+
+{{< alert color="success" title="Success!">}}
+<div class="alert-icon">✅</div>
+This is a success alert.
+{{< /alert >}}
+
+
+{{< alert color="important" title="Important!">}}
+<div class="alert-icon">⚠️</div>
+This is an important alert.
+{{< /alert >}}
+
+{{< alert color="danger" title="Warning!" >}}
+<div class="alert-icon">🛑</div>
+This is a warning alert.
+{{< /alert >}}
 
 ## Another Heading

@@ -3,18 +3,20 @@
 .alert {
     font-weight: $font-weight-medium;
     background: #1b1f22;
-    color: inherit;
+    color: $dark;
     border-radius: 0;
 
     @each $color, $value in $theme-colors {
         &-#{$color} {
             & .alert-heading {
-                color: $value;
+                color: darken($value, 50%);
             }
 
-            border-style: solid;
+            background: lighten($value, 30%);
+            border-style: solid ;
             border-color: $value;
-            border-width: 0 0 0 4px;
+            border-width: 0px 10px 0px 40px;
+            border-radius: 5px;
         }
     }
 }

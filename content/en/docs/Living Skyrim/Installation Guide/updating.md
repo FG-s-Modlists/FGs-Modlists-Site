@@ -8,12 +8,14 @@ description: >
   How to update the list.
 ---
 
-If you are updating Living Skyrim, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
+If you are updating Living Skyrim, the process is very similar to installing the list. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
 
-{{< alert context="danger" icon="🛑" >}}
-**WARNING!**
+Wabbajack does support updating an existing installation of a modlist. However, as part of this process, it does delete files that don't match with what it is installing. This includes RaceMenu presets, mods you've added/changed, and possibly even save files. It is a good practice to keep backups of your save files so that you can update safely. Saves are stored within the folder you install Living Skyrim to.
 
-**Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#ls-announcements` channel on the Living Skyrim Discord server before updating.**
+{{< alert color="danger" title="Warning!" >}}
+<div class="alert-icon">🛑</div>
+
+Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#ls-announcements` channel on the Living Skyrim Discord server before updating.
 {{< /alert >}}
 
 1. Run Wabbajack.exe.
