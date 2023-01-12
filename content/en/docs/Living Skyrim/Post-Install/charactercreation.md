@@ -3,7 +3,7 @@ categories: ["Living Skyrim"]
 tags: ["docs"] 
 title: "Character Creation"
 linkTitle: "Character Creation"
-weight: 2
+weight: 1
 description: >
   How to create your character in Living Skyrim.
 ---
