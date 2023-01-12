@@ -5,7 +5,7 @@ title: "MCM Configuration"
 linkTitle: "MCM Configuration"
 weight: 2
 description: >
-  How to start out in Living Skyrim.
+  Required steps to configure mods in Living Skyrim.
 ---
 
 {{< alert color="important" title="Important!">}}
