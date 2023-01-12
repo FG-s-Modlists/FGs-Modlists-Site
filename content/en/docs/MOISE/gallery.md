@@ -5,7 +5,7 @@ title: "Screenshot Gallery"
 linkTitle: "Screenshot Gallery"
 weight: 3
 description: >
-  Words
+  In-game screenshots from the modlist.
 ---
 
 Right click on an image and click "Open in new tab" to see larger versions.
