@@ -8,7 +8,6 @@ description: >
   How to update the list.
 ---
 
-## Updating Living Skyrim
 If you are updating Living Skyrim, the process is very similar to installing the list. Before you update, you should at a minimum backup your save files. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
 
 {{< alert context="danger" icon="🛑" >}}

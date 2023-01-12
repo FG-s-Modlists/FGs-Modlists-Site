@@ -8,8 +8,6 @@ description: >
   Steps to complete before beginning installation.
 ---
 
-## Pre-Installation
-
 ### Pagefile Configuration
 
 Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
