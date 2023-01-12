@@ -3,7 +3,7 @@ categories: ["Living Skyrim"]
 tags: ["docs"] 
 title: "Start Here"
 linkTitle: "Start Here"
-weight: 2
+weight: 1
 description: >
   Information you need to know before beginning installing or playing Living Skyrim.
 ---

@@ -3,7 +3,7 @@ categories: ["Living Skyrim"]
 tags: ["docs", "how do i"] 
 title: "Minimum Requirements"
 linkTitle: "Minimum Requirements"
-weight: 1
+weight: 2
 description: >
   The minimum requirements to play Living Skyrim.
 ---
