@@ -5,5 +5,5 @@ title: "Installation Guide"
 linkTitle: "Installation Guide"
 weight: 2
 description: >
-  Words
+  Step-by-step instructions on how to install Masterstroke.
 ---
