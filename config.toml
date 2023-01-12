@@ -213,7 +213,7 @@ enable = false
     name = ""
     weight = 53
     url = "https://discord.gg/thg2eRxf7z"
-    pre = "<i class=\"fa-brands fa-github\"></i>"
+    pre = "<i class=\"fa-brands fa-discord\"></i>"
 [[menu.main]]
     name = ""
     weight = 54
