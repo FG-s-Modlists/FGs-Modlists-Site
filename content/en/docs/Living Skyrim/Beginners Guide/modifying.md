@@ -5,8 +5,12 @@ title: "Modifying Living Skyrim"
 linkTitle: "Modifying Living Skyrim"
 weight: 5
 description: >
-  The most important mods you need to know about.
+  Information about modifying Living Skyrim.
 ---
+
+{{< alert color="warning" title="Rule 11">}}
+**If you make modifications to these Modlists, you do so at your own risk. Unless otherwise specified, no support will be provided. Asking for support modding a list should be done within the Modding category on the Discord server. Additionally, do not suggest that someone break Rule 11 in an effort to fix issues with a list.**
+{{< /alert >}}
 
 Many Skyrim modders ask the question: “Can I add mods to Living Skyrim?” (Or, “Can I remove mods from Living Skyrim?”, or, “Can I change the mods included with Living Skyrim?”)
 
