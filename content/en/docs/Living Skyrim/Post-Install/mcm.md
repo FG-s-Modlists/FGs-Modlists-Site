@@ -3,7 +3,7 @@ categories: ["Living Skyrim"]
 tags: ["docs"] 
 title: "MCM Configuration"
 linkTitle: "MCM Configuration"
-weight: 1
+weight: 2
 description: >
   How to start out in Living Skyrim.
 ---
