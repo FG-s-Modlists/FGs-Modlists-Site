@@ -5,7 +5,7 @@ title: "Changelog"
 linkTitle: "Changelog"
 weight: 100
 description: >
-  The Living Skyrim changelog
+  The Living Skyrim changelog.
 ---
 
 ### 1/1/2023 4.0.0.5 Beta 5

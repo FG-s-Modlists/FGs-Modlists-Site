@@ -5,7 +5,7 @@ title: "Changelog"
 linkTitle: "Changelog"
 weight: 100
 description: >
-  The Masterstroke changelog
+  The Masterstroke changelog.
 ---
 
 ### 1/10/2023 1.5.3

@@ -5,7 +5,7 @@ title: "Changelog"
 linkTitle: "Changelog"
 weight: 100
 description: >
-  The MOISE changelog
+  The MOISE changelog.
 ---
 
 ### 1/5/2022 1.2.6
