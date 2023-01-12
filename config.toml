@@ -210,18 +210,17 @@ enable = false
     weight = 52
     url = "https://fgs-modlists-shop.myspreadshop.com"
 [[menu.main]]
-    name = "Discord"
+    name = ""
     weight = 53
     url = "https://discord.gg/thg2eRxf7z"
     pre = "<i class=\"fa-brands fa-github\"></i>"
-    post = "<span class='alert'>New!</span>"
 [[menu.main]]
-    name = "Patreon"
+    name = ""
     weight = 54
     url = "https://www.patreon.com/LivingSkyrim"
     pre = "<i class=\"fa-brands fa-patreon\"></i>"
 [[menu.main]]
-    name = "Ko-Fi"
+    name = ""
     weight = 55
     url = "https://ko-fi.com/forgottenglory"
     pre = "<i class=\"fa-solid fa-mug-saucer\"></i>"
