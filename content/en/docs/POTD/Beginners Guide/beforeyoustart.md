@@ -3,7 +3,7 @@ categories: ["POTD"]
 tags: ["docs"] 
 title: "Before You Start"
 linkTitle: "Before You Start"
-weight: 1
+weight: 2
 description: >
   Words
 ---
