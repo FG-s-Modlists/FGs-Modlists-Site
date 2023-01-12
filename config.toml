@@ -183,11 +183,11 @@ enable = false
     name = "Patreon"
     weight = 54
     url = "https://www.patreon.com/LivingSkyrim"
-    icon = "fa-brands fa-patreon"
+    icon = "fab fa-patreon"
 [[params.links.user]]
     name = "Ko-fi"
     url = "https://ko-fi.com/forgottenglory"
-    icon = "fa-solid fa-mug-saucer"
+    icon = "fa fa-mug-saucer"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
   name = "GitHub"
