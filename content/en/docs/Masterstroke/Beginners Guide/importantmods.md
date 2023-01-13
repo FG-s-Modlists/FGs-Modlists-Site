@@ -1,62 +1,12 @@
 ---
 categories: ["Masterstroke"]
 tags: ["docs"] 
-title: "Before You Start"
-linkTitle: "Before You Start"
-weight: 2
+title: "Important Mods"
+linkTitle: "Important Mods"
+weight: 4
 description: >
-  Words
+  The most important mods you need to know about.
 ---
-Before you get started installing or playing Masterstroke, it's important to note a few things:
-
-{{< alert context="warning" icon="⚠️" >}}
-**Important!** 
-
-Sections labeled important like this one will tell you when you need to pay extra attention to something.
-{{< /alert >}}
-
-{{< alert context="danger" icon="🛑" >}}
-**WARNING!**
-
-**Warning blocks like this one will warn you when you absolutely must not forget to do something. Failure to heed warning blocks is cause for disaster.**
-{{< /alert >}}  
-  
-### General Disclaimers
-- You are not required to have Nexus Premium to install Masterstroke, however, it is highly recommended. Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
-- As of v1.0.0, Masterstroke requires 279GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended. Download and installation times vary based on your computer and internet speeds, but expect the entire process to take a few hours. If you are installing the list without Nexus Premium, expect the process to take a couple of days of 8+ hour sessions downloading mods.
-- To maximize performance, Masterstroke should be installed on an SSD drive. While this is not necessary, installing on an HDD will result in extremely long load and startup times aswell as potential performace and stability issues.
-- If you are not familiar with the contents of this modlist, a complete documentation of every mod in the list including links to the mods is available on the Masterstroke Modlist Spreadsheet.
-- If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the Important Mods You Need to Know About of this document.
-- Autosaves for Masterstroke are disabled. You should make your quicksave button your best friend (usually, the F5 key).
-- Continuing the last point, it is always better to save **before** entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so.
-- Wabbajack does support updating an existing installation of a modlist. However, as part of this process, it does delete files that don't match with what it is installing. This includes RaceMenu presets, mods you've added/changed, and possibly even save files. It is a good practice to keep backups of your save files so that you can update safely. Saves are stored within the folder you install Masterstroke to.
-- In Masterstroke, NPCs and player characters are nude while wearing no armor/clothing.
-- Adding to, changing, or removing from Masterstroke is not supported. See the Adding to Masterstroke section of this document for more details.
-- As many common issues as I could find have been documented in the Common Issues section of this document. Refer to this before asking for support.
-- If you want some tips related to getting started playing the list, refer to the Beginner's Tips on the Character Creation & MCMs section of this document.
-- By default, Masterstroke has the game running in exclusive fullscreen mode to assist with game performance.
-
-### System Specifications
-The following system is ForgottenGlory's personal computer and is able to run the list at a constant 60FPS including ENB at 1440p monitor resolution. Use it as a guide to determine how your own computer might run the list.
-
-- CPU: AMD Ryzen 9 3900X @ 4.2GHz
-- RAM: G.Skill TridentZ Neo 32GB DDR4 3600MHz CL16
-- GPU: nVidia RTX 2080 Super 8GB (8192MB actual)
-- Monitor: Dell S2716DGR 2560x1440 @ 144hz
-- Storage: Sabrent Rocket 2TB M.2 NVMe 2280; Samsung EVO 860 250GB; SeaGate Barracuda 2TB 7200RPM
-
-In general, it is recommended that you have a processor with a clock speed of at least 3GHz and a graphics card with at least 6GB of VRAM. 4GB graphics cards may be able to run the list if you do not use ENB, but it is not guaranteed.
-
-As for RAM, 16GB is the minimum recommended specification for running the list. 32GB is the ideal amount, and anything more than that is honestly overkill for this list.
-
-### Important Links
-- [The Modlist Spreadsheet](/masterstroke/modlist)
-- [Masterstroke Bug Report Form](/masterstroke/bugreport)
-- [Masterstroke Keymap](http://www.keyboard-layout-editor.com/#/gists/0cd559c4d9f1a88b965b552e961a906c)
-- [Masterstroke Discord](https://discord.gg/thg2eRxf7z)
-- [Masterstroke Patreon](https://www.patreon.com/LivingSkyrim)
-
-## Important Mods You Need To Know About
 
 ### Core Gameplay
 
@@ -280,39 +230,3 @@ Masterstroke includes an optional creature profile allowing for even more degene
 - SL Parasites: Parasites!
 
 To use the Creature Profile, you should use the Profile dropdown menu in Mod Organizer 2 to switch to the Creature Profile.
-
-## Bug Reporting
-
-While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it's duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it's important that you report bugs you find on the Masterstroke Github so that it can be fixed for everyone.
-
-To report a bug, fill out this form: [Click Me!](/masterstroke/bugreport)
-
-After that, you've filed your bug report and the MS dev team will take a look at it as soon as possible.
-
-{{< alert context="warning" icon="⚠️" >}}
-**Important!** 
-
-If we need additional information about the bug, we will contact you via Discord.
-Please make sure to enter your full Discord username (Username#XXXX).
-
-{{< /alert >}}
-
-## Adding to Masterstroke
-
-Many Skyrim modders ask the question: “Can I add mods to Masterstroke?” (Or, “Can I remove mods from Masterstroke?”, or, “Can I change the mods included with Masterstroke?”)
-
-If you are asking this question from a perspective of just installing the mod and expecting it to work, then the answer is a resounding, unequivocal NO.
-
-The longer and slightly more technical answer is: “I don’t know, can you?”
-
-To expand on this: nobody knows whether you can add a certain mod or not. Adding to, changing, or removing from the list isn’t a yes/no question. In 99.9% of cases, the answer is, “Yes, but…“
-
-The “but…” part of that answer refers to the process of installing any mod and stems from a deeply rooted belief that mods are either compatible with each other, or they are not. Assuming that any mod is (or is not) compatible with any other mod is absurd. Every mod can be made to work with every other mod, the real questions you should be asking are: “How much work would it take to add this mod?” and “Do I have the knowledge, tools, and skills to add this mod?”
-
-And unfortunately, the answer to those questions is a resounding, unequivocal, “It depends.” And it depends on the answers to these questions, which you, and only you, can answer: Does it require compatibility/consistency patching in xEdit? Does it require modifications in Creation Kit? Does it require that it be loaded in a certain place in the load order? Does it need additional mods (which also require answers to these questions) to function?
-
-Lastly, I (ForgottenGlory) and the Masterstroke development team do not support this in any way, shape, or form. If you’re going to add a mod to Masterstroke, you need to be prepared to do it on your own. I understand this isn’t an ideal answer for people relatively new to modding, but you need to understand that hundreds of hours have been spent putting together Masterstroke, making it as stable as possible with all the mods working in harmony. Adding a bunch of random mods on top of it and then expecting it to “just work” is naive at best.
-
-“Can I add a mod to Masterstroke?”
-
-I don’t know, can you?
