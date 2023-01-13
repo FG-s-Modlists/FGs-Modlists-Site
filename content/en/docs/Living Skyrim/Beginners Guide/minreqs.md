@@ -1,6 +1,6 @@
 ---
 categories: ["Living Skyrim"]
-tags: ["docs", "how do i"] 
+tags: ["docs"] 
 title: "Minimum Requirements"
 linkTitle: "Minimum Requirements"
 weight: 2
