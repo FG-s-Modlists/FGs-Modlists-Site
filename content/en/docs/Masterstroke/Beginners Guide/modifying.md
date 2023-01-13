@@ -8,6 +8,11 @@ description: >
   Information about modifying Masterstroke.
 ---
 
+{{< alert color="danger" title="Rule 11">}}
+<div class="alert-icon">🛑</div>
+If you make modifications to these Modlists, you do so at your own risk. Unless otherwise specified, no support will be provided. Asking for support modding a list should be done within the Modding category on the Discord server. Additionally, do not suggest that someone break Rule 11 in an effort to fix issues with a list.
+{{< /alert >}}
+
 Many Skyrim modders ask the question: “Can I add mods to Masterstroke?” (Or, “Can I remove mods from Masterstroke?”, or, “Can I change the mods included with Masterstroke?”)
 
 If you are asking this question from a perspective of just installing the mod and expecting it to work, then the answer is a resounding, unequivocal NO.
