@@ -21,7 +21,6 @@ Warning blocks like this one will warn you when you absolutely must not forget t
 {{< /alert >}}
 
 - If you instead only wish for a brief overview of the major changes this modlist makes, you should refer to the [Important Mods](/docs/masterstroke/beginners-guide/importantmods) You Need to Know About section of this document.
-- As of v1.0.0, Masterstroke requires 279GB of hard drive space on top of the ~11GB Skyrim: Special Edition base files. Installing to an SSD/NVMe is not required, but also highly recommended.
 - Autosaves for Masterstroke are disabled. You should make your quicksave button your best friend (usually, the F5 key).
 - Continuing the last point, it is always better to save **before** entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so. When practical, try to avoid saving during combat.
 - In Masterstroke, NPCs and player characters are nude while wearing no armor/clothing.

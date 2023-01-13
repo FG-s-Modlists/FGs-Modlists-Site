@@ -40,7 +40,7 @@ description: >
 You are not required to have Nexus Premium to install Masterstroke, however, it is highly recommended. Nexus Premium will cut your install time to a fraction of what it would be by automating both the mod download and mod install processes of installing the list.
 
 ### Storage Space
-As of version 4.0.0, Masterstroke requires approximately 347GB of hard drive space (This number *includes* the download size). Installing to an SSD/NVMe is not required, but also highly recommended. The faster the drive you install the list onto, the faster the installation process will run and the faster the game will go through loading screens when playing.
+As of version 1.5.0, Masterstroke requires approximately 297GB of hard drive space (This number *includes* the download size). Installing to an SSD/NVMe is not required, but also highly recommended. The faster the drive you install the list onto, the faster the installation process will run and the faster the game will go through loading screens when playing.
 
 ## More About System Specifications
 Masterstroke requires a good to excellent computer to run. Textures range from 512x512 to 4K and everything in between. The following system is ForgottenGlory's personal computer and is able to run the list at a constant 60FPS including ENB at 1440p monitor resolution.
