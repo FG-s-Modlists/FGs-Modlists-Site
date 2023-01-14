@@ -14,4 +14,4 @@ To change ENB settings, press Shift + Enter while in-game. This will open the EN
 
 ## Disabling ENB
 
-To toggle ENB on and off while in-game, press Shift + F12.
+To toggle ENB on and off while in-game, press Shift + F12. Disabling ENB can have massive performance effects, and is highly recommended for people with computer specifications close to the minimum recommended specs. 
