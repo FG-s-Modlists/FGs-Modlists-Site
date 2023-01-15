@@ -8,8 +8,6 @@ description: >
   Tips on how to start playing POTD.
 ---
 
-## Getting Started in Path of the Dovahkiin
-
 - You get special, unique perks for completing the major questlines. Questing is highly recommended.
 - Master your classes! You can master up to two classes and when you do, you keep the bonuses of the mastered class even when you switch to another one.
 - Bandits are your best bet for early levels. They usually come in small enough groups to be manageable and are almost always around your level or slightly higher.
