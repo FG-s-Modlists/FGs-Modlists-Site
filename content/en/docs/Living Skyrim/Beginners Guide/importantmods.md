@@ -171,3 +171,5 @@ Living Skyrim would be incomplete without an entire list of followers for you to
 - Katana
 
 Living Skyrim also includes [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653) to make adventuring with your followers seamless. It should also be noted that Living Skyrim includes [Leadership](https://www.nexusmods.com/skyrimspecialedition/mods/47134), which adds a skill tree that you'll need to invest in to be able to bring more than one follower with you. For convenience, [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764) is included to avoid any accidents.
+
+<hr style="background-color: #dee2e6;"></hr>

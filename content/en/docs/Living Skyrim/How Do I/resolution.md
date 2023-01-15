@@ -15,3 +15,5 @@ To change the resolution of the game, you should use BethINI. To launch BethINI,
 ## Borderless/Windowed Mode
 
 To change the game to windowed or borderless mode, modify the INI inside the SSE Display Tweaks mod folder.
+
+<hr style="background-color: #dee2e6;"></hr>

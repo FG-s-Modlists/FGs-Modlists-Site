@@ -15,3 +15,5 @@ The various widgets and HUDs are affected by several mods and shouldn't be modif
 
 ### SexLab
 The configuration for SexLab itself is set up in such a way that things should work as smoothly as possible. Tweaking things in this MCM isn't recommended.
+
+<hr style="background-color: #dee2e6;"></hr>

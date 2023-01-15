@@ -56,3 +56,5 @@ If you wish to change the default dodge key from Left Alt to something else, use
 #### Valhalla Combat
 - Compatibility
   - Alternate Blocking Key: V
+
+<hr style="background-color: #dee2e6;"></hr>

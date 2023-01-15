@@ -27,3 +27,5 @@ Living Skyrim 3 is a great example of the pillar of Content. It’s full of ques
 
 ### Roleplay 
 I’ve always wanted a list where I can write out a backstory for a character and then act like that character in the game. I want to be able to be my character. Living Skyrim 3 does a decent job of this, but I feel like we can improve this in so many ways. Some new mods have come out recently that lean into this idea heavily, and there are plenty of things we can look into to really bring this idea to life. Now, some might say that the idea of mods that add things like attributes or skill bonuses from early life aren’t in the spirit of roleplay - for example, how do you roleplay a character with an Intelligence attribute of 16? - I feel that these sorts of things are important for quantifying and informing decisions you make in the game. So these systems will still be present in Living Skyrim 4.
+
+<hr style="background-color: #dee2e6;"></hr>

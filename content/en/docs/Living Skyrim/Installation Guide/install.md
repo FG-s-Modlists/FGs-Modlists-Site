@@ -34,3 +34,5 @@ While you are waiting for the list to install, you should take the time to read 
 Once complete, Wabbajack will indicate it is done with a green box that says "Installation complete". You may exit Wabbajack after this appears.
 
 If it does not complete successfully (a red box with "Installation failed"), consult the [Troubleshooting](/livingskyrim4/lsissiues/) page of the readme, or visit the [Living Skyrim Discord server](https://discord.gg/thg2eRxf7z) for assistance. 
+
+<hr style="background-color: #dee2e6;"></hr>

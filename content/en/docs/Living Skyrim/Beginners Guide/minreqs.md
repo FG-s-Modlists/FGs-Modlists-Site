@@ -54,3 +54,5 @@ Living Skyrim requires a good to excellent computer to run. Textures range from 
 In general, it is recommended that you have a processor with a clock speed of at least 3GHz and a graphics card with at least 6GB of VRAM. 4GB graphics cards may be able to run the list if you do not use ENB, but it is not guaranteed.
 
 As for RAM, 16GB is the recommended specification for running the list. 32GB is the ideal amount, and anything more than that is honestly overkill for this list.
+
+<hr style="background-color: #dee2e6;"></hr>

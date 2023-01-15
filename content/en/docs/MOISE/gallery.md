@@ -43,3 +43,5 @@ Right click on an image and click "Open in new tab" to see larger versions.
 <img src="\images\MOISEGallery\Gallery16.webp"><br>
 
 <img src="\images\MOISEGallery\Gallery17.webp"><br>
+
+<hr style="background-color: #dee2e6;"></hr>

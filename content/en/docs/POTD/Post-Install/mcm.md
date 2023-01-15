@@ -57,3 +57,5 @@ For the SmoothCam preset, make sure you are selecting the option to Load the pre
   - Show Magicka Meter: Disabled
   - Show Stamina Meter: Disabled
   - Show Health Numbers: Disabled
+
+<hr style="background-color: #dee2e6;"></hr>

@@ -82,3 +82,5 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 
 Failure to set up these folders properly will result in the install failing. For example, `[install drive]\Wabbajack\Masterstroke` is incorrect.
 {{< /alert >}}
+
+<hr style="background-color: #dee2e6;"></hr>

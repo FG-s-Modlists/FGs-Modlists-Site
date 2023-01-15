@@ -30,3 +30,5 @@ Lastly, I (ForgottenGlory) and the Masterstroke development team do not support 
 “Can I add a mod to Masterstroke?”
 
 I don’t know, can you?
+
+<hr style="background-color: #dee2e6;"></hr>

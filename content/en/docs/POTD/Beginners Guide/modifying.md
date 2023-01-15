@@ -30,3 +30,5 @@ Lastly, I (ForgottenGlory) and the Path of the Dovahkiin development team do not
 “Can I add a mod to Path of the Dovahkiin?”
 
 I don’t know, can you?
+
+<hr style="background-color: #dee2e6;"></hr>

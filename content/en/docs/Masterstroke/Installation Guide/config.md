@@ -33,3 +33,5 @@ To switch between presets, launch ENB Organizer from within Mod Organizer 2. If 
 Note that ENB can put a very heavy strain on weaker computers. If you would like to turn off ENB, simply disable all of the presets shown in ENB Organizer.
 
 Support is not provided for adding additional ENB options to the modlist. If you want to add more options, you need to know how to use ENB Organizer and be familiar with the Stock Game feature that Masterstroke uses.
+
+<hr style="background-color: #dee2e6;"></hr>

@@ -18,3 +18,5 @@ description: >
 - You also must sleep to level up.
 
 *By Mainframe*
+
+<hr style="background-color: #dee2e6;"></hr>

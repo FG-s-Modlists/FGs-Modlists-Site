@@ -16,3 +16,5 @@ description: >
 - If you feel like you don't have enough perk points, try seeking out and killing bosses! They give you perk points when they die. It will be challenging but the extra points are well worth it.
 - If you don't like your character's perk point selections, you can sometimes find a potion that will allow you to respec your perk points available for purchase from alchemists. It's expensive though, so be certain you want to do this! 
 - Overworld enemies are going to be easier and in smaller groups than dungeons, but avoid the larger overworld locations when starting out: Silent Moons Camp, Fort Greymoor, etc. Delving into caves and dungeons is a good way to get surrounded by a group of 6-10 enemies.
+
+<hr style="background-color: #dee2e6;"></hr>

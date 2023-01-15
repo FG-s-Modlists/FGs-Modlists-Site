@@ -230,3 +230,5 @@ Masterstroke includes an optional creature profile allowing for even more degene
 - SL Parasites: Parasites!
 
 To use the Creature Profile, you should use the Profile dropdown menu in Mod Organizer 2 to switch to the Creature Profile.
+
+<hr style="background-color: #dee2e6;"></hr>

@@ -25,3 +25,5 @@ By default, Masterstroke has a few options for the physics applied to your chara
 ### Interior Brightness
 
 By default, Lux makes interiors very dark. If you would like to brighten the interiors, enable `Masterstroke Brighter Interiors` in the left pane of MO2.
+
+<hr style="background-color: #dee2e6;"></hr>

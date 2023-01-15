@@ -55,3 +55,5 @@ You will need to download this manually and put it in your downloads folder. The
 ### "Skyrim Game files are failing to download."
 
 If your Skyrim game files (SkyrimSE.exe, Data_Skyrim.esm, Data_Skyrim - Textures0.bsa, etc.) are failing to download this is most commonly caused by your Skyrim Special Edition being set to a language other than English in Steam, check this first. If you continue to get errors on these files verify your game files using Steam.
+
+<hr style="background-color: #dee2e6;"></hr>

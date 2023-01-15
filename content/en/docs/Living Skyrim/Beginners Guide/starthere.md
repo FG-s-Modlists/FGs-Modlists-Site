@@ -35,3 +35,5 @@ Warning blocks like this one will warn you when you absolutely must not forget t
 ### Videos
 - [LS4 Modlist Overview Video](https://www.youtube.com/watch?v=cielru_UErg)
 - [LS4 Beta Preview](https://www.youtube.com/watch?v=1HDQne_yKZ8)
+
+<hr style="background-color: #dee2e6;"></hr>

@@ -30,3 +30,4 @@ Now *save your game*. Then *load that save.* Yes, this must be done a second tim
 
 After this, you just have two final tasks before you begin playing.
 
+<hr style="background-color: #dee2e6;"></hr>

@@ -555,3 +555,5 @@ description: >
 
 ### 6/24/2022 1.0.0
 - Official release.
+
+<hr style="background-color: #dee2e6;"></hr>

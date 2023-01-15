@@ -31,3 +31,5 @@ Warning blocks like this one will warn you when you absolutely must not forget t
 - [Path of the Dovahkiin Discord](https://discord.gg/thg2eRxf7z)
 - [Path of the Dovahkiin Patreon](https://www.patreon.com/LivingSkyrim)
 - [Path of the Dovahkiin Build Planner](https://thehajo.github.io/PotD/)
+
+<hr style="background-color: #dee2e6;"></hr>

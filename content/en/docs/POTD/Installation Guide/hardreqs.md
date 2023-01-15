@@ -16,3 +16,5 @@ The following are *absolutely required* to begin installation of Path of the Dov
 - 350GB of available space on a hard drive/SSD/NVMe. (120GB downloads/217GB mods/13GB Stock Game)
 
 More detailed instructions on installing and configuring these are in the following pages.
+
+<hr style="background-color: #dee2e6;"></hr>
