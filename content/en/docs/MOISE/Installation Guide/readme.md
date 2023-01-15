@@ -29,10 +29,10 @@ Let’s be real. Morrowind could run on a toaster at this point. However, there 
 In general, I would recommend at least 4GB of VRAM and 8GB of RAM just to be on the safe side.
 
 ## Morrowind Setup
-{{< alert icon="⚠️" >}}
-**WARNING!**
+{{< alert color="danger" title="Warning!" >}}
+<div class="alert-icon">🛑</div>
 
-**With Morrowind it is REQUIRED that you start with a clean, unmodified installation of the game.**
+With Morrowind it is REQUIRED that you start with a clean, unmodified installation of the game.
 {{< /alert >}} 
 
 To get your Morrowind to this state, follow these steps:
@@ -83,8 +83,8 @@ Unfortunately, MCP doesn’t come pre-configured because that would require redi
 
 1. Run the Morrowind Code Patch.exe file from inside your Morrowind install folder. 
 
-{{< alert icon="⚠️" >}}
-**Important!** 
+{{< alert color="important" title="Important!">}}
+<div class="alert-icon">⚠️</div>
 
 If you receive an error regarding a missing DLL, you need to download and install the x86 version of the Microsoft Visual C++ 2010 Service Pack 1 Redistributable Package MFC Security Update.
 {{< /alert >}}
@@ -152,19 +152,3 @@ Morrowind is wrong. This, to put it simply, happens when the mods installed chan
 In general, you should be able to build on top of MOISE. Feel free to fork it and make your own Morrowind modlist if you want.
 
 The only thing that needs to be mentioned is that MOISE is 100% incompatible with OpenMW, so mods that require it and OpenMW itself will not work under any circumstances.
-
-## Bug Reporting
-
-While we have tried out best to eliminate as many bugs and inconsistencies as possible, it is unfortunately a near certainty that at some point you will come across something that could be considered a bug. Whether it's duplicate objects overlapping, an imbalanced crafting recipe, or something else entirely, it's important that you report bugs you find so that it can be fixed for everyone.
-
-To report a bug, follow these steps:
-
-1.  Go to this Google Form: [Click Me!](https://forms.gle/U6zmFBXT4LJFGXFK8)
-2.  Fill out the form and submit the form.
-3.  That's it, you're done!
-
-{{< alert icon="⚠️" >}}
-**Important!** 
-
-If we need additional information about the bug, we will contact you via Discord.
-{{< /alert >}}
