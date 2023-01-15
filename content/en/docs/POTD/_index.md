@@ -5,5 +5,5 @@ title: "POTD"
 linkTitle: "POTD"
 weight: 2
 description: >
-  Words
+  Documentation for Path of the Dovahkiin.
 ---

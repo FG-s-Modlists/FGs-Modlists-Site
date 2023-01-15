@@ -5,5 +5,5 @@ title: "Beginner's Guide"
 linkTitle: "Beginner's Guide"
 weight: 1
 description: >
-  Words
+  Start here to begin your journey with Path of the Dovahkiin.
 ---
