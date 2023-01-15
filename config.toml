@@ -193,7 +193,7 @@ enable = false
   name = "GitHub"
   url = "https://github.com/ForgottenGlory/FGs-Modlists-Site"
   icon = "fab fa-github"
-  desc = "Development takes place here!"
+#  desc = "Development takes place here!"
 #[[params.links.developer]]
 #  name = "Slack"
 #  url = "https://example.org/slack"
@@ -221,7 +221,7 @@ enable = false
 [[menu.main]]
     name = "Discord"
     weight = 53
-    url = "https://discord.gg/thg2eRxf7z"
+    url = "https://discord.gg/WKZgPuxvHS"
     pre = "<i class=\"fa-brands fa-discord\"></i>"
 
 
