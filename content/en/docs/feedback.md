@@ -4,6 +4,7 @@ title: "Website Feedback"
 linkTitle: ""
 weight: 20
 toc_hide: true
+hide_summary: true
 ---
 
 Please fill out this form to submit your feedback for the FG's Modlists website.
