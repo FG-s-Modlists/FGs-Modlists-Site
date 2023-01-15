@@ -9,5 +9,3 @@ description: >
 ---
 
 If your question isn't answered here, it may be answered on the [Wiki](https://wiki.fgsmodlists.com). If it isn't there either, please feel free to [request an addition to this page](https://github.com/ForgottenGlory/FGs-Modlists-Site/issues/new).
-
-<hr style="background-color: #dee2e6;"></hr>

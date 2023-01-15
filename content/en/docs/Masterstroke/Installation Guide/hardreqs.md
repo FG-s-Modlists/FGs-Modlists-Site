@@ -16,5 +16,3 @@ The following are *absolutely required* to begin installation of Masterstroke. T
 - 322GB of available space on a hard drive/SSD/NVMe. (90GB downloads/213GB mods/13GB Stock Game)
 
 More detailed instructions on installing and configuring these are in the following pages.
-
-<hr style="background-color: #dee2e6;"></hr>

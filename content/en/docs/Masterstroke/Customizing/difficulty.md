@@ -45,5 +45,3 @@ Making this change will make items sell for more or less and increase or decreas
 
 ### SexLab Defeat
 In this MCM you can change the requirements to be defeated as well as what happens when you are defeated. It can also be disabled completely if you want to forego the defeat mechanics in the list and would instead prefer to just die.
-
-<hr style="background-color: #dee2e6;"></hr>

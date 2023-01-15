@@ -1,5 +1,5 @@
 ---
-categories: ["Masterstroke"]
+categories: ["Living Skyrim"]
 tags: ["docs", "how do i"] 
 title: "...Change brightness?"
 linkTitle: "...Change brightness?"
@@ -20,6 +20,4 @@ The brightness of any given location is entirely subjective. For some, it may be
 
 It is impossible for us to design a modlist with 100% perfect lighting for everyone. If you find the brightness/darkness too much in either direction, the only thing we can recommend is to change settings until it is at an acceptable level for you. The first things you should try are switching ENB presets and adjusting brightness/gamma settings.
 
-Masterstroke and Masterstroke include an optional mod you can enable to make things brighter that you can try. Those lists also come with an ESP called "Lux - Even Brighter Templates.esp" that you can safely disable if you would like to make it darker. No support is provided for adjusting lighting/brightness in the modlists beyond this, and exceeding what's written here falls under Rule 11.
-
-<hr style="background-color: #dee2e6;"></hr>
+Living Skyrim and Masterstroke include an optional mod you can enable to make things brighter that you can try. Those lists also come with an ESP called "Lux - Even Brighter Templates.esp" that you can safely disable if you would like to make it darker. No support is provided for adjusting lighting/brightness in the modlists beyond this, and exceeding what's written here falls under Rule 11.

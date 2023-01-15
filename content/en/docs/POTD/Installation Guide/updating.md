@@ -28,5 +28,3 @@ Whilst some incremental list updates are save-safe, larger updates often require
 8. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
 9. Click the play/right arrow button to begin the installation.
 10. If you are prompted to overwrite, confirm that this is what you want to do by clicking the Confirm button.
-
-<hr style="background-color: #dee2e6;"></hr>

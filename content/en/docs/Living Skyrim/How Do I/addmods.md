@@ -16,5 +16,3 @@ If you make modifications to these Modlists, you do so at your own risk. Unless 
 {{< /alert >}}
 
 Also, if you have to ask, you probably shouldn't be trying to add mods to the list.
-
-<hr style="background-color: #dee2e6;"></hr>

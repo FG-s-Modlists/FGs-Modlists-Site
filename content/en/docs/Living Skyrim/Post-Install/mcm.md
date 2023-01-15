@@ -28,4 +28,3 @@ Due to some unforseen issues with hotkey bindings during the recording process y
 #### Take Notes
  - Open Journal should be bound to the 'B' Key.
 
-<hr style="background-color: #dee2e6;"></hr>

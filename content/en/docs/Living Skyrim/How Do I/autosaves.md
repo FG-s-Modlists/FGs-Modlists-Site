@@ -19,5 +19,3 @@ Please keep the following in mind when making saves:
 - Avoid saving during combat. Multiple scripts are running during most combat encounters.
 
 - Additionally avoid saving over the same save multiple times, and avoid using the Quicksave option in the escape menu if it is present. Use the Save option or the quicksave hotkey as mentioned above.
-
-<hr style="background-color: #dee2e6;"></hr>

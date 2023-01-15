@@ -24,5 +24,3 @@ To actually launch and then play Living Skyrim, follow these steps:
 <div class="alert-icon">⚠️</div>
 Loading a save from another modlist or from before you installed Living Skyrim will corrupt that save, do not do this.
 {{< /alert >}}
-
-<hr style="background-color: #dee2e6;"></hr>

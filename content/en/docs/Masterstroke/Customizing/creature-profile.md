@@ -13,5 +13,3 @@ description: >
 ## Customizing the Creature Profile MCMs
 
 Almost all of the mods added in the Creature Profile have MCMs that allow you to tweak or disable things. Check the MCM for your options. Note that some of the mods in the creature profile have very touchy MCMs that require some patience, such as Estrus Chaurus. Be careful and go slow when making changes to these mods.
-
-<hr style="background-color: #dee2e6;"></hr>

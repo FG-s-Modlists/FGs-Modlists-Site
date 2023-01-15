@@ -10,5 +10,3 @@ description: >
 
 ## Getting Started in Living Skyrim
 ` WIP pending feedback from the LS4 Beta `
-
-<hr style="background-color: #dee2e6;"></hr>

@@ -1,5 +1,5 @@
 ---
-categories: ["Masterstroke"]
+categories: ["Living Skyrim"]
 tags: ["docs", "how do i"] 
 title: "...Show my helmet?"
 linkTitle: "...Show my helmet?"
@@ -14,4 +14,3 @@ To manually make your helmet show and hide, press the down arrow key.
 
 You can also configure the Equipment Toggle INI in its mod folder to change when it shows and hides your helmet. Refer to Equipment Toggle's mod page for detailed information on how to modify its INI.
 
-<hr style="background-color: #dee2e6;"></hr>

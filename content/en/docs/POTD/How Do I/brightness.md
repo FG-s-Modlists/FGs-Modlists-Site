@@ -19,5 +19,3 @@ The brightness of any given location is entirely subjective. For some, it may be
 - GPU settings.
 
 It is impossible for us to design a modlist with 100% perfect lighting for everyone. If you find the brightness/darkness too much in either direction, the only thing we can recommend is to change settings until it is at an acceptable level for you. The first things you should try are switching ENB presets and adjusting brightness/gamma settings.
-
-<hr style="background-color: #dee2e6;"></hr>

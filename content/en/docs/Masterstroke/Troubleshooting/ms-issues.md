@@ -36,5 +36,3 @@ Yes. Display Tweaks SSE is included to allow higher refresh rates.
 
 Yes, Enable the correct Nordic UI patch for your aspect ratio **AND** the Nordic UI - Ultrawide Fixes and Patches mod in the `Customizaiton` Seperator on the left side of Mod Organizer.
 
-
-<hr style="background-color: #dee2e6;"></hr>

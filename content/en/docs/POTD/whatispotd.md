@@ -17,5 +17,3 @@ Path of the Dovahkiin is the ultimate ARPG in Skyrim experience. Inspired by cla
 While of course you could do the main quest for the millionth time (there’s a unique reward for doing so, after all), your primary goal in this list is to craft your character into a powerful, enemy-slaying, gold-collecting, loot-hoarding machine. Everything in the list is geared towards this purpose. Grind for the perfect weapon to complement your build, the ultimate combination of spells, or find an entirely new way to define “gotta go fast”.
 
 So, what path will you choose, Dovahkiin?
-
-<hr style="background-color: #dee2e6;"></hr>

@@ -3,7 +3,7 @@ categories: ["Path of the Dovahkiin"]
 tags: ["docs"] 
 title: "Important Mods"
 linkTitle: "Important Mods"
-weight: 
+weight: 4
 description: >
   The most important mods you need to know about.
 ---
@@ -41,5 +41,3 @@ To counterbalance the increased amount of loot, [Trade & Barter](https://www.nex
 Last but not least, if you're feeling particularly brave, a tweaked version of [MILK](https://www.nexusmods.com/skyrimspecialedition/mods/15876) is included that pulls from the Halgari's RPG Loot pool to give you random sets if items, gold, and more.
 
 Last but not least, there are a couple of mods that add hidden treasures throughout the world that you can find.
-
-<hr style="background-color: #dee2e6;"></hr>

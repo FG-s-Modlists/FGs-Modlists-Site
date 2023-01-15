@@ -36,5 +36,3 @@ The choices you make in the ELSA menus are permanent and cannot be changed witho
 You will start the game with a book in your inventory called "Classic Classes". Read this book to select a class and birthsign for your character. The book can be safely disposed of as you wish. If you want a challenge, try playing without selecting a class/birthsign. You can still select a birthsign by finding the appropriate standing stone at any time. If you wish to skip using CC&B, simply do not read the book and dispose of it as you wish.
 
 The choices you make in the CC&BR menu are permanent and cannot be changed without starting a new character!
-
-<hr style="background-color: #dee2e6;"></hr>

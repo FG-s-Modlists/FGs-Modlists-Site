@@ -26,5 +26,3 @@ description: >
 ![](https://cdn.discordapp.com/attachments/997963092665323610/1051708477157953576/SkyrimSE_2022.12.11-14.12.png)
 ![](https://cdn.discordapp.com/attachments/997963092665323610/1051278019093856327/SkyrimSE_2022.12.10-16.11.png)
 ![](https://cdn.discordapp.com/attachments/997963092665323610/1050885301893079051/SkyrimSE_2022.12.09-14.09_2.png)
-
-<hr style="background-color: #dee2e6;"></hr>

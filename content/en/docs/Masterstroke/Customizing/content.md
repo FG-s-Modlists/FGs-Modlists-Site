@@ -44,5 +44,3 @@ You should refer to the [Masterstroke Keymap](http://www.keyboard-layout-editor.
 
 ### SmoothCam Preset
 You can safely change the SmoothCam preset in this mod's MCM if you do not like the default preset. You can and should experiment to see which camera variant you like best.
-
-<hr style="background-color: #dee2e6;"></hr>

@@ -98,5 +98,3 @@ description: >
   - Updated Solstheim Tomb of the Snow Prince.
 
 ### 4/29/2020 Initial Release 1.0.0
-
-<hr style="background-color: #dee2e6;"></hr>
