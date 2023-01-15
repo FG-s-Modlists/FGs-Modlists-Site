@@ -3,7 +3,7 @@ categories: ["Masterstroke"]
 tags: [] 
 title: "Customizing"
 linkTitle: "Customizing"
-weight: 6
+weight: 7
 description: >
   For detailed information about customizing Masterstroke to your tastes.
 ---

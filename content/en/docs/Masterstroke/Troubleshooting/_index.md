@@ -3,7 +3,7 @@ categories: ["Masterstroke"]
 tags: ["docs"] 
 title: "Troubleshooting"
 linkTitle: "Troubleshooting"
-weight: 7
+weight: 8
 description: >
   Common problems, fixes, and information about bugs.
 ---

@@ -5,5 +5,5 @@ title: "MOISE"
 linkTitle: "MOISE"
 weight: 2
 description: >
-  Words
+  Documentation for MOISE.
 ---
