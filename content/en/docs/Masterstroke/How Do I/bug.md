@@ -1,14 +1,14 @@
 ---
 categories: ["Masterstroke"]
-tags: ["docs", ] 
-title: "Bug Report Form"
-linkTitle: "Bug Report Form"
-weight: 31
+tags: ["docs", "how do i"] 
+title: "...Report a bug?"
+linkTitle: "...Report a bug?"
+weight: 1
 description: >
-  The form to use to report bugs.
+  How do I report a bug?
 ---
 
-To report a bug for Masterstroke, fill out this form:
+Fill out this form:
 
 {{< alert color="danger" title="Warning!" >}}
 <div class="alert-icon">🛑</div>
