@@ -204,7 +204,7 @@ _The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik 
 
 ### Alerts
 
-{{< alert title="Info">}}
+{{< alert color="info" title="Info">}}
 <div class="alert-icon">ℹ️</div>
 This is an info alert.
 {{< /alert >}}
