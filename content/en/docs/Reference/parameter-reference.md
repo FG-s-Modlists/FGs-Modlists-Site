@@ -68,11 +68,11 @@ Next level leggings before they sold out, PBR&B church-key shaman echo park. Kal
 | A table   | A header        |
 | A table   | A header        |
 
-----------------
+<hr style="background-color: #dee2e6;"></hr>
 
 There's a horizontal rule above and below this.
 
-----------------
+<hr style="background-color: #dee2e6;"></hr>
 
 Here is an unordered list:
 
@@ -127,7 +127,7 @@ Color
 : Green
 
 
-----------------
+<hr style="background-color: #dee2e6;"></hr>
 
 Tables should have bold headings and alternating shaded rows.
 
@@ -145,7 +145,7 @@ If a table is too wide, it should scroll horizontally.
 | Prince            | Purple Rain     | 1984 | Warner Brothers Records | Grammy Award for Best Score Soundtrack for Visual Media, American Music Award for Favorite Pop/Rock Album, American Music Award for Favorite Soul/R&B Album, Brit Award for Best Soundtrack/Cast Recording, Grammy Award for Best Rock Performance by a Duo or Group with Vocal | Let's Go Crazy, Take Me With U, The Beautiful Ones, Computer Blue, Darling Nikki, When Doves Cry, I Would Die 4 U, Baby I'm a Star, Purple Rain |
 | Beastie Boys      | License to Ill  | 1986 | Mercury Records | noawardsbutthistablecelliswide | Rhymin & Stealin, The New Style, She's Crafty, Posse in Effect, Slow Ride, Girls, (You Gotta) Fight for Your Right, No Sleep Till Brooklyn, Paul Revere, Hold It Now, Hit It, Brass Monkey, Slow and Low, Time to Get Ill |
 
-----------------
+<hr style="background-color: #dee2e6;"></hr>
 
 Code snippets like `var foo = "bar";` can be shown inline.
 
@@ -187,7 +187,7 @@ Inline code inside table cells should still be distinguishable.
 | Javascript  | `var foo = "bar";` |
 | Ruby        | `foo = "bar"{`      |
 
-----------------
+<hr style="background-color: #dee2e6;"></hr>
 
 Small images should be shown at their actual size.
 
