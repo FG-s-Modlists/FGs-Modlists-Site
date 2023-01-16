@@ -4,7 +4,9 @@ linkTitle: "Parameter Reference"
 date: 2017-01-05
 description: >
   A short lead description about this content page. It can be **bold** or _italic_ and can be split over multiple paragraphs.
-draft: true
+toc_hide: true
+hide_summary: true
+hide_feedback: true
 ---
 
 {{% pageinfo %}}

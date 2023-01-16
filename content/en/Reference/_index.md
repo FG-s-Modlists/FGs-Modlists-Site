@@ -4,7 +4,9 @@ linkTitle: "Reference"
 weight: 9
 description: >
   Low level reference docs for your project.
-draft: true
+toc_hide: true
+hide_summary: true
+hide_feedback: true
 ---
 
 {{% pageinfo %}}
