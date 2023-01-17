@@ -35,7 +35,7 @@ To actually launch and then play Living Skyrim, follow these steps:
 8. As soon as you gain control of your character, do nothing. The mods are initializing and this can take several minutes. You’ll see a list of mods appearing in the top left corner of your screen.
 9.  Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
-{{< alert color="warning" title=Warning! >}}
-<div class="alert-icon">⚠️</div>
+{{< alert color="danger" title="Warning!" >}}
+<div class="alert-icon">🛑</div>
 Loading a save from another modlist or from before you installed Living Skyrim will corrupt that save, do not do this.
 {{< /alert >}}
