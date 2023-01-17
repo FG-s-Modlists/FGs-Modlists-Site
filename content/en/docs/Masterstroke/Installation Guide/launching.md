@@ -18,7 +18,7 @@ To actually launch and then play Masterstroke, follow these steps:
 6. Once Skyrim starts, create a new game.
 7. Create your character and name them whatever you’d like.
 8. As soon as you gain control of your character, do nothing. The mods are initializing and this can take several minutes. You’ll see a list of mods appearing in the top left corner of your screen.
-9. Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
+9.  Once you see that no more items are appearing in the list in the top left, you can proceed to the next steps.
 
 {{< alert color="danger" title="Warning!" >}}
 <div class="alert-icon">🛑</div>
