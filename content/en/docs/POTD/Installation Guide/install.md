@@ -5,7 +5,7 @@ title: "List Installation"
 linkTitle: "List Installation"
 weight: 3
 description: >
-  Steps to complete before beginning installation.
+  Step-by-step guide on how to install the list.
 ---
 
 It’s now time to begin the installation of the list. Follow these steps:
