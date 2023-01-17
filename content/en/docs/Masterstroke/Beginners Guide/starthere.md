@@ -10,6 +10,11 @@ description: >
 
 Before you get started installing or playing Masterstroke, it's important to note a few things:
 
+{{< alert color="info" title="Info">}}
+<div class="alert-icon">ℹ️</div>
+Info blocks like this provide more information regarding a step of the guides, usually an image.
+{{< /alert >}}
+
 {{< alert color="important" title="Important!">}}
 <div class="alert-icon">⚠️</div>
 Sections labeled important like this one will tell you when you need to pay extra attention to something.
