@@ -5,7 +5,7 @@ title: "Installation Instructions"
 linkTitle: "Installation Instructions"
 weight: 2
 description: >
-  Words
+  How to install MOISE.
 ---
 
 ## Warnings & Disclaimers
