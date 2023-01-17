@@ -73,6 +73,7 @@ $important:     #fdf3cb !default;
 $danger:        $red !default;
 $light:         $gray-100 !default;
 $dark:          $gray-800 !default;
+$fggray:        #212529 !default;
 
 $theme-colors: () !default;
 $theme-colors: map-merge(
@@ -85,7 +86,8 @@ $theme-colors: map-merge(
     "important":  $yellow,
     "danger":     $danger,
     "light":      $light,
-    "dark":       $dark
+    "dark":       $dark,
+    "fggray":     $fggray
   ),
   $theme-colors
 );
