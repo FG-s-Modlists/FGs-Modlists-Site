@@ -1,5 +1,5 @@
 ---
-categories: ["Living Skyrim"]
+categories: ["Masterstroke"]
 tags: ["docs", "how do i"] 
 title: "...Change ENB settings?"
 linkTitle: "...Change ENB settings?"

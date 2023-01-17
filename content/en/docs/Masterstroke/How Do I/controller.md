@@ -1,5 +1,5 @@
 ---
-categories: ["Living Skyrim"]
+categories: ["Masterstroke"]
 tags: ["docs", "how do i"] 
 title: "...Use a controller?"
 linkTitle: "...Use a controller?"

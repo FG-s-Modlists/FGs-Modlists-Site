@@ -1,5 +1,5 @@
 ---
-categories: ["Living Skyrim"]
+categories: ["Masterstroke"]
 tags: ["docs", "how do i"] 
 title: "...Add mods?"
 linkTitle: "...Add mods?"

@@ -1,5 +1,5 @@
 ---
-categories: ["Living Skyrim"]
+categories: ["Masterstroke"]
 tags: ["docs", "how do i"] 
 title: "...Change the game resolution?"
 linkTitle: "...Change the game resolution?"
@@ -10,7 +10,7 @@ description: >
 
 ## Changing Resolution
 
-To change the resolution of the game, you should use BethINI. To launch BethINI, close Mod Organizer 2 and then navigate to the Tools folder inside your Living Skyrim install folder. BethINI can be used to tweak the game settings including resolution.
+To change the resolution of the game, you should use BethINI. To launch BethINI, close Mod Organizer 2 and then navigate to the Tools folder inside your Masterstroke install folder. BethINI can be used to tweak the game settings including resolution.
 
 ## Borderless/Windowed Mode
 

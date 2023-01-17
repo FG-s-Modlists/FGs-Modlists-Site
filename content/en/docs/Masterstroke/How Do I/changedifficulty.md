@@ -1,5 +1,5 @@
 ---
-categories: ["Living Skyrim"]
+categories: ["Masterstroke"]
 tags: ["docs", "how do i"] 
 title: "...Change the difficulty?"
 linkTitle: "...Change the difficulty?"
