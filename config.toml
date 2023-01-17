@@ -120,13 +120,15 @@ url_latest_version = "https://example.com"
 github_branch= "beta"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "52768258fd01f4738"
+# gcs_engine_id = "52768258fd01f4738"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
 
 # Enable Lunr.js offline search
-offlineSearch = false
+offlineSearch = true
+offlineSearchSummaryLength = 200
+offlineSearchMaxResults = 25
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
 prism_syntax_highlighting = false
