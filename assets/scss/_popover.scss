@@ -16,6 +16,7 @@
     border: $popover-border-width solid $popover-border-color;
     @include border-radius($popover-border-radius);
     @include box-shadow($popover-box-shadow);
+    color: #dee2e6;
   
     .arrow {
       position: absolute;
@@ -23,6 +24,8 @@
       width: $popover-arrow-width;
       height: $popover-arrow-height;
       margin: 0 $popover-border-radius;
+      background-color: #212529;
+      color: #212529;
   
       &::before,
       &::after {
@@ -31,26 +34,29 @@
         content: "";
         border-color: transparent;
         border-style: solid;
+        background-color: #212529;
       }
     }
   }
   
   .bs-popover-top {
     margin-bottom: $popover-arrow-height;
+
   
     > .arrow {
       bottom: subtract(-$popover-arrow-height, $popover-border-width);
-  
+      
+
       &::before {
         bottom: 0;
         border-width: $popover-arrow-height ($popover-arrow-width * .5) 0;
-        border-top-color: $popover-arrow-outer-color;
+        border-top-color: #212529;
       }
   
       &::after {
         bottom: $popover-border-width;
         border-width: $popover-arrow-height ($popover-arrow-width * .5) 0;
-        border-top-color: $popover-arrow-color;
+        border-top-color: #212529;
       }
     }
   }
@@ -67,13 +73,13 @@
       &::before {
         left: 0;
         border-width: ($popover-arrow-width * .5) $popover-arrow-height ($popover-arrow-width * .5) 0;
-        border-right-color: $popover-arrow-outer-color;
+        border-right-color: #212529;
       }
   
       &::after {
         left: $popover-border-width;
         border-width: ($popover-arrow-width * .5) $popover-arrow-height ($popover-arrow-width * .5) 0;
-        border-right-color: $popover-arrow-color;
+        border-right-color: #212529;
       }
     }
   }
@@ -87,13 +93,13 @@
       &::before {
         top: 0;
         border-width: 0 ($popover-arrow-width * .5) $popover-arrow-height ($popover-arrow-width * .5);
-        border-bottom-color: $popover-arrow-outer-color;
+        border-bottom-color: #212529;
       }
   
       &::after {
         top: $popover-border-width;
         border-width: 0 ($popover-arrow-width * .5) $popover-arrow-height ($popover-arrow-width * .5);
-        border-bottom-color: $popover-arrow-color;
+        border-bottom-color: #212529;
       }
     }
   
@@ -106,7 +112,7 @@
       width: $popover-arrow-width;
       margin-left: -$popover-arrow-width * .5;
       content: "";
-      border-bottom: $popover-border-width solid $popover-header-bg;
+      border-bottom: $popover-border-width solid #212529;
     }
   }
   
@@ -122,13 +128,13 @@
       &::before {
         right: 0;
         border-width: ($popover-arrow-width * .5) 0 ($popover-arrow-width * .5) $popover-arrow-height;
-        border-left-color: $popover-arrow-outer-color;
+        border-left-color: #212529;
       }
   
       &::after {
         right: $popover-border-width;
         border-width: ($popover-arrow-width * .5) 0 ($popover-arrow-width * .5) $popover-arrow-height;
-        border-left-color: $dark;
+        border-left-color: #212529;
       }
     }
   }
@@ -155,7 +161,7 @@
     margin-bottom: 0; // Reset the default from Reboot
     @include font-size($font-size-base);
     color: $popover-header-color;
-    background-color: $popover-header-bg;
+    background-color: #212529;
     border-bottom: $popover-border-width solid darken($popover-header-bg, 5%);
     @include border-top-radius($popover-inner-border-radius);
   

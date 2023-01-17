@@ -48,7 +48,8 @@
         &.form-control:focus {
             border-color: lighten($primary, 60%);
             box-shadow: 0 0 0 2px lighten($primary, 30%);
-            color: $dark;
+            color: #dee2e6;
+            background-color: #212529;
         }
 
         // Styling adjustments for the navbar
@@ -89,7 +90,6 @@
     &:focus-within {
         // Don't hide the search icon on focus: this gives better UX when user
         // explores content of search-results popup and focus is lost.
-
         .td-search__icon {
             display: flex;
             color: #dee2e6;
@@ -104,7 +104,7 @@
 
     .card {
         margin-bottom: $spacer * .5;
-
+        color: #dee2e6;
         .card-header {
             font-weight: bold;
             color:#dee2e6;
@@ -114,6 +114,7 @@
     &__close-button {
         // cursor: pointer;
         float: right;
+        color:#dee2e6;
 
         &:after {
             @extend .fas;

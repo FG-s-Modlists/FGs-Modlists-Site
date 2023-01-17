@@ -109,6 +109,8 @@ $card-bg: #1b1f22;
 
 $table-color: #dee2e6;
 
+$popover-arrow-color: #212529;
+
 $dark: #212529;
 
 body {
@@ -176,3 +178,7 @@ td-sidebar-menu {
 .td-offline-search-results {
     max-width: 460px;
   }
+
+div.popover-body {
+    color: #dee2e6;
+}
