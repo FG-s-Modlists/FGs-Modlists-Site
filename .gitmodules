@@ -1,3 +1,4 @@
-[submodule "doks"]
-	path = doks
-	url = https://github.com/h-enk/doks
+
+[submodule "themes/docsy"]
+	path = themes/docsy
+	url = https://github.com/google/docsy

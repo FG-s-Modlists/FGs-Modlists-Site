@@ -1,8 +1,13 @@
 ---
-title: "News"
-description: "News regarding the lists."
-date: 2020-10-06T08:49:55+00:00
-lastmod: 2020-10-06T08:49:55+00:00
-draft: false
-images: []
+title: "FG's Modlists News"
+linkTitle: "News"
+menu:
+  main:
+    weight: 2
 ---
+
+
+This is the **blog** section. It has two categories: News and Releases.
+
+Files in these directories will be listed in reverse chronological order.
+
