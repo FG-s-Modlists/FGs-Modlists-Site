@@ -8,6 +8,45 @@ description: >
   The Living Skyrim changelog.
 ---
 
+### 1/19/2023 4.0.0.6 Beta 6 Release Candidate 1
+#### Minor
+- Fixes
+  - Possibly fixed attack speed issues
+  - Possibly fixed infinite critter spawning
+  - Fixed Lord Harkon turning invisible in Vampire Lord form
+  - Fixed various werewolf characters turning invisible
+  - Fixed some NPCs with missing heads
+  - Fixed movement speed bug regarding water
+  - Fixed some issues caused by added EVGAT objects
+  - Fixed CTDs in College of Winterhold
+  - Fixed incorrect FPS limit on ENB presets
+  - Fixed some ENB presets including old binaries
+- Mod Updates
+  - CritterSpawn Congestion Fix 1.3
+  - Lux Orbis 3.1.1
+  - EVGAT Skyrim Integration Patch 1.2.2
+  - EVGAT Hammet's Dungeons 2.0
+- Additions
+  - Attack Speed Framework
+  - Constructible Object Custom Keyword System 32x9 Ultrawide Patch
+  - LS4 Crafting Overhaul (Thanks Dace!)
+  - Armors of the Velothi Pt2 Crash Fixes
+  - Auri - Thistlefoot Should Stay Outdoors
+  - Animation Queue Fix
+  - House of Horrors - Quest Expansion Patches
+- Removals
+  - Wade In Water
+  - EVG Traversal Animations - Dungeons Addons
+- Other
+  - Tweaked MCM settings
+    - Reduced Thieves Guild radiant requirements
+    - Very slightly reduced mage college skill requirements
+    - Set main quest to show objective markers in-between quests
+    - Turned off Ash effect in RASS
+    - Disabled Reapers from spawning from UHE
+    - Turned off modesty animation from Conditional Idles
+    - Reduced first person item widget size from 1.0 to 0.7 in BTPS
+
 ### 1/1/2023 4.0.0.5 Beta 5
 #### Minor
 - Fixes
