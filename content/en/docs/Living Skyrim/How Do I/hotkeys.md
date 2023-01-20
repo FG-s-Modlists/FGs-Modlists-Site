@@ -30,7 +30,7 @@ You may also edit the amount of stamina required to dodge and the duration of in
 
 ### Equipment Toggle
 
-Equipment Toggle has a `Config.json` file its mod folder that you can use to change the hotkey used to toggle your equipment's visibility. To see a list of hotkeys the mod can use, refer to [this list.](https://wiki.nexusmods.com/index.php/DirectX_Scancodes_And_How_To_Use_Them)
+Equipment Toggle has a `Config.json` file its mod folder that you can use to change the hotkey used to toggle your equipment's visibility. By default this hotkey is Down Arrow (208). To see a list of hotkeys the mod can use, refer to [this list.](https://wiki.nexusmods.com/index.php/DirectX_Scancodes_And_How_To_Use_Them)
 
 The line you should edit to change its hotkey is `"key": 208,`, replacing 208 with the desired hotkey code.
 
@@ -38,6 +38,6 @@ Note that whichever hotkey you set for this mod will still follow the rules set 
 
 ### One-Click Power Attack
 
-OCPA also has an INI file inside its mod folder that you can use to change the hotkey used to toggle your equipment's visibility. To see a list of hotkeys the mod can use, refer to [this list.](https://wiki.nexusmods.com/index.php/DirectX_Scancodes_And_How_To_Use_Them)
+OCPA also has an INI file inside its mod folder that you can use to change the hotkey used to toggle your equipment's visibility. By default this hotkey is Middle Mouse Click (258). To see a list of hotkeys the mod can use, refer to [this list.](https://wiki.nexusmods.com/index.php/DirectX_Scancodes_And_How_To_Use_Them)
 
 The line you should edit to change its hotkey is `ForceRightKey=258`. Replace 258 with the code for the key you would like to use to power attack. Note that One-Click Power Attack intentionally disables the "hold button to power attack" functionality, so whichever key you select will be the one you have to press and release to power attack.
