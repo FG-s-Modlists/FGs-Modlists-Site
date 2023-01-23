@@ -89,8 +89,8 @@ ips4 is unique in that it is only for two specific websites: Lover's Lab, and Ve
 
 It's very important to note that ips4 should only be used as a last resort, `manualURL` is much preferred for these two sites currently due to instability with their API.
 
-{{< alert context="danger" icon="🛑" >}}
-**WARNING!**
+{{< alert color="danger" title="Warning!" >}}
+<div class="alert-icon">🛑</div>
 
 I cannot stress this enough: ***everything in your `[root folder]\downloads` folder must have a complete `.meta` file!*** ***EVERYTHING!***
 {{< /alert >}}
