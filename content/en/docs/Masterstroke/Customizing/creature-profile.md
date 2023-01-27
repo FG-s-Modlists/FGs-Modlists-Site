@@ -20,7 +20,7 @@ You should use the profile drop down menu to switch to the Creature Profile.
 
 {{< alert color="danger" title="Warning!" >}}
 <div class="alert-icon">🛑</div>
-Do not manually enable the mods under the Creature Profile heading in MO2, this will certainly break everything.
+Do not manually enable the mods under the Creature Profile heading in MO2, this will certainly break everything. Only use the profile drop down menu to switch.
 {{< /alert >}}
 
 ## Customizing the Creature Profile MCMs
