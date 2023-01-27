@@ -8,7 +8,7 @@ description: >
   Known bugs and issues with the list.
 ---
 
-{{< card header="First Lessons Bug" subtitle="Severity: Minor" footer="**Will Be Fixed?:** Yes, when a fix is found.">}}
+{{< card header="First Lessons Bug" subtitle="**Severity: Minor**" footer="**Will Be Fixed?:** Yes, when a fix is found.">}}
 
 **Problem:** 
 
@@ -21,7 +21,7 @@ Temporarily disable projectile blocks (and possibly also timed projectile blocks
 {{< /card >}}
 
 
-{{< card header="Racial Attack Speed Variance" subtitle="Severity: Minor" footer="**Will Be Fixed?:** Yes, eventually.">}}
+{{< card header="Racial Attack Speed Variance" subtitle="**Severity: Minor**" footer="**Will Be Fixed?:** Yes, eventually.">}}
 
 **Problem:** 
 
@@ -32,7 +32,7 @@ Some races attack slightly slower or faster than others based on animation speed
 This is a tough bug to fix because it requires manually changing the animation speed of the animation in question. At the moment, we need more information regarding this bug such as which animations specifically are too fast/slow. Please open a [bug report](https://www.fgsmodlists.com/docs/living-skyrim/bugreport/) when you notice this happening and be specific about which animations are affected as well as the race(s) affected.
 {{< /card >}}
 
-{{< card header="Misplaced Water Tiles" subtitle="Severity: Minor" footer="**Will Be Fixed?:** Yes, on full release">}}
+{{< card header="Misplaced Water Tiles" subtitle="**Severity: Minor**" footer="**Will Be Fixed?:** Yes, on full release">}}
 
 **Problem:** 
 
