@@ -21,7 +21,7 @@ Temporarily disable projectile blocks (and possibly also timed projectile blocks
 {{< /card >}}
 
 
-{{< card header="Racial Attack Speed Variance" subtitle="**Severity: Minor**" footer="**Will Be Fixed?:** Yes, eventually.">}}
+{{< card header="Racial Attack Speed Variance" subtitle="**Severity: Minor**" footer="**Will Be Fixed?:** Yes, pending more information.">}}
 
 **Problem:** 
 
