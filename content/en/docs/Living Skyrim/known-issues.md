@@ -18,6 +18,8 @@ Tolfdir asks you to hold a ward while he casts firebolt at you. The firebolt hit
 **Workaround:** 
 
 Temporarily disable projectile blocks (and possibly also timed projectile blocks) in the Valhalla Combat MCM to pass the quest. You can also just cast the ward long enough so that Tolfdir shoots the fireball and then let go of your ward, it'll smack in front of you doing no damage and clear the quest.
+
+In theory you can also leave the projectile blocks options in Valhalla Combat's MCM enabled and do a perfectly timed block when he casts the firebolt to progress the quest. (Unconfirmed)
 {{< /card >}}
 
 
