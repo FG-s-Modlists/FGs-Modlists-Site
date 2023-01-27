@@ -56,7 +56,6 @@ Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to 
 2. If there are any files leftover in the Skyrim Special Edition game folder (Right-click > Manage > Browse Local Files), delete them.
 3. Install Skyrim: Special Edition.
 
-
 Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist. You will also need to ensure the game is running in English, as that is the only language the modlist supports.
 
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
@@ -71,11 +70,26 @@ Last, but certainly not least, make sure you have installed the Skyrim Special E
 We’ll now setup the folders needed for the installation to proceed smoothly.
 
 1. Create two empty folders: one named Wabbajack and the other named Living Skyrim.
+
+{{< alert color="info" title="Base Folders">}}
+<div class="alert-icon">ℹ️</div>
+
+![](https://i.imgur.com/nOwocWg.png)
+{{< /alert >}}
+
+
 2. Ensure that these two folders are not within any of the following folders: your Skyrim Special Edition install folder, your Program Files folder, your Program Files (x86) folder, your Documents folder, your Downloads folder, or the Desktop.
 3. Additionally, ensure that these two folders are not contained within each other.
 4. Ensure that both the Wabbajack and Living Skyrim folders are completely empty. If they are not empty, make them empty.
-5. Download the latest version of Wabbajack from the Wabbajack website: Wabbajack.
+5. Download the latest version of Wabbajack from the Wabbajack website: [Wabbajack.](https://www.wabbajack.org/)
 6. Place the Wabbajack.exe file you just downloaded into the folder you created earlier called Wabbajack.
+
+{{< alert color="info" title="Wabbajack.exe">}}
+<div class="alert-icon">ℹ️</div>
+
+![](https://i.imgur.com/FQFVfVi.png)
+{{< /alert >}}
+
 
 {{< alert color="danger" title="Warning!" >}}
 <div class="alert-icon">🛑</div>
