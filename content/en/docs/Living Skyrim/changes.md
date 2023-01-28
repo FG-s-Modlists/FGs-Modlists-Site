@@ -8,6 +8,58 @@ description: >
   The Living Skyrim changelog.
 ---
 
+### 1/28/2023 4.0.0.7 Beta 7 Release Candidate 2
+#### Minor
+- Fixes
+  - Fixed neck seams and most BFBs
+  - Fixed missing Seasoned Traveler crafting recipes (thanks Dace!)
+  - Fixed floating dude in Ivarstead
+  - Fixed Thieves Guild quests not progressing
+  - Fixed Simply Knock not working
+  - Fixed Quick Loot not having correct load order priority
+  - Fixed inaccessible map marker near Whiterun (thanks Dace!)
+  - Fixed incompatibility between JK's Skyrim and Xelzaz (thanks Dace!)
+  - Fixed various floating doors (thanks Dace!)
+  - Fixed a clipping tree at Silent Moons Camp
+  - Fixed clipping carriage in Falkreath
+  - Fixed incorrect perk tree names in the ELSA pop-up (thanks Hajo!)
+- Mod Updates
+  - Thieves Guild Requirements 5.3
+  - Detection Meter 0.17
+  - Precision 2.0.4
+  - Precision Creatures 2
+  - Manbeast 2.0
+  - Scion 2.1.2
+  - Pilgrim 1.1.2
+  - Hand to Hand 1.3.6
+  - Mundus 1.9.0
+  - Adamant 5.7.4
+  - Mysticism 2.2.1
+  - Aetherius 2.10.1
+  - AYOP Main Quest 2.0.4
+  - AYOP Companions 2.0.3
+  - LS4 NPC Merge 4.0.0.7
+- Additions
+  - Desktop Splash Screen
+  - Mirai Renewal
+  - Kaidan Overhaul
+  - High Poly Inigo
+  - More Bandit Camps
+  - 3rd Person Camera Stagger Remover
+  - HD Reworked Tree Bark - Happy Little Trees
+  - Happy Little Trees - Ivy On Trees
+- Replacements
+  - Pandorable's Lucien -> Ella's Lucien
+  - Valhalla Skin -> Tempered Skin
+- Removals
+  - At Your Own Pace - Thieves Guild (redundant)
+- Other
+  - Regenerated NPC Visual Overhaul
+  - Removed faction shrines from Realm of Lorkhan (thanks Dace!)
+  - Slightly reduced volume of level up and skill level up sounds
+  - Added some community-made RaceMenu presets.
+  - Added [Known Issues](https://www.fgsmodlists.com/docs/living-skyrim/known-issues/) page for LS to the website.
+
 ### 1/19/2023 4.0.0.6 Beta 6 Release Candidate 1
 #### Minor
 - Fixes
