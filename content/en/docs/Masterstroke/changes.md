@@ -8,6 +8,42 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 1/30/2023 1.6.0
+#### Minor
+- Fixes
+  - Both Profiles
+    - Fixed Lock Overhaul interactions with Hand To Hand (thanks Frosty!)
+    - Fixed a stupid message from MME (thanks Frosty!)
+    - Fixed LewdMarks being disabled
+    - Fixed anal collision not working
+    - Fixed broken Midden teleport
+    - Fixed green overlay in Dwemer ruins
+  - Creature Profile
+    - Fixed creatures in College of Winterhold preventing sleeping (thanks Frosty!)
+- Mod Updates
+  - MS ROL Patch
+  - CBBE 3BA 2.46
+- Additions
+  - Both Profiles
+    - Desktop Splash Screen
+    - Chubby Elf Bodyslide Preset
+    - D-sney Mommy Bodyslide Preset
+    - Lair of Succubi
+    - Missile's Immersive Equipment Display Presets
+    - Aura's Inventory Tweaks
+    - Adira Follower
+    - Missing Follower Dialogue Fix
+    - Obscure's College of Winterhold NPC Stuck in Staircase Fix
+    - DX Fetish Fashion Vol 1 and custom crafting recipe patch, thanks Frosty!
+    - DX Fetish Fashion Vol 2 and custom crafting recipe patch, thanks Frosty!
+    - Elven Supremacy Bodyslide preset
+    - Skyrim Sewers
+    - Enhanced Volumetric Lighting and Shadows (EVLaS)
+- Removals
+    - JK's College of Winterhold
+- Replacements
+  - OBody Standalone -> OBody NG
+
 ### 1/10/2023 1.5.3
 #### Incremental
 - Fixes
