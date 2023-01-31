@@ -8,7 +8,7 @@ description: >
   The form to use to report bugs.
 ---
 
-To report a bug for Masterstroke, fill out this form:
+### To see a list of bugs that have already been reported, please check the [bug tracker.](https://app.asana.com/read-only/Masterstroke-Bugs/1202685114827965/233881ff7885cc3480be497f9c617ee5/list)
 
 {{< alert color="danger" title="Warning!" >}}
 <div class="alert-icon">🛑</div>
