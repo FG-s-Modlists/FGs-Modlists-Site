@@ -8,6 +8,18 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 2/2/2023 1.6.1
+#### Incremental
+- Fixes
+  - Fixed redundant MCM for Lock Overhaul
+  - Fixed missing requirements for Adira
+  - fixed some signs (thanks Dace!)
+  - fixed some missing TAWOBA books (thanks Dace!)
+  - Kinda fixed missing functionality of Equipped Items On Top (will be refined further in a future update)
+- Additions
+  - Both Profiles
+    - VNDKTR's Goddess Emporium - Assets
+
 ### 1/30/2023 1.6.0
 #### Minor
 - Fixes
