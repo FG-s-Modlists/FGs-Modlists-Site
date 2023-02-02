@@ -68,7 +68,7 @@ Once complete, Wabbajack will indicate it is done with a green box that says "In
 ![](https://i.imgur.com/s3ELgZB.png)
 {{< /alert >}}
 
-If it does not complete successfully (a red box with "Installation failed"), consult the [Troubleshooting](/livingskyrim4/lsissiues/) page of the readme, or visit the [Living Skyrim Discord server](https://discord.gg/thg2eRxf7z) for assistance. 
+If it does not complete successfully (a red box with "Installation failed"), consult the [Troubleshooting](/docs/living-skyrim/troubleshooting/) page of the readme, or visit the [Living Skyrim Discord server](https://discord.gg/thg2eRxf7z) for assistance. 
 
 {{< alert color="danger" title="Installation Failed" >}}
 <div class="alert-icon">🛑</div>
