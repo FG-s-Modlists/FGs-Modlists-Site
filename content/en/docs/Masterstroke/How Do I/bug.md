@@ -15,4 +15,4 @@ Fill out this form:
 Do not attach any NSFW images or videos to your bug report.
 {{< /alert >}}
 
-<iframe class="clickup-embed clickup-dynamic-height" src="https://forms.clickup.com/9003061110/f/8c9zkvp-282/XK2QBE6UKEGD0KEHVI" onwheel="" width="100%" height="100%" style="background: transparent; border: 1px solid #ccc;"></iframe><script async src="https://app-cdn.clickup.com/assets/js/forms-embed/v1.js"></script>
+<iframe class="clickup-embed clickup-dynamic-height" src="https://forms.clickup.com/9003061110/f/8c9zkvp-282/XK2QBE6UKEGD0KEHVI" onwheel="" width="99%" height="100%" style="background: transparent; border: 1px solid #ccc;"></iframe><script async src="https://app-cdn.clickup.com/assets/js/forms-embed/v1.js"></script>
