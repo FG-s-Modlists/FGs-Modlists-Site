@@ -8,6 +8,6 @@ description: >
   The form to use to report bugs.
 ---
 
-### To see bugs that have already been reported, please check the [bug tracker.](https://app.asana.com/read-only/LS4-Bugs/1202685114827965/c2da94b2daeb85a4d17e11e9b1c68df6/list)
+If the form does not load, please allow third-party cookies. The form can take a few seconds to load. If it does not, please visit the form directly at [this link.](https://forms.clickup.com/9003061110/f/8c9zkvp-242/4LLIDKLW180YQZAIFC)
 
-<div class="asana-embed-container"><link rel="stylesheet" href="https://form.asana.com/static/asana-form-embed-style.css"/><iframe class="asana-embed-iframe" height="800" width = "800" src="https://form.asana.com/?k=WtVzLLsy4OpxIROlRqu0iw&d=1202685114827965&embed=true"></iframe><div class="asana-embed-footer"><a rel="nofollow noopener" target="_blank" class="asana-embed-footer-link" href="https://asana.com/?utm_source=embedded_form"><span class="asana-embed-footer-text">Form powered by</span><div class="asana-embed-footer-logo" role="img" aria-label="Logo of Asana"></div></a></div></div>
+<iframe class="clickup-embed clickup-dynamic-height" src="https://forms.clickup.com/9003061110/f/8c9zkvp-242/4LLIDKLW180YQZAIFC" onwheel="" width="70%" height="100%" style="background: transparent; border: 1px solid #212529;"></iframe><script async src="https://app-cdn.clickup.com/assets/js/forms-embed/v1.js"></script>
