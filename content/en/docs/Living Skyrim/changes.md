@@ -8,6 +8,48 @@ description: >
   The Living Skyrim changelog.
 ---
 
+### 2/18/2023 4.0.0 Release
+#### Major
+- Fixes
+  - Fixed dragons disappearing when you get too close to them.
+  - Probably fixed NPCs once and for all.
+  - Fixed floating dude in Dawnstar
+  - Fixed a floating lantern in Dragon Bridge.
+  - Fixed a clipping tree at Valtheim Keep.
+  - Fixed missing/incorrect water textures.
+  - Fixed CTDs in College of Winterhold.
+  - Fixed incorrect female body textures.
+  - Fixed incorrect perk tree names in ELSA popup.
+  - Fixed incorrect texture on some chests. (Thanks Dace!)
+  - Fixed incorrect stone pillar mesh in White River Watch (Thanks Dace!)
+  - Fixed falling to your death from Meridia.
+- Mod Updates
+  - EasyNPC 0.9.6 (this explains so much)
+  - Dungeons Revisited 1.1.1
+  - Better Chests 1.1.3
+  - Smooth Random Jump Animation Rework 1.4
+- Additions
+  - SPID - NFF - Add Ignore Token to CustomAI Followers
+  - dunFolgunthurBossBattle Script Fix
+  - Mirai Grows Up
+  - SSE Enhanced AI Framework
+  - Organic Factions
+  - Organic Factions Extension
+  - Splendor Dragon Variants
+  - Diverse Dragons Collection
+  - Pause After Load Unscripted NG (optional enable under List Customization)
+  - Detailmap Seamfix - Skyrim SE
+  - Solstheim Shack Player Home - Hrodulf's House Cabin
+  - End Inappropriate Afflicted Encounters SE
+  - Cooking Categories Improvement
+- Replacements
+  - Dragon War -> Deadly Dragons
+- Removals
+  - JK's College of Winterhold
+- Other
+  - Regenerated NPC Visual Overhaul. Again.
+  - Regenerated DynDOLOD and Occlusion outputs.
+
 ### 1/28/2023 4.0.0.7 Beta 7 Release Candidate 2
 #### Minor
 - Fixes
