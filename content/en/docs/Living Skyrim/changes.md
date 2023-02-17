@@ -49,6 +49,7 @@ description: >
 - Other
   - Regenerated NPC Visual Overhaul. Again.
   - Regenerated DynDOLOD and Occlusion outputs.
+  - Added LS4 RaceMenu presets created by Sweinen.
 
 ### 1/28/2023 4.0.0.7 Beta 7 Release Candidate 2
 #### Minor
