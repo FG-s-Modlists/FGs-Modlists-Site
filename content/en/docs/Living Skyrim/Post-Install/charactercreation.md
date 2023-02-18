@@ -14,6 +14,8 @@ When creating your character, you'll find there are a lot of options that are av
 
 There is one particular mod you need to be aware of during character creation: [High Poly Head](https://vectorplexus.com/files/file/283-high-poly-head/). To have your character use High Poly Head, you'll need to change the head part using the RaceMenu slider of the same name to option 3. Note that if you do use High Poly Head, you may need to do some manual sculpting using the RaceMenu sculpt feature to remove any clipping issues with eyebrows or beards.
 
+Information about the Racemenu presets included with Living Skryim is available on the [Living-Skyrim-4-Character-Presets](https://wiki.fgsmodlists.com/en/living-skyrim/Living-Skyrim-4-Character-Presets) wiki page.
+
 ## A Word About Difficulty
 
 Living Skyrim is intended to be played at the Adept difficulty level. If you wish to have a challenge or find the game too difficult, you can and should adjust the game difficulty as you wish. Adept is merely where I (ForgottenGlory) like to play - it provides a decent challenge without being overly difficult.
