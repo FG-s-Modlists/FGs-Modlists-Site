@@ -8,6 +8,52 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 3/9/2023 1.7.0
+#### Minor
+- Fixes
+  - Corrected load order for SDA and patches
+  - Fixed Aura's Inventory Tweaks + Equipped Items on Top issues
+  - Fixed Silvered Ebony Helmet making heads disappear
+  - Fixed missing in-game Recorder objects
+  - Fixed missing rocks in White River Watch
+  - Fixed Dragons turning invisible in some situations
+  - Fixed jagged edges on skimpy Daedric armor
+  - Fixed NPCs aggro'ing after many hits
+  - Fixed missing bodyslides for several followers
+  - Fixed incorrect Nord racial features
+  - Fixed BFBs in Temple of Dibella
+  - Fixed twitching in dialogue
+  - Fixed Aroused Creature profile not loading
+- Mod Updates
+  - The Trappings of Fate 1.1.1
+  - Simple Slavery Plus Plus 6.3.17
+  - HCOS 2.0
+  - BakaFactory SLAL Animations 6.01
+  - Submissive Lola The Resubmission 2.0.60
+  - ZAZ Animation Pack 8.0 2023
+  - SexLab Parasites 2023-02-26
+  - Devious Devices 5.2
+  - Masterstroke Core Bodyslides 1.7.0
+  - Masterstroke NPC Merge 1.7.0
+  - Scion 2.1.2
+- Additions
+  - Both Profiles
+    - dunFolgunthurBossBattle Script Fix
+    - SPID - NFF - Add Ignore Token to CustomAI Followers
+    - Sweeping Organizes Stuff
+    - Koralina's Makeup Tweaks
+    - Improved Table Transition Animations
+    - Dex's Thicc 3BA Bodyslide preset
+    - The Tinraa Body - Hips Don't Lie bodyslide preset
+    - Demonic Bodyslide Preset
+    - Amazing Curves bodyslide preset
+    - Lady Miraak
+    - Buxom Wench Yuriana
+    - Opulent Thieves Guild
+- Other
+  - Merged futa patches into their parent skin mods to make customization easier.
+  - Regenerated Synthesis outputs.
+
 ### 2/2/2023 1.6.1
 #### Incremental
 - Fixes
