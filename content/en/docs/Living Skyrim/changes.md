@@ -8,6 +8,140 @@ description: >
   The Living Skyrim changelog.
 ---
 
+### 2/18/2023 4.0.0 Release
+#### Major
+- Fixes
+  - Fixed dragons disappearing when you get too close to them.
+  - Probably fixed NPCs once and for all.
+  - Fixed floating dude in Dawnstar
+  - Fixed a floating lantern in Dragon Bridge.
+  - Fixed a clipping tree at Valtheim Keep.
+  - Fixed missing/incorrect water textures.
+  - Fixed CTDs in College of Winterhold.
+  - Fixed incorrect female body textures.
+  - Fixed incorrect perk tree names in ELSA popup.
+  - Fixed incorrect texture on some chests. (Thanks Dace!)
+  - Fixed incorrect stone pillar mesh in White River Watch (Thanks Dace!)
+  - Fixed falling to your death from Meridia.
+- Mod Updates
+  - EasyNPC 0.9.6 (this explains so much)
+  - Dungeons Revisited 1.1.1
+  - Better Chests 1.1.3
+  - Smooth Random Jump Animation Rework 1.4
+- Additions
+  - SPID - NFF - Add Ignore Token to CustomAI Followers
+  - dunFolgunthurBossBattle Script Fix
+  - Mirai Grows Up
+  - SSE Enhanced AI Framework
+  - Organic Factions
+  - Organic Factions Extension
+  - Splendor Dragon Variants
+  - Diverse Dragons Collection
+  - Pause After Load Unscripted NG (optional enable under List Customization)
+  - Detailmap Seamfix - Skyrim SE
+  - Solstheim Shack Player Home - Hrodulf's House Cabin
+  - End Inappropriate Afflicted Encounters SE
+  - Cooking Categories Improvement
+- Replacements
+  - Dragon War -> Deadly Dragons
+- Removals
+  - JK's College of Winterhold
+- Other
+  - Regenerated NPC Visual Overhaul. Again.
+  - Regenerated DynDOLOD and Occlusion outputs.
+  - Added LS4 RaceMenu presets created by Sweinen.
+
+### 1/28/2023 4.0.0.7 Beta 7 Release Candidate 2
+#### Minor
+- Fixes
+  - Fixed neck seams and most BFBs
+  - Fixed missing Seasoned Traveler crafting recipes (thanks Dace!)
+  - Fixed floating dude in Ivarstead
+  - Fixed Thieves Guild quests not progressing
+  - Fixed Simply Knock not working
+  - Fixed Quick Loot not having correct load order priority
+  - Fixed inaccessible map marker near Whiterun (thanks Dace!)
+  - Fixed incompatibility between JK's Skyrim and Xelzaz (thanks Dace!)
+  - Fixed various floating doors (thanks Dace!)
+  - Fixed a clipping tree at Silent Moons Camp
+  - Fixed clipping carriage in Falkreath
+  - Fixed incorrect perk tree names in the ELSA pop-up (thanks Hajo!)
+- Mod Updates
+  - Thieves Guild Requirements 5.3
+  - Detection Meter 0.17
+  - Precision 2.0.4
+  - Precision Creatures 2
+  - Manbeast 2.0
+  - Scion 2.1.2
+  - Pilgrim 1.1.2
+  - Hand to Hand 1.3.6
+  - Mundus 1.9.0
+  - Adamant 5.7.4
+  - Mysticism 2.2.1
+  - Aetherius 2.10.1
+  - AYOP Main Quest 2.0.4
+  - AYOP Companions 2.0.3
+  - LS4 NPC Merge 4.0.0.7
+- Additions
+  - Desktop Splash Screen
+  - Mirai Renewal
+  - Kaidan Overhaul
+  - High Poly Inigo
+  - More Bandit Camps
+  - 3rd Person Camera Stagger Remover
+  - HD Reworked Tree Bark - Happy Little Trees
+  - Happy Little Trees - Ivy On Trees
+- Replacements
+  - Pandorable's Lucien -> Ella's Lucien
+  - Valhalla Skin -> Tempered Skin
+- Removals
+  - At Your Own Pace - Thieves Guild (redundant)
+- Other
+  - Regenerated NPC Visual Overhaul
+  - Removed faction shrines from Realm of Lorkhan (thanks Dace!)
+  - Slightly reduced volume of level up and skill level up sounds
+  - Added some community-made RaceMenu presets.
+  - Added [Known Issues](https://www.fgsmodlists.com/docs/living-skyrim/known-issues/) page for LS to the website.
+
+### 1/19/2023 4.0.0.6 Beta 6 Release Candidate 1
+#### Minor
+- Fixes
+  - Possibly fixed attack speed issues
+  - Possibly fixed infinite critter spawning
+  - Fixed Lord Harkon turning invisible in Vampire Lord form
+  - Fixed various werewolf characters turning invisible
+  - Fixed some NPCs with missing heads
+  - Fixed movement speed bug regarding water
+  - Fixed some issues caused by added EVGAT objects
+  - Fixed CTDs in College of Winterhold
+  - Fixed incorrect FPS limit on ENB presets
+  - Fixed some ENB presets including old binaries
+- Mod Updates
+  - CritterSpawn Congestion Fix 1.3
+  - Lux Orbis 3.1.1
+  - EVGAT Skyrim Integration Patch 1.2.2
+  - EVGAT Hammet's Dungeons 2.0
+- Additions
+  - Attack Speed Framework
+  - Constructible Object Custom Keyword System 32x9 Ultrawide Patch
+  - LS4 Crafting Overhaul (Thanks Dace!)
+  - Armors of the Velothi Pt2 Crash Fixes
+  - Auri - Thistlefoot Should Stay Outdoors
+  - Animation Queue Fix
+  - House of Horrors - Quest Expansion Patches
+- Removals
+  - Wade In Water
+  - EVG Traversal Animations - Dungeons Addons
+- Other
+  - Tweaked MCM settings
+    - Reduced Thieves Guild radiant requirements
+    - Very slightly reduced mage college skill requirements
+    - Set main quest to show objective markers in-between quests
+    - Turned off Ash effect in RASS
+    - Disabled Reapers from spawning from UHE
+    - Turned off modesty animation from Conditional Idles
+    - Reduced first person item widget size from 1.0 to 0.7 in BTPS
+
 ### 1/1/2023 4.0.0.5 Beta 5
 #### Minor
 - Fixes

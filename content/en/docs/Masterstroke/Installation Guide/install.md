@@ -33,4 +33,4 @@ While you are waiting for the list to install, you should take the time to read 
 
 Once complete, Wabbajack will indicate it is done with a green box that says "Installation complete". You may exit Wabbajack after this appears.
 
-If it does not complete successfully (a red box with "Installation failed"), consult the [Troubleshooting](docs/Masterstroke/Troubleshooting/wj-issues) page of the readme, or visit the [Masterstroke Discord server](https://discord.gg/thg2eRxf7z) for assistance. 
+If it does not complete successfully (a red box with "Installation failed"), consult the [Troubleshooting](/docs/Masterstroke/Troubleshooting/wj-issues) page of the readme, or visit the [Masterstroke Discord server](https://discord.gg/thg2eRxf7z) for assistance. 

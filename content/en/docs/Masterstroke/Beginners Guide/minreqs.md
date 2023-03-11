@@ -11,27 +11,27 @@ description: >
 <table>
   <tr>
     <th></th>
-    <th style="border-bottom: 1px solid;">FG's Specs</th>
-    <th style="border-bottom: 1px solid;">Recommended Specs</th>
     <th style="border-bottom: 1px solid;">Minimum Specs</th>
+    <th style="border-bottom: 1px solid;">Recommended Specs</th>
+    <th style="border-bottom: 1px solid;">FG's Specs</th>
   </tr>
   <tr>
     <th>CPU</th>
-    <td>Ryzen 9 3900X</td>
-    <td>i5-6600 or higher</td>
     <td>Ryzen 3 3300U or higher</td>
+    <td>i5-6600 or higher</td>
+    <td>Ryzen 9 3900X</td>
   </tr>
   <tr>
     <th>GPU</th>
-    <td>RTX 2080 Super</td>
-    <td>GTX 1080Ti or higher</td>
     <td>GTX 1650 or higher</td>
+    <td>GTX 1080Ti or higher</td>
+    <td>RTX 3080 10GB</td>
   </tr>
   <tr>
     <th>RAM</th>
-    <td>32GB</td>
-    <td>16GB or higher</td>
     <td>8GB or higher</td>
+    <td>16GB or higher</td>
+    <td>32GB</td>
   </tr>
 </table>
 

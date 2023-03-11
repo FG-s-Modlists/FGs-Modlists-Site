@@ -1,13 +1,8 @@
 ---
-title: "FG's Modlists News"
-linkTitle: "News"
+title: "News & Articles"
+linkTitle: "News & Articles"
 menu:
   main:
     weight: 2
 ---
-
-
-This is the **blog** section. It has two categories: News and Releases.
-
-Files in these directories will be listed in reverse chronological order.
 

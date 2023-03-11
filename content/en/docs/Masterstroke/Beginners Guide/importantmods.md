@@ -177,7 +177,6 @@ Some fun additions that expand on the frameworks defined above:
 - Milk Addict: Allows you to get addicted to milk and its friends.
 - Furniture Marker Sex: Expands on the furniture options available and makes scenes line up with existing furniture in the world.
 - SexLab Solutions: Provides alternative endings to some quests.
-- Amorous Adventures: Adds new questlines focused around romance and sex.
 - SexLab Drunk Redux: Allows your character to experience loss of control when drunk.
 - Fill Her Up: Adds events for being filled with fluids.
 - Transformative Elixirs: Adds elixirs that can be found that modify a character's body when consumed.

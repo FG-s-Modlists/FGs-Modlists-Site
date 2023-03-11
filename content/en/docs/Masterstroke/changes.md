@@ -8,6 +8,101 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 3/8/2023 1.7.0
+#### Minor
+- Fixes
+  - Corrected load order for SDA and patches
+  - Fixed Aura's Inventory Tweaks + Equipped Items on Top issues
+  - Fixed Silvered Ebony Helmet making heads disappear
+  - Fixed missing in-game Recorder objects
+  - Fixed missing rocks in White River Watch
+  - Fixed Dragons turning invisible in some situations
+  - Fixed jagged edges on skimpy Daedric armor
+  - Fixed NPCs aggro'ing after many hits
+  - Fixed missing bodyslides for several followers
+  - Fixed incorrect Nord racial features
+  - Fixed BFBs in Temple of Dibella
+  - Fixed twitching in dialogue
+  - Fixed Aroused Creature profile not loading
+- Mod Updates
+  - The Trappings of Fate 1.1.1
+  - Simple Slavery Plus Plus 6.3.17
+  - HCOS 2.0
+  - BakaFactory SLAL Animations 6.01
+  - Submissive Lola The Resubmission 2.0.60
+  - ZAZ Animation Pack 8.0 2023
+  - SexLab Parasites 2023-02-26
+  - Devious Devices 5.2
+  - Masterstroke Core Bodyslides 1.7.0
+  - Masterstroke NPC Merge 1.7.0
+  - Scion 2.1.2
+- Additions
+  - Both Profiles
+    - dunFolgunthurBossBattle Script Fix
+    - SPID - NFF - Add Ignore Token to CustomAI Followers
+    - Sweeping Organizes Stuff
+    - Koralina's Makeup Tweaks
+    - Improved Table Transition Animations
+    - Dex's Thicc 3BA Bodyslide preset
+    - The Tinraa Body - Hips Don't Lie bodyslide preset
+    - Demonic Bodyslide Preset
+    - Amazing Curves bodyslide preset
+    - Lady Miraak
+    - Opulent Thieves Guild
+    - Ambriel - The Lost Princess 
+    - Remiel
+- Other
+  - Merged futa patches into their parent skin mods to make customization easier.
+  - Regenerated Synthesis outputs.
+
+### 2/2/2023 1.6.1
+#### Incremental
+- Fixes
+  - Fixed redundant MCM for Lock Overhaul
+  - Fixed missing requirements for Adira
+  - fixed some signs (thanks Dace!)
+  - fixed some missing TAWOBA books (thanks Dace!)
+  - Kinda fixed missing functionality of Equipped Items On Top (will be refined further in a future update)
+- Additions
+  - Both Profiles
+    - VNDKTR's Goddess Emporium - Assets
+
+### 1/30/2023 1.6.0
+#### Minor
+- Fixes
+  - Both Profiles
+    - Fixed Lock Overhaul interactions with Hand To Hand (thanks Frosty!)
+    - Fixed a stupid message from MME (thanks Frosty!)
+    - Fixed LewdMarks being disabled
+    - Fixed anal collision not working
+    - Fixed broken Midden teleport
+    - Fixed green overlay in Dwemer ruins
+  - Creature Profile
+    - Fixed creatures in College of Winterhold preventing sleeping (thanks Frosty!)
+- Mod Updates
+  - MS ROL Patch
+  - CBBE 3BA 2.46
+- Additions
+  - Both Profiles
+    - Desktop Splash Screen
+    - Chubby Elf Bodyslide Preset
+    - D-sney Mommy Bodyslide Preset
+    - Lair of Succubi
+    - Missile's Immersive Equipment Display Presets
+    - Aura's Inventory Tweaks
+    - Adira Follower
+    - Missing Follower Dialogue Fix
+    - Obscure's College of Winterhold NPC Stuck in Staircase Fix
+    - DX Fetish Fashion Vol 1 and custom crafting recipe patch, thanks Frosty!
+    - DX Fetish Fashion Vol 2 and custom crafting recipe patch, thanks Frosty!
+    - Elven Supremacy Bodyslide preset
+    - Skyrim Sewers
+    - Enhanced Volumetric Lighting and Shadows (EVLaS)
+- Removals
+    - JK's College of Winterhold
+- Replacements
+  - OBody Standalone -> OBody NG
+
 ### 1/10/2023 1.5.3
 #### Incremental
 - Fixes

@@ -8,6 +8,14 @@ description: >
   The MOISE changelog.
 ---
 
+### 1/23/2023 1.2.7
+#### Incremental
+- Mod Updates
+  - Mod Organizer 2.4.4
+- Fixes
+  - Fixed INI issue during install
+  - Fixed missing HD intro cutscene
+
 ### 1/5/2022 1.2.6
 #### Incremental
 - Fixes

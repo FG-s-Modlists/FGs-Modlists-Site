@@ -22,5 +22,11 @@ To actually launch and then play Masterstroke, follow these steps:
 
 {{< alert color="danger" title="Warning!" >}}
 <div class="alert-icon">🛑</div>
+
+Masterstroke requires that the MCMs be configured for the list to work properly. Many features are disabled or incorrectly configured when a new game is created. The MCM Recording is not optional. For details about this process, please refer to the [MCM configuration](https://www.fgsmodlists.com/docs/masterstroke/post-install/mcm/) page for Masterstroke.
+{{< /alert >}}
+
+{{< alert color="danger" title="Warning!" >}}
+<div class="alert-icon">🛑</div>
 Loading a save from another modlist or from before you installed Masterstroke will corrupt that save, do not do this.
 {{< /alert >}}

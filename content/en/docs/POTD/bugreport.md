@@ -8,6 +8,6 @@ description: >
   The form to use to report bugs.
 ---
 
-To report a bug for POTD, fill out this form:
+To report a bug for POTD, fill out this form. If the form does not load, please allow third-party cookies. The form can take a few seconds to load. If it does not, please visit the form directly at [this link.](https://forms.clickup.com/9003061110/f/8c9zkvp-302/OB3YFE2Z53P1KZ4IGS)
 
-<div class="asana-embed-container"><link rel="stylesheet" href="https://form.asana.com/static/asana-form-embed-style.css"/><iframe class="asana-embed-iframe" height="533" width = "800" src="https://form.asana.com/?k=FZ98tv3ASezyXug0A-PBHg&d=1202685114827965&embed=true"></iframe><div class="asana-embed-footer"><a rel="nofollow noopener" target="_blank" class="asana-embed-footer-link" href="https://asana.com/?utm_source=embedded_form"><span class="asana-embed-footer-text">Form powered by</span><div class="asana-embed-footer-logo" role="img" aria-label="Logo of Asana"></div></a></div></div>
+<iframe class="clickup-embed clickup-dynamic-height" src="https://forms.clickup.com/9003061110/f/8c9zkvp-302/OB3YFE2Z53P1KZ4IGS" onwheel="" width="70%" height="100%" style="background: transparent; border: 1px solid #212529;"></iframe><script async src="https://app-cdn.clickup.com/assets/js/forms-embed/v1.js"></script>
