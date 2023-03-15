@@ -8,6 +8,13 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 3/15/2023 1.7.0.1
+#### Hotfix
+- Fixes
+  - Fixed invisible werewolves
+- Mod Updates
+  - Scrappies Matchmaker 1.5.1.1
+
 ### 3/8/2023 1.7.0
 #### Minor
 - Fixes
