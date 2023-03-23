@@ -52,6 +52,10 @@ Download the file manually and put it in your downloads folder. A mirror for thi
 
 Download the file manually and put it in your downloads folder. A mirror can be found here: [XLODGen.86](https://drive.google.com/file/d/1yGQtCNbG8RCJp0XLk4LLUL9q0gfO76OP/view)
 
+#### "Community Overlays 1 - CBBE Male and Female Repackage fails to download."
+
+Download the file manually and put it in your downloads folder. A mirror can be found here: [Community Overlays 1 - CBBE Male and Female Repackage](https://drive.google.com/file/d/1jHzXv8VC6fF9pGHbKlkitCE8UK-p-vX9/view)
+
 #### "MEGA hosted files are failing to download."
 
 Download the files manually and put them in your downloads folder. A list of all the MEGA hosted files for the list are here:
