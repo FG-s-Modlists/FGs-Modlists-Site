@@ -8,6 +8,46 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 4/10/2023 1.7.1
+#### Incremental
+- Fixes
+  - Fixed green overlay in some areas
+  - Fixed missing Nordic UI patch (for 32x9 screens)
+  - Fixed duplicate face presets
+  - Fixed Animated Forge Water doing nothing
+  - Fixed crash when hiding quests
+  - Fixed not receiving XP when using staves
+  - Fixed lighting issues on Steel Abs V
+  - Fixed several BFBs
+  - Fixed incorrect body skin for some NPCs
+  - Possibly fixed Giant club physics
+  - Fixed being unable to temper Champion of Azura sword
+  - Fixed OBody not working on several NPCs
+  - Fixed Speech perk tree.
+- Mod Updates
+  - Scrambled Bugs 17
+  - Infinity UI 2.0.1
+  - Compass Navigation Overhaul 2.1
+  - Animated Forge Water 0.7
+  - Adamant 5.7.6
+  - Mysticism 2.2.3
+  - Mundus 1.9.1
+  - Papyrus Tweaks 4.1
+  - At Your Own Pace
+  - Show Player In Menus 2.0.3
+  - Sets of Skills 2.0.3
+  - Honed Metal Revoices 1.23
+  - Favorite Misc Items 3.7.1
+  - Submissive Lola Resubmission 2.0.61
+  - Lair of Succubi 1.2
+- Additions
+  - Adamant + Leadership patch
+  - Campfire + Pilgrim patch
+- Removals
+  - Leadership - Custom Skills Framework Extension
+- Other
+  - Enabled SexLab Even Actor Height by default on both profiles
+
 ### 3/15/2023 1.7.0.1
 #### Hotfix
 - Fixes
