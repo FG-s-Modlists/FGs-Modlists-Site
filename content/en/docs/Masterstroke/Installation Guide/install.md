@@ -35,4 +35,17 @@ While you are waiting for the list to install, you should take the time to read 
 
 Once complete, Wabbajack will indicate it is done with a green box that says "Installation complete". You may exit Wabbajack after this appears.
 
+{{< alert color="success" title="Installation Complete">}}
+<div class="alert-icon">✅</div>
+
+![](https://i.imgur.com/s3ELgZB.png)
+{{< /alert >}}
+
 If it does not complete successfully (a red box with "Installation failed"), consult the [Troubleshooting](/docs/Masterstroke/Troubleshooting/wj-issues) page of the readme, or visit the [Masterstroke Discord server](https://discord.gg/thg2eRxf7z) for assistance. 
+
+{{< alert color="danger" title="Installation Failed" >}}
+<div class="alert-icon">🛑</div>
+
+
+![](https://i.imgur.com/nIUXD8h.png)
+{{< /alert >}}
