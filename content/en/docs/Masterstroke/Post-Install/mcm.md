@@ -8,6 +8,12 @@ description: >
   The required MCM configuration steps for Masterstroke.
 ---
 
+{{< alert color="important" title="Important!">}}
+<div class="alert-icon">⚠️</div>
+
+It's important that you do the following steps in the order they are presented. Skipping around or going out of order is bad.
+{{< /alert >}}
+
 ## MCM Configuration
 
 When you are finished making your character, a bunch of text will start scrolling in the top left-hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.** If you receive any pop-up messages during this wait, click through them.
@@ -44,6 +50,8 @@ Unfortunately MCM Recorder does not like setting hotkeys, so the following hotke
 #### Valhalla Combat
 
 If you wish you use the Executions feature of Valhalla Combat, you should set its hotkey in the Valhalla Combat MCM.
+- Compatibility
+  - Alternate Blocking Key: V
 
 #### TK Dodge RE
 
@@ -58,7 +66,4 @@ If you wish to change the default dodge key from Left Alt to something else, use
 #### Leadership
 - Hotkey: K
 
-#### Valhalla Combat
-- Compatibility
-  - Alternate Blocking Key: V
 
