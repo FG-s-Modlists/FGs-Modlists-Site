@@ -90,7 +90,7 @@ The HUD and UI is going to be different in Masterstroke, even if you're coming f
 - [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688) and [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619): Allows for longer descriptions and more information to be shown on items.
 - [TrueHUD](https://www.nexusmods.com/skyrimspecialedition/mods/62775): Adds health bars to enemies, bosses, and a widget that appears when your shouts are on cooldown.
 - [Sunhelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414): Adds widgets to the HUD for hunger, thirst, fatigue, and the current temperature.
-- SL Widgets: Adds an arousal widget to track arousal status.
+- [SL Widgets](https://www.loverslab.com/files/file/19148-sl-widgets/): Adds an arousal widget to track arousal status.
 - Custom Masterstroke Main Menu: A combination of a few different mods to change the main menu and its music.
 - [Extended UI](https://www.nexusmods.com/skyrim/mods/57873/): Changes the skill tree page to give an overview of all of your skills at once.
 - [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080): Overhauls the character creation screen to provide more options in character customization.
@@ -108,7 +108,7 @@ Masterstroke ships with several new questlines and dungeon mods to increase vari
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565): A new land and quest mod focused on dragons.
 - [Maids 2](https://www.nexusmods.com/skyrimspecialedition/mods/189): Deception: A somewhat NSFW themed and lighthearted questline.
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179): The critically acclaimed quest that was recently turned into its own standalone game.
-- The Trappings of Fate: Devious Devices meets Escape Room.
+- [The Trappings of Fate](https://www.loverslab.com/files/file/22231-the-trappings-of-fate/): Devious Devices meets Escape Room.
 
 ### Followers
 
@@ -156,34 +156,33 @@ Masterstroke also has a few new player homes scattered throughout the world for 
 
 Of course, Masterstroke is designed around sexy elements and interactions. The core NSFW package is as follows.
 
-- SexLab: Makes the whole NSFW world go around.
-- OSL Aroused: Makes your character and NPCs have arousal to affect various other things.
-- SexLab Defeat Baka Edition: The defeat mod of choice. Adds surrender and defeat mechanics to combat.
-- SexLab Separate Orgasms: Adds a minigame to NSFW scenes.
-- ZaZ Animation Pack: Adds animations for various scenes.
-- Devious Devices: A framework for NSFW equipment and managing of that equipment.
-- SexLab Fame: A framework for characters to gain NSFW fame in areas across the land.
-- State of Dress: A framework for determining your character's level of dress, used by other mods.
-- Scrappies Matchmaker: A matchmaking framework that allows NPCs to get busy with each other.
-- Milk Mod Economy: Adds a new layer to the Skyrim economy focused around the production and sale of milk.
-- Simple Slavery: A framework to allow the player character to be sold into slavery.
-- Public Whore: An alternative to being sent to jail, instead your character might need to become the Public Whore of a city.
-- SexLab Eager NPCs: Makes NPCs eager and allows for NSFW interactions with your followers.
+- [SexLab](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v165-110822/): Makes the whole NSFW world go around.
+- [OSL Aroused](https://www.loverslab.com/files/file/20867-osl-aroused-arousal-reborn-sse-ae/): Makes your character and NPCs have arousal to affect various other things.
+- [SexLab Defeat Baka Edition](https://www.loverslab.com/files/file/18689-sexlab-defeat-baka-edition-lese/): The defeat mod of choice. Adds surrender and defeat mechanics to combat.
+- [SexLab Separate Orgasms](https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/): Adds a minigame to NSFW scenes.
+- [ZaZ Animation Pack](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/): Adds animations for various scenes.
+- [Devious Devices](https://www.loverslab.com/files/file/5878-devious-devices-se/): A framework for NSFW equipment and managing of that equipment.
+- [SexLab Fame](https://www.loverslab.com/files/file/2455-sex-lab-sexual-fame-framework/): A framework for characters to gain NSFW fame in areas across the land.
+- [Scrappies Matchmaker](https://www.loverslab.com/files/file/19891-scrappies-matchmaker/): A matchmaking framework that allows NPCs to get busy with each other.
+- [Milk Mod Economy](https://www.loverslab.com/files/file/1382-milk-mod-economy/): Adds a new layer to the Skyrim economy focused around the production and sale of milk.
+- [Simple Slavery](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/): A framework to allow the player character to be sold into slavery.
+- [Public Whore](https://www.loverslab.com/files/file/17026-public-whore/): An alternative to being sent to jail, instead your character might need to become the Public Whore of a city.
+- [SexLab Eager NPCs](https://www.loverslab.com/files/file/2182-sexlab-eager-npcs/): Makes NPCs eager and allows for NSFW interactions with your followers.
 
 Some fun additions that expand on the frameworks defined above:
 
-- OBody Standalone: Allows you to change your character's (or NPC's) Bodyslide preset on demand in game.
-- Deviously Enchanted Chests: Traps containers such that you might get equipped with some devious devices.
-- Milk Addict: Allows you to get addicted to milk and its friends.
-- Furniture Marker Sex: Expands on the furniture options available and makes scenes line up with existing furniture in the world.
-- SexLab Solutions: Provides alternative endings to some quests.
-- SexLab Drunk Redux: Allows your character to experience loss of control when drunk.
-- Fill Her Up: Adds events for being filled with fluids.
-- Transformative Elixirs: Adds elixirs that can be found that modify a character's body when consumed.
-- Gender Bender: Allows your character to swap genders on a whim. (Only works for female characters)
-- Skooma Whore: Your character can get addicted to various drugs/concoctions.
-- Submissive Lola Resubmission: Allows your character to consensually enter a dom/sub relationship with a follower.
-- Devious Device Helpers: Adds additional options for removing devious devices.
+- [OBody NG](https://www.nexusmods.com/skyrimspecialedition/mods/77016): Allows you to change your character's (or NPC's) Bodyslide preset on demand in game.
+- [Deviously Enchanted Chests](https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/): Traps containers such that you might get equipped with some devious devices.
+- [Milk Addict](https://www.loverslab.com/files/file/5603-milk-addict/): Allows you to get addicted to milk and its friends.
+- [Furniture Marker Sex](https://www.loverslab.com/files/file/13464-furniture-sex-framework/): Expands on the furniture options available and makes scenes line up with existing furniture in the world.
+- [SexLab Solutions](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/): Provides alternative endings to some quests.
+- [SexLab Drunk Redux](https://www.loverslab.com/files/file/11310-sexlab-drunk-redux/): Allows your character to experience loss of control when drunk.
+- [Fill Her Up](https://www.loverslab.com/files/file/14920-fill-her-up-baka-edition/): Adds events for being filled with fluids.
+- [Transformative Elixirs](https://www.loverslab.com/files/file/19735-transformative-elixirs/): Adds elixirs that can be found that modify a character's body when consumed.
+- [Gender Bender](https://www.loverslab.com/files/file/6976-gender-bender-se/): Allows your character to swap genders on a whim. (Only works for female characters)
+- [Skooma Whore](https://www.loverslab.com/files/file/10093-skooma-whore-se/): Your character can get addicted to various drugs/concoctions.
+- [Submissive Lola Resubmission](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese/): Allows your character to consensually enter a dom/sub relationship with a follower.
+- [Devious Device Helpers](https://www.loverslab.com/files/file/9197-devious-devices-helpers-se/): Adds additional options for removing devious devices.
 
 ### Quality of Life Mods
 
@@ -218,14 +217,14 @@ No modlist would be complete without an entire suite of mods to improve the qual
 
 Masterstroke includes an optional creature profile allowing for even more degeneracy. The mods that make this possible are:
 
-- Creature Framework: The backbone of creature content.
-- More Nasty Critters: A framework that allows creature animations.
-- Baka's ABC: If you know, you know.
-- Estrus Chaurus: Chaurus spit attacks can put you into a helpless state.
-- Estrus Spider: As above, but for Spiders.
-- Egg Factory: Eggs!
-- Pheromones: Your potions may be laced with something a bit extra.
-- CO More Creatures: As it says, more creatures.
-- SL Parasites: Parasites!
+- [Creature Framework](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/): The backbone of creature content.
+- [More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/): A framework that allows creature animations.
+- [Baka's ABC](https://www.loverslab.com/files/file/7556-animated-beasts-cocksabc-for-users-le-se/): If you know, you know.
+- [Estrus Chaurus](https://www.loverslab.com/files/file/6160-estrus-chaurus-for-se/): Chaurus spit attacks can put you into a helpless state.
+- [Estrus Spider](https://www.loverslab.com/files/file/2438-estrus-chaurus-spider-addon-%E2%95%B2-%E2%80%A2%CC%80-%CF%89-%E2%80%A2%CC%81-%E2%95%B1/): As above, but for Spiders.
+- [Egg Factory](https://www.loverslab.com/files/file/1890-egg-factory/): Eggs!
+- [Pheromones](https://www.loverslab.com/files/file/6893-sexlab-pheromones/): Your potions may be laced with something a bit extra.
+- [CO More Creatures](https://www.loverslab.com/files/file/12760-creature-overhaul/): As it says, more creatures.
+- [SL Parasites](https://www.loverslab.com/files/file/26009-sexlab-parasites-kynes-blessing-se-february-2023/): Parasites!
 
 To use the Creature Profile, you should use the Profile dropdown menu in Mod Organizer 2 to switch to the Creature Profile.
