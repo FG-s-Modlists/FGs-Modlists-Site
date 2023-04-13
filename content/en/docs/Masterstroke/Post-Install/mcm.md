@@ -55,9 +55,6 @@ If you wish to change the default dodge key from Left Alt to something else, use
 #### SL Tools
 - SL Tools Menu: O
 
-#### Leadership
-- Hotkey: K
-
 #### Valhalla Combat
 - Compatibility
   - Alternate Blocking Key: V
