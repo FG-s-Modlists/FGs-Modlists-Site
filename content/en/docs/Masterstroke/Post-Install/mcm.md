@@ -1,8 +1,8 @@
 ---
 categories: ["Masterstroke"]
 tags: ["docs"] 
-title: "MCMs"
-linkTitle: "MCMs"
+title: "MCM Setup"
+linkTitle: "MCM Setup"
 weight: 1
 description: >
   The required MCM configuration steps for Masterstroke.
@@ -54,9 +54,10 @@ This is used to toggle the compass.
  
 #### Valhalla Combat
 
-If you wish you use the Executions feature of Valhalla Combat, you should set its hotkey in the Valhalla Combat MCM.
 - Compatibility
   - Alternate Blocking Key: V
+
+If you wish you use the Executions feature of Valhalla Combat, you should set its hotkey in the Valhalla Combat MCM.
 
 #### TK Dodge RE
 
