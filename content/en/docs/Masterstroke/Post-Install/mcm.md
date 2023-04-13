@@ -46,6 +46,11 @@ Unfortunately MCM Recorder does not like setting hotkeys, so the following hotke
 
 #### Immersive HUD
   - Toggle: RAlt
+
+{{< alert color="info" title="Info">}}
+<div class="alert-icon">ℹ️</div>
+This is used to toggle the compass.
+{{< /alert >}}
  
 #### Valhalla Combat
 
