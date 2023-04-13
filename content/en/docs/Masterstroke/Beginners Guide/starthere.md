@@ -33,6 +33,6 @@ Warning blocks like this one will warn you when you absolutely must not forget t
 
 ### Important Links
 - [Masterstroke Load Order Library](/docs/masterstroke/details)
-- [MS Default Keymap](http://www.keyboard-layout-editor.com/#/gists/0cd559c4d9f1a88b965b552e961a906c)
+- <a href="http://example.com/](http://www.keyboard-layout-editor.com/#/gists/0cd559c4d9f1a88b965b552e961a906c)" target="_blank">MS Default Keymap</a>
 - [Masterstroke Discord](https://discord.gg/thg2eRxf7z)
 - [Masterstroke Patreon](https://www.patreon.com/LivingSkyrim)
