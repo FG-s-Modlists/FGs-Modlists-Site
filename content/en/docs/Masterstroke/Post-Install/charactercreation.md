@@ -1,11 +1,11 @@
 ---
 categories: ["Masterstroke"]
 tags: ["docs"] 
-title: "Character Creation"
-linkTitle: "Character Creation"
+title: "Character Customization"
+linkTitle: "Character Customization"
 weight: 2
 description: >
-  How to create your character in Masterstroke.
+  How to customize your character in Masterstroke.
 ---
 
 {{< alert color="danger" title="Warning!" >}}

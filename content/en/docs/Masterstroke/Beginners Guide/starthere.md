@@ -29,3 +29,10 @@ Warning blocks like this one will warn you when you absolutely must not forget t
 - Autosaves for Masterstroke are disabled. You should make your quicksave button your best friend (usually, the F5 key).
 - Continuing the last point, it is always better to save **before** entering a loading screen instead of after. After a loading screen it is very likely that scripts will be running for at least 30 seconds, so if you must save after a loading screen, at least wait that long before doing so. When practical, try to avoid saving during combat.
 - In Masterstroke, NPCs and player characters are nude while wearing no armor/clothing.
+- By default, Masterstroke has the game running in exclusive fullscreen mode to assist with game performance.
+
+### Important Links
+- [Masterstroke Load Order Library](/docs/masterstroke/details)
+- <a href="http://example.com/](http://www.keyboard-layout-editor.com/#/gists/0cd559c4d9f1a88b965b552e961a906c)" target="_blank">MS Default Keymap</a>
+- [Masterstroke Discord](https://discord.gg/thg2eRxf7z)
+- [Masterstroke Patreon](https://www.patreon.com/LivingSkyrim)
