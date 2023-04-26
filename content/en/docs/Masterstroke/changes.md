@@ -8,6 +8,13 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 4/26/2023 1.7.2
+#### Incremental
+- Mod Updates
+  - Trappings of Fate 1.2.0
+  - TAP Interiors 1.5.2
+  - The Ancient Profession 0.14
+
 ### 4/10/2023 1.7.1
 #### Incremental
 - Fixes
