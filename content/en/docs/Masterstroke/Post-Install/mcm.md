@@ -1,12 +1,18 @@
 ---
 categories: ["Masterstroke"]
 tags: ["docs"] 
-title: "MCMs"
-linkTitle: "MCMs"
+title: "MCM Setup"
+linkTitle: "MCM Setup"
 weight: 1
 description: >
   The required MCM configuration steps for Masterstroke.
 ---
+
+{{< alert color="important" title="Important!">}}
+<div class="alert-icon">⚠️</div>
+
+It's important that you do the following steps in the order they are presented. Skipping around or going out of order is bad.
+{{< /alert >}}
 
 ## MCM Configuration
 
@@ -40,8 +46,16 @@ Unfortunately MCM Recorder does not like setting hotkeys, so the following hotke
 
 #### Immersive HUD
   - Toggle: RAlt
+
+{{< alert color="info" title="Info">}}
+<div class="alert-icon">ℹ️</div>
+This is used to toggle the compass.
+{{< /alert >}}
  
 #### Valhalla Combat
+
+- Compatibility
+  - Alternate Blocking Key: V
 
 If you wish you use the Executions feature of Valhalla Combat, you should set its hotkey in the Valhalla Combat MCM.
 
@@ -54,8 +68,4 @@ If you wish to change the default dodge key from Left Alt to something else, use
 
 #### SL Tools
 - SL Tools Menu: O
-
-#### Valhalla Combat
-- Compatibility
-  - Alternate Blocking Key: V
 
