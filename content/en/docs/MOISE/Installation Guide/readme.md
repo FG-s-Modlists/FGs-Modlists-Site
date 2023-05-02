@@ -45,6 +45,8 @@ To get your Morrowind to this state, follow these steps:
 
 Make sure you have installed the English version of the game, other languages will cause Wabbajack to throw an error while verifying the game’s files match what it is expecting.
 
+Additionally, you will need to install [Visual C++ 2010 Service Pack 1 x86](https://www.microsoft.com/en-us/download/details.aspx?id=26999).
+
 ## Installation Setup
 1. Download the latest version of Wabbajack. Do not run anything until instructed to do so.
 2. Create a new folder in the root of the drive where you want Wabbajack to be installed. (C:\ will be used as an example, but it can be placed in any drive.) Name this folder “Wabbajack”. Important: Wabbajack must be placed in a separate folder from where the installation will occur.
