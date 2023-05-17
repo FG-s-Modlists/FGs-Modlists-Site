@@ -90,7 +90,6 @@ description: >
   - DynDOLOD Ice Piles Fix
   - Harder Lock Picking
 - Replacements
-  - Leviathan Animations - Sprint -> Leviathan Animations II - Sprint
   - Enhanced Night Sky -> Ethereal Cosmos
   - SkyRem IRIS -> Food Remover Plus
 - Other
