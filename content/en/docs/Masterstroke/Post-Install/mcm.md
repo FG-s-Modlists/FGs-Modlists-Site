@@ -67,5 +67,5 @@ If you wish to change the default dodge key from Left Alt to something else, use
 - Hotkey: V
 
 #### SL Tools
-- SL Tools Menu: O
+- Tool key: O
 
