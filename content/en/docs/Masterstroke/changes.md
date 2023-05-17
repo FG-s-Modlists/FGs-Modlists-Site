@@ -8,6 +8,97 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 5/17/2023 1.8.0
+#### "Minor"
+- Fixes
+  - Fixed Aura's Inventory Tweaks issues
+  - Fixed Fair Skin being disabled by default on creature profile
+  - Fixed incorrect Legion models not being replaced on Skimpy Bodyslides
+  - Fixed Ambriel quest not starting
+  - Fixed missing map markers
+  - Fixed Adira missing bodyslides
+  - Fixed green/dark dwemer ruins
+- Mod Updates
+  - Fill Her Up 1.9
+  - Submissive Lola Resubmission 2.0.63
+  - OSLAroused 2.3.0
+  - Aura's Inventory Tweaks 3.0.3
+  - PowerofThree's Tweaks 1.8.0
+  - ENB Binaries v493
+  - Water for ENB 1.76
+  - FreeFlyCam 13.2.5
+  - TNT 1.6b
+  - Ominous ENB 3.0
+  - PI-CHO 8.1
+  - Rudy ENB 6.5a
+  - Re-Engaged ENB 9.4a
+  - iiENB 5.05
+  - LewdMarks 2.02
+  - Simple Slavery Plus Plus 6.3.18
+  - SLWidgets 2.0.7
+  - Address Library for SKSE v2
+  - Bodyslide v5.6.0
+  - Serana Dialogue Overhaul 4.0.2.0
+- Additions
+  - Both Profiles
+    - Essentials
+      - Object Categorization Framework
+      - FormList Manipulator 
+      - MergeMapper
+      - Keyword Item Distributor
+      - Inventory Interface Information Injector
+      - Inventory Interface Information Injector SE 1.5
+    - HUD/UI
+      - The Handy Icon Collection Collective
+      - B.O.O.B.I.E.S
+    - Gameplay - Immersion
+      - Harsher SunHelm Cold
+    - Sexlab and Friends
+      - SOS Female Schlongifier
+      - LewdMarks Aroused
+      - Devious Lore SE
+    - New Questlines
+      - Sirenroot
+      - The Innocence Lost - Quest Expansion
+      - Warden of the Coast
+      - Defeat the Dragon Cult
+      - Cult of the True Dragonborn
+      - Cult of the World Eater
+      - Maelstrom
+      - Betalille's Hammerfell Quests Bundle
+      - The Heist
+    - Character Customization
+      - Dint999's Face Part Mod
+    - NPCs - Followers
+      - Kitty Misa
+      - Avenger of the Lost
+    - Items
+      - Viridian Knight
+      - Daedric Chainmail
+      - Kozakowy 1660 Gown
+      - Kozakowy 1700 Gown
+      - Kozakowy 1546 Gown
+      - Kozakowy Falka Armor
+      - Bonemold and Chitin Bikini Armor
+      - Magpie's Immersion Books
+      - Bifrost
+      - Milkmaid Outfit
+      - Cloud's Layered Gowns
+- Removals
+  - Equipped Items on Top
+  - Windyridge
+  - DynDOLOD Ice Piles Fix
+  - Harder Lock Picking
+- Replacements
+  - Leviathan Animations - Sprint -> Leviathan Animations II - Sprint
+  - Enhanced Night Sky -> Ethereal Cosmos
+  - SkyRem IRIS -> Food Remover Plus
+- Other
+  - Regenerated DynDOLOD and friends
+  - Regenerated FNIS/Nemesis Output
+  - Regenerated Bodyslides (all of them)
+  - Regenerated Synthesis Output
+
 ### 4/26/2023 1.7.2
 #### Incremental
 - Mod Updates
@@ -56,8 +147,7 @@ description: >
   - Enabled SexLab Even Actor Height by default on both profiles
 
 ### 3/15/2023 1.7.0.1
-#### Hotfix
-- Fixes
+#### Hotfix- Fixes
   - Fixed invisible werewolves
 - Mod Updates
   - Scrappies Matchmaker 1.5.1.1
