@@ -8,6 +8,17 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 5/18/2023 1.8.0.1
+#### Hotfix
+- Fixes
+  - Fixed Misa's bodyslides
+  - Fixed CTDs in Whiterun and Dead Man's Drink
+  - Fixed ENB Binaries not being updated
+  - Fixed missing columns in inventory
+  - Corrected Dint Face Part Mod load order
+- Removals
+  - The Heist
+
 ### 5/17/2023 1.8.0
 #### "Minor"
 - Fixes
@@ -17,7 +28,7 @@ description: >
   - Fixed Ambriel quest not starting
   - Fixed missing map markers
   - Fixed Adira missing bodyslides
-  - Fixed green/dark dwemer ruins
+  - Fixed green/dark dwemer ruin
 - Mod Updates
   - Fill Her Up 1.9
   - Submissive Lola Resubmission 2.0.63
