@@ -8,6 +8,31 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 6/3/2023 1.8.1
+#### Incremental
+- Fixes
+  - Patched SunHelm food changes
+  - Fixed Sirenroot missing textures
+  - Fixed not being able to nutshot male NPCs
+  - Fixed many missing bodyslides
+- Mod Updates
+  - Simple Slavery Plus Plus 6.3.19
+  - SLWidgets 2.0.8
+  - HCOS 2.0A
+  - Submissive Lola 2.0.64
+  - Serana Dialogue Add-On 4.0.2.2
+- Additions
+  - Both Profiles
+    - Sound Fix for Large Sector Drives
+    - Mihail Soul Cairn Drainlife Crystal - Retexture
+    - Dual Casting Fix
+- Replacements
+  - Dynamic Animation Replacer -> Open Animation Replacer
+- Other
+  - Cleaned up Stock Game folder a bit.
+  - Simplified Ultrawide options
+  - Oprah Meme: "You get a nerf! You get a nerf!" (nerfed a lot of things)
+
 ### 5/18/2023 1.8.0.1
 #### Hotfix
 - Fixes
