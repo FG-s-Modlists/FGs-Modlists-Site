@@ -21,6 +21,9 @@ If you download a RaceMenu Preset from Nexus or another website, simply install 
 ### Adding a preset as a loose file
 If you download a RaceMenu preset from the [FG's Modlists Discord](https://discord.gg/thg2eRxf7z) and want it to appear in-game, download the `.jslot` file and place it into `[Your modlist install location]\mods\Masterstroke Custom RaceMenu Presets\SKSE\Plugins\CharGen\Presets\` alongside all the other presets. Presets downloaded from the Discord should not require any tweaking to work correctly with the modlist.
 
+### Saving/Exporting a preset
+If you update or reinstall the list, presets you've added or created yourself will be deleted. If you make your own, make sure to back them up from `[Your modlist install location]\mods\Files Generated during playsessions launched with SKSE\SKSE\Plugins\CharGen\Presets\` to another folder outside of your install before running Wabbajack.
+
 ### Converting presets to other races
 
 {{< alert color="info" title="Info">}}
