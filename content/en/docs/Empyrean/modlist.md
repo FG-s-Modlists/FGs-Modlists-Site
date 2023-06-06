@@ -1,6 +1,6 @@
 ---
 categories: ["Empyrean"]
-tags: ["docs"] 
+tags: ["docs", "empyrean"] 
 title: "Modlist"
 linkTitle: "Modlist"
 weight: 5

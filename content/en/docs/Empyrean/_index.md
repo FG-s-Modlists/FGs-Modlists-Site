@@ -1,9 +1,9 @@
 ---
 categories: ["Empyrean"]
-tags: ["docs"] 
+tags: ["docs", "empyrean"] 
 title: "Empyrean"
 linkTitle: "Empyrean"
-weight: 2
+weight: 8
 description: >
     Documentation for Empyrean
 ---

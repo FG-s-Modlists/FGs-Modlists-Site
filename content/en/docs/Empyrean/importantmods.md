@@ -1,6 +1,6 @@
 ---
 categories: ["Empyrean"]
-tags: ["docs"] 
+tags: ["docs", "empyrean"] 
 title: "Important Mods"
 linkTitle: "Important Mods"
 weight: 3

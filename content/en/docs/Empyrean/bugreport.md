@@ -1,6 +1,6 @@
 ---
 categories: ["Empyrean"]
-tags: ["docs", ] 
+tags: ["docs", "empyrean"] 
 title: "Bug Report Form"
 linkTitle: "Bug Report Form"
 weight: 31

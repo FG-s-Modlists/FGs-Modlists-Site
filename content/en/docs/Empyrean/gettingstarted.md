@@ -1,6 +1,6 @@
 ---
 categories: ["Empyrean"]
-tags: ["docs"] 
+tags: ["docs", "empyrean"] 
 title: "Start Here"
 linkTitle: "Start Here"
 weight: 2

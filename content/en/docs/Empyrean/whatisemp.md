@@ -1,6 +1,6 @@
 ---
 categories: ["Empyrean"]
-tags: ["docs"] 
+tags: ["docs", "empyrean"] 
 title: "What is Empyrean?"
 linkTitle: "What is Empyrean?"
 weight: 1

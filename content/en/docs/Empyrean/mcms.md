@@ -1,6 +1,6 @@
 ---
 categories: ["Empyrean"]
-tags: ["docs"] 
+tags: ["docs", "empyrean"] 
 title: "MCM Configuration"
 linkTitle: "MCM Configuration"
 weight: 4
