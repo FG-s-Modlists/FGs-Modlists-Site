@@ -8,6 +8,91 @@ description: >
   The Living Skyrim changelog.
 ---
 
+### 4/1/2023 4.0.1
+### Incremental
+- Bug Fixes
+  - Fixed Experience - Slow Your Roll INI
+  - Fixed Pause After Load WJ tag
+  - Fixed floating chest in Winterhold
+  - Fixed OCW Plaque Quest giving infinite XP
+  - Fixed Apothecary's Reflect damage
+  - Corrected some load order errors
+  - Fixed College Curriculum quest not starting
+  - Fixed ELSA Brawler option being unavailable
+  - Fixed Tolfdir's fire bolt not registering on your ward during First Lessons
+  - Fixed several issues with race modifiers
+  - Fixed being able to long press to power attack
+  - Fixed CTD in performance profile during Helgen Reborn
+  - Fixed CTD in Greywater Grotto
+  - Fixed floating barrel near Bleakwind Basin
+  - Fixed some naked NPCs
+  - Fixed speech perk tree
+  - Fixed various issues with Moonlight Cottage
+  - Fixed beast race support for Armor of the Velothi
+  - Possibly fixed CTD in Breezehome
+  - Fixed College of Winterhold BFBs
+  - Fixed incorrect female Dark Brotherhood armor meshes
+  - Fixed some clipping logs near Zulfardin
+  - Fixed purple hair on Muiri
+  - Fixed Trade Routes being inactive
+  - Fixed equipped left handed items disappearing
+  - Fixed some animation crashes
+  - Fixed Narrative Loot/JK's Skyrim conflicts in Windhelm
+- Mod Updates
+  - Splashes of Storms 1.3
+  - Moonlight Cottage 3
+- Additions
+  - Vigilant Armors and Weapons Retexture
+  - Rustic Forsworn
+  - Simple Dual Sheath
+  - Comprehensive First Persion Animation Overhaul
+  - Stronger Swimming Animation
+- Other
+  - Tweaked some sounds from Phoenix Compendium to make them quieter
+
+### 2/18/2023 4.0.0 Release
+#### Major
+- Fixes
+  - Fixed dragons disappearing when you get too close to them.
+  - Probably fixed NPCs once and for all.
+  - Fixed floating dude in Dawnstar
+  - Fixed a floating lantern in Dragon Bridge.
+  - Fixed a clipping tree at Valtheim Keep.
+  - Fixed missing/incorrect water textures.
+  - Fixed CTDs in College of Winterhold.
+  - Fixed incorrect female body textures.
+  - Fixed incorrect perk tree names in ELSA popup.
+  - Fixed incorrect texture on some chests. (Thanks Dace!)
+  - Fixed incorrect stone pillar mesh in White River Watch (Thanks Dace!)
+  - Fixed falling to your death from Meridia.
+- Mod Updates
+  - EasyNPC 0.9.6 (this explains so much)
+  - Dungeons Revisited 1.1.1
+  - Better Chests 1.1.3
+  - Smooth Random Jump Animation Rework 1.4
+- Additions
+  - SPID - NFF - Add Ignore Token to CustomAI Followers
+  - dunFolgunthurBossBattle Script Fix
+  - Mirai Grows Up
+  - SSE Enhanced AI Framework
+  - Organic Factions
+  - Organic Factions Extension
+  - Splendor Dragon Variants
+  - Diverse Dragons Collection
+  - Pause After Load Unscripted NG (optional enable under List Customization)
+  - Detailmap Seamfix - Skyrim SE
+  - Solstheim Shack Player Home - Hrodulf's House Cabin
+  - End Inappropriate Afflicted Encounters SE
+  - Cooking Categories Improvement
+- Replacements
+  - Dragon War -> Deadly Dragons
+- Removals
+  - JK's College of Winterhold
+- Other
+  - Regenerated NPC Visual Overhaul. Again.
+  - Regenerated DynDOLOD and Occlusion outputs.
+  - Added LS4 RaceMenu presets created by Sweinen.
+
 ### 1/28/2023 4.0.0.7 Beta 7 Release Candidate 2
 #### Minor
 - Fixes

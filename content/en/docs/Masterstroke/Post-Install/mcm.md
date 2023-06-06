@@ -1,12 +1,18 @@
 ---
 categories: ["Masterstroke"]
 tags: ["docs"] 
-title: "MCMs"
-linkTitle: "MCMs"
+title: "MCM Setup"
+linkTitle: "MCM Setup"
 weight: 1
 description: >
   The required MCM configuration steps for Masterstroke.
 ---
+
+{{< alert color="important" title="Important!">}}
+<div class="alert-icon">⚠️</div>
+
+It's important that you do the following steps in the order they are presented. Skipping around or going out of order is bad.
+{{< /alert >}}
 
 ## MCM Configuration
 
@@ -28,5 +34,38 @@ Once again, ***WAIT.*** This can take up to 10 minutes to complete. During this 
 
 Now *save your game*. Then *load that save.* Yes, this must be done a second time.
 
-After this, you just have two final tasks before you begin playing.
+Now, configure your hotkeys per below and then move on to Character Creation.
+
+### Hotkeys
+
+Unfortunately MCM Recorder does not like setting hotkeys, so the following hotkeys must be set manually:
+
+#### Take Notes!
+- Controls
+  - Open Journal: B
+
+#### Immersive HUD
+  - Toggle: RAlt
+
+{{< alert color="info" title="Info">}}
+<div class="alert-icon">ℹ️</div>
+This is used to toggle the compass.
+{{< /alert >}}
+ 
+#### Valhalla Combat
+
+- Compatibility
+  - Alternate Blocking Key: V
+
+If you wish you use the Executions feature of Valhalla Combat, you should set its hotkey in the Valhalla Combat MCM.
+
+#### TK Dodge RE
+
+If you wish to change the default dodge key from Left Alt to something else, use the `TK_Dodge_RE.ini` located in `[Install Folder]\mods\TK Dodge RE\SKSE\Plugins` to change it. A list of DirectX Scancodes for keyboard keys can be found [here.](https://wiki.nexusmods.com/index.php/DirectX_Scancodes_And_How_To_Use_Them)
+
+#### Dual Wield Block
+- Hotkey: V
+
+#### SL Tools
+- Tool key: O
 

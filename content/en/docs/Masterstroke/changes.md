@@ -8,6 +8,232 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 6/3/2023 1.8.1
+#### Incremental
+- Fixes
+  - Patched SunHelm food changes
+  - Fixed Sirenroot missing textures
+  - Fixed not being able to nutshot male NPCs
+  - Fixed many missing bodyslides
+- Mod Updates
+  - Simple Slavery Plus Plus 6.3.19
+  - SLWidgets 2.0.8
+  - HCOS 2.0A
+  - Submissive Lola 2.0.64
+  - Serana Dialogue Add-On 4.0.2.2
+- Additions
+  - Both Profiles
+    - Sound Fix for Large Sector Drives
+    - Mihail Soul Cairn Drainlife Crystal - Retexture
+    - Dual Casting Fix
+- Replacements
+  - Dynamic Animation Replacer -> Open Animation Replacer
+- Other
+  - Cleaned up Stock Game folder a bit.
+  - Simplified Ultrawide options
+  - Oprah Meme: "You get a nerf! You get a nerf!" (nerfed a lot of things)
+
+### 5/18/2023 1.8.0.1
+#### Hotfix
+- Fixes
+  - Fixed Misa's bodyslides
+  - Fixed CTDs in Whiterun and Dead Man's Drink
+  - Fixed ENB Binaries not being updated
+  - Fixed missing columns in inventory
+  - Corrected Dint Face Part Mod load order
+- Removals
+  - The Heist
+
+### 5/17/2023 1.8.0
+#### "Minor"
+- Fixes
+  - Fixed Aura's Inventory Tweaks issues
+  - Fixed Fair Skin being disabled by default on creature profile
+  - Fixed incorrect Legion models not being replaced on Skimpy Bodyslides
+  - Fixed Ambriel quest not starting
+  - Fixed missing map markers
+  - Fixed Adira missing bodyslides
+  - Fixed green/dark dwemer ruin
+- Mod Updates
+  - Fill Her Up 1.9
+  - Submissive Lola Resubmission 2.0.63
+  - OSLAroused 2.3.0
+  - Aura's Inventory Tweaks 3.0.3
+  - PowerofThree's Tweaks 1.8.0
+  - ENB Binaries v493
+  - Water for ENB 1.76
+  - FreeFlyCam 13.2.5
+  - TNT 1.6b
+  - Ominous ENB 3.0
+  - PI-CHO 8.1
+  - Rudy ENB 6.5a
+  - Re-Engaged ENB 9.4a
+  - iiENB 5.05
+  - LewdMarks 2.02
+  - Simple Slavery Plus Plus 6.3.18
+  - SLWidgets 2.0.7
+  - Address Library for SKSE v2
+  - Bodyslide v5.6.0
+  - Serana Dialogue Overhaul 4.0.2.0
+- Additions
+  - Both Profiles
+    - Essentials
+      - Object Categorization Framework
+      - FormList Manipulator 
+      - MergeMapper
+      - Keyword Item Distributor
+      - Inventory Interface Information Injector
+      - Inventory Interface Information Injector SE 1.5
+    - HUD/UI
+      - The Handy Icon Collection Collective
+      - B.O.O.B.I.E.S
+    - Gameplay - Immersion
+      - Harsher SunHelm Cold
+    - Sexlab and Friends
+      - SOS Female Schlongifier
+      - LewdMarks Aroused
+      - Devious Lore SE
+    - New Questlines
+      - Sirenroot
+      - The Innocence Lost - Quest Expansion
+      - Warden of the Coast
+      - Defeat the Dragon Cult
+      - Cult of the True Dragonborn
+      - Cult of the World Eater
+      - Maelstrom
+      - Betalille's Hammerfell Quests Bundle
+      - The Heist
+    - Character Customization
+      - Dint999's Face Part Mod
+    - NPCs - Followers
+      - Kitty Misa
+      - Avenger of the Lost
+    - Items
+      - Viridian Knight
+      - Daedric Chainmail
+      - Kozakowy 1660 Gown
+      - Kozakowy 1700 Gown
+      - Kozakowy 1546 Gown
+      - Kozakowy Falka Armor
+      - Bonemold and Chitin Bikini Armor
+      - Magpie's Immersion Books
+      - Bifrost
+      - Milkmaid Outfit
+      - Cloud's Layered Gowns
+- Removals
+  - Equipped Items on Top
+  - Windyridge
+  - DynDOLOD Ice Piles Fix
+  - Harder Lock Picking
+- Replacements
+  - Enhanced Night Sky -> Ethereal Cosmos
+  - SkyRem IRIS -> Food Remover Plus
+- Other
+  - Regenerated DynDOLOD and friends
+  - Regenerated FNIS/Nemesis Output
+  - Regenerated Bodyslides (all of them)
+  - Regenerated Synthesis Output
+
+### 4/26/2023 1.7.2
+#### Incremental
+- Mod Updates
+  - Trappings of Fate 1.2.0
+  - TAP Interiors 1.5.2
+  - The Ancient Profession 0.14
+
+### 4/10/2023 1.7.1
+#### Incremental
+- Fixes
+  - Fixed green overlay in some areas
+  - Fixed missing Nordic UI patch (for 32x9 screens)
+  - Fixed duplicate face presets
+  - Fixed Animated Forge Water doing nothing
+  - Fixed crash when hiding quests
+  - Fixed not receiving XP when using staves
+  - Fixed lighting issues on Steel Abs V
+  - Fixed several BFBs
+  - Fixed incorrect body skin for some NPCs
+  - Possibly fixed Giant club physics
+  - Fixed being unable to temper Champion of Azura sword
+  - Fixed OBody not working on several NPCs
+  - Fixed Speech perk tree.
+- Mod Updates
+  - Scrambled Bugs 17
+  - Infinity UI 2.0.1
+  - Compass Navigation Overhaul 2.1
+  - Animated Forge Water 0.7
+  - Adamant 5.7.6
+  - Mysticism 2.2.3
+  - Mundus 1.9.1
+  - Papyrus Tweaks 4.1
+  - At Your Own Pace
+  - Show Player In Menus 2.0.3
+  - Sets of Skills 2.0.3
+  - Honed Metal Revoices 1.23
+  - Favorite Misc Items 3.7.1
+  - Submissive Lola Resubmission 2.0.61
+  - Lair of Succubi 1.2
+- Additions
+  - Adamant + Leadership patch
+  - Campfire + Pilgrim patch
+- Removals
+  - Leadership - Custom Skills Framework Extension
+- Other
+  - Enabled SexLab Even Actor Height by default on both profiles
+
+### 3/15/2023 1.7.0.1
+#### Hotfix- Fixes
+  - Fixed invisible werewolves
+- Mod Updates
+  - Scrappies Matchmaker 1.5.1.1
+
+### 3/8/2023 1.7.0
+#### Minor
+- Fixes
+  - Corrected load order for SDA and patches
+  - Fixed Aura's Inventory Tweaks + Equipped Items on Top issues
+  - Fixed Silvered Ebony Helmet making heads disappear
+  - Fixed missing in-game Recorder objects
+  - Fixed missing rocks in White River Watch
+  - Fixed Dragons turning invisible in some situations
+  - Fixed jagged edges on skimpy Daedric armor
+  - Fixed NPCs aggro'ing after many hits
+  - Fixed missing bodyslides for several followers
+  - Fixed incorrect Nord racial features
+  - Fixed BFBs in Temple of Dibella
+  - Fixed twitching in dialogue
+  - Fixed Aroused Creature profile not loading
+- Mod Updates
+  - The Trappings of Fate 1.1.1
+  - Simple Slavery Plus Plus 6.3.17
+  - HCOS 2.0
+  - BakaFactory SLAL Animations 6.01
+  - Submissive Lola The Resubmission 2.0.60
+  - ZAZ Animation Pack 8.0 2023
+  - SexLab Parasites 2023-02-26
+  - Devious Devices 5.2
+  - Masterstroke Core Bodyslides 1.7.0
+  - Masterstroke NPC Merge 1.7.0
+  - Scion 2.1.2
+- Additions
+  - Both Profiles
+    - dunFolgunthurBossBattle Script Fix
+    - SPID - NFF - Add Ignore Token to CustomAI Followers
+    - Sweeping Organizes Stuff
+    - Koralina's Makeup Tweaks
+    - Improved Table Transition Animations
+    - Dex's Thicc 3BA Bodyslide preset
+    - The Tinraa Body - Hips Don't Lie bodyslide preset
+    - Demonic Bodyslide Preset
+    - Amazing Curves bodyslide preset
+    - Lady Miraak
+    - Opulent Thieves Guild
+    - Ambriel - The Lost Princess 
+    - Remiel
+- Other
+  - Merged futa patches into their parent skin mods to make customization easier.
+  - Regenerated Synthesis outputs.
+
 ### 2/2/2023 1.6.1
 #### Incremental
 - Fixes

@@ -25,7 +25,7 @@ description: >
     <th>GPU</th>
     <td>GTX 1650 or higher</td>
     <td>GTX 1080Ti or higher</td>
-    <td>RTX 2080 Super</td>
+    <td>RTX 3080 10GB</td>
   </tr>
   <tr>
     <th>RAM</th>

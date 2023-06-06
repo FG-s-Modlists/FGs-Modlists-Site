@@ -1,11 +1,11 @@
 ---
 categories: ["Masterstroke"]
 tags: ["docs"] 
-title: "Character Creation"
-linkTitle: "Character Creation"
+title: "Character Customization"
+linkTitle: "Character Customization"
 weight: 2
 description: >
-  How to create your character in Masterstroke.
+  How to customize your character in Masterstroke.
 ---
 
 {{< alert color="danger" title="Warning!" >}}
@@ -24,35 +24,3 @@ You likely want to customize the body of your character. To do so, *with all men
 ### SexLab
 
 The SexLab MCM contains an option for your character to be heterosexual, bisexual, or homosexual. You should open the MCM for SexLab and select your character's preference under the Sex Diary menu.
-
-### Hotkeys
-
-Unfortunately MCM Recorder does not like setting hotkeys, so the following hotkeys must be set manually:
-
-#### Take Notes!
-- Controls
-  - Open Journal: B
-
-#### Immersive HUD
-  - Toggle: RAlt
- 
-#### Valhalla Combat
-
-If you wish you use the Executions feature of Valhalla Combat, you should set its hotkey in the Valhalla Combat MCM.
-
-#### TK Dodge RE
-
-If you wish to change the default dodge key from Left Alt to something else, use the `TK_Dodge_RE.ini` located in `[Install Folder]\mods\TK Dodge RE\SKSE\Plugins` to change it. A list of DirectX Scancodes for keyboard keys can be found [here.](https://wiki.nexusmods.com/index.php/DirectX_Scancodes_And_How_To_Use_Them)
-
-#### Dual Wield Block
-- Hotkey: V
-
-#### SL Tools
-- SL Tools Menu: O
-
-#### Leadership
-- Hotkey: K
-
-#### Valhalla Combat
-- Compatibility
-  - Alternate Blocking Key: V
