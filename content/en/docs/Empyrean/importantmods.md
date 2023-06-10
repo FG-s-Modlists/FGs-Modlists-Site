@@ -10,9 +10,8 @@ description: >
 
 These mods are going to be the ones that effect HOW the game is played.
 
-[SunHelm: Survival and Needs](https://www.nexusmods.com/skyrimspecialedition/mods/39414)
-  Pretty self-explantory, this adds Survival elements to the game. Now you have to eat, drink, and keep warm against the hard cold of Skyrim. On top of that, to level up, you will have to find a bed to sleep in. This can be accomplished by either renting a room at an inn, or utilizing a bedroll from
-  [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667).
+[Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393) and [Dirt and Blood](https://www.nexusmods.com/skyrimspecialedition/mods/38886)
+  Pretty self-explantory, this adds Survival elements to the game, in addition to changing how diseases work. Now you have to eat, drink, and keep warm against the harsh cold of Skyrim, on top of keeping yourself clean. On top of that, to level up, you will have to find a bed to sleep in. This can be accomplished by either renting a room at an inn, or utilizing a bedroll from [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667). 
   
 [Follow on your Knees for WIntersun](https://www.nexusmods.com/skyrimspecialedition/mods/33754)
   This one is **SUPER** important, because it will allow you to recieve a blessing at any shrine without being prompted if you want to follow that god. 
