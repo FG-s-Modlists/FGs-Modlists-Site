@@ -11,7 +11,7 @@ description: >
 ### 0.1.0-Beta 6/6/2023
 #### Initial Release
 
-### 0.2.0-Beta 6/?/2023
+### 0.2.0-Beta 6/11/2023
 #### Bugfix and Change update
 __Replacaements__
 - Sunhelm Survival > Last Seed
