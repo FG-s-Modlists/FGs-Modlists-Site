@@ -8,6 +8,31 @@ description: >
   The Living Skyrim changelog.
 ---
 
+### 6/13/2023 4.0.2
+#### Incremental
+- Bug Fixes
+  - Fixed the "reference count" bug
+  - Patched Recorder + JK's Skyrim
+  - Fixed Bloodskal Blade issues
+  - Fixed some spelling issues with Merlyn
+  - Fixed missing NPCs in Vilemyr Inn
+  - Fixed an incorrect perk regarding wards in the Restoration tree
+  - Fixed Dual Wield Block animations not working
+  - Fixed parallax being enabled when using Semirealis ENB
+- Mod Updates
+  - Lucifer 0.9.4.2
+  - Practical Pirate Outfit 1.2
+- Additions
+  - Pilgrim Campfire Patch
+  - Missives CFTO Patch
+  - Bloodskal Blade Tweaks & Enhancements
+  - dTry's Key Utils
+  - Dual Casting Fix
+- Replacements
+  - ConsoleUtilSSE -> ConsoleUtilSSE NG
+- Other
+  - Enabled TAA in BethINI by default
+
 ### 4/1/2023 4.0.1
 ### Incremental
 - Bug Fixes
