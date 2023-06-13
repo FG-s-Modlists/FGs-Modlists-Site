@@ -13,7 +13,7 @@ description: >
 
 ### 0.2.0-Beta 6/?/2023
 #### Bugfix and Change update
-__Replacaements__
+__Replacements__
 - Sunhelm Survival > Last Seed
 
 __Additions__
