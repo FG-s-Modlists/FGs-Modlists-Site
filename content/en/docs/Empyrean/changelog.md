@@ -8,10 +8,10 @@ description: >
   The Empyrean changelog.
 ---
 
-### 0.1.0-Beta 6/6/2023
+### 0.1.0-Beta 06/06/2023
 #### Initial Release
 
-### 0.2.0-Beta 6/?/2023
+### 0.2.0-Beta 06/11/2023
 #### Bugfix and Change update
 __Replacements__
 - Sunhelm Survival > Last Seed
@@ -35,3 +35,19 @@ __Fixes__
 - Black Face Bug fixed (Hopefully?)
 - TrueHUD not cooperating switching from 16x9 to 21x9 (Enabled under Ultrawide Options)
 - Tons of back end patching
+
+
+### 0.1.0-RC 1 06/18/2023
+#### Release Candidate 1
+__Additions__
+- Skyrim Reputation (with pre-built and custom patches)
+- Inventory Tweaks (B.O.O.B.I.E.S. and Friends)
+- Follow Me and Swim after Me
+- Nordic UI Skin for the Frostfall Bars
+- Mandragorasprouts Daedric shrines, with LotD and Wintersun patches
+- Zim's Thane Weapons (because LotD doesn't include it by default anymore)
+- Immersive Armors with retexture, fixes, tweaks, and 3ba support
+
+__Bug Fixes__
+- Kaidan's feet are no longer a weird mesh
+- Daegons Outfit no longer clips with her body
