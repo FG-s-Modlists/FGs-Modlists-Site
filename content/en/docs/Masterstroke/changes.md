@@ -8,6 +8,15 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 6/23/2023 1.8.1.2
+#### Hotfix
+- Mod Updates
+  - Open Animation Replacer 1.2.0
+  - FHU 1.93
+  - Submissive Lola 2.1.0
+  - Schlongs of Skyrim DLL
+  - TAP Interiors 1.5.4
+
 ### 6/3/2023 1.8.1
 #### Incremental
 - Fixes
