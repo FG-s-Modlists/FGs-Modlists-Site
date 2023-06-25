@@ -8,6 +8,30 @@ description: >
   The Empyrean changelog.
 ---
 
+## 0.5.0-Beta (Release Candidate 3) 06/26/2023
+#### Release Candidate 3
+__Replacements__
+- Valhalla > Wildcat + Vigor
+- Daegon > Cerri Steelfist
+
+__Additions__
+- Autumgate Player Home in the Rift
+- Storm Lightning
+- Tweaked the Base textures of Skyland with Noble Skyrim as a mix and match
+- Akaviri Ruins of Saiviren Chorak
+- Improved Alternate Conversation Camera
+- Bellyaches Creatures
+- Wounds (with patches for Hunterborn)
+- JaySerpas Line Expansions list
+- [Taunt your Enemies](https://www.nexusmods.com/skyrimspecialedition/mods/72023)
+- [Remote Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/89676)
+- Dawn of Skyrim added on top of JKs
+
+__Fixes__
+- Took a pass over Realm of Lorkhan, there is now enough for a full set of starting gear, a campfire backpack, a hunting knife, a tent, and a cloak, on top of the armor/weapons
+- Snagged some missing Lux patches
+- Load order adjustments
+
 ### 0.4.0-Beta (Release Candidate 2) 06/23/2023
 #### Release Candidate 2
 __Additions__
