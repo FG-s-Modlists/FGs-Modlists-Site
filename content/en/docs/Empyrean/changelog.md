@@ -8,6 +8,21 @@ description: >
   The Empyrean changelog.
 ---
 
+## Offical Wabbjack Release v1.0 06/26/2023
+#### Official Release
+__Additions__
+- Keep Map Cursor as an Optional Enable for Skills of the Wild
+- Follower Death Chance
+- Pet the Dog
+- I'm Glad You're here
+
+__Fixes__
+- Patched Dawn of Skyrim food to automatically register with Last Seed
+- Cleaned up DynDOLOD and Friends
+
+__Removals__
+- Weapon and Armor Degradation
+
 ## 0.5.0-Beta (Release Candidate 3) 06/26/2023
 #### Release Candidate 3
 __Replacements__
