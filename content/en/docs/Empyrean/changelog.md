@@ -8,6 +8,42 @@ description: >
   The Empyrean changelog.
 ---
 
+## v1.1 "Stairs and Chairs Update"
+__Additions__
+- Odin (I forgot this was a thing on initial release)
+- Various DAR Animations (Bound Weapons, tools, drunk, and wounds)
+- Immersive Armors SPID
+- Simplicity of Snow
+- Seasons support
+- More music (Over 400 new tracks added to the rotation)
+- Frostfall Seasons
+- Afterlife (People you kill/soul trap will end up in Sovengarde/Soul Cairn)
+- JS Armored Circlets
+- Prince and Pauper Refine
+- MCO, SCAR, and an animation set
+- CACO + patches
+- Helms with Circlets Synth patch
+- Use those Horses (See the youtube video link for how to add the ability)
+
+__Replacements__
+- Veydosebrom -> Seasonal Landscapes
+- Use Special Markers -> Simply Rest Anywhere
+- Equipment Toggle -> Read the Room
+
+__Fixes__
+- 16x9 Bar placement should no longer overlap
+- MCM Recorder will now Autorun after Character Creation
+- Fixed some missing textures on various IA armors
+- Fixed Various MCM settings
+- Spell Forge Librarys redone
+
+__Dragons__
+: This deserved its own category, due to the massive changes.
+- Infinite Dragon Variants
+- Dragon Combat Overhaul (and Upgraded)
+- Diverse Dragons Collection
+- Splendor - Dragon Variants
+
 ## Offical Wabbjack Release v1.0 06/26/2023
 #### Official Release
 __Additions__
