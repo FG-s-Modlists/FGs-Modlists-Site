@@ -46,7 +46,7 @@ Masterstroke uses a multitude of mods that allow for a survival experience that 
 - [GIST](https://www.nexusmods.com/skyrimspecialedition/mods/15755): Changes how soul gems work and the progression for using them.
 - [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592): Makes traps found in dungeons more deadly.
 - [Lock Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14927): Adds options to open locked chests and doors inclusing smashing locks and opening them with magic.
-- [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345), [Suspicious City Guards](https://www.nexusmods.com/skyrimspecialedition/mods/38762), [Harder Lock Picking](https://www.nexusmods.com/skyrimspecialedition/mods/8462), and [Better Stealing](https://www.nexusmods.com/skyrimspecialedition/mods/32295): Makes stealth and being a thief harder in general.
+- [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345), [Suspicious City Guards](https://www.nexusmods.com/skyrimspecialedition/mods/38762), and [Better Stealing](https://www.nexusmods.com/skyrimspecialedition/mods/32295): Makes stealth and being a thief harder in general.
 - [Carriage & Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379): Adds destinations to carriages and rebalances the cost of traveling.
 - [Disable Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/54217): As it says, fast travel is disabled.
 - [Extended Stay](https://www.nexusmods.com/skyrimspecialedition/mods/156): Allows you to book a 3, 5, and 7 day stay at an inn.
@@ -108,6 +108,9 @@ Masterstroke ships with several new questlines and dungeon mods to increase vari
 - [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565): A new land and quest mod focused on dragons.
 - [Maids 2](https://www.nexusmods.com/skyrimspecialedition/mods/189): Deception: A somewhat NSFW themed and lighthearted questline.
 - [The Forgotten City](https://www.nexusmods.com/skyrimspecialedition/mods/1179): The critically acclaimed quest that was recently turned into its own standalone game.
+- [Sirenroot](https://www.nexusmods.com/skyrimspecialedition/mods/70917): A dialogue-heavy quest with puzzles, platforming, and a focus on water mechanics.
+- [Warden of the Coast](https://www.nexusmods.com/skyrimspecialedition/mods/79828): An intricate adventure that takes place on an isolated island with fully voiced companions and romance.
+- [Maelstrom](https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/): A large, multi-layered dungeon with new enemies, equipment, and more
 - [The Trappings of Fate](https://www.loverslab.com/files/file/22231-the-trappings-of-fate/): Devious Devices meets Escape Room.
 
 ### Followers
@@ -128,6 +131,8 @@ Masterstroke includes a number of new followers for you to find and recruit.
 - [Valmilia](https://www.nexusmods.com/skyrimspecialedition/mods/58030)
 - [Vimar Ice-Blood](https://www.nexusmods.com/skyrim/mods/106445)
 - [Juliada, Breton Necromancer](https://www.nexusmods.com/skyrimspecialedition/mods/48778)
+- [Kitty Misa](https://www.nexusmods.com/skyrimspecialedition/mods/91375)
+- [Malik - Avenger of the Lost](https://www.nexusmods.com/skyrimspecialedition/mods/91366)
 
 It also includes some minimal mods to facilitate multiple followers and interacting with them.
 
@@ -146,7 +151,6 @@ Masterstroke also has a few new player homes scattered throughout the world for 
 - [Routa](https://www.nexusmods.com/skyrimspecialedition/mods/1193): A snowy and warrior themed home near Windhelm.
 - [Riverside Shack](https://www.nexusmods.com/skyrimspecialedition/mods/20982): A quaint shack you can rebuild into a small home near the hot springs south of Windhelm.
 - [Dovahkiin's Vault](https://www.nexusmods.com/skyrimspecialedition/mods/42237): Legacy of the Dragonborn lite, a home to store and display all your items.
-- [Windyridge](https://www.nexusmods.com/skyrimspecialedition/mods/8046): A pleasant home in Winterhold.
 - [Redspire Manor](https://www.nexusmods.com/skyrimspecialedition/mods/2460): An on-theme home in Solstheim.
 - [Millwater Retreat](https://www.nexusmods.com/skyrimspecialedition/mods/32100): A large home on the north coast of Lake Ilnalta.
 - [The Hideaway](https://www.nexusmods.com/skyrimspecialedition/mods/10649): A buildable cavern home for nature-types.
@@ -162,6 +166,7 @@ Of course, Masterstroke is designed around sexy elements and interactions. The c
 - [SexLab Separate Orgasms](https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/): Adds a minigame to NSFW scenes.
 - [ZaZ Animation Pack](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/): Adds animations for various scenes.
 - [Devious Devices](https://www.loverslab.com/files/file/5878-devious-devices-se/): A framework for NSFW equipment and managing of that equipment.
+- [Devious Lore](https://www.loverslab.com/files/file/16231-devious-lore-se/): Incorporation all these devices better into the world. 
 - [SexLab Fame](https://www.loverslab.com/files/file/2455-sex-lab-sexual-fame-framework/): A framework for characters to gain NSFW fame in areas across the land.
 - [Scrappies Matchmaker](https://www.loverslab.com/files/file/19891-scrappies-matchmaker/): A matchmaking framework that allows NPCs to get busy with each other.
 - [Milk Mod Economy](https://www.loverslab.com/files/file/1382-milk-mod-economy/): Adds a new layer to the Skyrim economy focused around the production and sale of milk.
