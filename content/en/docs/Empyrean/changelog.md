@@ -8,7 +8,39 @@ description: >
   The Empyrean changelog.
 ---
 
-## v1.1 "Stairs and Chairs Update"
+## v1.2 "Hey! Listen! Nighttime is Scary!" 07/17/2023
+__Fixes__
+- Fixed Magical Duplicaiton issues
+- Takiyo/Precision Crash
+- Steed Stone Visual issues
+- OCPA Arrow Drop issues
+
+__Additions__
+- Your Own Thoughts (Hooray First Person Messages!)
+- Timescale (Slows down the in game time, helps the day/night cycle not feel so long)
+- Missing Lux Patches
+- Volkihar Knight Armor for the Vampire Enthusiasts
+- Conduit
+- Bosmer NPCs have antlers, and Breton NPCs have Elf Ears (Don't care about your lore friendly accusations)
+- Main Menu music now cycles between three lovely Hidden Citizens tracks
+- iSnore sleeping encounters (If you're in an uncleared dungeon, possiblity of being attacked while you sleep)
+
+__Replacements__
+- Remiel Replacer
+- Dual Wield Block mod (Still set to V by default, but to modify will require an ini change instead of an MCM)
+
+__Updates__
+- Cathedral Weathers
+- Auri Replacer
+- Regenerated Dyndolod and friends
+
+__Removals__
+- Slow Your Roll
+- Kill XP
+- Use Those Horses (May return once I figure out how to stop the animal carcass duplication)
+- A few OAR animations were removed due to being redundant with MCO
+
+## v1.1 "Stairs and Chairs Update" 07/08/2023
 __Additions__
 - Odin (I forgot this was a thing on initial release)
 - Various DAR Animations (Bound Weapons, tools, drunk, and wounds)
