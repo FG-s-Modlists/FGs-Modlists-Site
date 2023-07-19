@@ -141,6 +141,10 @@ If you’d like you can set up whatever shaders you’d like by clicking on the 
 ## Launching the Game
 In Mod Organizer 2, select Morrowind from the drop-down menu next to the Run button and click Run. This is how MOISE should always be launched. You can create a shortcut on your desktop if you wish using the Shortcut button under the Run button.
 
+## Wabbajack Issues
+#### Texture_Fix_Bloodmoon_1.1 failed to download
+You can manually download the file [from this link](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABdOQ5DflPDV3wb4bMx_snla/Texture_Fix__Bloodmoon_1.1.7z?dl=1). Place the .7z folder in your Resource Download Location folder and rerun the Wabbajack install.
+
 ## Troubleshooting
 Morrowind is a very temperamental game. Here are some common fixes for issues you may encounter.
 
