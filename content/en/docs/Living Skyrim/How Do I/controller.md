@@ -14,6 +14,8 @@ However, if you do feel the need to use a controller, as of version 4.1.0, a con
 
 In MO2, scroll down to the List Customization separator. There you will find The Ultimate Control Scheme and Classic Sprinting Redone. Enable both of these.
 
+There is also a file you need to move/delete. Navigate to `..\Living Skyrim 4\Stock Game`, find the ControlMap_Custom.txt, and either move it somewhere else (to back it up) or delete it.
+
 From here, there are a few manual edits to make. Find the TK Dodge RE mod, double click it in MO2, then click over to the INI Files tab, and click on the TK Dodge RE.ini file on the left hand side and change the `EnableSprintKeyDodge=false` to `EnableSprintKeyDodge=true`. Close that window, allowing it to save.
 
 The next step is to change an .ini file for One Click Power Attack. Following the same steps as above, change the `ForceRightKey=258` to `ForceRightKey=281`.
