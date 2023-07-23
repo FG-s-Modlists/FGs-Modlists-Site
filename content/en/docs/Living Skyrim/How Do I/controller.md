@@ -21,21 +21,21 @@ The next step is to change an .ini file for One Click Power Attack. Following th
 The last step is to load up the game. Press Escape to open the menu, then Settings. Enable "Controller" and you're good to go! Once again, thanks to hbkmog for setting this up!
 
 The binds for this layout are as follows;
-A - activate/confirm/hold to turn on quick light
-B - hold B to sprint/tap to dodge.
-X - favorite menu
-Y - jump
-LB - left hand light attack/block when not dual wielding
-RB - right hand light attack
-LT - shout/power
-RT - power attack.
-Back - map
-Start - journal/pause menu
-Left stick - sneak
-Right stick - change POV/lock on enemy
-A+LB - inventory
-A+LT - magic
-A+RB - ready weapon
-A+back - wait
-A+start - quick save
-A+left stick - tween menu(mainly used for access statics screen)
+- A - activate/confirm/hold to turn on quick light
+- B - hold B to sprint/tap to dodge.
+- X - favorite menu
+- Y - jump
+- LB - left hand light attack/block when not dual wielding
+- RB - right hand light attack
+- LT - shout/power
+- RT - power attack.
+- Back - map
+- Start - journal/pause menu
+- Left stick - sneak
+- Right stick - change POV/lock on enemy
+- A+LB - inventory
+- A+LT - magic
+- A+RB - ready weapon
+- A+back - wait
+- A+start - quick save
+- A+left stick - tween menu(mainly used for access statics screen)
