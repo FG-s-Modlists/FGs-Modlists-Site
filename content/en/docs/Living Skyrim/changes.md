@@ -54,7 +54,6 @@ description: >
   - Photo Mode
   - Nyghtfall Dark Fantasy Music
   - JK's Windhelm Outskirts
-  - Master Order Checker
   - Serio's Cycle Hotkeys
   - Classic Sprinting Redone (optional enable for controller users)
   - The Ultimate Control Scheme (optional enable for controller users)
