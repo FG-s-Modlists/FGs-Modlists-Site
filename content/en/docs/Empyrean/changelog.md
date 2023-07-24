@@ -8,6 +8,32 @@ description: >
   The Empyrean changelog.
 ---
 
+## v1.3 "Hotfix Soon to Follow" 07/24/2023 (New Save Required)
+__Fixes__
+- Body overlays crashing
+- Mists of Tamriel MCM Recording step removed
+
+__Additions__
+- Unique Towns
+- Seasons Additions (Its a lot)
+- Photo Mode
+- Remove Eating Sounds under Optional Enables
+- Hunterborn Animations
+- Footprints
+- Casting Aiming Reloading Impede Movement (No more getting run down by mages)
+- Kaidan 2 Extended Edition + *some* Addons
+- Dynamic Things Alternative (This may have some slight issues with seasons? Unknown at this time)
+- ReShade presets on top of a few of the ENBs
+- Pick Your Party Outfit (With Skyrim Souls patch)
+- Carry Your Carcass w/ Animations (Though the wolf one looks a bit off, fair warning)
+- Frozen Electrocuted Combusted
+
+__Updates__
+- Sacrosanct
+- Lux
+- Wild Concotions (Thanks Cela!!!!)
+- Dyndolod and Friends to accomodate seasonal changes
+
 ## v1.2 "Hey! Listen! Nighttime is Scary!" 07/17/2023
 __Fixes__
 - Fixed Magical Duplicaiton issues
