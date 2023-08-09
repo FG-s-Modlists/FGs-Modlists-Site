@@ -7,6 +7,25 @@ weight: 100
 description: >
   The Empyrean changelog.
 ---
+## v1.4 "What am I doing now?" 08/09/2023 (New Save Required)
+__Fixes__
+- Attack Speed issues fixed
+- Ring of Khajiit placement fixed
+- Updated Improved Camera and tweaked the ini for it
+
+__Additions__
+- Kaidan, Inigo, Lucien all now have their own MCO animations
+- SkyClimb and EVGAT (Climg all the things!)
+- Solmnolent Nook Player Home (It's in Riften)
+- Fashions of the Hunstman, Bandits, Forsworn (With distribution)
+- Carriage and Ferry QoL (Its a lot, they have schedules now, carriages look nicer, there are bodyguards)
+
+__Removals__
+- Vigor (This should hopefully solve an MCO issue)
+- Vigor MCM Recording step (I didnt forget this time)
+
+__Replacements__
+- Swapped some idle animations out, no longer armor conditional
 
 ## v1.3 "Hotfix Soon to Follow" 07/24/2023 (New Save Required)
 __Fixes__
