@@ -8,6 +8,153 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 7/17/2023 1.9.0
+#### "Minor"
+- Mod Updates
+  - XP32 Maximum Skeleton for Dummies
+  - Open Animation Replacer
+  - Sexlab Aroused Creatures to 4.12
+  - Submissive Lola to 2.1.0
+  - Serana Dialogue Add-On to 4.0.2.3
+  - Fill Her Up Baka Edition to 1.93
+  - Horny Creatures to 2.1
+  - Simply Knock DLL to 5.4
+  - Survival Control Panel to 1.1.2
+  - PapyrusUtil to 4.4
+  - EstrusForSkyrim to AE2.2.3-ver1.6.640
+  - Open Animation Replacer to 1.0.2
+  - MFG Fix to 1.6.1
+  - SkyUI AIO Survival to 7.4
+  - The Handy Icon Collection to 1.3
+  - Security Overhaul SKSE to 3.2
+  - Security Overhaul Addons to 1.6
+  - Splashes of Skyrim to 1.4
+  - Racemenu to 0.4.19.14
+  - More Informative Console to 1.1
+  - Atlas Map Markers to 2.7
+  - SmoothCam to 1.7
+  - Classic Enhanced preset to 2.0
+  - MoreHUD to Light Master 5.2.2
+  - MoreHUD Inventory Edition to 2.1.2
+  - HD Local Map to 1.0.2
+  - Simple Dual Sheath to 1.5.6
+  - True Directional Movement to 2.2.3
+  - Archery Locational Damage to 2.1.5
+  - Experience to 3.1
+  - Nordic UI Miscellaneous Patches to 1.8.2
+  - Adamant to 5.8
+  - Hand to Hand to 1.5.3
+  - Reading is Good to 1.1.2
+  - TK Dodge RE to version 0.5Plus
+  - Read or Take SKSE to 1.3
+  - Use or Take SKSE to 1.2
+  - SexLab Framework to 1.65
+  - The Choice is Yours to 2.7
+  - Twisted's Command Binders to 1.2
+  - Essential Favorites to 2.3.0
+  - I'm Walking Here to 1.7
+  - Whose Quest is it Anyway to 1.5
+  - Yes I'm Sure to 1.7
+  - Hide Quest Items in Container Menu to 0.8
+  - SKSE to 2.2.3
+  - JContainers to 4.2.3
+  - FileAccess Interface (FISSES) to 1.4.1
+  - Papyrus Extended to 5.5
+  - ConsoleUtilSSE to 1.4.0
+  - Fuz Ro D-oh to 2.3
+  - ENB Input Disabler to 1.0.3
+  - Address Library to version 8
+  - ScaleformTranslationPP to 1.6.0
+  - Spell Perk Item Distributor to 6.6.1
+  - Better Third Person Selection to 0.5.8
+  - Desktop Splash Screen to 1.0.1
+  - MergeMapper to 1.5
+  - FormList Manipulator to 1.7
+  - ENB Helper to 2.2.0
+  - Custom Skills Framework to 2.0.2
+  - Scrambled Bugs to version 21
+  - Keyboard Shortcuts Fix to 1.0.0.3
+  - Equip Enchantment Fix to 1.3.6
+  - Animation Limit Crash Fix to 0.4.1
+  - Assorted Mesh Fixes to 0.79
+  - Actor Limit Fix to 9
+  - Bug Fixes to version 10
+  - Dwemer Gates Don't Reset to 1.3.7
+  - Raven Rock- Fix Exit on Horseback to 1.1
+  - Better Jumping SE to 1.8.6
+  - SSE Display Tweaks to 0.5.12
+  - USSEP to 4.2.9a
+  - xedit to 4.0.4
+  - BethINI to 3.6.1
+  - Engine Fixes to 6.1.1
+- Removed
+  - Better dialog controls
+  - Fix Note Icon
+  - Inventory Interface Information Injector for Skyrim 1.5
+  - Racemenu 0.4.16 Memory Leak Hotfix.
+  - No Grass in Objects
+  - XP32 Maximum Skeleton Special Extended - Fixed Scripts
+  - Ambriel
+- Replacements 
+  - Animated Static Reload Fix -> NG version
+  - Console Commands Extender -> Console Commands Extender - Anniversary Update
+  - Copy and Paste in console -> ConsolePlusPlus
+  - Hide Your Quests -> Hide those futile quests
+  - Flat Map Markers -> Flat Map Markers AE - Updated
+  - To Your Face Redux -> To Your Face SE - AE - VR
+  - Mum's the Word -> Mum's the Word NG
+  - Stay at the System page -> the NG version
+  - Player Rotation in ShowRaceMenu -> Another Race Menu Rotation Mod
+  - Notification Log -> NG version
+  - DLL for CBPC rather than mess -> reinstalling this.
+  - Wash that Blood Off -> Dirt and Blood
+  - Better Stealing ->  Mum's the Word NG
+  - Removed .NET Script Framework -> Crash Logger SSE AE VR - PDB Support
+  - Quick Mass Follower Commands -> Swiftly Order Squad
+  - Difficulty Balance -> Scrambled Bugs
+  - Enemy Magelock -> Casting Aiming Reloading Impede Movement
+  - Disable Fast Travel -> Journeyman - A Fast Travel Overhaul
+- AE Swaps
+  - Dual Casting Fix for AE version
+  - Simple Offence Suppression for AE version
+  - Favorite Misc Items for AE version
+  - Equipment Toggle for AE version
+  - Devious Devices for AE version
+  - CBPC Anus Support for AE version
+  - Keyword Item Distributor to install AE version
+  - Enhanced Reanimation to install AE version
+  - powerofthree's Tweaks to install AE version
+  - Faster HDT-SMP to update for AE
+- Additions
+  - Honed Metal Community Patch.
+  - Immersive Equipment Displays 1.63 AE version
+  - Oxygen Meter 2 for AE version
+  - AE SOS DLL
+  - Better Combat Escape NG
+  - MCM Helper 1.4 AE version
+  - Crash Log Tools for Mod Organizer
+  - AE version of Private Profile Redirector 0.5.3
+  - Creation Club Anniversary Cleaned and Upscaled
+  - Fishing Map Markers
+  - CC Fishing Campfire Patch
+  - CC Fishing - No Artifacts from Fishing
+  - Skyrim Extended Cut - Saints and Seducers
+  - SEC Saints and Seducers High Poly NPCs 
+  - Remaining Free CC Content given High Poly Heads
+  - Extended Cut - Saints and Seducers 4k - Cleaned and Upscaled Textures
+  - Saints and Seducers - Mysticism Rebalance
+  - Extended Cut - Saints and Seducers Paper Map for FWMF
+  - CBBE 3BA Creation Club Outfits Bodyslides
+  - Skimped - Saints and Seducers 
+  - HIMBO Creation Club Refits for Bodyslide
+  - CC Fishing Outfit HIMBO and CBBE 3BA 
+  - Photo Mode
+  - Improved Camera SE + Patches
+- Other
+  - Regenerated FNIS/Nemesis output
+  - Regenerated all bodyslides
+  - Synced mod order and plugin order between the profiles 
+
 ### 6/23/2023 1.8.1.2
 #### Hotfix
 - Mod Updates

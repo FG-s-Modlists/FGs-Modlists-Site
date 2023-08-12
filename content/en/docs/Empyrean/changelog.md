@@ -7,8 +7,85 @@ weight: 100
 description: >
   The Empyrean changelog.
 ---
+## v1.4 "What am I doing now?" 08/09/2023 (New Save Required)
+__Fixes__
+- Attack Speed issues fixed
+- Ring of Khajiit placement fixed
+- Updated Improved Camera and tweaked the ini for it
 
-## v1.1 "Stairs and Chairs Update"
+__Additions__
+- Kaidan, Inigo, Lucien all now have their own MCO animations
+- SkyClimb and EVGAT (Climg all the things!)
+- Solmnolent Nook Player Home (It's in Riften)
+- Fashions of the Hunstman, Bandits, Forsworn (With distribution)
+- Carriage and Ferry QoL (Its a lot, they have schedules now, carriages look nicer, there are bodyguards)
+
+__Removals__
+- Vigor (This should hopefully solve an MCO issue)
+- Vigor MCM Recording step (I didnt forget this time)
+
+__Replacements__
+- Swapped some idle animations out, no longer armor conditional
+
+## v1.3 "Hotfix Soon to Follow" 07/24/2023 (New Save Required)
+__Fixes__
+- Body overlays crashing
+- Mists of Tamriel MCM Recording step removed
+
+__Additions__
+- Unique Towns
+- Seasons Additions (Its a lot)
+- Photo Mode
+- Remove Eating Sounds under Optional Enables
+- Hunterborn Animations
+- Footprints
+- Casting Aiming Reloading Impede Movement (No more getting run down by mages)
+- Kaidan 2 Extended Edition + *some* Addons
+- Dynamic Things Alternative (This may have some slight issues with seasons? Unknown at this time)
+- ReShade presets on top of a few of the ENBs
+- Pick Your Party Outfit (With Skyrim Souls patch)
+- Carry Your Carcass w/ Animations (Though the wolf one looks a bit off, fair warning)
+- Frozen Electrocuted Combusted
+
+__Updates__
+- Sacrosanct
+- Lux
+- Wild Concotions (Thanks Cela!!!!)
+- Dyndolod and Friends to accomodate seasonal changes
+
+## v1.2 "Hey! Listen! Nighttime is Scary!" 07/17/2023
+__Fixes__
+- Fixed Magical Duplicaiton issues
+- Takiyo/Precision Crash
+- Steed Stone Visual issues
+- OCPA Arrow Drop issues
+
+__Additions__
+- Your Own Thoughts (Hooray First Person Messages!)
+- Timescale (Slows down the in game time, helps the day/night cycle not feel so long)
+- Missing Lux Patches
+- Volkihar Knight Armor for the Vampire Enthusiasts
+- Conduit
+- Bosmer NPCs have antlers, and Breton NPCs have Elf Ears (Don't care about your lore friendly accusations)
+- Main Menu music now cycles between three lovely Hidden Citizens tracks
+- iSnore sleeping encounters (If you're in an uncleared dungeon, possiblity of being attacked while you sleep)
+
+__Replacements__
+- Remiel Replacer
+- Dual Wield Block mod (Still set to V by default, but to modify will require an ini change instead of an MCM)
+
+__Updates__
+- Cathedral Weathers
+- Auri Replacer
+- Regenerated Dyndolod and friends
+
+__Removals__
+- Slow Your Roll
+- Kill XP
+- Use Those Horses (May return once I figure out how to stop the animal carcass duplication)
+- A few OAR animations were removed due to being redundant with MCO
+
+## v1.1 "Stairs and Chairs Update" 07/08/2023
 __Additions__
 - Odin (I forgot this was a thing on initial release)
 - Various DAR Animations (Bound Weapons, tools, drunk, and wounds)

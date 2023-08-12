@@ -8,6 +8,81 @@ description: >
   The Living Skyrim changelog.
 ---
 
+### 7/22/2023 4.1.0
+#### Minor
+- Bug Fixes
+  - Fixed getting stuck in Third Person after waiting
+  - Fixed floating trees
+  - Fixed Spellforge clutter being visible
+  - Fixed a floating trap door
+  - Fixed the Spectre Bow not working
+  - Fixed floating Talos Shrine in Riften
+  - Fixed Precision making a perk for Adamant obsolete
+  - Fixed floating items in Rorikstead
+  - Fixed too many barrels in Riften
+  - Fixed Amren trainer dialogue not working
+  - Fixed being able to switch views with scroll wheel
+  - Potentially fixed stuttering in exteriors
+- Mod Updates
+  - Immersive Interactions 1.71
+  - SKSE 2.0.20
+  - SPID - NFF - Add Ignore Token to CustomAI Followers 1.0.15
+  - Swiftly Order Squad 1.6.6
+  - Swiftly Order Summons 0.11
+  - Immersive Equipment Displays 1.6.3
+  - Missile's IED Presets 1.3.2
+  - Phoenix Compendium 2.2.1
+  - EVGAT Skyrim Integration Patch 1.2.3
+  - EVG Animated Traversal 1.0b
+  - Honed Metal Revoiced 1.8
+  - SCAR 1.06b
+  - NPCs Use Potions 3.1.6
+  - SPID 6.6.1
+  - Aetherius 2.11.7
+  - Valhalla Combat 1.3.3
+  - TK Dodge RE 0.55-rc3
+  - Lux 6.3
+  - Lux Via 1.7
+  - Lux Orbis 3.3
+ Additions
+  - Dynamic Activation Key
+  - Book Covers Skyrim
+  - Zero Bounty Hostility Fix
+  - Gemling Queen Jewelry
+  - Pine Shrubs Redone
+  - Morning Fogs
+  - Photo Mode
+  - Nyghtfall Dark Fantasy Music
+  - JK's Windhelm Outskirts
+  - Serio's Cycle Hotkeys
+  - Classic Sprinting Redone (optional enable for controller users)
+  - The Ultimate Control Scheme (optional enable for controller users)
+  - Sprint Sneak Movement Speed Fix
+  - Take A Peek
+  - Brawl Lines Expansion
+  - Vampire Lines Expansion
+  - Civil War Lines Expansion
+  - Forsworn and Thalmor Lines Expansion
+  - NPCs React to Invisibility
+  - Interesting Follower Requirements for 3DNPCs
+  - Ancient Land
+  - Tiny Patch Hub
+  - Sunhelm Survival (optional enable via MCM)
+- Removals
+  - Resistances Rescaled
+  - Helgen Reborn
+- Replacements
+  - SkyRem - LORA -> Open World Loot
+  - Blended Roads Redone -> HD Remastered Blended Roads
+  - Northern Shores -> HD Remastered Landscapes
+  - Hyperborean Snow -> HD Remastered Landscapes
+  - Septentrional Landscapes -> HD Remastered Landscapes
+- Other
+  - Regenerated Nemesis output
+  - Regenerated DynDOLOD and friends
+  - Fixed plugins loading before their masters
+  - Regenerated Synthesis Output
+
 ### 6/13/2023 4.0.2
 #### Incremental
 - Bug Fixes

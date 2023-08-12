@@ -8,6 +8,8 @@ description: >
     A brief overview of what Living Skyrim is.
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SKw3U8fLa3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Living Skyrim is, first and foremost, a modlist for Skyrim: Special Edition that can be installed using Wabbajack. If you're unfamiliar with the terminology, a modlist is a list of mods that have been hand-selected and patched to work together. Wabbajack, meanwhile, is a tool that can replicate a modlist from the creator's PC onto yours. This means you can install hundreds of mods in just a few short hours and expect them to work with very minimal effort on your part.
 
 Living Skyrim itself is, has been, and will continue to be about one thing: breathing life into Skyrim. When playing vanilla Skyrim, there are times when you’ll find nothing to do, nowhere to go, and no one to interact with. Living Skyrim seeks to correct this in every possible way. Within this modlist, you’ll find a semi-lore friendly approach to adding an astounding amount of NPCs, quests, dungeons, followers, and more. It is uncommon to go more than 5 minutes without coming across something, be it an NPC to fight, a new questline, or any number of other points of interest. Content alone isn’t enough, though.
