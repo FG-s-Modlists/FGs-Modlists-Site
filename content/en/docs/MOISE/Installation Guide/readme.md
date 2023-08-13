@@ -143,7 +143,7 @@ In Mod Organizer 2, select Morrowind from the drop-down menu next to the Run but
 
 ## Wabbajack Issues
 #### Texture_Fix_Bloodmoon_1.1 failed to download
-You can manually download the file [from this link](https://www.dropbox.com/sh/7fv2wojbp6y3uo9/AABdOQ5DflPDV3wb4bMx_snla/Texture_Fix__Bloodmoon_1.1.7z?dl=1). Place the .7z folder in your Resource Download Location folder and rerun the Wabbajack install.
+As a temporary solution until the list is properly updated, Please download this alternate Wabbajack file [from this link](https://drive.google.com/file/d/1P2MCVdx4Pr2sFY2pcEWI8NSZegDjgSa-/view?usp=sharing). Restart Wabbajack and use the Install from Disk option, Select the Wabbajack file you've just downloaded as the Target Modlist and leave your Install and Resource paths as they were to resume your install.
 
 ## Troubleshooting
 Morrowind is a very temperamental game. Here are some common fixes for issues you may encounter.
