@@ -29,7 +29,7 @@ It’s now time to begin the installation of the list. Follow these steps:
 <div class="alert-icon">ℹ️</div>
 
 ![](https://i.imgur.com/lY0vh3P.png)
-
+{{< /alert >}}
 
 3. Put a check into the "Show Unofficial Lists" checkbox at the top of the window.
 4. Locate the Empyrean card and click the download button to download the installer file.
