@@ -8,6 +8,27 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 8/22/2023 1.9.1
+#### Incremental
+ - Mod Updates
+    - Open Animation Replacer (for real this time)
+    - Fill Her Up
+    - SexLab Separate Orgasms
+    - Public Whore
+    - Service Your Gear (fixes a debug message being spammed and certain weapon combos not breaking)
+    - Egg Factory
+    - Submissive Lola
+- Bug Fixes
+    - Adjusted Scrappies MCM to fix females not being valid for scenes
+    - Fixed SexLab's recording during installation
+    - Fixed SLEN's recording, specifically the SOS integration. TRX's addons weren't enabled
+- Other
+    - Utilized rainpants' icon for MS as SKSE icon
+    - Truncated MCM Recording by merging files
+    - Correctly numbered MCM files
+    - Added a keybind to iHUD's recording because it works in my list and testing showed it works
+    - Changed .meta files to have `?do=download` at the end for better view during LL download selection
+
 ### 7/17/2023 1.9.0
 #### "Minor"
 - Mod Updates
