@@ -8,8 +8,8 @@ description: >
   Must-have dependencies to be able to install the list.
 ---
 
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/';" class="btn btn-primary">🡄 Step 1 - Preparations</button>
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/setup/';" class="btn btn-primary">1.2 - Steam, SSE, and Wabbajack Setup 🡆</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/';" class="btn btn-primary">⮜ Step 1 - Preparations</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/setup/';" class="btn btn-primary">1.2 - Steam, SSE, and Wabbajack Setup ⮞</button>
 
 The following are *absolutely required* to begin installation of Living Skyrim 4. These must all be installed and up to date before you begin.
 
@@ -98,5 +98,5 @@ This is another runtime library required by some programs. Not having these inst
 click the link to open a page on the Microsoft Website to download the .NET runtime files. You may need both the Desktop and Console versions, so please install both:
 - [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
 
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/';" class="btn btn-primary">🡄 Step 1 - Preparations</button>
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/setup/';" class="btn btn-primary">1.2 - Steam, SSE, and Wabbajack Setup 🡆</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/';" class="btn btn-primary">⮜ Step 1 - Preparations</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/setup/';" class="btn btn-primary">1.2 - Steam, SSE, and Wabbajack Setup ⮞</button>

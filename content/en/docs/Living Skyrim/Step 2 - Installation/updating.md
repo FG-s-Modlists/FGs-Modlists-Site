@@ -8,7 +8,7 @@ description: >
   How to update the list.
 ---
 
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-2-installation/';" class="btn btn-primary">🡄 Step 2 - Installation</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-2-installation/';" class="btn btn-primary">⮜ Step 2 - Installation</button>
 
 If you are updating Living Skyrim, the process is very similar to installing the list. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
 
@@ -57,4 +57,4 @@ Whilst some incremental list updates are save-safe, larger updates often require
 ![](https://i.imgur.com/gwW0jF1.png)
 {{< /alert >}}
 
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-3-configuration/';" class="btn btn-primary">Step 3 - Configuration ➡️</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-3-configuration/';" class="btn btn-primary">Step 3 - Configuration ⮞</button>

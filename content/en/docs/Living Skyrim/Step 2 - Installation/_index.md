@@ -8,8 +8,8 @@ description: >
   Step-by-step instructions on how to install Living Skyrim.
 ---
 
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/setup/';" class="btn btn-primary">🡄 1.2 - Steam, SSE, and Wabbajack Setup</button>
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-3-configuration/';" class="btn btn-primary">Step 3 - Configuration 🡆</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/setup/';" class="btn btn-primary">⮜ 1.2 - Steam, SSE, and Wabbajack Setup</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-3-configuration/';" class="btn btn-primary">Step 3 - Configuration ⮞</button>
 
 It’s now time to begin the installation of the list. Follow these steps:
 
