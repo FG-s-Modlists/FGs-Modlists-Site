@@ -1,8 +1,8 @@
 ---
 categories: ["Living Skyrim"]
 tags: ["docs"] 
-title: "4.4 - Getting Started"
-linkTitle: "4.4 -Getting Started"
+title: "4.1 - Getting Started Guide"
+linkTitle: "4.1 - Getting Started Guide"
 weight: 3
 description: >
   How to start out in Living Skyrim after you've created your character.
