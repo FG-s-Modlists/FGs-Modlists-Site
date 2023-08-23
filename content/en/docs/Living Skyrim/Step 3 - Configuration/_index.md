@@ -9,7 +9,7 @@ description: >
 ---
 
 <button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-2-installation/';" class="btn btn-primary">🡄 Step 2 - Installation</button>
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-3-configuration/';" class="btn btn-primary">Step 4 - Gameplay 🡆</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-4-gameplay/';" class="btn btn-primary">Step 4 - Gameplay 🡆</button>
 
 ## Mod Organizer 2
 
