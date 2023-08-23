@@ -8,6 +8,8 @@ description: >
     A brief overview of what Living Skyrim is.
 ---
 
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/';" class="btn btn-primary">Step 1 - Preparations 🡆</button>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SKw3U8fLa3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Living Skyrim is, first and foremost, a modlist for Skyrim: Special Edition that can be installed using Wabbajack. If you're unfamiliar with the terminology, a modlist is a list of mods that have been hand-selected and patched to work together. Wabbajack, meanwhile, is a tool that can replicate a modlist from the creator's PC onto yours. This means you can install hundreds of mods in just a few short hours and expect them to work with very minimal effort on your part.
@@ -29,3 +31,5 @@ Living Skyrim 3 is a great example of the pillar of Content. It’s full of ques
 
 ### Roleplay 
 I’ve always wanted a list where I can write out a backstory for a character and then act like that character in the game. I want to be able to be my character. Living Skyrim 3 does a decent job of this, but I feel like we can improve this in so many ways. Some new mods have come out recently that lean into this idea heavily, and there are plenty of things we can look into to really bring this idea to life. Now, some might say that the idea of mods that add things like attributes or skill bonuses from early life aren’t in the spirit of roleplay - for example, how do you roleplay a character with an Intelligence attribute of 16? - I feel that these sorts of things are important for quantifying and informing decisions you make in the game. So these systems will still be present in Living Skyrim 4.
+
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/';" class="btn btn-primary">Step 1 - Preparations 🡆</button>

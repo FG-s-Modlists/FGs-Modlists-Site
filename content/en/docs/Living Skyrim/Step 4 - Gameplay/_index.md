@@ -8,6 +8,9 @@ description: >
   How to play Living Skyrim.
 ---
 
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-3-configuration/';" class="btn btn-primary">🡄 Step 3 - Configuration</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-4-gameplay/gettingstarted/';" class="btn btn-primary">4.1 - Getting Started Guide 🡆</button>
+
 To actually launch and then play Living Skyrim, follow these steps:
 
 1. Launch the copy of Mod Organizer 2 found inside your Living Skyrim folder.

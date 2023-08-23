@@ -8,6 +8,9 @@ description: >
   Steps that need to be completed after installing Living Skyrim.
 ---
 
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-2-installation/';" class="btn btn-primary">🡄 Step 2 - Installation</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-3-configuration/';" class="btn btn-primary">Step 4 - Gameplay 🡆</button>
+
 ## Mod Organizer 2
 
 Among other things, Wabbajack has installed a copy of Mod Organizer 2 for you. This copy of Mod Organizer 2 is specific to Living Skyrim and will not affect any other modlists you have installed.

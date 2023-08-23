@@ -8,6 +8,9 @@ description: >
   How to start out in Living Skyrim after you've created your character.
 ---
 
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-4-gameplay/';" class="btn btn-primary">🡄 Step 4 - Gameplay</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/additional-reading/';" class="btn btn-primary">Additional Reading 🡆</button>
+
 ### Learning to Crawl
 Inside the Realm of Lorkhan, you'll have [created your character](https://www.fgsmodlists.com/docs/living-skyrim/post-install/charactercreation/) and [configured your MCMs](https://www.fgsmodlists.com/docs/living-skyrim/post-install/mcm/).
 

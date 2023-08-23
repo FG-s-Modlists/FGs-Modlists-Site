@@ -8,6 +8,8 @@ description: >
   How to update the list.
 ---
 
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-2-installation/';" class="btn btn-primary">🡄 Step 2 - Installation</button>
+
 If you are updating Living Skyrim, the process is very similar to installing the list. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
 
 Wabbajack does support updating an existing installation of a modlist. However, as part of this process, it does delete files that don't match with what it is installing. This includes RaceMenu presets, mods you've added/changed, and possibly even save files. It is a good practice to keep backups of your save files so that you can update safely. Saves are stored within the folder you install Living Skyrim to.
@@ -55,3 +57,4 @@ Whilst some incremental list updates are save-safe, larger updates often require
 ![](https://i.imgur.com/gwW0jF1.png)
 {{< /alert >}}
 
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-3-configuration/';" class="btn btn-primary">Step 3 - Configuration ➡️</button>
