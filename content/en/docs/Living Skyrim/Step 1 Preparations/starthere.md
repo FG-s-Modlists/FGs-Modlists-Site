@@ -8,6 +8,8 @@ description: >
   Information you need to know before beginning installing or playing Living Skyrim.
 ---
 
+
+
 Before you get started installing or playing Living Skyrim, it's important to note a few things:
 
 {{< alert color="info" title="Info">}}

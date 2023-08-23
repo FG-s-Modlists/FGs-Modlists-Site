@@ -1,8 +1,8 @@
 ---
 categories: ["Living Skyrim"]
 tags: ["docs"] 
-title: "3.3 - Performance Profile"
-linkTitle: "3.3 - Performance Profile"
+title: "3.1 - Performance Profile"
+linkTitle: "3.1 - Performance Profile"
 weight: 3
 description: >
   Information about Living Skyrim's performance profile.

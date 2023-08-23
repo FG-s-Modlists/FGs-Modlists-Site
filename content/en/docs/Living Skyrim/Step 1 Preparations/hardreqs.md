@@ -2,7 +2,7 @@
 categories: ["Living Skyrim"]
 tags: ["docs"] 
 title: "1.2 - Hard Requirements"
-linkTitle: "1.2 Hard Requirements"
+linkTitle: "1.2 - Hard Requirements"
 weight: 2
 description: >
   Must-have dependencies to be able to install the list.
