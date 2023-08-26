@@ -1,43 +1,12 @@
 ---
 categories: ["Masterstroke"]
 tags: ["docs"] 
-title: "1.2 - Pre-Installation"
-linkTitle: "1.2 - Pre-Installation"
-weight: 2
+title: "1.2 - Steam, SSE, and Wabbajack Setup"
+linkTitle: "1.2 - Steam, SSE, and Wabbajack Setup"
+weight: 3
 description: >
   Steps to complete before beginning installation.
 ---
-
-### Pagefile Configuration
-
-Bigger Skyrim modlists need a lot of memory, and when there is not enough available it may fail allocating more. To fix this, you'll want to have a bigger pagefile.
-
-A pagefile is a file on your disk Windows will use when there is not enough RAM available.
-
-Never disable the pagefile - this may lead to various issues on your system, including Skyrim crashes.
-
-To set the pagefile up properly for this modlist, follow these steps:
-
-1. Press Windows + R on your keyboard and enter `sysdm.cpl ,3`
-2. Under the Performance section, press 'Settings'
-3. Go to the Advanced tab at the top, and at the Virtual memory section press 'Change...'
-4. Disable 'Automatically manage paging file size for all drives'
-5. Set a custom size for your fastest drive and increase the initial and maximum size to be at least 20GB (20000MB).
-6. Restart your computer to make sure the changes have taken effect.
-
-If you have more than one drive, try enabling it for at least one more drive as a backup (make sure it has a decent bit of free space, like 15GB). Set the size to 'System managed size'.
-
-### Microsoft Visual C++
-The Visual C++ Redistributable is a DLL (Dynamic Link Library) file required by programs or games built using Microsoft’s Visual Studio software development environment. As Skyrim Special Edition is a 64-bit program, elements of it - along with other aspects of the modlist - require the 64-bit version of Visual C++ in order to run.
-
-Click the link to download the latest Visual C++ x64 Redistributable, then double-click the downloaded file and follow the instructions:
-- [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
-
-### Microsoft .Net Runtime
-This is another runtime library required by some programs. Not having these installed can result in issues running Masterstroke.
-
-click the link to open a page on the Microsoft Website to download the .NET runtime files. You may need both the Desktop and Console versions, so please install both:
-- [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
 
 ### Steam & SSE Setup
 {{< alert color="danger" title="Warning!" >}}

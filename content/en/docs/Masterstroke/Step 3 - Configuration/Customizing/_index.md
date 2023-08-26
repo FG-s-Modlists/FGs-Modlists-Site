@@ -1,8 +1,8 @@
 ---
 categories: ["Masterstroke"]
 tags: [] 
-title: "3.3 - Customizing"
-linkTitle: "3.3 - Customizing"
+title: "3.1 - Customizing"
+linkTitle: "3.1 - Customizing"
 weight: 7
 description: >
   For detailed information about customizing Masterstroke to your tastes.

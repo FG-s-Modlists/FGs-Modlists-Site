@@ -1,8 +1,8 @@
 ---
 categories: ["Masterstroke"]
 tags: ["docs"] 
-title: "4.4 - Getting Started"
-linkTitle: "4.4 - Getting Started"
+title: "4.1 - Getting Started"
+linkTitle: "4.1 - Getting Started"
 weight: 4
 description: >
   How to start out in Masterstroke after you've created your character.
