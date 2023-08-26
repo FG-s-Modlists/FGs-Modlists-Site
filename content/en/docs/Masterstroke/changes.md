@@ -7,6 +7,28 @@ weight: 100
 description: >
   The Masterstroke changelog.
 ---
+### 8/26/2023 1.9.2
+#### Incremental
+- Mod Updates
+    - Immersive Equipment Displays -> 1.7.2
+- Additions
+    - Dirt Blood & Cum
+    - Open Animation Replacer - IED Conditions
+    - Weapon Styles - DrawSheathe Animations for IED
+- Other
+    - Fixed Fine Iron Sword not being able to be placed in Weapon Plaques
+    - Fixed missing { in SLEN's recording
+    - Deleted unused files in the SKSE output
+    - Adjusted Dirt & Blood's & Service Your Gear's MCM Recordings
+        - Gear should last longer
+        - Neither mod should cause Devious Devices to break due to stripping
+    - Adjusted Public Whore's recording to spam the console less
+        - It'll now send one message instead of three every five seconds
+    - Adjusted Improved Camera's .ini settings
+        - Default first-person FOV 80 -> 100
+        - Disabled first-person on kill moves
+        - Adjusted first-person Near Distance to remove flicker when drawing weapons/hands.
+    - Regenerated FNIS and Nemesis output
 
 ### 8/22/2023 1.9.1
 #### Incremental
