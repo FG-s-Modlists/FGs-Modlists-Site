@@ -15,6 +15,10 @@ description: >
     - Dirt Blood & Cum
     - Open Animation Replacer - IED Conditions
     - Weapon Styles - DrawSheathe Animations for IED
+- Replacements
+    - Creature Profile
+      - CO More Creatures -> CO More Creatures (with Hostile Creatures)
+        - Dungeons may now be more dangerous and feature some action 
 - Other
     - Fixed Fine Iron Sword not being able to be placed in Weapon Plaques
     - Fixed missing { in SLEN's recording
