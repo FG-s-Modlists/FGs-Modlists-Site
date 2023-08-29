@@ -1,11 +1,21 @@
-## LoversLab Mods
+---
+categories: ["Masterstroke"]
+tags: ["docs"] 
+title: "Lover's Lab Mods"
+linkTitle: "Lover's Lab Mods"
+weight: 4
+description: >
+  Configuring the list to fit your system.
+---
+
 Because we cannot automatically downloads mods from LoversLab, like we do for Nexus, users have to manually download them through Wabbajack.
+
 If that fails for you somehow you can use the table below to download the mods manually and put them into the download folder you specified, by default `Masterstroke/downloads`.
 
-
-### Disclaimer
-Even if you are not a fan of some creature mods, you need to download them. They wil not be forced onto you because creature content has it's separate profile.
-
+{{< alert color="info" title="Disclaimer">}}
+<div class="alert-icon">ℹ️</div>
+Even if you are not a fan of some creature mods, you need to download them. They will not be forced onto you because creature content has its own separate profile.
+{{< /alert >}}
 
 #### LAST UPDATED: 08/27/2023 - Masterstroke 1.9.2
 
