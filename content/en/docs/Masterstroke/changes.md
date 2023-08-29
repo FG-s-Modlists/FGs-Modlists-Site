@@ -7,6 +7,35 @@ weight: 100
 description: >
   The Masterstroke changelog.
 ---
+### 8/26/2023 1.9.3
+#### Incremental
+- Mod Updates 
+    - Keyword Item Distributor 3.0.2 -> 3.0.3
+    - Object Categorization Framework 3.0.1 -> 4.2.2
+    - Apothecary 1.3.3 -> 1.3.6
+    - Spellforge 2.2 -> 2.3
+    - Journeyman 1.0 -> 1.1.3
+    - The Handy Icon Collection Collective (THICC) 1.3 -> 1.41
+    - B.O.O.B.I.E.S 1.3 -> 2.0
+    - Aura's Inventory Tweaks 3.0.3 -> 4.1.3
+    - Baka Motion Data Pack
+    - MO Creature Overhaul (With Hostile Creatures) 1.8.1 -> 1.8.2
+- Additions
+    - Several Apothecary patches (CC Fishing, CC Curious, CC Saints, Wyrmstooth)
+    - HelpExtender
+        - Old help command is back: `help "Bandit" 4 NPC_`
+    - Mu Joint Fix
+    - Devious Devices NG DLL
+- Replacements
+    - RaceMenu High Heels (Height Fixes) -> Heels Fix
+- Fixes
+    - Fixed Dragon Eggs not dropping from Egg Factory
+    - Potentially fixed swimming above water
+    - Fixed Dirt Blood & Cum breaking Devious Devices by unequipping them
+- Other
+    - Adjusted Armor degradation in SYG a bit more
+    - Updated the Frosty Body preset
+
 ### 8/26/2023 1.9.2
 #### Incremental
 - Mod Updates
