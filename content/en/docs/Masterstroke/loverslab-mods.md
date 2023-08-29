@@ -5,7 +5,7 @@ title: "Lover's Lab Mods"
 linkTitle: "Lover's Lab Mods"
 weight: 4
 description: >
-  Configuring the list to fit your system.
+  Information about the mods needed from Lover's Lab.
 ---
 
 Because we cannot automatically downloads mods from LoversLab, like we do for Nexus, users have to manually download them through Wabbajack.
