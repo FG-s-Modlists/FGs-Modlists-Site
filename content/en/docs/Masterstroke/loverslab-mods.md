@@ -29,7 +29,7 @@ Even if you are not a fan of some creature mods, you need to download them. They
 | [Baka Motion Data Pack](https://www.loverslab.com/files/file/26992-baka-motion-data-pack/)                                | Download `Baka Motion Data Pack.7z`                       |
 | [CBPC Anus Support](https://www.loverslab.com/files/file/22048-cbpc-separate-anal-collision-22-cbpc-156/)                 | Download `CBPC Anus Support 2.2 FOMOD fixed.zip`          |
 | [CO More Creatures](https://www.loverslab.com/files/file/12760-creature-overhaul/)                                        | Download `CO More Creatures 1.8.2 (With Hostile Creatures).rar`   |
-| [More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)                     | Download `CreatureFrameworkV3_0.7z`                       |
+| [More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)                     | Download `CreatureFrameworkV3-1.7z`                       |
 | [Damsel in Distress- SE - Follower Collection](https://www.loverslab.com/files/file/19789-damsels-in-distress-se-0-follower-collection/)      | Download `Damsels in Distress - SE (0) - Follower Collection ESL v2.3.7z` |
 | [Damsel in Distresss - SE (2) - The Caged Rose](https://www.loverslab.com/files/file/24377-damsels-in-distress-se-2-the-caged-rose/)          | Download `Damsels in Distress - SE (2) - The Caged Rose v1.1 ESL.7z`  |
 | [Devious Device Helpers](https://www.loverslab.com/files/file/5236-devious-device-helpers/)                               | Press download                                            |
