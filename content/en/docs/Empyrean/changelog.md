@@ -7,6 +7,17 @@ weight: 100
 description: >
   The Empyrean changelog.
 ---
+
+## v1.4.0.1 "What am I doing now?" 09/08/2023 (New Save Possibly Required)
+__Additions__
+- Kaidan Extended AiO
+- Immersive Death Cycle
+- Trading and NPC Reactions for Hunterborn
+
+__Removals__
+- Innocence Lost Quest Expansion
+- Breton NPCs have Elf Ears (Should hopefully fix some BFBs floating around)
+
 ## v1.4 "What am I doing now?" 08/09/2023 (New Save Required)
 __Fixes__
 - Attack Speed issues fixed
