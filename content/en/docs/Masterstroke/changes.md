@@ -7,7 +7,7 @@ weight: 100
 description: >
   The Masterstroke changelog.
 ---
-### 8/26/2023 1.9.4
+### 09/09/2023 1.9.4
 #### Incremental
 - Mod Updates
     - Aura's Inventory Tweaks 4.1.3 -> 4.1.5
