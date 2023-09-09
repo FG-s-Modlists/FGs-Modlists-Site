@@ -34,7 +34,7 @@ Even if you are not a fan of some creature mods, you need to download them. They
 | [Damsel in Distresss - SE (2) - The Caged Rose](https://www.loverslab.com/files/file/24377-damsels-in-distress-se-2-the-caged-rose/)          | Download `Damsels in Distress - SE (2) - The Caged Rose v1.1 ESL.7z`  |
 | [Devious Device Helpers](https://www.loverslab.com/files/file/5236-devious-device-helpers/)                               | Press download                                            |
 | [Devious Lore SE](https://www.loverslab.com/files/file/16231-devious-lore-se/)                                            | Download `Devious Lore SE v3.0.2.7z` and `Devious Lore SE - KS Hairs Patch 3.0.2.7z` and `Devious Lore Dwarven Gilded Oil Suit 3BA.7z`   |
-| [Deviously Enchanted Chests](https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/)                       | Download `Deviously Enchanted Chests SE 3.11.7z`          |
+| [Deviously Enchanted Chests](https://www.loverslab.com/files/file/1405-deviously-enchanted-chests/)                       | Press download                                            |   
 | [Deviously Helpless](https://www.loverslab.com/files/file/6561-deviously-helpless-se/)                                    | Press download                                            |
 | [EggFactory](https://www.loverslab.com/files/file/28160-egg-factory-64-bit/)                                              | Press download                                            |
 | [Estrus Chaurus Spider Addon](https://www.loverslab.com/files/file/2438-estrus-chaurus-spider-addon-╲-•̀-ω-•́-╱/)           | Download `Estrus-Chaurus-Spider-Addon v4.342-5.7z` and `ES DDI Patch.7z`  |
