@@ -7,6 +7,25 @@ weight: 100
 description: >
   The Masterstroke changelog.
 ---
+### 8/26/2023 1.9.4
+#### Incremental
+- Mod Updates
+    - Aura's Inventory Tweaks 4.1.3 -> 4.1.5
+    - Object Categorization Framework 4.2.2 -> 4.2.5
+    - OBody NG 3.0.0 -> 4.2.0
+    - SL Widgets 2.0.8 -> 2.0.9
+    - Deviously Enchanted Chests 3.11 -> 3.20
+    - Crash Logger SSE AE VR - PDB support 1.8.0 -> 1.10.0
+- Additions
+    - Keyword Patch Collection
+    - Backpack Repositioner - Immersive Equipment Displays
+    - Show Follower Carry Weight
+    - Standardization of Spelling of Sets of Skills
+    - Sets of Skills - Improved UI
+- Fixed
+    - Fixed OBody not applying immediately by redressing the NPC after selecting a preset automatically
+    - Fixed un-temberable items being affected by Service Your Gear
+
 ### 8/26/2023 1.9.3
 #### Incremental
 - Mod Updates 
