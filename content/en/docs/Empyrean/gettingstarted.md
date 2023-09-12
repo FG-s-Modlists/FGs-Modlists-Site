@@ -13,7 +13,7 @@ description: >
 
 # Getting started with Empyrean
 
-This list requires 194GB of storage space, with 58GB of that being downloads
+This list requires 222GB of storage space, with 69GB of that being downloads
 
 ## _The following things are needed to run Empyrean, and should be installed prior to installation of the list_
 - [Skyrim Special Edition (Steam, v1.6.640)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
