@@ -7,9 +7,13 @@ weight: 1
 description: >
   How do I enable fast travel?
 ---
+Intended method:
+- In any major hold you can pay a carriage driver or ferryman to travel.
+- Craft a Travel Pack to fast travel from anywere. (Check the [Journeyman](https://www.nexusmods.com/skyrimspecialedition/mods/92220) mod for more details.)
 
-1. Edit the .ini file from "Disable Fast Travel": bFastTravelDisabled=1 -> bFastTravelDisabled=0
+Permanent fast-travel Toggle:
+- Edit the .ini file from "Journeyman - A Fast Travel Overhaul":  
+change "bEnableOnlyOnSurvivalEnabled=false" to "=true"
 
-![](https://wiki.fgsmodlists.com/masterstroke/disable_fast_travel.png)
+![](https://i.imgur.com/kkp4QLB.png%5D)
 
-2. Change this option in SunHelm: MCM -> SunHelm -> Disable Fast Travel = OFF
