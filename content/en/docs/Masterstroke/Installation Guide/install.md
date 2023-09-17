@@ -12,12 +12,18 @@ It’s now time to begin the installation of the list. Follow these steps:
 
 1. Run Wabbajack.exe.
 2. At the bottom of the window, click Browse Modlists.
-3. Put a check into the "Show Unofficial Lists" checkbox at the top of the window.
+3. Put a check into the "Show NSFW" checkbox at the top of the window.
 4. Locate the Masterstroke card and click the download button to download the installer file.
-5. Once downloaded, click the play button.
+
+![Wabbajack browse modlist](https://i.imgur.com/iDfKgd0.png)
+
+5. Once downloaded, the button will change into a play button. Click the play button.
 6. Below the image you see of the Masterstroke logo, there are three text boxes. The second and third need to be filled out.
 7. Click the three dots in the second (middle) box. Navigate to your Masterstroke folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
 8. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
+
+![Wabbajack install and download folder](https://i.imgur.com/uMVowLt.png)
+
 9. Click the play/right arrow button to begin the installation.
 10. You will be prompted to install the mods from Lover's Lab manually, this is normal. The file you need to download will be indicated at the top of the Wabbajack window.
 
@@ -25,7 +31,7 @@ It’s now time to begin the installation of the list. Follow these steps:
 | :--- | :--- |
 | 11. Wabbajack will ask you to login to Nexus and authorize your API key so it can download mods for you automatically. If this doesn’t happen, it isn’t a problem and means you’ve already set this up. | 11. Wabbajack will prompt you to click all the needed buttons to download the modlist. Be prepared for this to take an extraordinarily long time. Current reports indicate installing the list manually takes approximately 24 hours. Also be aware that due to the amount of time required when installing this list manually, the list may update during the time it takes to install and you may need to start over if that happens. Installing with Nexus Premium isn’t required, but is strongly recommended if you value your time. If you must install the list manually, put on an audiobook or a TV show and make a day of it. |
 
-12. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). 
+11. Wabbajack will now download and install all of the mods. This will take a while (3-4 hours at most). 
 
 {{< alert color="important" title="Important!">}}
 <div class="alert-icon">⚠️</div>
