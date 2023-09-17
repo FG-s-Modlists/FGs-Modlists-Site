@@ -25,7 +25,7 @@ It's important that you do the following steps in the order they are presented. 
 ![MCM Recorder](https://i.imgur.com/l2BGXX0.png)
 
 5. Click on the Masterstroke MCM option. You'll be prompted to exit the MCM. Do so. You'll then receive a popup with information about the MCM preset you've chosen. Click "Run Recording".
-6. If you see a message saying "`Could not find MCM Option: Mod name: Sexlab Field name SSL__InstallUpdateSexlab(1.63)`", nothing is wrong, simply press continue and allow the recording to continue.
+6. If you see a message saying "`Could not find MCM Option: Mod name: Sexlab Field name SSL__ClickHere`", nothing is wrong, simply press continue and allow the recording to continue.
 
 ![MCM sexlab](https://i.imgur.com/xZAgSth.png)
 
