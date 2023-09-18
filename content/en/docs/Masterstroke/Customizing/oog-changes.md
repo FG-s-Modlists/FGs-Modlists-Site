@@ -8,10 +8,13 @@ description: >
   For changes that must be made outside the game.
 ---
 
-Some changes to the list must be made in Mod Organizer 2 before launching the game.
+Some changes to the list must be made in Mod Organizer 2 before launching the game.  
+
+![MO Customization](https://i.imgur.com/77u27HP.png)
 
 ### Skin Textures
-The default skin texture in Masterstroke is Fair Skin, if that isn't to your liking we have prepared several options for you to choose from. They are listed under the Customization separator in the left pane of MO2. Note that you should only have one skin texture enabled at a time, it is not possible to combine them.
+The default skin texture in Masterstroke is Fair Skin, if that isn't to your liking we have prepared several options for you to choose from.  
+Note that you should only have one skin texture enabled in the "List customization".
 
 ### Bodyslides & OBody
 OBody can be safely disabled in the left pane of MO2 if you do not want NPCs to have randomized bodyslide presets. Note that if you disable OBody, you will need to generate your own Bodyslides using Bodyslide. Support is not provided for generating your own Bodyslides.

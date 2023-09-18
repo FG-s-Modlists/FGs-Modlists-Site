@@ -18,7 +18,7 @@ description: >
   providing some nice features for a character who doesn't enjoy civilization
   
 ## Combat
-  No fancy Souls-Style combat here. Valhalla Combat controls all of the combat options, enforcing stamina management and stagger. It is also possible for you to execute enemies (though this is unbound by default), though enemies can do the same to you. Dual Wield Blocking allows Spellsword builds to be possible, combined with Valhalla, and there is a host of animations, conditionally in or out of combat.
+  MCO, Wildcat, and Valhalla are all included and make up the combat suite for Empyrean. Attack commitment, hit stop, and potential injuries to you and enemies. While there may be a small learning curve, it will be all the more rewarding defeating bandits, dragur, and even dragons.
   
 ## Enemies
   There are a few changes to how enemies work in Empyrean. Most notably, instead of being assigned base Skyrim values while the player makes use of all the Overhauls, enemies now **ALSO** make use of the overhauls, providing more challenge for the player. Enemies and dungeons have also been de-levelled, meaning

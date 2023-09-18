@@ -41,14 +41,13 @@ Masterstroke uses a multitude of mods that allow for a survival experience that 
 
 - [Sunhelm Survival](https://www.nexusmods.com/skyrimspecialedition/mods/39414): The core survival and needs mod. Requires management of hunger, thirst, fatigue, and cold weather.
 - [Trade & Barter](https://www.nexusmods.com/skyrimspecialedition/mods/23081): Overhauls the game's economy to make items expensive to buy and worth little when sold.
-- [IRIS](https://www.nexusmods.com/skyrimspecialedition/mods/41920/): Removes many of the free-floating items in the world to encourage seeking out chests and containers.
 - [Open World Loot](https://www.nexusmods.com/skyrimspecialedition/mods/49681): Provides a framework for distributing and changing loot found on enemies.
 - [GIST](https://www.nexusmods.com/skyrimspecialedition/mods/15755): Changes how soul gems work and the progression for using them.
 - [Improved Traps](https://www.nexusmods.com/skyrimspecialedition/mods/17592): Makes traps found in dungeons more deadly.
 - [Lock Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/14927): Adds options to open locked chests and doors inclusing smashing locks and opening them with magic.
 - [Realistic AI Detection](https://www.nexusmods.com/skyrimspecialedition/mods/2345), [Suspicious City Guards](https://www.nexusmods.com/skyrimspecialedition/mods/38762), and [Better Stealing](https://www.nexusmods.com/skyrimspecialedition/mods/32295): Makes stealth and being a thief harder in general.
 - [Carriage & Ferry Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/8379): Adds destinations to carriages and rebalances the cost of traveling.
-- [Disable Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/54217): As it says, fast travel is disabled.
+- [Journeyman - A Fast Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92220): Fast Travel requires a travel pack, which can be crafted.
 - [Extended Stay](https://www.nexusmods.com/skyrimspecialedition/mods/156): Allows you to book a 3, 5, and 7 day stay at an inn.
 - [Simply Knock](https://www.nexusmods.com/skyrimspecialedition/mods/14098): Allows you to knock on doors to ask for a place to stay for the evening or speak to NPCs behind locked house doors.
 - [Perseid's Inns and Taverns](https://www.nexusmods.com/skyrimspecialedition/mods/24859): Rebalances the cost of purchasing an inn stay.
@@ -58,7 +57,7 @@ Masterstroke uses a multitude of mods that allow for a survival experience that 
 - [Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/7900): Overhauls hunting and collecting loot from killed animals.
 - [Voidgate](https://www.nexusmods.com/skyrimspecialedition/mods/44989): Provides a town portal scroll/spell you can use at higher levels.
 - [Helps to Have a Map](https://www.nexusmods.com/skyrimspecialedition/mods/37238): Requires you to purchase/find a map to use it.
-- [Item Durability](https://www.nexusmods.com/skyrimspecialedition/mods/42544): Weapons and armor will degrade over time and require repairs periodically.
+- [Service Your Gear](https://www.nexusmods.com/skyrimspecialedition/mods/95296): Weapons and armor will degrade over time and require repairs periodically.
 - [Spellforge](https://www.nexusmods.com/skyrimspecialedition/mods/46482): Changes how spells are acquired to allow for better pacing to mages.
 - [Simply Balanced](https://www.nexusmods.com/skyrimspecialedition/mods/15541): Allows every aspect of the game to be tweaked to increase or decrease difficulty.
 
@@ -81,6 +80,7 @@ Combat in Masterstroke is difficult without being on the level of Dark Souls or 
 The HUD and UI is going to be different in Masterstroke, even if you're coming from other modlists and especially if you're coming from vanilla Skyrim. All of the HUD elements have been condensed to the lower-left corner of the screen. The mods that affect the HUD and UI are as follows:
 
 - [Nordic UI](https://www.nexusmods.com/skyrimspecialedition/mods/49881): The primary UI overhaul. Retextures almost every UI interface and object.
+- [Aura's Inventory Tweaks (More SkyUI Icons Sorting Options and Columns)](https://www.nexusmods.com/skyrimspecialedition/mods/68557): Adds more columns and sorting options, as well as new icons for armors, misc items, etc.
 - [Atlas Map Markers](https://www.nexusmods.com/skyrimspecialedition/mods/24104): Adds more map markers.
 - [Immersive HUD](https://www.nexusmods.com/skyrimspecialedition/mods/12440) & [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463): Allows the HUD to be repositioned and hidden if needed.
 - [Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/386) Font: A replacement for the main font in the game.
