@@ -8,6 +8,22 @@ description: >
   The Empyrean changelog.
 ---
 
+## v1.5 "Once more round the bend" 09/21/2023 (New Save Required)
+__Additions__
+- Signature Equipment (For you RP'ers who want to keep your loincloth and iron sword beyond one or two levels)
+- Classical Sprinting Redone (Changes sprint from a toggle to a hold)
+
+__Removals__
+- Vigor MCM Recording step FINALLY removed
+- Mists of Tamriel
+- JKs Angeline's Aromatics + Lux patch for it.
+
+__Updates__
+- PO3 Papyrus Extender
+- Katana updated (Now with Wounds Support!)
+- Read the Room MCM set to use toggle key only, and no equip animations in combat
+- Dragur shouts should be less punishing, the distribution has been tweaked
+
 ## v1.4.0.1 "What am I doing now?" 09/08/2023 (New Save Possibly Required)
 __Additions__
 - Kaidan Extended AiO
