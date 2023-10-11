@@ -22,7 +22,7 @@ If MEGA downloads are either not downloading correctly or are frozen on the comp
 
 - [Smooth Random Magic Idle Animation](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
 - [SE.rar](https://mega.nz/folder/xwxwzaDI#J3oxuELfc50dftUKQiIcUg/file/csZHUKrY) For the SE.rar download, open the link and right click on the SE.rar file listed on the webpage, then go to `Download` , then click `Standard Download`
-- [Devious Devices [SE][AE][VR] 5.2 Beta 7](https://mega.nz/file/oDxVjTDT#nDkSIwWLZxYFLMlUBKWAEaVCWpEb4U8yg_7dRwNAlK4)
+- [Devious Devices [SE][AE][VR] 5.2](https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU)
 
 ### "Community Overlays 1 - CBBE Male and Female Repackage fails to download."
 
