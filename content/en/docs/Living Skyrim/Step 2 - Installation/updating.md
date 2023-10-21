@@ -10,18 +10,18 @@ description: >
 
 <button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-2-installation/';" class="btn btn-primary">⮜ Step 2 - Installation</button>
 
-If you are updating Living Skyrim, the process is very similar to installing the list. Additionally, make sure you are using the latest version of Wabbajack (it should automatically update itself when you launch the program).
+Updating Living Skyrim? It's similar to the initial setup. Always use the latest Wabbajack – it should update itself when you open it.
 
-Wabbajack does support updating an existing installation of a modlist. However, as part of this process, it does delete files that don't match with what it is installing. This includes RaceMenu presets, mods you've added/changed, and possibly even save files. It is a good practice to keep backups of your save files so that you can update safely. Saves are stored within the folder you install Living Skyrim to.
+Keep in mind, Wabbajack updates can remove some of your files like presets, custom mods, and even save files. Always backup your saves, stored in the Living Skyrim folder you've set.
 
 {{< alert color="danger" title="Warning!" >}}
 <div class="alert-icon">🛑</div>
 
-Whilst some incremental list updates are save-safe, larger updates often require a brand new save file to avoid corruption. Check the newest update announcement found in the `#ls-announcements` channel on the Living Skyrim Discord server before updating.
+Some small updates won't harm your saves, but bigger ones might. Always check the latest news in the `#sfw-announcements` on the Living Skyrim Discord before updating.
 {{< /alert >}}
 
-1. Run Wabbajack.exe.
-2. At the bottom of the window, click Browse Modlists.
+1. Open Wabbajack.exe.
+2. Click "Browse Modlists" at the bottom.
 
 {{< alert color="info" title="Browse Modlists">}}
 <div class="alert-icon">ℹ️</div>
@@ -29,8 +29,7 @@ Whilst some incremental list updates are save-safe, larger updates often require
 ![](https://i.imgur.com/lY0vh3P.png)
 {{< /alert >}}
 
-3. Put a check into the "Show Unofficial Lists" checkbox at the top of the window.
-4. Locate the Living Skyrim card and click the download button to download the installer file.
+3. Find and click the download icon on the Living Skyrim card.
 
 {{< alert color="info" title="Wabbajack Gallery">}}
 <div class="alert-icon">ℹ️</div>
@@ -38,7 +37,7 @@ Whilst some incremental list updates are save-safe, larger updates often require
 ![](https://i.imgur.com/tkFNyGI.png)
 {{< /alert >}}
 
-5. Once downloaded, click the play button.
+4. After downloading, click the play icon.
 
 {{< alert color="info" title="Begin Install">}}
 <div class="alert-icon">ℹ️</div>
@@ -46,10 +45,10 @@ Whilst some incremental list updates are save-safe, larger updates often require
 ![](https://i.imgur.com/8cXvQ3v.png)
 {{< /alert >}}
 
-6. Below the image you see of the Living Skyrim logo, there are three text boxes. The second and third need to be filled out.
-7. Click the three dots in the second (middle) box. Navigate to your Living Skyrim folder and then select this folder in the window that appears. This middle box tells you where the list will be installed, including the copy of Mod Organizer 2 that you’ll need to use to launch the list.
-8. The third (bottom) box will automatically populate using the folder you just selected. This third box tells you where all of the mods will be downloaded. If you have hard drive limitations, you may change this to another folder on another hard drive by clicking the three dots in this box and selecting a new folder.
-9.  Click the play/right arrow button to begin the installation.
+1. Beneath the Living Skyrim image, fill out the second and third boxes.
+2. Click the three dots in the middle box. Pick your Living Skyrim folder. This choice tells Wabbajack where to save everything.
+3. The last box auto-fills with the above choice. It's where mods download. If you're running low on space, use the three dots to pick another location.
+4. Click play/right arrow to kick off the update.
 
 {{< alert color="info" title="Install/Download Path">}}
 <div class="alert-icon">ℹ️</div>

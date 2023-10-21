@@ -8,14 +8,12 @@ description: >
   Information about Living Skyrim's performance profile.
 ---
 
-## What does the Performance Profile do?
-Living Skyrim 4 ships with 2 different profiles, those being the Standard profile and the Performance profile. The latter of such is ideal for use if you're not quite getting your desired performance out of the Standard profile. 
-
--- WIP --
+## Performance Profile Explained
+Living Skyrim 4 offers two distinct profiles: the Standard profile and the Performance profile. While the Standard profile is designed for a balance of visuals and performance, the Performance profile is tailored for those who seek enhanced game performance. It optimizes settings and mod configurations to ensure a smoother gameplay experience, especially beneficial for systems that might struggle with the Standard profile.
 
 ## How to Switch Profiles
 
-MO2's Profile selector, located in the top left, just above the mods pane, allows you to easily swap between the two profiles.
+Use MO2's Profile selector, positioned in the top left above the mods pane, to seamlessly switch between profiles.
 
 {{< alert color="info" title="Profile Drop-Down Menu">}}
 <div class="alert-icon">ℹ️</div>
@@ -25,4 +23,10 @@ MO2's Profile selector, located in the top left, just above the mods pane, allow
 
 ## Moving Saves Between Profiles
 
-Saves are compatible between the two profiles, though you will need transfer the saves. You can easily do so by clicking the Profile selection dropdown and clicking Manage. In the window that opens up, click the profile you are currently on, click the Transfer Saves button, then transfer the saves over to the Global location (left hand side). From there, close that window and select the profile you'd like to switch to, click Transfer Saves again, then transfer your saves from the Global location to the new profile.
+Saves are interchangeable between the profiles. Follow these steps to transfer your saves:
+
+1. Click the Profile selection dropdown and choose "Manage."
+2. In the opened window, select your current profile.
+3. Hit "Transfer Saves" and move the saves to the Global location (on the left).
+4. Close the window, select the profile you want to switch to.
+5. Click "Transfer Saves" again, and move your saves from the Global location to your desired profile.
