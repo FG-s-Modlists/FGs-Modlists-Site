@@ -56,6 +56,10 @@ Download the file manually and put it in your downloads folder. A mirror can be 
 
 Download the file manually and put it in your downloads folder. A mirror can be found here: [Community Overlays 1 - CBBE Male and Female Repackage](https://drive.google.com/file/d/1jHzXv8VC6fF9pGHbKlkitCE8UK-p-vX9/view)
 
+#### "enbseries_skyrimse_v0494" faails to download."
+
+Download the file manually and put it in your downloads folder. A mirror can be found here: [enbseries_skyrimse_v0494](https://cdn.discordapp.com/attachments/1034145991642845194/1167535466552242326/enbseries_skyrimse_v0494.zip?ex=654e7b22&is=653c0622&hm=a6f37e6baaa967aabe771ea3c2b62a62b4a15e39ac45c589aa769c4b8ad1d4f4&)
+
 #### "MEGA hosted files are failing to download."
 
 Download the files manually and put them in your downloads folder. A list of all the MEGA hosted files for the list are here:
