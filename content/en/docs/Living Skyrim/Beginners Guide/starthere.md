@@ -33,7 +33,7 @@ Warning blocks like this one will warn you when you absolutely must not forget t
 
 ### Important Links
 - [Living Skyrim 4 Load Order Library](https://loadorderlibrary.com/lists/living-skyrim-4)
-- [LS4 Default Keymap](http://www.keyboard-layout-editor.com/#/gists/a8c4e0948ac5e04d4bc4eaf7b130295f)
+- [LS4 Default Keymap](http://www.keyboard-layout-editor.com/#/gists/35f8d9933fbd5ee4bbaa5f7d38968442)
 - [Living Skyrim Discord](https://discord.gg/thg2eRxf7z)
 - [Living Skyrim Patreon](https://www.patreon.com/LivingSkyrim)
 
