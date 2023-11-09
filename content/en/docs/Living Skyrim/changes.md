@@ -8,6 +8,18 @@ description: >
   The Living Skyrim changelog.
 ---
 
+### 11/9/2023 4.2.0.1
+#### Hotfix
+- Bug Fixes
+  - Fixed an issue with saves getting corrupted
+  - Fixed an issue with certain map markers not appearing
+  - Fixed an issue with Companions' radiant quests
+  - Fixed an issue with duplicate KYE inspect spells 
+- Mod Updates
+  - ADXP 1.6.0.6
+  - Headhunter 1.51
+  - Katana 2.0.6
+
 ### 10/27/2023 4.2.0
 #### The "Blaze It" Update
 #### "Minor"
