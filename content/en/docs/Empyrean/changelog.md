@@ -8,6 +8,19 @@ description: >
   The Empyrean changelog.
 ---
 
+## v1.6 "I'm Sorry Dave, I can't do that right now" 11/09/2023
+__Additions__
+- Better Message Box Controls for 16x9 users
+
+__Removals__
+- MCO and associated animations
+- JKs Jorrvaskar
+- JKs Winking Skeever
+- Spell Tutor (and MCM Recording Step)
+
+__Updates__
+- Lux
+
 ## v1.5 "Once more round the bend" 09/21/2023 (New Save Required)
 __Additions__
 - Signature Equipment (For you RP'ers who want to keep your loincloth and iron sword beyond one or two levels)
