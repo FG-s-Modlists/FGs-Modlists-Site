@@ -28,3 +28,11 @@ Due to some unforseen issues with hotkey bindings during the recording process y
 #### Take Notes
  - Open Journal should be bound to the 'B' Key.
 
+#### Dual Wield Block
+  - Settings
+    - Hotkey should be bound to the 'V' Key
+
+#### Valhalla Combat
+  - Compatability 
+    - Alternate Blocking Key can be optionally set to the 'V' Key to properly integrate Dual Wield Blocking to Valhalla Combat's timed blocking function.
+
