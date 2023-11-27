@@ -26,7 +26,7 @@ Now, for the biggest announcement of Masterstroke v1.10.0:
 We're adding a third profile to the list, called FG's Cut. This profile is for people who miss Dungeons & Deviousness: Director's Cut. It will have all the things that don't strictly fit with Masterstroke, mods that I personally enjoy but are definitely not for everyone. It will likely have jank, it will likely have bugs, but it will be in the update. FG's Cut will be based on the Creature Profile, but with... more. I don't expect the FG's Cut profile to be exactly playable (much in the same way that D&DDC was "playable") but it should scratch all those itches you've been missing.
 
 So, with all of that in mind, I unfortunately also have to announce that Masterstroke 1.10.0 is delayed. I originally wanted to get it done by the end of November, but... well, real life happened. So I need to push back the release of Masterstroke v1.10.0 to at least the end of December, with the hope that it will be sooner.
-9
+
 Also, I don't normally do this, but if you want to help me make more time for the modlists so that future delays are less frequent, I'd really appreciate if you either subscribed on [Patreon](https://www.patreon.com/LivingSkyrim) or made a small donation on [Ko-Fi](https://ko-fi.com/forgottenglory). I don't expect a lot and anything at all is greatly appreciated, so don't feel like you have to unless you're able. It just helps take some pressure off of me.
 
 Cheers.
