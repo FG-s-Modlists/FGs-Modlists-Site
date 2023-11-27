@@ -18,16 +18,15 @@ description: >
   providing some nice features for a character who doesn't enjoy civilization
   
 ## Combat
-  MCO, Wildcat, and Valhalla are all included and make up the combat suite for Empyrean. Attack commitment, hit stop, and potential injuries to you and enemies. While there may be a small learning curve, it will be all the more rewarding defeating bandits, dragur, and even dragons.
+  Wildcat, Precision, and Valhalla are included and make up the combat suite for Empyrean. Attack commitment, hit stop, and potential injuries to you and enemies. While there may be a small learning curve, it will be all the more rewarding defeating bandits, dragur, and even dragons.
   
 ## Enemies
   There are a few changes to how enemies work in Empyrean. Most notably, instead of being assigned base Skyrim values while the player makes use of all the Overhauls, enemies now **ALSO** make use of the overhauls, providing more challenge for the player. Enemies and dungeons have also been de-levelled, meaning
   Bleak Falls Barrow is no longer a level 1 quest. Enemy numbers have also been increased, to account for the added followers in Empyrean, in an attempt to balance the scales.
   
 ## Magic
-  Magic is a dangerous art, and requires patience and dicipline. No longer can you just eat a spell tome and learn the spell. Now you must study it. Spell Tutor provides a new mechanic to learning Spells, which requires you to sit down in a safe place, and spend time learning the spell. THere is a chance of failure,
-  and if you fail to learn the spell, there is a chance for the tome to be consumed, providing a burned or ruined book. The spell tome can also be returned to you, allowing you to try again another day. Spellforge and No Vendor Spell Tomes makes obtaining spell tomes a bit more challenging and rewarding. Vendors
-  will only sell Novice level tomes (As well as the Spell Forge Manual). Spell Tomes can stil be found in loot, but remember Spell Tutor. You will not be able to just learn the spell you recovered from the chest, you will have to leave the dungeon and find a safe place to rest.
+  Magic is plentiful in Empyrean, if you know where to look. Spellforge and No Vendor Spell Tomes makes obtaining spell tomes a bit more challenging and rewarding. Vendors
+  will only sell Novice level tomes (As well as the Spell Forge Manual). Spell Tomes can stil be found in loot, however.
   
 ## Power Fantasy
   This is a **VERY** broad term, and needed its own category. Empyrean aims to take the player from feeble commoner to outright God, giving you the tools and equipment needed to become the Dragonborn of Legend. Enai Siaion's full suite of mods is included to contribute to this power fantasy, providing unique
