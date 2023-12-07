@@ -16,7 +16,7 @@ description: >
 This list requires 222GB of storage space, with 69GB of that being downloads
 
 ## _The following things are needed to run Empyrean, and should be installed prior to installation of the list_
-- [Skyrim Special Edition (Steam, v1.6.640)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
+- [Skyrim Special Edition (Steam, v1.6.1130)](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/)
 - [Microsoft Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 - [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
 
