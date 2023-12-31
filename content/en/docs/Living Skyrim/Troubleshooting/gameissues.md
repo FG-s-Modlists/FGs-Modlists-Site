@@ -33,6 +33,10 @@ Start the main quest and progress it to at least Way of the Voice. See above que
 
 Please disable the Projectile Block and Timed Projectile block options in Valhalla Combat's MCM menu, once the quest is completed you are free to turn these options back on should you wish.
 
+#### "I can't join the Thieves Guild!"
+
+You need to actually be a thief, please see this mod page: [Thieves Guild Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256)
+
 #### "I Can't power attack!"
 
 We Use One-Click Power attack in the list, to help the MCO combo attacks work correctly. There is an .ini file in the mod folder you can adjust the keybind for this (default is Mouse 3).
