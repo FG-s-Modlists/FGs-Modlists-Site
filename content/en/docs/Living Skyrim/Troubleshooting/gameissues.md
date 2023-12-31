@@ -9,6 +9,10 @@ description: >
 ---
 
 
+#### "All my saves are corrupted!"
+
+This is a false corruption report. Please try restarting your game completely.
+
 #### "How do I start the Main Quest?"
 
 Talk to Jarl Balgruuf.
