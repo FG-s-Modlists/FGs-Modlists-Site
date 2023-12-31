@@ -26,7 +26,11 @@ Yes, just close Wabbajack. When you start the installation process again it will
 
 #### “Can I delete the downloads folder after installing?”
 
-Yes, but remember that if you need to update the list you will have to download all of the mods that have updated again.
+Yes, When using Wabbajack to update an existing install Wabbajack will only download the mods that have updated.
+
+#### "Hashes for BSA don't match after extraction, Stock Game\Data\Skyrim - Animations.bsa"
+
+This is an error that can occur sometimes, it is an issue with Wabbajack's install process. Please try closing Wabbajack and then running the installation again until the install successfully completes
 
 #### “The LS4 DynDOLOD Output fails to download.”
 
@@ -39,10 +43,6 @@ You’ll need to download this manually and put it in your downloads folder. The
 #### "Inconsequential NPCs Visual Overhaul fails to download."
 
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [INPCs Visual Overhaul](https://drive.google.com/file/d/1YM0lFTQdDh6P3JvEgWleOMb3adF_pQ_i/view?usp=sharing)
-
-#### "ENB Series fails to download."
-
-You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [ENB Series](http://enbdev.com/download_mod_tesskyrimse.htm)
 
 #### "Skyrim Particle Patch for ENB SEE 2020 02 08 fails to download."
 
