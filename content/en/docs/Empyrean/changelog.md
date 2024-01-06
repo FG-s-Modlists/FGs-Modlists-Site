@@ -8,6 +8,24 @@ description: >
   The Empyrean changelog.
 ---
 
+## v1.7 "The Pirate Cat Lady" 01/06/2023
+__Additions__
+- Sa'Chill Follower
+- Val Serano Follower
+- Immersive Equipping Animations
+- Axariens Animations for Kaidan, Lucien, Auri, and Inigo
+- Backported ESL Support
+- Ordinator Script Optimization
+
+__Removals__
+- High Poly Project (Should improve Performance)
+
+__Updates__
+- Xelxaz
+
+__Fixes__
+- Some racememnu presets that were suffering form missing textures
+
 ## v1.6 "I'm Sorry Dave, I can't do that right now" 11/09/2023
 __Additions__
 - Better Message Box Controls for 16x9 users
