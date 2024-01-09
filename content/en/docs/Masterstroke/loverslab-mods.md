@@ -64,6 +64,7 @@ Even if you are not a fan of some creature mods, you need to download them. They
 | [Scrappies Matchmaker](https://www.loverslab.com/files/file/19891-scrappies-matchmaker/)                                  | Press download                                            |
 | [SexLab - Sexual Fame](https://www.loverslab.com/files/file/2455-sex-lab-sexual-fame-framework/)                          | Press download                                            |
 | [SexLab - Aroused Creatures](https://www.loverslab.com/files/file/6022-sexlab-aroused-creatures-se-2023-06-09/)           | Download `SexLab Aroused Creatures SE v04.12.7z`          |
+| [SexLab Aroused NG (SLANG)](https://www.loverslab.com/files/file/27713-alpha-sexlab-aroused-ng/)                           | Download `SexLab Aroused NG v0.2.2.7z`                       | 
 | [SexLab - BJ Sound FX Replacer](https://www.loverslab.com/files/file/15988-sexlab-bj-sound-fx-replacerv01/)               | Press download                                            |
 | [SexLab - Eager NPCs](https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/)                               | Download `SexLab EagerNPCSERev2.7z`                       |
 | [SexLab Framework Sound Replacer](https://www.loverslab.com/files/file/14230-sexlab-framework-sound-replacer/)            | Download `Sexlab Framework Sound Replacer AIO.7z`         |
