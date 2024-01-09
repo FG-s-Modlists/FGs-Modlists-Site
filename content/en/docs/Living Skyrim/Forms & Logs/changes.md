@@ -7,11 +7,175 @@ weight: 100
 description: >
   The Living Skyrim changelog.
 ---
-
-
-{{< scrollable-block id="v410" title="July 22 2023 4.1.0">}}
-
+{{< scrollable-block id="v4201" title="November 9 2023 - 4.2.0.1">}}
 {{< label text="Latest" color="primary" >}} 
+{{< label text="Hotfix" color="secondary" >}} 
+{{< label text="New Save Required" color="red" >}} 
+
+- Bug Fixes
+  - Fixed an issue with saves getting corrupted
+  - Fixed an issue with certain map markers not appearing
+  - Fixed an issue with Companions' radiant quests
+  - Fixed an issue with duplicate KYE inspect spells 
+- Mod Updates
+  - ADXP 1.6.0.6
+  - Headhunter 1.51
+  - Katana 2.0.6
+{{< /scrollable-block >}}
+
+{{< scrollable-block id="v420" title="October 27 2023 - 4.2.0">}}
+{{< label text="Minor" color="secondary" >}} 
+{{< label text="New Save Required" color="red" >}} 
+
+- Bug Fixes
+  - Fixed Folkvangr overwriting HD Remastered Landscapes
+  - Fixed Solitude missing textures
+  - Fixed tint/blur that occurred when an NPC used a certain potion
+  - Fixed Remiel nude model being visible.
+  - Fixed an issue with Tyranus in House of Horrors
+  - Fixed a BFB on Muiri
+  - Possibly fixed dark void area in Dawnstar Barracks
+  - Fixed mismatched wall textures in Riverfall Cottage
+  - Fixed an issue with a Khajiit Will Follow quest
+  - Fixed some spells not being available via Spellforge
+  - Possibly fixed clipping issues with Mona Alta
+  - Fixed some CTDs related to NPCs using potions
+  - Fixed getting stuck in third person after waiting
+  - Fixed some issues with Dark Brotherhood armor
+  - Fixed an issue with Hunter's Sight not detecting enemies
+  - Fixed some invisible sitting markers in various locations
+  - Fixed some unique items being distributed to enemies
+  - Fixed some map markers "un-discovering" themselves after a while
+  - Possibly fixed some issues with Morskom Estate
+  - Fixed some floating objects in Morthal
+  - Fuxed an issue with a silver sword not being silver
+  - Possibly fixed Mirai's horse talking
+  - Fixed some clipping objects in Mirai's camp
+  - Fixed a BFB on Celann
+  - Fixed numerous issues related to LODs (including holes in Solitude)
+  - Fixed some floating objects in Rorikstead
+  - Fixed guy sitting on nothing in Ivarstead
+  - Possibly fixed some issues related to compass, map markers, and objective markers
+  - Fixed Serana being nude under her armor
+  - Possibly fixed an issue with Companions quest progression
+  - Fixed bound items having weight
+  - Fixed scoped bows not aligning properly (by removing them entirely)
+  - Fixed the game window scaling incorrectly if Windows scaling is enabled
+  - Fixed missing Warmth value on item cards when using Sunhelm
+  - Fixed see-through walls in Erstar Outpost
+  - Fixed missing follower dialogues
+  - Fixed being unable to drag/move bodies and other objects
+  - Possibly fixed an issue with Zora Fair-child's quest not progressing in Falkreath
+  - Fixed a BFB on Falling Fred
+  - Possibly fixed a CTD related to MaleHairNord04 when Equipment Toggle triggered.
+  - Fixed an issue with some armors missing traits for Know Your Armor
+  - Fixed a conflict with Namira for Good Guys and Temple Frescoes
+  - Fixed a warning from NFF that appeared claiming the load order was wrong
+  - Fixed being able to access Helgen underground
+  - Fixed several issues with combat animations
+  - Fixed too loud and frequent horse sounds
+  - Fixed Precision not working correctly.
+  - Fixed some missing water in certain areas
+  - Fixed being able to disenchant Dynamic Dungeon Loot unique items
+  - Fixed CTD with Cerri in NFF menu
+  - Fixed being able to equip multiple backpacks at once
+  - Corrected Shrouded Gloves enchantment description
+  - Fixed permanent blurry view that could occur
+  - Fixed crafting books not appearing in blacksmith inventories
+- Mod Updates
+  - RU's City Trees 5.8.15
+  - Faster HDT-SMP 1.50.9rc1
+  - NPCs Use Potions 3.1.7
+  - Remiel 1.7.0
+  - House of Horrors Quest Expansion 1.12
+  - COTN Dawnstar Patch Collection 4.5
+  - Khajiit Will Follow 4.7.1
+  - Vigilant 1.7.2
+  - Spellforge 2.3
+  - Immersive Interactions 1.72
+  - Dynamic Activation Key 1.02
+  - Great Town of Ivarstead Patch Collection 2.10.1
+  - Infinity UI 2.0.1
+  - Compass Navigation Overhaul 2.1.1
+  - At Your Own Pace - Companions 3.0.3
+  - The Great City of Falkreath 1.22
+  - ENB Binaries v494
+  - Conditional Armor Type Animations 1.3c
+  - EVG Animated Traversal 1.02
+  - Take A Seat 1.01 OAR
+  - Stronger Swimming Animations 2.0.0
+  - SPID - NFF - Add Ignore Token to CustomAI Follower 1.0.17
+  - Shadow Boost 1.3.0
+- Additions
+  - JK's Windhelm Outskirts Patch Collection
+  - Missives - The Witcher Board HD
+  - Missives Notes Retexture
+  - HD Stone Quarry and Clay Deposit 2K
+  - Night Eye Toggle for Khajiit
+  - Simplest Horses
+  - Katana - Journey in the Shadows
+  - Diverse Catches
+  - Ryn's Standing Stones
+  - The Great Town of Ivarstead - CFTO Tweak
+  - DPI Scaling Fix
+  - Nordic UI Active Effects for SkyUI SE
+  - SkyUI AIO Survival (SAS)
+  - Nordic UI SkyUI AIO Survival (SAS) Patch
+  - Realistic Ragdolls and Force
+  - Easter Egg 4
+  - Khajiit Will Follow Immersive Start
+  - Immersive Kaidan Start
+  - Kaidan 2 - NERFED
+  - Nordic Combat Animations
+  - Imperium Combat Animations
+  - Desert Race Combat Animations
+  - ER Moveset Collection
+  - Silent Horizons 2
+  - Skill Based Dynamic Animations
+  - Light and Shade SE
+  - Papyrus Tweaks NG
+  - N.U.D.E. (Option 3)
+  - Equus - Riley's Edit
+- Removals
+  - Both Profiles:
+    - Frankly HD Shrouded Armor
+    - Tomebound
+    - Sparky
+    - Less Ugly Tundragrass
+  - Performance Profile:
+    - HD Reworked Happy Little Trees
+    - RogueUnicorn - City Trees
+- Replacements
+  - Both Profiles:
+    - Illustrious Whiterun -> Boreal Whiterun
+    - Riften of Reverie -> Riften in High Definition
+    - CleverCharff's Solitude -> Sublime Solitude
+    - 4K Alchemy/Enchanting Tables -> 2K Alchemy/Enchanting Tables
+    - 4K Chests -> 2K Chests
+    - Astral Aspect 4K -> Astral Aspect 2K
+    - Mudcrab 4K -> Mudcrab 2K
+    - True Nordic Farmhouses Ultra -> True Nordic Farmhouses Standard
+    - Legendary Skyrim Crossbows -> NPO Crossbows + Wooden Crossbow
+    - Know Your Enemy/Armor -> Know Your Enemy/Armor 2
+    - Race-based Movesets -> LS4 Skill and Race Based Movesets
+    - Vanargand/Leviathan Run Idle Walk Run Sprint -> Vanargand/Leviathan II Run Idle Walk Run Sprint
+  - Performance Profile:
+    - Folkvangr Grass -> Realistic Grass Field
+- Other
+  - Moved Shadow Boost to List Customization and disabled it by default
+  - Slightly nerfed grass
+  - Disabled wait animation by default
+  - Regenerated DynDOLOD and friends
+  - Regenerated Nemesis output
+  - Regenerated Synthesis outputs
+  - Rebalanced Skill XP cap and XP progression
+  - Nerfed starting gold amount (500 -> 150)
+  - Removed a couple of family unfriendly characters
+  - Cleaned up the downloads folder to account for new mods and mod updates
+  - Cleaned up the mod suggestions board
+{{< /scrollable-block >}}
+
+{{< scrollable-block id="v410" title="July 22 2023 - 4.1.0">}}
 {{< label text="Minor" color="secondary" >}} 
 {{< label text="New Save Required" color="red" >}} 
 
