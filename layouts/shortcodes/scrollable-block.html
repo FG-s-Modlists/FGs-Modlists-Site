@@ -1,13 +1,30 @@
-<div class="scrollable-container collapsed"> <!-- Add the 'collapsed' class here -->
+<div class="scrollable-container collapsed" id="{{ .Get "id" }}"> <!-- Removed the space before "id" -->
     <div class="scrollable-header" onclick="toggleScrollableList(this)">
         <span class="scrollable-title">{{ .Get "title" | default "List" }}</span>
+        <button class="copy-button" onclick="copyLinkToClipboard('{{ .Get "id" }}', this, event)"
+            aria-label="Copy link to this section">
+            <!-- SVG icon for copy (clipboard) -->
+            <svg class="icon clipboard-icon" xmlns="http://www.w3.org/2000/svg" height="20" width="20"
+                viewBox="0 0 640 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+                <path fill="#ffffff"
+                    d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5c-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6c31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0c-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0L579.8 267.7zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5c50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372 74 321 105.5 289.5L217.7 177.2c31.5-31.5 82.5-31.5 114 0c27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0L60.2 244.3z" />
+            </svg>
+            <!-- SVG icon for check (initially hidden) -->
+            <svg class="icon check-icon" style="display: none;" xmlns="http://www.w3.org/2000/svg" height="20"
+                width="20"
+                viewBox="0 0 448 512"><!--!Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
+                <path fill="#ffffff"
+                    d="M438.6 105.4c12.5 12.5 12.5 32.8 0 45.3l-256 256c-12.5 12.5-32.8 12.5-45.3 0l-128-128c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0L160 338.7 393.4 105.4c12.5-12.5 32.8-12.5 45.3 0z" />
+            </svg>
+        </button>
         <span class="scrollable-toggle">▼</span>
     </div>
     <div class="scrollable-list" style="max-height: 0; overflow-y: auto; padding: 0;">
-        <!-- Set max-height and padding to 0 -->
         {{ .Inner | markdownify }}
     </div>
 </div>
+
+
 
 <style>
     .scrollable-container {
@@ -54,14 +71,64 @@
         padding: 0;
         max-height: 0;
     }
+
+    .copy-button {
+        margin-left: auto;
+        /* Pushes the button to the right side of the header */
+        padding: 0px 7px 0px 0px;
+        /* Adjust padding as needed */
+        cursor: pointer;
+        border: none;
+        background-color: transparent;
+        /* Changed to transparent or any other preferred color */
+        outline: none;
+        border-radius: 3px;
+    }
+
+    .copy-button .icon {
+        fill: white;
+        /* Icon color */
+        width: 16px;
+        /* Icon size */
+        height: 16px;
+        /* Icon size */
+        vertical-align: middle;
+        /* Align icon vertically with text if any */
+    }
+
+    /* Styles for the checkmark icon */
+    .copy-button .check-icon {
+        display: none;
+        /* Initially hidden */
+    }
 </style>
 
 <script>
+    function copyLinkToClipboard(id, buttonElement, event) {
+        event.stopPropagation(); // Prevent click from triggering parent elements
+
+        const url = window.location.origin + window.location.pathname + '#' + id;
+        navigator.clipboard.writeText(url).then(() => {
+            // Switch to the checkmark icon
+            buttonElement.querySelector('.clipboard-icon').style.display = 'none';
+            buttonElement.querySelector('.check-icon').style.display = 'block';
+
+            // Switch back to the clipboard icon after a delay
+            setTimeout(() => {
+                buttonElement.querySelector('.clipboard-icon').style.display = 'block';
+                buttonElement.querySelector('.check-icon').style.display = 'none';
+            }, 2000); // 2 seconds delay
+        }).catch(err => {
+            console.error('Could not copy text:', err);
+        });
+    }
+
+
     function toggleScrollableList(header) {
         var container = header.parentElement;
         var list = header.nextElementSibling;
         if (container.classList.contains('collapsed')) {
-            list.style.maxHeight = "500px"; // Set a specific max-height or 'none' to expand fully
+            list.style.maxHeight = "500px"; // Adjust as needed
             list.style.padding = "10px"; // Restore padding
             container.classList.remove('collapsed');
         } else {
@@ -70,4 +137,20 @@
             container.classList.add('collapsed');
         }
     }
+
+    function checkFragmentAndExpand() {
+        const fragment = window.location.hash;
+        if (fragment) {
+            const container = document.querySelector(fragment);
+            if (container && container.classList.contains('scrollable-container')) {
+                toggleScrollableList(container.querySelector('.scrollable-header'));
+            }
+        }
+    }
+
+    // Listen for hash changes to handle in-page navigation
+    window.addEventListener('hashchange', checkFragmentAndExpand, false);
+
+    // Check the fragment on page load
+    window.addEventListener('DOMContentLoaded', checkFragmentAndExpand, false);
 </script>
