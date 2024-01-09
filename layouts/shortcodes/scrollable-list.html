@@ -1,0 +1,90 @@
+<!-- <style>
+    .scrollable-list {
+        min-height: 500px;
+        /* Adjust the styling as needed */
+        max-height: 500px;
+        /* Maximum height of the box */
+        max-width: 700px;
+        /* Maximum width of the box */
+        overflow-y: auto;
+        /* Enables vertical scrolling */
+        border: 1px solid #ccc;
+        /* Adds a border around the box */
+        padding: 10px;
+        /* Adds some space inside the box */
+        margin: 10px 0;
+        /* Adds some space outside the box */
+        border-radius: 5px;
+        /* Optional: Rounds the corners */
+    }
+</style>
+
+<div class="scrollable-list" style="height: 200px; overflow-y: auto;">
+    {{ .Inner | markdownify }}
+</div> -->
+
+
+<div class="scrollable-container">
+    <div class="scrollable-header" onclick="toggleScrollableList(this)">
+        <span class="scrollable-title">{{ .Get "title" | default "List" }}</span>
+        <span class="scrollable-toggle">▼</span>
+    </div>
+    <div class="scrollable-list" style="max-height: 500px; min-height: 49px; max-width: 700px; overflow-y: auto;">
+        {{ .Inner | markdownify }}
+    </div>
+</div>
+
+<style>
+    .scrollable-container {
+        width: 700px;
+        max-width: 100%;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin: 10px 0;
+    }
+
+    .scrollable-header {
+        background-color: #162a4a;
+        padding: 10px;
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid #ccc;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+
+    .scrollable-title {
+        font-weight: bold;
+    }
+
+    .scrollable-toggle {
+        transform: rotate(0deg);
+        transition: transform 0.3s ease;
+    }
+
+    .scrollable-container.collapsed .scrollable-toggle {
+        transform: rotate(-90deg);
+    }
+
+    .scrollable-list {
+        padding: 10px;
+        transition: max-height 0.5s ease;
+        overflow-y: auto;
+    }
+</style>
+
+<script>
+    function toggleScrollableList(header) {
+        var container = header.parentElement;
+        var list = header.nextElementSibling;
+        if (list.style.maxHeight && list.style.maxHeight !== "0px") {
+            list.style.maxHeight = "0px";
+            container.classList.add('collapsed');
+        } else {
+            list.style.maxHeight = "500px"; // Same as initial max-height
+            container.classList.remove('collapsed');
+        }
+    }
+</script>

@@ -8,8 +8,12 @@ description: >
   The Living Skyrim changelog.
 ---
 
-### 7/22/2023 4.1.0
-#### Minor
+
+{{< scrollable-list title="7/22/2023 4.1.0">}}
+{{< label text="Latest" color="primary" >}} 
+{{< label text="Minor" color="secondary" >}} 
+{{< label text="New Save Required" color="red" >}} 
+
 - Bug Fixes
   - Fixed getting stuck in Third Person after waiting
   - Fixed floating trees
@@ -82,6 +86,9 @@ description: >
   - Regenerated DynDOLOD and friends
   - Fixed plugins loading before their masters
   - Regenerated Synthesis Output
+{{< /scrollable-list >}}
+
+
 
 ### 6/13/2023 4.0.2
 #### Incremental

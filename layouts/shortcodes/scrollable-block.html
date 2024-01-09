@@ -1,0 +1,73 @@
+<div class="scrollable-container collapsed"> <!-- Add the 'collapsed' class here -->
+    <div class="scrollable-header" onclick="toggleScrollableList(this)">
+        <span class="scrollable-title">{{ .Get "title" | default "List" }}</span>
+        <span class="scrollable-toggle">▼</span>
+    </div>
+    <div class="scrollable-list" style="max-height: 0; overflow-y: auto; padding: 0;">
+        <!-- Set max-height and padding to 0 -->
+        {{ .Inner | markdownify }}
+    </div>
+</div>
+
+<style>
+    .scrollable-container {
+        width: 700px;
+        max-width: 100%;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        margin: 10px 0;
+        box-sizing: border-box;
+    }
+
+    .scrollable-header {
+        background-color: #162a4a;
+        padding: 10px;
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-bottom: 1px solid #ccc;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+
+    .scrollable-title {
+        font-weight: bold;
+    }
+
+    .scrollable-toggle {
+        transform: rotate(0deg);
+        transition: transform 0.3s ease;
+    }
+
+    .scrollable-container.collapsed .scrollable-toggle {
+        transform: rotate(-90deg);
+    }
+
+    .scrollable-list {
+        padding: 10px;
+        transition: max-height 0.3s ease, padding 0.3s ease;
+        overflow-y: auto;
+    }
+
+    .scrollable-container.collapsed .scrollable-list {
+        padding: 0;
+        max-height: 0;
+    }
+</style>
+
+<script>
+    function toggleScrollableList(header) {
+        var container = header.parentElement;
+        var list = header.nextElementSibling;
+        if (container.classList.contains('collapsed')) {
+            list.style.maxHeight = "500px"; // Set a specific max-height or 'none' to expand fully
+            list.style.padding = "10px"; // Restore padding
+            container.classList.remove('collapsed');
+        } else {
+            list.style.maxHeight = "0"; // Collapse the list
+            list.style.padding = "0"; // Remove padding
+            container.classList.add('collapsed');
+        }
+    }
+</script>
