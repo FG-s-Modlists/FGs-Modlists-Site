@@ -49,7 +49,7 @@ Even if you are not a fan of some creature mods, you need to download them. They
 | [Horny Creatures of Skyrim](https://www.loverslab.com/files/file/5465-horny-creatures-of-skyrim-special-edition/)         | Download `HornyCreaturesofSkyrimSE_V2_1a.7z`              |
 | [JK's Skyrim + MME Patch](https://www.loverslab.com/files/file/19660-jks-skyrim-milk-mod-economy-patch/)                  | Press download                                            |
 | [KS Hair for Laura's Shop](https://www.loverslab.com/files/file/20327-kshair-for-lauras-bondage-shop-se/)                 | Press download                                            |
-| [Laura's Bondage Shop](https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-13-jan-2023-v342/)   | Download `Laura's Bondage Shop v3.42 SE version - By aurreth.7z`  |
+| [Laura's Bondage Shop](https://www.loverslab.com/files/file/6949-devious-devices-lauras-bondage-shop-11-dec-2023-v343/)   | Download `Laura's Bondage Shop v3.43 SSE version - by tznvlw.7z`  |
 | [Lewdmarks](https://www.loverslab.com/files/file/9655-lewdmarks/)                                                         | Download `LewdMarks v2.02 all-in-one.7z`                  |
 | [Lewdmarks Aroused](https://www.loverslab.com/files/file/25274-lewdmarks-aroused/)                                        | Download `LewdMarksAroused v0.21.7z`                      |
 | [Maelstrom - Norse Dungeon Quest Mod](https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/)   | Press download                                            |
@@ -86,7 +86,7 @@ Even if you are not a fan of some creature mods, you need to download them. They
 | [SOS Female Schlongifier No Schlong](https://www.loverslab.com/files/file/1699-sos-female-schlongifier-no-schlong-addon/) | Press download                                            |
 | [Submissive Lola: The Resubmission](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese)     | Download `SubmissiveLolaResubmission 2.1.2.7z`            |
 | [The Ancient Profession](https://www.loverslab.com/files/file/11556-the-ancient-profession-2023-04-24)                    | Download  `The Ancient Profession 0.14.7z`                |
-| [TAP Interiors](https://www.loverslab.com/files/file/22844-the-ancient-profession-interiors/)                             | Download `TAP Interiors 1.5.5.rar`                        |
+| [TAP Interiors](https://www.loverslab.com/files/file/22844-the-ancient-profession-interiors/)                             | Download `TAP Interiors 1.6.rar`                        |
 | [Transformative Elixiers](https://www.loverslab.com/files/file/19735-transformative-elixirs/)                             | Download `Transformative Elixirs 1.2.1.7z`                |
 | [TRX - Futanari Addon](https://www.loverslab.com/files/file/19039-trx-futanari-addon-wip/)                                | Download `TRX - Futanari Addon124.7z`                     |
 | [TRX - SOS Addon Male](https://www.loverslab.com/files/file/20871-trx-sos-addon-male/)                                    | Press download                                            |

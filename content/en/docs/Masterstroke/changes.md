@@ -42,8 +42,9 @@ description: >
     - To Your Face SE - AE - VR 1.0s -> 1.0t
     - Sweeping Organizes Stuff - Use Broom to Clean Mess 0.4 -> 0.5.2
     - SexLab Framework 1.65 -> 1.66
+    - Laura's Bondage Shop 3.41 -> 3.43
     - P.A.I.A 4.0 -> 4.5
-    - TAP Interiors 1.5.4 -> 1.5.5
+    - TAP Interiors 1.5.4 -> 1.6
     - Experience 3.0 -> 3.2
     - Mysticism 2.2.3 -> 2.3.4
     - True Directional Movement - Modernized Third Person Gameplay 2.2.3 -> 2.2.5
@@ -139,6 +140,7 @@ description: >
 - Other
     - Updated Mod Organizer 2 to 2.5.0
     - Updated Skyrim Special Edition to 1.6.1130
+    - Updated ENB Series v0493 -> v0499
     - Updated our handy dandy [keymap](http://www.keyboard-layout-editor.com/#/gists/bec34d6850a407b1ac17898372f49797)!
     - Excluded collars from Deviously Helpless' triggers for convenience with SubLola
     - Configured Service Your Gear to show UI values for degradation
