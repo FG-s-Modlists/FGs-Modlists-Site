@@ -8,7 +8,7 @@ description: >
   How to update the list.
 ---
 
-{{< navbuttons prevURL="/docs/living-skyrim/step-2-installation/" prevTitle="Step 2 - Installation" >}}
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-2-installation/';" class="btn btn-primary">⮜ Step 2 - Installation</button>
 
 Updating Living Skyrim? It's similar to the initial setup. Always use the latest Wabbajack – it should update itself when you open it.
 
@@ -56,4 +56,4 @@ Some small updates won't harm your saves, but bigger ones might. Always check th
 ![](https://i.imgur.com/gwW0jF1.png)
 {{< /alert >}}
 
-{{< navbuttons prevURL="/docs/living-skyrim/step-3-configuration/" prevTitle="Step 3 - Configuration" >}}
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-3-configuration/';" class="btn btn-primary">Step 3 - Configuration ⮞</button>

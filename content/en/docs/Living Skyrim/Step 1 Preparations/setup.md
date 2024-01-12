@@ -8,8 +8,8 @@ description: >
   Setup that needs to be completed for Steam, SSE, and Wabbajack.
 ---
 
-{{< navbuttons prevURL="/docs/living-skyrim/step-1-preparations/hardreqs/" prevTitle="1.1 - Hard Requirements" >}}
-{{< navbuttons prevURL="/docs/living-skyrim/step-2-installation/" prevTitle="Step 2 - Installation" >}}
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/hardreqs/';" class="btn btn-primary">⮜ 1.1 - Hard Requirements</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-2-installation/';" class="btn btn-primary">Step 2 - Installation ⮞</button>
 
 ### Steam & SSE Setup
 {{< alert color="danger" title="Warning!" >}}
@@ -62,5 +62,5 @@ We’ll now setup the folders needed for the installation to proceed smoothly.
 **Set up your folders right! If not, the install might fail. Don’t do this: `[install drive]\Wabbajack\Living Skyrim.`**
 {{< /alert >}}
 
-{{< navbuttons prevURL="/docs/living-skyrim/step-1-preparations/hardreqs/" prevTitle="1.1 - Hard Requirements" >}}
-{{< navbuttons prevURL="/docs/living-skyrim/step-2-installation/" prevTitle="Step 2 - Installation" >}}
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/hardreqs/';" class="btn btn-primary">⮜ 1.1 - Hard Requirements</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-2-installation/';" class="btn btn-primary">Step 2 - Installation ⮞</button>

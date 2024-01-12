@@ -10,6 +10,10 @@ description: >
 
 {{< navbuttons prevURL="/docs/living-skyrim/whatisls" prevTitle="What is Living Skyrim?" nextURL="/docs/living-skyrim/step-1-preparations/hardreqs" nextTitle="1.1 - Hard Requirements" >}}
 
+
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/whatisls/';" class="btn btn-primary">⮜ What is Living Skyrim?</button>
+<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/hardreqs/';" class="btn btn-primary">1.1 - Hard Requirements ⮞</button>
+
 Before you get started installing or playing Living Skyrim, it's important to note a few things:
 
 {{< alert color="info" title="Info">}}
