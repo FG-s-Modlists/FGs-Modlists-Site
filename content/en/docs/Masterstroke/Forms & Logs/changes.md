@@ -122,7 +122,7 @@ description: >
 {{< /scrollable-block >}}
 
 {{< scrollable-block id="v190" title="7/17/2023 1.9.0">}}
-{{< label text="Minor" color="secondary" >}} 
+{{< label text="Minor" color="orange" >}} 
 {{< label text="New Save Required" color="red" >}} 
 
 - Mod Updates

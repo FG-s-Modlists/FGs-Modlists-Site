@@ -24,7 +24,7 @@ description: >
 {{< /scrollable-block >}}
 
 {{< scrollable-block id="v420" title="October 27 2023 - 4.2.0">}}
-{{< label text="Minor" color="secondary" >}} 
+{{< label text="Minor" color="orange" >}} 
 {{< label text="New Save Required" color="red" >}} 
 
 - Bug Fixes
@@ -176,7 +176,7 @@ description: >
 {{< /scrollable-block >}}
 
 {{< scrollable-block id="v410" title="July 22 2023 - 4.1.0">}}
-{{< label text="Minor" color="secondary" >}} 
+{{< label text="Minor" color="orange" >}} 
 {{< label text="New Save Required" color="red" >}} 
 
 - Bug Fixes
