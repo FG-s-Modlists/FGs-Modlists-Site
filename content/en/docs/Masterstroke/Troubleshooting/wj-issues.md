@@ -18,8 +18,6 @@ Otherwise, wait for an update to the list. The long answer is you can try to ins
 
 {{</ scrollable-block >}}
 
-
-
 {{< scrollable-block id="block-2" title="MEGA hosted files are failing to download." >}}
 
 If MEGA downloads are either not downloading correctly or are frozen on the completed download page download the manually from the following links and place them in your Masterstroke download folder:
@@ -30,15 +28,11 @@ If MEGA downloads are either not downloading correctly or are frozen on the comp
 
 {{</ scrollable-block >}}
 
-
-
 {{< scrollable-block id="block-3" title="Community Overlays 1 - CBBE Male and Female Repackage fails to download." >}}
 
 Download the file from the link provided here: [Community Overlays 1](https://drive.google.com/file/d/1jHzXv8VC6fF9pGHbKlkitCE8UK-p-vX9/view) and place it in your Masterstroke download folder, then restart the install process.
 
 {{</ scrollable-block >}}
-
-
 
 {{< scrollable-block id="block-4" title="Core Masterstroke Files are failling to download." >}}
 
@@ -46,15 +40,11 @@ Masterstroke includes a number of custom output mods and bodyslides that need to
 
 {{</ scrollable-block >}}
 
-
-
 {{< scrollable-block id="block-5" title="Wabbajack says I’m out of requests." >}}
 
 Nexus Premium is limited to 2500 downloads in a given 24 hour timeframe. Usually this limit resets around 9PM Eastern Time. Wait for your limit to reset and you’ll be able to proceed. Usually this only occurs after attempting to download the list multiple times in a row or when attempting to download multiple lists in the same 24 hour window.
 
 {{</ scrollable-block >}}
-
-
 
 {{< scrollable-block id="block-6" title="Can I pause the installation?" >}}
 
@@ -62,15 +52,11 @@ Yes, just close Wabbajack. When you start the installation process again it will
 
 {{</ scrollable-block >}}
 
-
-
 {{< scrollable-block id="block-7" title="Can I delete the downloads folder after installing?" >}}
 
 Yes, but remember that if you need to update the list you will have to download all of the mods that have updated again.
 
 {{</ scrollable-block >}}
-
-
 
 {{< scrollable-block id="block-8" title="ENB Series fails to download." >}}
 
@@ -78,19 +64,14 @@ You'll need to download this manually and put it in your downloads folder. The m
 
 {{</ scrollable-block >}}
 
-
-
 {{< scrollable-block id="block-9" title="Nemesis Unlimited Behaviour Engine fails to download." >}}
 
 You will need to download this manually and put it in your downloads folder. The mirror is located here: [Nemesis Unlimited Behaviour Engine](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=248867&game_id=1704)
 
 {{</ scrollable-block >}}
 
-
-
 {{< scrollable-block id="block-10" title="Skyrim Game files are failing to download." >}}
 
 If your Skyrim game files (SkyrimSE.exe, Data_Skyrim.esm, Data_Skyrim - Textures0.bsa, etc.) are failing to download this is most commonly caused by your Skyrim Special Edition being set to a language other than English in Steam, check this first. If you continue to get errors on these files verify your game files using Steam.
 
 {{</ scrollable-block >}}
-
