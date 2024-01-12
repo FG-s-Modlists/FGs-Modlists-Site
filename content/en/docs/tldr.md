@@ -2,9 +2,6 @@
 title: "TL;DR"
 linkTitle: "TL;DR"
 weight: 1
-menu:
-  main:
-    weight: 1
 ---
 
 ## THERE IS NO TL;DR.

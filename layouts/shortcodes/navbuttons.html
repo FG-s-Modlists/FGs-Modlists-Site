@@ -1,0 +1,15 @@
+{{/* navbuttons.html */}}
+
+<div class="navigation-buttons">
+    {{ if .Get "prevURL" }}
+    <button onclick="window.location.href='{{ .Get "prevURL" }}';" class="btn btn-primary">
+        ⮜ {{ .Get "prevTitle" }}
+    </button>
+    {{ end }}
+
+    {{ if .Get "nextURL" }}
+    <button onclick="window.location.href='{{ .Get "nextURL" }}';" class="btn btn-primary">
+        {{ .Get "nextTitle" }} ⮞
+    </button>
+    {{ end }}
+</div>
