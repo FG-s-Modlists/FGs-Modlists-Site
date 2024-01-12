@@ -33,7 +33,6 @@ description: >
 {{< /scrollable-block >}}
 
 {{< scrollable-block id="v193" title="8/26/2023 1.9.3">}}
-{{< label text="Latest" color="primary" >}} 
 {{< label text="Incremental" color="secondary" >}} 
 {{< label text="New Save Required" color="red" >}} 
 
@@ -67,7 +66,6 @@ description: >
 {{< /scrollable-block >}}
 
 {{< scrollable-block id="v192" title="8/26/2023 1.9.2">}}
-{{< label text="Latest" color="primary" >}} 
 {{< label text="Incremental" color="secondary" >}} 
 {{< label text="New Save Required" color="red" >}} 
 
@@ -99,7 +97,6 @@ description: >
 {{< /scrollable-block >}}
 
 {{< scrollable-block id="v191" title="8/22/2023 1.9.1">}}
-{{< label text="Latest" color="primary" >}} 
 {{< label text="Incremental" color="secondary" >}} 
 {{< label text="New Save Required" color="red" >}} 
 
@@ -125,7 +122,6 @@ description: >
 {{< /scrollable-block >}}
 
 {{< scrollable-block id="v190" title="7/17/2023 1.9.0">}}
-{{< label text="Latest" color="primary" >}} 
 {{< label text="Minor" color="secondary" >}} 
 {{< label text="New Save Required" color="red" >}} 
 
