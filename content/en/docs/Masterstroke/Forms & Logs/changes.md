@@ -8,8 +8,127 @@ description: >
   The Masterstroke changelog.
 ---
 
-### 7/17/2023 1.9.0
-#### "Minor"
+{{< scrollable-block id="v194" title="09/09/2023 1.9.4">}}
+{{< label text="Latest" color="primary" >}} 
+{{< label text="Incremental" color="secondary" >}} 
+{{< label text="New Save Required" color="red" >}} 
+
+- Mod Updates
+    - Aura's Inventory Tweaks 4.1.3 -> 4.1.5
+    - Object Categorization Framework 4.2.2 -> 4.2.5
+    - OBody NG 3.0.0 -> 4.2.0
+    - SL Widgets 2.0.8 -> 2.0.9
+    - Deviously Enchanted Chests 3.11 -> 3.20
+    - Crash Logger SSE AE VR - PDB support 1.8.0 -> 1.10.0
+- Additions
+    - Keyword Patch Collection
+    - Backpack Repositioner - Immersive Equipment Displays
+    - Show Follower Carry Weight
+    - Standardization of Spelling of Sets of Skills
+    - Sets of Skills - Improved UI
+- Fixed
+    - Fixed OBody not applying immediately by redressing the NPC after selecting a preset automatically
+    - Fixed un-temberable items being affected by Service Your Gear
+
+{{< /scrollable-block >}}
+
+{{< scrollable-block id="v193" title="8/26/2023 1.9.3">}}
+{{< label text="Latest" color="primary" >}} 
+{{< label text="Incremental" color="secondary" >}} 
+{{< label text="New Save Required" color="red" >}} 
+
+- Mod Updates 
+    - Keyword Item Distributor 3.0.2 -> 3.0.3
+    - Object Categorization Framework 3.0.1 -> 4.2.2
+    - Apothecary 1.3.3 -> 1.3.6
+    - Spellforge 2.2 -> 2.3
+    - Journeyman 1.0 -> 1.1.3
+    - The Handy Icon Collection Collective (THICC) 1.3 -> 1.41
+    - B.O.O.B.I.E.S 1.3 -> 2.0
+    - Aura's Inventory Tweaks 3.0.3 -> 4.1.3
+    - Baka Motion Data Pack
+    - MO Creature Overhaul (With Hostile Creatures) 1.8.1 -> 1.8.2
+- Additions
+    - Several Apothecary patches (CC Fishing, CC Curious, CC Saints, Wyrmstooth)
+    - HelpExtender
+        - Old help command is back: `help "Bandit" 4 NPC_`
+    - Mu Joint Fix
+    - Devious Devices NG DLL
+- Replacements
+    - RaceMenu High Heels (Height Fixes) -> Heels Fix
+- Fixes
+    - Fixed Dragon Eggs not dropping from Egg Factory
+    - Potentially fixed swimming above water
+    - Fixed Dirt Blood & Cum breaking Devious Devices by unequipping them
+- Other
+    - Adjusted Armor degradation in SYG a bit more
+    - Updated the Frosty Body preset
+
+{{< /scrollable-block >}}
+
+{{< scrollable-block id="v192" title="8/26/2023 1.9.2">}}
+{{< label text="Latest" color="primary" >}} 
+{{< label text="Incremental" color="secondary" >}} 
+{{< label text="New Save Required" color="red" >}} 
+
+- Mod Updates
+    - Immersive Equipment Displays -> 1.7.2
+- Additions
+    - Dirt Blood & Cum
+    - Open Animation Replacer - IED Conditions
+    - Weapon Styles - DrawSheathe Animations for IED
+- Replacements
+    - Creature Profile
+      - CO More Creatures -> CO More Creatures (with Hostile Creatures)
+        - Dungeons may now be more dangerous and feature some action 
+- Other
+    - Fixed Fine Iron Sword not being able to be placed in Weapon Plaques
+    - Fixed missing { in SLEN's recording
+    - Deleted unused files in the SKSE output
+    - Adjusted Dirt & Blood's & Service Your Gear's MCM Recordings
+        - Gear should last longer
+        - Neither mod should cause Devious Devices to break due to stripping
+    - Adjusted Public Whore's recording to spam the console less
+        - It'll now send one message instead of three every five seconds
+    - Adjusted Improved Camera's .ini settings
+        - Default first-person FOV 80 -> 100
+        - Disabled first-person on kill moves
+        - Adjusted first-person Near Distance to remove flicker when drawing weapons/hands.
+    - Regenerated FNIS and Nemesis output
+
+{{< /scrollable-block >}}
+
+{{< scrollable-block id="v191" title="8/22/2023 1.9.1">}}
+{{< label text="Latest" color="primary" >}} 
+{{< label text="Incremental" color="secondary" >}} 
+{{< label text="New Save Required" color="red" >}} 
+
+ - Mod Updates
+    - Open Animation Replacer (for real this time)
+    - Fill Her Up
+    - SexLab Separate Orgasms
+    - Public Whore
+    - Service Your Gear (fixes a debug message being spammed and certain weapon combos not breaking)
+    - Egg Factory
+    - Submissive Lola
+- Bug Fixes
+    - Adjusted Scrappies MCM to fix females not being valid for scenes
+    - Fixed SexLab's recording during installation
+    - Fixed SLEN's recording, specifically the SOS integration. TRX's addons weren't enabled
+- Other
+    - Utilized rainpants' icon for MS as SKSE icon
+    - Truncated MCM Recording by merging files
+    - Correctly numbered MCM files
+    - Added a keybind to iHUD's recording because it works in my list and testing showed it works
+    - Changed .meta files to have `?do=download` at the end for better view during LL download selection
+
+{{< /scrollable-block >}}
+
+{{< scrollable-block id="v190" title="7/17/2023 1.9.0">}}
+{{< label text="Latest" color="primary" >}} 
+{{< label text="Minor" color="secondary" >}} 
+{{< label text="New Save Required" color="red" >}} 
+
 - Mod Updates
   - XP32 Maximum Skeleton for Dummies
   - Open Animation Replacer
@@ -154,6 +273,10 @@ description: >
   - Regenerated FNIS/Nemesis output
   - Regenerated all bodyslides
   - Synced mod order and plugin order between the profiles 
+
+{{< /scrollable-block >}}
+
+{{< scrollable-block id="old-logs" title="Older Logs">}}
 
 ### 6/23/2023 1.8.1.2
 #### Hotfix
@@ -985,3 +1108,5 @@ description: >
 
 ### 6/24/2022 1.0.0
 - Official release.
+
+{{< /scrollable-block >}}
