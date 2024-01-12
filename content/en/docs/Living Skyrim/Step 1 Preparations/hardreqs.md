@@ -8,8 +8,8 @@ description: >
   Must-have dependencies to be able to install the list.
 ---
 
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/';" class="btn btn-primary">⮜ Step 1 - Preparations</button>
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/setup/';" class="btn btn-primary">1.2 - Steam, SSE, and Wabbajack Setup ⮞</button>
+{{< navbuttons prevURL="/docs/living-skyrim/step-1-preparations/" prevTitle="Step 1 - Preparations" >}}
+{{< navbuttons prevURL="/docs/living-skyrim/step-1-preparations/setup/" prevTitle="1.2 - Steam, SSE, and Wabbajack Setup" >}}
 
 Ensure you have these installed:
 
@@ -82,5 +82,5 @@ Some general tips to keep in mind:
 3. **Microsoft .Net Runtime:** Essential for some apps and games.
   - Download and install both Desktop and Console:[.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
 
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/';" class="btn btn-primary">⮜ Step 1 - Preparations</button>
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-1-preparations/setup/';" class="btn btn-primary">1.2 - Steam, SSE, and Wabbajack Setup ⮞</button>
+{{< navbuttons prevURL="/docs/living-skyrim/step-1-preparations/" prevTitle="Step 1 - Preparations" >}}
+{{< navbuttons prevURL="/docs/living-skyrim/step-1-preparations/setup/" prevTitle="1.2 - Steam, SSE, and Wabbajack Setup" >}}

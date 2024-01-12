@@ -8,8 +8,8 @@ description: >
   Steps that need to be completed after installing Living Skyrim.
 ---
 
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-2-installation/';" class="btn btn-primary">⮜ Step 2 - Installation</button>
-<button onclick="window.location.href='https://beta.fgsmodlists.com/docs/living-skyrim/step-4-gameplay/';" class="btn btn-primary">Step 4 - Gameplay ⮞</button>
+{{< navbuttons prevURL="/docs/living-skyrim/step-2-installation/" prevTitle="Step 2 - Installation" >}}
+{{< navbuttons prevURL="/docs/living-skyrim/step-4-gameplay/" prevTitle="Step 4 - Gameplay" >}}
 
 ## Mod Organizer 2
 
