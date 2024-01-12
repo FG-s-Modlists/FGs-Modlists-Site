@@ -8,7 +8,7 @@ description: >
   The Masterstroke changelog.
 ---
 
-{{< scrollable-block id="v194" title="09/09/2023 1.9.4">}}
+{{< scrollable-block id="v194" title="9/09/2023 1.9.4">}}
 {{< label text="Latest" color="primary" >}} 
 {{< label text="Incremental" color="secondary" >}} 
 {{< label text="New Save Required" color="red" >}} 
