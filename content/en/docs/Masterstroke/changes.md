@@ -30,7 +30,7 @@ description: >
     - Better Third-Person Selection 0.5.8 -> 0.5.9
     - FormList Manipulator 1.7.0 -> 1.7.1
     - Keyword Item Distributor 3.0.3 -> 3.0.4
-    - Object Categorization Framework 4.2.5 -> 4.8.0
+    - Object Categorization Framework 4.2.5 -> 4.9.0
     - JContainers SE 4.2.3 -> 4.2.8
     - powerofthree's Paypus Extender 5.6.1 -> 5.6.2
     - Fuz Ro D-oh 2.3 -> 2.4
@@ -38,13 +38,15 @@ description: >
     - Crash Logger SSE AE VR - PDB support 1.10 -> 1.12.1
     - Address Library for SKSE Plugins 8 -> 9
     - Scaleform Translation Plus Plus NG 1.6 -> 1.7
+    - Heels Fix 1.6.2 -> 1.7.1
     - Swiftly Order Squad - Follower Commands UI 1.6.6 -> 1.8.1
     - To Your Face SE - AE - VR 1.0s -> 1.0t
     - Sweeping Organizes Stuff - Use Broom to Clean Mess 0.4 -> 0.5.2
     - SexLab Framework 1.65 -> 1.66
+    - SLWidgets 2.0.9 -> 2.0.14
     - Laura's Bondage Shop 3.41 -> 3.43
     - P.A.I.A 4.0 -> 4.5
-    - TAP Interiors 1.5.4 -> 1.6
+    - TAP Interiors 1.5.4 -> 1.7
     - Experience 3.0 -> 3.2
     - Mysticism 2.2.3 -> 2.3.4
     - True Directional Movement - Modernized Third Person Gameplay 2.2.3 -> 2.2.5
@@ -80,13 +82,18 @@ description: >
     - SDA Patch Hub 2.5 -> 2.8
     - Harsher Sunhelm Cold 1.1.0 -> 1.2.0
     - PapyrusUtil SE - Modders Scripting Utility Functions 4.4 -> 4.5
+    - Take Notes - Squish Fix Update
+    - Nordic UI - SAS Patch - Squishy UI Fix
 - Mod Downgrades
     - Public Whore 1.2.5 -> 1.2.4
 - Additions
+    - Zero Bounty Hostility Fix
     - FISSES patch for Skyrim AE 1.6.1130 (or later)
     - FormList Patch Collection
     - Acheron - Death Alternative
     - Acheron Extension Library
+    - Pyramid Utils
+    - Creature Comforts
     - Constructible Object Custom Keyword System (C.O.C.K.S)
     - Cooking Categories Improvement (Constructible Object Custom Keyword System - Fixes)
     - Versatile Item and Group Re-Assignment - C.O.C.K.S. Enhanced (V.I.A.G.R.A)
@@ -142,6 +149,8 @@ description: >
     - Updated Skyrim Special Edition to 1.6.1130
     - Updated ENB Series v0493 -> v0499
     - Updated our handy dandy [keymap](http://www.keyboard-layout-editor.com/#/gists/bec34d6850a407b1ac17898372f49797)!
+    - Adjusted MuJointFix's .ini by setting `FurnitureDisable` from `true` to `false`
+    - Changed the download location for `Lewdmarks`, `Lewdmarks Aroused` and `Transformative Elixirs` to Nexusmods for automatic downloads
     - Excluded collars from Deviously Helpless' triggers for convenience with SubLola
     - Configured Service Your Gear to show UI values for degradation
       - Colors can be adjusted in the MCM
@@ -149,8 +158,8 @@ description: >
     - Take Notes is now bound to B by default
     - Regenerated Core Bodyslides
     - Reverted changes to RaceMenu overlay paths to ensure compatibility with off-discord presets
-        - Presets made in MS would need to be edited to account for this change
-        - Presets that are included with this list were adjusted for this change
+        - Female Presets made in MS would need to be edited to account for this change
+        - Female Presets that are included with this list were adjusted for this change
 
 {{< /scrollable-block >}}
 
