@@ -7,7 +7,7 @@ weight: 100
 description: >
   The Masterstroke changelog.
 ---
-### 1.10.0 2/13/2024
+### 2/13/2024 1.10.0 
 #### Minor
 - Bug Fixes
   - Fixed several broken bodyslides
