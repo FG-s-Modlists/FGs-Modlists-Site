@@ -69,6 +69,7 @@ description: >
     - PapyrusUtil SE - Modders Scripting Utility Functions 4.4 -> 4.5
     - Photo Mode 1.1.6 -> 1.2.1
     - Practical Defeat 0.4.2 -> 0.4.5
+    - Public Whore 1.2.5 -> 1.2.4
     - SDA Patch Hub 2.5 -> 2.8
     - SKSE64 2.2.3 -> 2.2.6
     - SL Dirty Deeds Missives 1.3.3 -> 1.4.1
@@ -94,68 +95,60 @@ description: >
     - iWant Status Bars 2.08 -> 2.09
     - iWant Widgets 1.29 -> 1.31
     - powerofthree's Paypus Extender 5.6.1 -> 5.6.2
+    - Transformative Elixirs 1.2.1 -> 1.3.0
 - Mod Downgrades
-    - Public Whore 1.2.5 -> 1.2.4
 - Additions
   - Both Profiles
     - Acheron - Death Alternative
     - Acheron Extension Library
+    - Achievement Mods Enabler
+    - Am Chubby Bodyslide Preset
+    - Chooey's Modular SMP Hairstyles Edit
     - Community Shaders
     - Complex Parallax Materials
     - Constructible Object Custom Keyword System (C.O.C.K.S)
     - Constructible Object Custom Keyword System - Seperate Weapon and Armor
     - Cooking Categories Improvement (Constructible Object Custom Keyword System - Fixes)
+    - Dynamic Timescale SE
     - Embers XD - Fire Them Sparks
     - Extra Particle Lights Pack - No Meshes (LLF)
     - FISSES patch for Skyrim AE 1.6.1130 (or later)
+    - Finesse Bodyslide Preset
     - FormList Patch Collection
+    - GR Inari Tails and Ears Racemenu
     - Grass Collision
     - Grass Lightning
     - Grass Sampler Fix
+    - Iden-titties Bodyslide Preset
     - LLF Particle Lights instead of Fake Glow
+    - Lamenthia's Marks of Beauty
+    - Lidenblatts Elven Bodyslide Preset
     - Light Limit Fix
+    - LordDkkr's Ultimate Body
+    - Modular SMP Hairstyles
     - NORDIC UI - Constructible Object Custom Keyword System - Wider constructibleobjectmenu for S.A.S. - Patch
+    - Nord Goddess Bodyslide Preset
     - Nordic UI - More Informative Console Patch
+    - Obi's Tattoos
     - Quest Journal Fix for SkyUI 
+    - Random Invite Animations
+    - Recorder Bugfix Patch
     - SSE Parallax Fix
     - SSE ReShade Helper
     - Screen-Space Shadows
+    - Simplest Horses
     - Soft Shadows
     - Sonders Keyword Distribution Resources
+    - Sweinen's Runelight Experimental Overlays
     - Take Notes - Settings Loader
+    - Temptations Bodyslide Preset
+    - Themmis Grappler Bodyslide Preset
+    - Tinraa Casual Seduction Bodyslide preset
     - Tree LOD Lightning
     - Twilight
     - Vanilla HDR
     - Versatile Item and Group Re-Assignment - C.O.C.K.S. Enhanced (V.I.A.G.R.A)
     - Water Blending
-    - YameteKudesai
-    - Creature Comforts
-    - GR Inari Tails and Ears Racemenu
-    - Several ReShade presets
-        - [Dareni's ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/87376)
-        - [Klarity](https://www.nexusmods.com/skyrimspecialedition/mods/99734)
-        - [Natural Beauty](https://www.nexusmods.com/skyrimspecialedition/mods/88493)
-        - [True Eclipse](https://www.nexusmods.com/skyrimspecialedition/mods/89988)
-        - [Skyward](https://www.nexusmods.com/skyrimspecialedition/mods/98353)
-    - Simplest Horses
-    - Sweinen's Runelight Experimental Overlays
-    - Lamenthia's Marks of Beauty
-    - Obi's Tattoos
-    - Iden-titties Bodyslide Preset
-    - LordDkkr's Ultimate Body
-    - Random Invite Animations
-    - Modular SMP Hairstyles
-    - Chooey's Modular SMP Hairstyles Edit
-    - Nord Goddess Bodyslide Preset
-    - Themmis Grappler Bodyslide Preset
-    - Temptations Bodyslide Preset
-    - Finesse Bodyslide Preset
-    - Lidenblatts Elven Bodyslide Preset
-    - Tinraa Casual Seduction Bodyslide preset
-    - Am Chubby Bodyslide Preset
-    - Dynamic Timescale SE
-    - Recorder Bugfix Patch
-    - Achievement Mods Enabler
     - Outfits
       - Ashtoreth Black Hellebore
       - Ashtoreth Monster Hunter Armor
@@ -204,13 +197,23 @@ description: >
       - Twilight Princess Armor Mashup
       - Wilderness Witch Outfit
       - Wizard Hats
+    - Several ReShade presets
+        - [Dareni's ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/87376)
+        - [Klarity](https://www.nexusmods.com/skyrimspecialedition/mods/99734)
+        - [Natural Beauty](https://www.nexusmods.com/skyrimspecialedition/mods/88493)
+        - [True Eclipse](https://www.nexusmods.com/skyrimspecialedition/mods/89988)
+        - [Skyward](https://www.nexusmods.com/skyrimspecialedition/mods/98353)
+  - Creature Profile
+    - Creature Comforts
+    - YameteKudesai
 - Replacements
-    - Honed Metal Community AE Patch -> Honed Metal 1.2.5
     - ConsoleUtil SSE -> ConsoleUtil SSE NG
+    - Honed Metal Community AE Patch -> Honed Metal 1.2.5
     - I'm Walkin' Here -> I'm Walkin' Here NG
-    - Yes I'm Sure -> Yes I'm Sure NG
+    - Service Your Gear -> Simple Degradation
     - SexLab Defeat -> [Practical Defeat](https://www.loverslab.com/files/file/27489-beta-practical-defeat/)
-- Fixes
+    - Yes I'm Sure -> Yes I'm Sure NG
+- Other Fixes
     - Fixed RaceMenu and the tutorials to not be skinned for Nordic UI
     - Fixes key-presses being detected while alt-tabbed
     - Fixed item having the wrong icons in inventory
