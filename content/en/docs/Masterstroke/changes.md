@@ -7,6 +7,234 @@ weight: 100
 description: >
   The Masterstroke changelog.
 ---
+### 1.10.0 2/13/2024
+#### Minor
+- Bug Fixes
+  - Fixed several broken bodyslides
+  - Fixed getting stuck after a defeat scene
+  - Fixed being unable to draw weapons after a defeat scene
+  - Removed Emfy's horse from the game
+  - **[8677ypmje]** Fixed a black screen issue during a quest interaction in "The Ancient Profession" mod.
+  - **[85zt2vm6c]** Resolved SkyUI widgets remaining visible after casting a conjuration spell in SkyHUD.
+  - **[86aypgn02]** Corrected water texture mismatches at Treva's Watch.
+  - **[863gtpgcf]** Addressed a broken map issue in Honrich Cave Ruins that prevented quest progression.
+  - **[86ayh4z8m]** Fixed overlapping water bodies in the Ragged Flagon Cistern.
+  - **[85yvjfk0n]** Resolved a graphical issue with the Nocturnal Robe appearing black at certain angles.
+  - **[86ayq6d1k]** Adjusted the cooldown for offering service in the Submissive Lola mod to within the maximum limit.
+- Mod Updates
+    - Address Library 8 -> 10
+    - Animated Forge Water 0.7.3 -> 0.8
+    - Assorted Mesh Fixes 0.79 -> 0.91
+    - Aura's Inventory Tweaks 4.1.5 -> 4.3.0
+    - B.O.O.B.I.E.S. 2.0.0 -> 2.1.1
+    - Backpack Repositioner 1.1 -> 1.7.1
+    - Better Third-Person Selection 0.5.8 -> 0.5.9
+    - BodySlide/OutfitStudio 5.6.0 -> 5.6.3
+    - CBPC - Physics with Collisions for SSE and VR 1.5.6 -> 1.6.2
+    - Compass Navigation Overhaul 2.1 -> 2.1.1
+    - Configurable Notification Messages 1.1.2 -> 1.4.0
+    - Console Commands Extender 1.11.0 -> 1.12.0
+    - ConsolePlusPlus 1.3.0 -> 1.4.1
+    - Crash Logger SSE AE VR - PDB support 1.10 -> 1.12.1
+    - Damsel in Distress - The Caged Rose 1.1 -> 1.2
+    - Dirt and Blood 2.24 -> 2.33
+    - Embers XD 2.4.9 -> 2.8.9
+    - Experience 3.0 -> 3.2
+    - Faster HDT-SMP 1.509rc-1 -> 2.1.3
+    - Flat Map Markers AE 1.5 -> 1.6
+    - FormList Manipulator 1.7.0 -> 1.7.1
+    - Fuz Ro D'oh 2.3 -> 2.5
+    - Harsher Sunhelm Cold 1.1.0 -> 1.2.0
+    - Headhunter - Bounties Redone 1.20 -> 1.51
+    - HelpExtender 1.2.1 -> 1.3.0
+    - Immersive Equipment Displays 1.7.2 -> 1.7.4
+    - Improved Camera SE 1.0.3 -> 1.1.0-Beta2
+    - JContainers 4.2.3 -> 4.2.9
+    - Journeyman - A Fast Travel Overhaul 1.1.3 -> 1.1.4
+    - Keyboard Shortcut Fix 1.0.0.3 -> 1.0.0.4
+    - Keyword Item Distributor 3.0.3 -> 3.0.4
+    - Lux 5.3.1 -> 6.3
+    - Lux Resources 1.4 -> 1.7
+    - MCM Helper 1.4.0 -> 1.5.0
+    - Missile's IED Preset - Immersive Equipment Displays 1.3.2 -> 2.0.1
+    - More Informative Console 1.1.0 (640) -> 1.1.0 (1130)
+    - Mysticism 2.2.3 -> 2.3.4
+    - No Sunlight Through Mountains 0.2 -> 0.3
+    - Nordic UI SAS Patch Squishy UI Fix 1.1 -> 1.2
+    - Object Categorization Framework 4.2.5 -> 4.8.0
+    - Open Animation Replacer - IED Conditions 1.0.1 -> 1.0.3
+    - Open Animation Replacer 1.3 -> 2.0.2
+    - P.A.I.A 4.0 -> 4.5
+    - PO3 Tweaks 1.8.0 -> 1.8.1
+    - PapyrusUtil SE - Modders Scripting Utility Functions 4.4 -> 4.5
+    - Photo Mode 1.1.6 -> 1.2.1
+    - Practical Defeat 0.4.2 -> 0.4.5
+    - SDA Patch Hub 2.5 -> 2.8
+    - SKSE64 2.2.3 -> 2.2.6
+    - SL Dirty Deeds Missives 1.3.3 -> 1.4.1
+    - SSE Display Tweaks 0.5.12 -> 0.5.16
+    - Scaleform Translation Plus Plus NG 1.6 -> 1.7
+    - Serana Dialogue Add-On 4.0.2.3 -> 4.1.0.0
+    - Service Your Gear 1.2 -> 2.2
+    - SexLab Framework 1.65 -> 1.66
+    - Simply Knock SKSE64 DLL 5.4 -> 5.5
+    - SimplyKnock DLL 2.2.5 -> 2.2.6
+    - Spell Perk Item Distributor 6.6.2 -> 6.7.6
+    - Sweeping Organizes Stuff - Use Broom to Clean Mess 0.4 -> 0.5.2
+    - Swiftly Order Squad - Follower Commands UI 1.6.6 -> 1.8.1
+    - TAP Interiors 1.5.4 -> 1.5.5
+    - The Ancient Profession 14 -> 15
+    - The Handy Icon Collection Collective for I4 1.4.1 -> 1.5.0
+    - To Your Face AE 1.0s -> 1.0u
+    - True Directional Movement - Modernized Third Person Gameplay 2.2.3 -> 2.2.5
+    - TrueHUD 1.1.8 -> 1.1.9
+    - Unofficial Skyrim Special Edition Patch 4.2.9a -> 4.3.0a
+    - Vanilla Scripting Enhancements 2.0 -> 3.0
+    - Voidgate 1.3 -> 1.6
+    - iWant Status Bars 2.08 -> 2.09
+    - iWant Widgets 1.29 -> 1.31
+    - powerofthree's Paypus Extender 5.6.1 -> 5.6.2
+- Mod Downgrades
+    - Public Whore 1.2.5 -> 1.2.4
+- Additions
+  - Both Profiles
+    - Acheron - Death Alternative
+    - Acheron Extension Library
+    - Community Shaders
+    - Complex Parallax Materials
+    - Constructible Object Custom Keyword System (C.O.C.K.S)
+    - Constructible Object Custom Keyword System - Seperate Weapon and Armor
+    - Cooking Categories Improvement (Constructible Object Custom Keyword System - Fixes)
+    - Embers XD - Fire Them Sparks
+    - Extra Particle Lights Pack - No Meshes (LLF)
+    - FISSES patch for Skyrim AE 1.6.1130 (or later)
+    - FormList Patch Collection
+    - Grass Collision
+    - Grass Lightning
+    - Grass Sampler Fix
+    - LLF Particle Lights instead of Fake Glow
+    - Light Limit Fix
+    - NORDIC UI - Constructible Object Custom Keyword System - Wider constructibleobjectmenu for S.A.S. - Patch
+    - Nordic UI - More Informative Console Patch
+    - Quest Journal Fix for SkyUI 
+    - SSE Parallax Fix
+    - SSE ReShade Helper
+    - Screen-Space Shadows
+    - Soft Shadows
+    - Sonders Keyword Distribution Resources
+    - Take Notes - Settings Loader
+    - Tree LOD Lightning
+    - Twilight
+    - Vanilla HDR
+    - Versatile Item and Group Re-Assignment - C.O.C.K.S. Enhanced (V.I.A.G.R.A)
+    - Water Blending
+    - YameteKudesai
+    - Creature Comforts
+    - GR Inari Tails and Ears Racemenu
+    - Several ReShade presets
+        - [Dareni's ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/87376)
+        - [Klarity](https://www.nexusmods.com/skyrimspecialedition/mods/99734)
+        - [Natural Beauty](https://www.nexusmods.com/skyrimspecialedition/mods/88493)
+        - [True Eclipse](https://www.nexusmods.com/skyrimspecialedition/mods/89988)
+        - [Skyward](https://www.nexusmods.com/skyrimspecialedition/mods/98353)
+    - Simplest Horses
+    - Sweinen's Runelight Experimental Overlays
+    - Lamenthia's Marks of Beauty
+    - Obi's Tattoos
+    - Iden-titties Bodyslide Preset
+    - LordDkkr's Ultimate Body
+    - Random Invite Animations
+    - Modular SMP Hairstyles
+    - Chooey's Modular SMP Hairstyles Edit
+    - Nord Goddess Bodyslide Preset
+    - Themmis Grappler Bodyslide Preset
+    - Temptations Bodyslide Preset
+    - Finesse Bodyslide Preset
+    - Lidenblatts Elven Bodyslide Preset
+    - Tinraa Casual Seduction Bodyslide preset
+    - Am Chubby Bodyslide Preset
+    - Dynamic Timescale SE
+    - Recorder Bugfix Patch
+    - Achievement Mods Enabler
+    - Outfits
+      - Ashtoreth Black Hellebore
+      - Ashtoreth Monster Hunter Armor
+      - Asura's Guard
+      - BAKU Reincarnation Rasha
+      - Bladedancer's Edge
+      - COCO Battle Angels
+      - COCO Goddess of War v2
+      - COCO Shadow Assassin
+      - Chainmail Armour
+      - Chaos Sorcerer
+      - Coldharbour Executioner Armor
+      - College Prestige Mage Outfit
+      - DM BDOR Dobart
+      - Dark Dreams
+      - Demon Hunter Armor
+      - Deze Clothing
+      - Dint999 BDO Sor LumiK
+      - ELLE Abyss
+      - ELLE Dangerous Gladiator
+      - ELLE Elven Lake
+      - ELLE Knight Winds
+      - ELLE October Seer
+      - ELLE Sherwood Huntress
+      - ELLE Sparrows Mage
+      - ELLE Tavern Maid
+      - Egil's Demon Hunter
+      - Elmlock Armor and Blade
+      - FB Witch Slayer Armor
+      - Imperial Centurion Battle Dress Remastered
+      - Knight of the Village
+      - Lunar Guard Armor
+      - Mage Robes SSE
+      - Nereid Pirate Outfit
+      - Nightshade Mistress
+      - Obi's Crimson Outfit
+      - Obi's Forest Attire
+      - Obi's Mizora Bodysuit
+      - Obi's Nocturnal Noir
+      - Obi's Wyrm Slayer
+      - Queen Marika's Dress
+      - Regalia of the Scorned
+      - Royal Vampire
+      - Steel Falcon Armor Set
+      - The Hinterland Ranger
+      - Twilight Princess Armor Mashup
+      - Wilderness Witch Outfit
+      - Wizard Hats
+- Replacements
+    - Honed Metal Community AE Patch -> Honed Metal 1.2.5
+    - ConsoleUtil SSE -> ConsoleUtil SSE NG
+    - I'm Walkin' Here -> I'm Walkin' Here NG
+    - Yes I'm Sure -> Yes I'm Sure NG
+    - SexLab Defeat -> [Practical Defeat](https://www.loverslab.com/files/file/27489-beta-practical-defeat/)
+- Fixes
+    - Fixed RaceMenu and the tutorials to not be skinned for Nordic UI
+    - Fixes key-presses being detected while alt-tabbed
+    - Fixed item having the wrong icons in inventory
+    - Fixed ALD's .ini still having ragdoll enabled for the player, thus causing Defeat jank
+    - Fixed SLEN treating the player as "Male" in all cases, for some reason
+    - Fixed OBody NG's key not being set to "U"
+    - Fixed SLWidget's MCM looking for a missing step and reduced the amount of icons displayed
+        - What is displayed can be adjusted in the MCM
+- Other
+    - Updated Mod Organizer 2 to 2.5.0
+    - Updated Skyrim Special Edition to 1.6.1170
+    - Updated our handy dandy [keymap](http://www.keyboard-layout-editor.com/#/gists/bec34d6850a407b1ac17898372f49797)!
+    - Excluded collars from Deviously Helpless' triggers for convenience with SubLola
+    - Configured Service Your Gear to show UI values for degradation
+      - Colors can be adjusted in the MCM
+    - Made the description of the "Remove Curse" potion clearer
+    - Take Notes is now bound to B by default
+    - Regenerated Core Bodyslides
+    - Reverted changes to RaceMenu overlay paths to ensure compatibility with off-discord presets
+        - Presets made in MS would need to be edited to account for this change
+        - Presets that are included with this list were adjusted for this change
+    - Cleaned up Realm of Lorkhan patches
+
+
 ### 09/09/2023 1.9.4
 #### Incremental
 - Mod Updates
