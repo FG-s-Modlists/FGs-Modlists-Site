@@ -76,7 +76,6 @@ description: >
     - SSE Display Tweaks 0.5.12 -> 0.5.16
     - Scaleform Translation Plus Plus NG 1.6 -> 1.7
     - Serana Dialogue Add-On 4.0.2.3 -> 4.1.0.0
-    - Service Your Gear 1.2 -> 2.2
     - SexLab Framework 1.65 -> 1.66
     - Simply Knock SKSE64 DLL 5.4 -> 5.5
     - SimplyKnock DLL 2.2.5 -> 2.2.6
@@ -252,7 +251,6 @@ description: >
     - Sets of Skills - Improved UI
 - Fixed
     - Fixed OBody not applying immediately by redressing the NPC after selecting a preset automatically
-    - Fixed un-temberable items being affected by Service Your Gear
 
 ### 8/26/2023 1.9.3
 #### Incremental
