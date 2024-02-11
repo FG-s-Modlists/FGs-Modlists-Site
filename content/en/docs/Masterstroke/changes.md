@@ -63,7 +63,7 @@ description: >
     - Nordic UI SAS Patch Squishy UI Fix 1.1 -> 1.2
     - Object Categorization Framework 4.2.5 -> 4.8.0
     - Open Animation Replacer - IED Conditions 1.0.1 -> 1.0.3
-    - Open Animation Replacer 1.3 -> 2.0.2
+    - Open Animation Replacer 1.3 -> 2.1.0
     - P.A.I.A 4.0 -> 4.5
     - PO3 Tweaks 1.8.0 -> 1.8.1
     - PapyrusUtil SE - Modders Scripting Utility Functions 4.4 -> 4.5
@@ -87,6 +87,7 @@ description: >
     - The Ancient Profession 14 -> 15
     - The Handy Icon Collection Collective for I4 1.4.1 -> 1.5.0
     - To Your Face AE 1.0s -> 1.0u
+    - Transformative Elixirs 1.2.1 -> 1.3.0
     - True Directional Movement - Modernized Third Person Gameplay 2.2.3 -> 2.2.5
     - TrueHUD 1.1.8 -> 1.1.9
     - Unofficial Skyrim Special Edition Patch 4.2.9a -> 4.3.0a
@@ -95,8 +96,6 @@ description: >
     - iWant Status Bars 2.08 -> 2.09
     - iWant Widgets 1.29 -> 1.31
     - powerofthree's Paypus Extender 5.6.1 -> 5.6.2
-    - Transformative Elixirs 1.2.1 -> 1.3.0
-- Mod Downgrades
 - Additions
   - Both Profiles
     - Acheron - Death Alternative
@@ -227,11 +226,9 @@ description: >
     - Updated Skyrim Special Edition to 1.6.1170
     - Updated our handy dandy [keymap](http://www.keyboard-layout-editor.com/#/gists/bec34d6850a407b1ac17898372f49797)!
     - Excluded collars from Deviously Helpless' triggers for convenience with SubLola
-    - Configured Service Your Gear to show UI values for degradation
-      - Colors can be adjusted in the MCM
     - Made the description of the "Remove Curse" potion clearer
     - Take Notes is now bound to B by default
-    - Regenerated Core Bodyslides
+    - Regenerated all bodyslides.
     - Reverted changes to RaceMenu overlay paths to ensure compatibility with off-discord presets
         - Presets made in MS would need to be edited to account for this change
         - Presets that are included with this list were adjusted for this change
