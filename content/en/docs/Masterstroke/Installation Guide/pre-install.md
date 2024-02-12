@@ -59,7 +59,8 @@ Next, you’ll need a clean copy of Skyrim Special Edition. To get your copy to 
 3. Install Skyrim: Special Edition.
 
 
-Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist. You will also need to ensure the game is running in English, as that is the only language the modlist supports.
+Afterwards, you need to disable automatic updates for Skyrim to avoid a game update breaking your copy of the game and therefore the modlist.
+You will also need to ensure the game is running in English, as that is the only language the modlist supports!
 
 1. In Steam, set Skyrim: Special Edition to update only when opened. (Right-click > Properties… > Updates > Automatic updates > Only update this game when I launch it)
 2. In Steam, disable the Steam Overlay. (Right-click > Properties… > General > Enable the Steam Overlay while in-game checkbox)
