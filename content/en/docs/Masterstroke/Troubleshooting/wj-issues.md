@@ -10,11 +10,14 @@ description: >
 
 ### “A mod failed to download.”
 
-First, you can also try enabling the Network Workaround option in the settings for Wabbajack to see if it will download the file after enabling that setting.
-
-Secondly, Some downloads that commonly fail but do not usually require a list update are listed under this section, please check the files listed there if any of them are the files failing to download.
+Some downloads that commonly fail but do not usually require a list update are listed under this section, please check the files listed there if any of them are the files failing to download.
 
 Otherwise, wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Masterstroke is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
+
+### "Barbarian Bodypaints - Racemenu Body and Head Overlays for UUNP CBBE and Males fails to download"
+
+Download the file from the link provided here: [Barbarian Bodypaints - Racemenu Body and Head Overlays for UUNP CBBE and Males](https://drive.google.com/uc?id=1K0c3czPfsBdhRHdXUJlIYQdErqIrp7Cd)
+and place it in your Masterstroke download folder, then restart the installation of the list.
 
 ### "MEGA hosted files are failing to download."
 
