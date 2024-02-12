@@ -281,6 +281,11 @@ description: >
     - Adjusted Armor degradation in SYG a bit more
     - Updated the Frosty Body preset
 
+{{< /scrollable-block >}}
+
+
+{{< scrollable-block id="old-logs" title="Older Logs">}}
+
 ### 8/26/2023 1.9.2
 #### Incremental
 - Mod Updates
@@ -1306,3 +1311,5 @@ description: >
 
 ### 6/24/2022 1.0.0
 - Official release.
+
+{{< /scrollable-block >}}
