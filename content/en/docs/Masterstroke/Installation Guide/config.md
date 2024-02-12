@@ -12,10 +12,14 @@ There are some mods that can be optionally enabled, depending on your preference
 
 The first is Nordic UI 32x9 or 21x9. This should only be enabled if you are using a 21:9 or 32:9 monitor at 2560x1080 resolution or higher. Enable whichever one matches your screen's aspect ratio and only that one.
 
+![Ultrawide support](https://i.imgur.com/oUf4BAA.png)
+
 ### ENB
 By default, Masterstroke comes bundled with several ENB presets that you can choose between.
 
 To switch between presets, launch ENB Organizer from within Mod Organizer 2. If you receive a message about ENB Organizer being unable to update, this is normal and can be safely ignored. Now, follow these instructions:
+
+![ENB organizer](https://i.imgur.com/OnrA0FJ.png)
 
 1. Click the three lines in the top left corner of ENB Organizer.
 2. Click "Presets" in the menu that appears.

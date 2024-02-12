@@ -16,21 +16,20 @@ It's important that you do the following steps in the order they are presented. 
 
 ## MCM Configuration
 
-When you are finished making your character, a bunch of text will start scrolling in the top left-hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.** If you receive any pop-up messages during this wait, click through them.
+1. When you are finished making your character, a bunch of text will start scrolling in the top left-hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.** If you receive any pop-up messages during this wait, click through them.
+2. Now, *save your game*. Then *load the new save.*
+3. If a popup appears from SexLab - Sexual Fame talking about a consistence check of Papyrus location storage failing. This popup can be safely ignored, the issue will be resolved in a moment by MCM Recorder.
+4. Once again, text will appear in the top left hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.**
+5. Now, go into the MCM and find MCM Recorder.
 
-Now, *save your game*. Then *load that save.*
+![MCM Recorder](https://i.imgur.com/l2BGXX0.png)
 
-A popup will appear from SexLab - Sexual Fame talking about a consistence check of Papyrus location storage failing. This popup can be safely ignored, the issue will be resolved in a moment by MCM Recorder.
+5. Click on the Masterstroke MCM option. You'll be prompted to exit the MCM. Do so. You'll then receive a popup with information about the MCM preset you've chosen. Click "Run Recording".
+6. If you see a message saying "`Could not find MCM Option: Mod name: Sexlab Field name SSL__ClickHere`", nothing is wrong, simply press continue and allow the recording to continue.
 
-Once again, text will appear in the top left hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.**
+![MCM sexlab](https://i.imgur.com/xZAgSth.png)
 
-Now, go into the MCM and find MCM Recorder.
-
-Click on the Masterstroke MCM option. You'll be prompted to exit the MCM. Do so. You'll then receive a popup with information about the MCM preset you've chosen. Click "Run Recording".
-
-If you see a message saying "`Could not find MCM Option: Mod name: Sexlab Field name SSL__InstallUpdateSexlab(1.63)`", nothing is wrong, simply press continue and allow the recording to continue.
-
-Once again, ***WAIT.*** This can take up to 10 minutes to complete. During this wait, if you receive any pop-up messages, click through them. When it is finished, you will receive one final pop-up message stating the MCMs are now configured.
+7. Once again, ***WAIT.*** This can take up to 10 minutes to complete. During this wait, if you receive any pop-up messages, click through them. When it is finished, you will receive one final pop-up message stating the MCMs are now configured.
 
 Now *save your game*. Then *load that save.* Yes, this must be done a second time.
 

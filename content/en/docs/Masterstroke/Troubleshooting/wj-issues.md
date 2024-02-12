@@ -10,11 +10,14 @@ description: >
 
 ### “A mod failed to download.”
 
-First, you can also try enabling the Network Workaround option in the settings for Wabbajack to see if it will download the file after enabling that setting.
-
-Secondly, Some downloads that commonly fail but do not usually require a list update are listed under this section, please check the files listed there if any of them are the files failing to download.
+Some downloads that commonly fail but do not usually require a list update are listed under this section, please check the files listed there if any of them are the files failing to download.
 
 Otherwise, wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Masterstroke is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
+
+### "Barbarian Bodypaints - Racemenu Body and Head Overlays for UUNP CBBE and Males fails to download"
+
+Download the file from the link provided here: [Barbarian Bodypaints - Racemenu Body and Head Overlays for UUNP CBBE and Males](https://drive.google.com/uc?id=1K0c3czPfsBdhRHdXUJlIYQdErqIrp7Cd)
+and place it in your Masterstroke download folder, then restart the installation of the list.
 
 ### "MEGA hosted files are failing to download."
 
@@ -22,7 +25,7 @@ If MEGA downloads are either not downloading correctly or are frozen on the comp
 
 - [Smooth Random Magic Idle Animation](https://mega.nz/file/IS4EjJhC#inP4yfb3i-UO_sx790OpoFDk81x-WIRf9WcBeKxnmYo)
 - [SE.rar](https://mega.nz/folder/xwxwzaDI#J3oxuELfc50dftUKQiIcUg/file/csZHUKrY) For the SE.rar download, open the link and right click on the SE.rar file listed on the webpage, then go to `Download` , then click `Standard Download`
-- [Devious Devices [SE][AE][VR] 5.2 Beta 7](https://mega.nz/file/oDxVjTDT#nDkSIwWLZxYFLMlUBKWAEaVCWpEb4U8yg_7dRwNAlK4)
+- [Devious Devices [SE][AE][VR] 5.2](https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU)
 
 ### "Community Overlays 1 - CBBE Male and Female Repackage fails to download."
 

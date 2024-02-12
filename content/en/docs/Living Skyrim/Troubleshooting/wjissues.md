@@ -26,7 +26,11 @@ Yes, just close Wabbajack. When you start the installation process again it will
 
 #### “Can I delete the downloads folder after installing?”
 
-Yes, but remember that if you need to update the list you will have to download all of the mods that have updated again.
+Yes, When using Wabbajack to update an existing install Wabbajack will only download the mods that have updated.
+
+#### "Hashes for BSA don't match after extraction, Stock Game\Data\Skyrim - Animations.bsa"
+
+This is an error that can occur sometimes, it is an issue with Wabbajack's install process. Please try closing Wabbajack and then running the installation again until the install successfully completes
 
 #### “The LS4 DynDOLOD Output fails to download.”
 
@@ -40,10 +44,6 @@ You’ll need to download this manually and put it in your downloads folder. The
 
 You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [INPCs Visual Overhaul](https://drive.google.com/file/d/1YM0lFTQdDh6P3JvEgWleOMb3adF_pQ_i/view?usp=sharing)
 
-#### "ENB Series fails to download."
-
-You'll need to download this manually and put it in your downloads folder. The mirror for this file can be found here: [ENB Series](http://enbdev.com/download_mod_tesskyrimse.htm)
-
 #### "Skyrim Particle Patch for ENB SEE 2020 02 08 fails to download."
 
 Download the file manually and put it in your downloads folder. A mirror for this file can be found here: [Skyrim Particle Patch for ENB SSE](https://drive.google.com/file/d/1kI_R7K8byNU3iB4jl0QvDbLj9RiU8RIV/view)
@@ -55,6 +55,10 @@ Download the file manually and put it in your downloads folder. A mirror can be 
 #### "Community Overlays 1 - CBBE Male and Female Repackage fails to download."
 
 Download the file manually and put it in your downloads folder. A mirror can be found here: [Community Overlays 1 - CBBE Male and Female Repackage](https://drive.google.com/file/d/1jHzXv8VC6fF9pGHbKlkitCE8UK-p-vX9/view)
+
+#### "enbseries_skyrimse_v0494" fails to download."
+
+Download the file manually and put it in your downloads folder. A mirror can be found here: [enbseries_skyrimse_v0494](https://cdn.discordapp.com/attachments/1034145991642845194/1167535466552242326/enbseries_skyrimse_v0494.zip?ex=654e7b22&is=653c0622&hm=a6f37e6baaa967aabe771ea3c2b62a62b4a15e39ac45c589aa769c4b8ad1d4f4&)
 
 #### "MEGA hosted files are failing to download."
 

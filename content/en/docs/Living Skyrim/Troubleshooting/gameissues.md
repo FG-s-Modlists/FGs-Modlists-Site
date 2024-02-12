@@ -9,6 +9,10 @@ description: >
 ---
 
 
+#### "All my saves are corrupted!"
+
+This is a false corruption report. Please try restarting your game completely.
+
 #### "How do I start the Main Quest?"
 
 Talk to Jarl Balgruuf.
@@ -25,19 +29,25 @@ Read this modpage: [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedi
 
 Start the main quest and progress it to at least Way of the Voice. See above questions for how to start the main quest.
 
-#### "I can't use spells with a weapon equipped! I Can't power attack!"
+#### "I can't complete the First Lessons quest for the Mage College!"
 
-Engarde changes the way these combat functions work. To use a spell in your characters *right* hand: hold the Modifier hotkey while you right click (default Shift)
-Please note that swapping mouse buttons for attacks can cause issues with this. You will need to configure things yourself if you do this.
-Power attacks have their own keybind (Default Mouse 3). These can be changed at any time in the Engarde MCM
+Please disable the Projectile Block and Timed Projectile block options in Valhalla Combat's MCM menu, once the quest is completed you are free to turn these options back on should you wish.
+
+#### "I can't join the Thieves Guild!"
+
+You need to actually be a thief, please see this mod page: [Thieves Guild Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/33256)
+
+#### "I Can't power attack!"
+
+We Use One-Click Power attack in the list, to help the MCO combo attacks work correctly. There is an .ini file in the mod folder you can adjust the keybind for this (default is Mouse 3).
 
 #### “Can I access RaceMenu after character creation?”
 
-Only if you are not changing your character’s gender or race. Changing gender/race will cause issues with powers and passive buffs your character has.
+Only if you are not changing your character’s gender or race. Changing gender/race will cause issues with powers and passive buffs your character has. Please use the `ShowRaceMenu` command after the MCM steps have finished.
 
 #### “My screen is zoomed in or weirdly off-center.”
 
-Check the SSE Display Tweaks INI file to make sure you have the resolution for your screen set correctly. You may also need to check BethINI or the Skyrim INI files to make sure they all match your screen’s resolution.
+Check the SSE Display Tweaks INI file to make sure you have the resolution for your screen set correctly. You may also need to check BethINI or the Skyrim INI files to make sure they all match your screen’s resolution. If you are using an Ultrawide resolution please enable the relevant mods in the List Customization Section of Mod Organizer. If that fails, please find the SkyrimSE exe file in your Stock Game folder (located wherever you installed the list. **not your Steam folder**.) Right Click the exe file, then click Properties. On the Compatibility tab, select Disable Display Scaling On High DPI Settings, and then click OK.
 
 #### "How can I adjust graphical/resolution settings?"
 
@@ -65,7 +75,7 @@ Yes. Display Tweaks SSE is included to allow higher refresh rates.
 
 #### “Can I use this list on an ultrawide monitor?”
 
-Yes, Nordic UI patches for 21:9 and 32:9 aspect ratios are included by default. Just make sure to enable the correct version for your aspect ratio in the left pane of MO2 under the 'Configuration Specific' seperator.
+Yes, Nordic UI patches for 21:9 and 32:9 aspect ratios are included by default. Just make sure to enable the correct version for your aspect ratio in the left pane of MO2 under the 'Configuration Specific' seperator. Please also enable the Constructible Object Custom Keyword System - Ultrawide Aspect Ratio - 32 x 9 Patch regardless of which aspect ratio you use.
 
 #### Nudity?
 

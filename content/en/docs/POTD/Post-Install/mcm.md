@@ -8,52 +8,10 @@ description: >
   Mandatory MCM configuration for the list.
 ---
 
-## Mandatory MCMs
+## Mandatory Control and MCM Settings
 
-{{< alert color="danger" title="Warning!" >}}
-<div class="alert-icon">🛑</div>
+When you are finished making your character, a bunch of text will start scrolling in the top left-hand corner of the screen. **Wait for all text to disappear from the top left before proceeding.** If you receive any pop-up messages during this wait, read them, then click through them. The MCM Recording will notify you when it has completed configuring the MCMs for you.
 
-The following options must be set manually in the MCM for Path of the Dovahkiin to work properly.
-{{< /alert >}}
+Now, *save your game*. Then *load that save.*
 
-#### Engarde
-- Stamina
-  - Souls-like Stamina System: Disabled
-- KeyButton
-  - Power Attack key: Mouse 3 (mouse wheel click, or whatever key is convenient for you)
-
-#### Quick Light
-- Brightness: Bright
-
-#### Random Normal Attack
-- NPC Activate: Enabled
-
-#### Sets of Skills
-- Settings
-  - Enable Hardcore Mode: Enabled
-  - Number of Classes you can master: 2
-
-{{< alert color="important" title="Important!">}}
-<div class="alert-icon">⚠️</div>
-
-For the SmoothCam preset, make sure you are selecting the option to Load the preset instead of save it. If you accidentally save instead of load, you'll need to re-run Wabbajack to restore the preset to its correct settings.
-{{< /alert >}}
-
-#### SmoothCam
-- Presets
-  - Click Load next to whichever preset you wish to use. You can and should test them all out to see which one works best for you\
-
-#### Trade & Barter
-- Barter Rates
-  - Modify Barter Rates: Enabled
-  - Barter Presets: Difficult
-
-#### True Directional Movement
-- Target Lock
-  - Toggle Target Lock Key: Mouse 5 (forward button; or whatever key is convenient for you)
-
-### MoreHUD
-- Enemy's Level
-  - Show Magicka Meter: Disabled
-  - Show Stamina Meter: Disabled
-  - Show Health Numbers: Disabled
+And that's it! The MCMs will be configured for you automatically and you can begin playing.
