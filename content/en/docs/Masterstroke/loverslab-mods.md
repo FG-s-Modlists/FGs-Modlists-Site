@@ -23,13 +23,13 @@ Even if you are not a fan of some creature mods, you need to download them. They
 |:----------|:----------------------|
 | [TRX - Futanari Horse Addon](https://www.loverslab.com/files/file/22071-trx-futanari-horse-addon-beta-test/)              | Download `1403708856_TRX-FutanariHorseAddon1_11.7z`       |
 | [BakaFactory SLAL Animations](https://www.loverslab.com/files/file/6707-bakafactorys-slal-animation-le-sse/)              | Press download                                            |
-| [The TRappings of Fate](https://www.loverslab.com/files/file/22231-the-trappings-of-fate/)                                | Download `2023_04_23_The Trappings of Fate v1.2.0.7z` and `TheTrappingsOfFate - BRRF Patch.7z`    |
+| [The Trappings of Fate](https://www.loverslab.com/files/file/22231-the-trappings-of-fate/)                                | Download `2023_04_23_The Trappings of Fate v1.2.0.7z` and `TheTrappingsOfFate - BRRF Patch.7z`    |
 | [Milk Mod Economy SE](https://www.loverslab.com/files/file/6103-milk-mod-economy-se/)                                     | Download `Milk-Mod-Economy-Assets-SE-2019-06-04.7z` and `Milk-Mod-Economy-Bodyscaling-Bodymorph.7z` and `Milk-Mod-Economy-Scripts-20211102.7z` and `3BA for MME.zip`    |
 | [Acheron Extension Library](https://www.loverslab.com/files/file/27063-acheron-extension-library/)                        | Download `Acheron Extension Library - 1.1.1.1.zip`        |
 | [Anubs Animations for SE](https://www.loverslab.com/files/file/5623-anubs-animations-for-se/)                             | Download `Anub H 3.2021.7z`                               |
 | [Baka Motion Data Pack](https://www.loverslab.com/files/file/26992-baka-motion-data-pack/)                                | Download `Baka Motion Data Pack.7z`                       |
 | [CBPC Anus Support](https://www.loverslab.com/files/file/22048-cbpc-separate-anal-collision-22-cbpc-156/)                 | Download `CBPC Anus Support 2.2 FOMOD fixed.zip`          |
-| [Creature Comforts](https://www.loverslab.com/files/file/31476-creature-comforts-practical-defeat-addon/)                 | Press download                     |
+| [Creature Comforts](https://www.loverslab.com/files/file/31476-creature-comforts-practical-defeat-addon/)                 | Press `Creature Comforts v0.1.2.7z`                     |
 | [CO More Creatures](https://www.loverslab.com/files/file/12760-creature-overhaul/)                                        | Download `CO More Creatures 1.8.2 (With Hostile Creatures).rar`   |
 | [More Nasty Critters](https://www.loverslab.com/files/file/5464-more-nasty-critters-special-edition/)                     | Download `CreatureFrameworkV3-1.7z`                       |
 | [Damsel in Distress- SE - Follower Collection](https://www.loverslab.com/files/file/19789-damsels-in-distress-se-0-follower-collection/)      | Download `Damsels in Distress - SE (0) - Follower Collection ESL v2.3.7z` |
@@ -54,24 +54,24 @@ Even if you are not a fan of some creature mods, you need to download them. They
 | [Maelstrom - Norse Dungeon Quest Mod](https://www.loverslab.com/files/file/18500-maelstrom-norse-dungeon-quest-mod-se/)   | Press download                                            |
 | [Maids II Sexlab Patch](https://www.loverslab.com/files/file/14010-maids-ii-sexlab-patch-se/)                             | Download `Maids II Sexlab Patch SE 1.2.7z`                |
 | [Maids II - Deception](https://www.loverslab.com/files/file/3474-maids-ii-deception/)                                     | Download `Mod Patches.7z`                                 |
+| [Milk Addict](https://www.loverslab.com/blogs/entry/20179-milk-addict/)													| Download `Milk Addict v0.53 (25-Mar-2019).7z`									|
 | [No Overpenetration SE](https://www.loverslab.com/files/file/10339-no-overpenetration-se/)                                | Press download                                            |
-| [Practical Defeat](https://www.loverslab.com/files/file/27489-beta-practical-defeat/)                                     | Download `Practical Defeat v0.4.0.7z`                     |
+| [Practical Defeat](https://www.loverslab.com/files/file/27489-beta-practical-defeat/)                                     | Download `Practical Defeat v0.4.5.7z`                     |
 | [Pyramid Utils](https://www.loverslab.com/files/file/31472-pyramid-utils/)                                                | Press download
 | [SexLab - Kyne's Blessing](https://www.loverslab.com/files/file/26009-sexlab-parasites-kynes-blessing-se-february-2023/)  | Download `ParasitesSE20230226.7z` and `ParasitesTexturesSE20230226.7z` and `ParasitesVoicePackSE20230226.7z`  |
 | [Public Whore](https://www.loverslab.com/files/file/17026-public-whore/)                                                  | Download `Public Whore v1.2.4 SE.zip` and `PWPatchv1.0forPWv1.2.4.7z`                     |
 | [Schlongs of Skyrim](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)                                    | Download `Schlongs_of_Skyrim_SE - v1.1.4.rar`             |
-| [Schlongs of Skyrim AE](https://www.loverslab.com/topic/208074-schlongs-of-skyrim-dll-for-ae/)                            | Download `SchlongsOfSkyrim_1_1_5-DLL-1_6_1130.zip`          |
+| [Schlongs of Skyrim AE](https://www.loverslab.com/topic/208074-schlongs-of-skyrim-dll-for-ae/)                            | Download `SchlongsOfSkyrim_1_1_5-DLL-1_6_1170.zip`          |
 | [Scrappies Matchmaker](https://www.loverslab.com/files/file/19891-scrappies-matchmaker/)                                  | Press download                                            |
 | [SexLab - Sexual Fame](https://www.loverslab.com/files/file/2455-sex-lab-sexual-fame-framework/)                          | Press download                                            |
 | [SexLab - Aroused Creatures](https://www.loverslab.com/files/file/6022-sexlab-aroused-creatures-se-2023-06-09/)           | Download `SexLab Aroused Creatures SE v04.12.7z`          |
-| [SexLab Aroused NG (SLANG)](https://www.loverslab.com/files/file/27713-alpha-sexlab-aroused-ng/)                           | Download `SexLab Aroused NG v0.2.2.7z`                       | 
 | [SexLab - BJ Sound FX Replacer](https://www.loverslab.com/files/file/15988-sexlab-bj-sound-fx-replacerv01/)               | Press download                                            |
 | [SexLab - Eager NPCs](https://www.loverslab.com/files/file/7309-sexlab-eager-npcs-se-slen/)                               | Download `SexLab EagerNPCSERev2.7z`                       |
 | [SexLab Framework Sound Replacer](https://www.loverslab.com/files/file/14230-sexlab-framework-sound-replacer/)            | Download `Sexlab Framework Sound Replacer AIO.7z`         |
 | [SexLab - Pheromones](https://www.loverslab.com/files/file/6893-sexlab-pheromones/)                                       | Press download                                            |
 | [SexLab Solutions - Revisited](https://www.loverslab.com/files/file/10742-sexlab-solutions-revisited-se/)                 | Download `SexLab Solutions v3 - Revisited SE v1.1.5.7z`   |
 | [SexLab Separate Orgasm](https://www.loverslab.com/files/file/5929-sexlab-separate-orgasm-se/)                            | Download `SexLab-Separate-Orgasm 2023-01-16.7z`           |
-| [SexLab Framework](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166-12052023/)           | Download `SexLabFrameworkAE_v166.7z`                      |
+| [SexLab Framework](https://www.loverslab.com/files/file/20058-sexlab-se-sex-animation-framework-v166-12052023/)           | Download `SexLabFrameworkAE_v166b.7z`                      |
 | [Simple Slavery Plus Plus](https://www.loverslab.com/files/file/13531-simple-slavery-plus-plus/)                          | Download `Simple Slavery Plus Plus 6.3.21 [SE].zip`       |
 | [Skooma Whore - Addicted](https://www.loverslab.com/files/file/2229-skooma-whore-addicted/)                               | Download `SLSW Addicted 3.70 SE-LE.7z` and `Skooma Whore Patch V1.04 SE.7z`    |
 | [Skooma Whore SE](https://www.loverslab.com/files/file/10093-skooma-whore-se/)                                            | Press download                                            |
@@ -80,12 +80,12 @@ Even if you are not a fan of some creature mods, you need to download them. They
 | [SexLab Animation Loader SE](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/)                      | Press download                                            |
 | [SexLab Cum Textures Remake](https://www.loverslab.com/files/file/2968-sexlab-cum-textures-remake-slavetats/)             | Download `SlaveTats CumTextures Remake v1.2.5.7z`         |
 | [SexLab - Drunk Redux](https://www.loverslab.com/files/file/11310-sexlab-drunk-redux/)                                    | Download `SLDrunkRedux v1.3.7z`                           |
-| [SexLab - Widgets](https://www.loverslab.com/files/file/19148-sl-widgets/)                                                | Download `SLWidgets 2.0.9 (SE).zip`                       |
+| [SexLab - Widgets](https://www.loverslab.com/files/file/19148-sl-widgets/)                                                | Download `SLWidgets 2.0.15 (SE).zip`                       |
 | [LLAPC - LoversLab Attachment Patch Compendium](https://www.loverslab.com/files/file/18156-llapc-loverslab-attachment-patch-compendium/)    | Download `SOS - Futanari - Patch for CBBE SE Femenine Argonian Textures (Lizard ONLY).7z` and `SOS - Futanari - Patch for CBBE SE Femenine Khajiit Textures (Gray Cat ONLY).7z` |
 | [SOS - Futanari Addon - CBBE](https://www.loverslab.com/files/file/11344-sos-addon-futanari-cbbe-sse/)                    | Press download                                            |
 | [SOS Female Schlongifier No Schlong](https://www.loverslab.com/files/file/1699-sos-female-schlongifier-no-schlong-addon/) | Press download                                            |
 | [Submissive Lola: The Resubmission](https://www.loverslab.com/files/file/15346-submissive-lola-the-resubmission-lese)     | Download `SubmissiveLolaResubmission 2.1.2.7z`            |
 | [The Ancient Profession](https://www.loverslab.com/files/file/11556-the-ancient-profession-2023-11-14/)                    | Download  `The Ancient Profession Release 15.7z`                |
-| [TAP Interiors](https://www.loverslab.com/files/file/22844-the-ancient-profession-interiors/)                             | Download `TAP Interiors 1.6.rar`                        |
+| [TAP Interiors](https://www.loverslab.com/files/file/22844-the-ancient-profession-interiors/)                             | Download `TAP Interiors 1.7.rar`                        |
 | [TRX - Futanari Addon](https://www.loverslab.com/files/file/19039-trx-futanari-addon-wip/)                                | Download `TRX - Futanari Addon124.7z`                     |
 | [TRX - SOS Addon Male](https://www.loverslab.com/files/file/20871-trx-sos-addon-male/)                                    | Press download                                            |
