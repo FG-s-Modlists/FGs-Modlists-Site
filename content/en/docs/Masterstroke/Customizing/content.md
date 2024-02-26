@@ -40,7 +40,7 @@ Various other tweaks can be applied to Masterstroke depending on your preference
 The lightsource can be modified safely to be brighter or less bright.
 
 ### Hotkeys
-You should refer to the [Masterstroke Keymap](http://www.keyboard-layout-editor.com/#/gists/0cd559c4d9f1a88b965b552e961a906c) before changing hotkeys, but the hotkeys can be reassigned freely.
+You should refer to the [Masterstroke Keymap](http://www.keyboard-layout-editor.com/#/gists/bec34d6850a407b1ac17898372f49797) before changing hotkeys, but the hotkeys can be reassigned freely.
 
 ### SmoothCam Preset
 You can safely change the SmoothCam preset in this mod's MCM if you do not like the default preset. You can and should experiment to see which camera variant you like best.
