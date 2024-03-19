@@ -7,6 +7,30 @@ weight: 100
 description: >
   The SSEE changelog.
 ---
+### 3/18/2024 1.2.0
+#### Minor
+- Mod Updates
+    - Mod Organizer 2
+    - SKSE
+    - Papyrus Extender
+    - Spell Perk Item Distributor
+    - Keyword Item Distributor
+    - Base Object Swapper
+    - Sound Record Distributor
+    - Faster HDT-SMP (Also added install options used as a note)
+    - Open Animation Replacer
+    - ScaleForm Translation Plus Plus NG
+    - Assorted Mesh Fixes
+    - DynDOLOD Resources SE
+    - DynDOLOD & TexGen
+- Additions
+    - Backported Extended ESL Support
+    - Bethesda Plugin Manager for Mod Organizer
+    - The Cleansing of the Creation Club
+- Removals
+    - All ENB files and ENB Organizer
+    - ENB Input Disabler
+    - SkyUI Flashing Save Game Fix (Included in Cleansing of the Creation Club mod)
 
 ### 7/23/2023 1.1.0
 #### Minor
