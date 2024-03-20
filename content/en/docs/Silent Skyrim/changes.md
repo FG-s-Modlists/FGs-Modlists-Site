@@ -13,6 +13,8 @@ description: >
 - Fixes
   - Possibly fixed saves being unloadable after a certain amount of playtime (again)
   - Fixed foraged food items causing a CTD
+- Removals
+  - Molag Bal's Inferno
 
 ### 7/29/2023 0.0.8 Beta 3
 #### Incremental
