@@ -8,6 +8,31 @@ description: >
   The Masterstroke changelog.
 ---
 
+### 3/21/2024 1.10.1
+#### Incremental
+- Bug Fixes
+  - Fixed incorrect Experience INI values
+  - **[86azb58u4]** Fixed interact key no longer working after certain defeat scenes
+  - **[86azbpmwf]** Fixed body paints not loading properly
+  - **[86azb3pdm]** Fixed TK Dodge key not working
+  - **[86azb5473]** Fixed being unable to adjust schlong size
+  - **[86azb53jp]** Fixed "autosave" message appearing
+  - **[86azcjz1m]** Fixed Serana's form reverting during scenes
+  - **[86azczj6g]** Fixed random CTDs caused by Scaleform Translation Plus Plus NG
+- Mod Updates
+  - Submissive Lola Resubmission 2.1.3 -> 2.1.4
+  - TAP Interiors 1.7 -> 1.8
+  - Baka Motion Data Pack 1.40 -> 1.50
+- Additions
+  - Infinity UI
+  - Compass Navigation Overhaul
+  - Universal Cured Serana Eye Fix
+- Replacements
+  - Scaleform Translation Plus Plus NG -> Scaleform Translation Plus Plus NG - Updated
+- Removals
+  - Heat and Hunger
+  - TK Dodge RE
+
 ### 2/13/2024 1.10.0 
 #### Minor
 - Bug Fixes
