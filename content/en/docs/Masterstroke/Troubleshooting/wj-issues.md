@@ -14,6 +14,13 @@ Some downloads that commonly fail but do not usually require a list update are l
 
 Otherwise, wait for an update to the list. The long answer is you can try to install the missing mods manually if the files are still available on the Nexus, but again, do not ask for anyone to share old files. I work a full-time job in addition to several other personal projects, of which Masterstroke is just one. If installs are failing, I will try to update as quickly as possible but sometimes it may be a couple of days before I can get to it.
 
+### "A *lot* of Nexus Mods downloads failed."
+
+Please click the gear icon in the top right of the Wabbajack window.
+Click Logout next to the Nexus Mods section, then log back in using the Login button. Close Wabbajack and restart it.
+Attempt to install the list again (using the Install From Disk option from the main menu is generally fastest).
+
+
 ### "Barbarian Bodypaints - Racemenu Body and Head Overlays for UUNP CBBE and Males fails to download"
 
 Download the file from the link provided here: [Barbarian Bodypaints - Racemenu Body and Head Overlays for UUNP CBBE and Males](https://drive.google.com/uc?id=1K0c3czPfsBdhRHdXUJlIYQdErqIrp7Cd)
@@ -29,7 +36,7 @@ If MEGA downloads are either not downloading correctly or are frozen on the comp
 
 ### "Community Overlays 1 - CBBE Male and Female Repackage fails to download."
 
-Download the file from the link provided here: [Community Overlays 1](https://drive.google.com/file/d/1jHzXv8VC6fF9pGHbKlkitCE8UK-p-vX9/view) and place it in your Masterstroke download folder, then restart the install process.
+Download the file from the link provided here: [Community Overlays 1](https://drive.google.com/file/d/1vu0O6eTru5kZPe-6pWDjfCXoN2n8uh67/view) and place it in your Masterstroke download folder, then restart the install process.
 
 ### "Core Masterstroke Files are failling to download."
 
